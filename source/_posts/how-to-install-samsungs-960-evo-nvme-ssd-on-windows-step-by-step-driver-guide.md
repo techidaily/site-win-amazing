@@ -1,7 +1,7 @@
 ---
 title: How to Install Samsung's 960 EVO NVMe SSD on Windows - Step-by-Step Driver Guide
-date: 2024-08-04 18:56:31
-updated: 2024-08-06 10:25:32
+date: 2024-08-06T09:13:36.352Z
+updated: 2024-08-07T09:13:36.352Z
 tags:
   - win11
   - win10
@@ -15,16 +15,25 @@ thumbnail: https://thmb.techidaily.com/95080ee1192e9ec99602ccecb30de670936b2e86c
 
 ## Install New Drivers for Your HP Scanjet on Windows - Step-by-Step Download Tutorial
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_11-21-24-2.jpg)
 
  Can’t get your new**HP Scanjet** working? Or maybe you’d like to improve the performance of your HP Scanjet? If yes, then you should check or update the driver for your scanner.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Why you need to update your driver
 
  Drivers are essential to the computer. They function as a bridge between your devices and the computer. Without them, there’s a high chance your devices won’t work as expected.
 
  Driver updates often feature some major bug fixes and performance boost, that’s why we recommend you to update your driver.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ## How to download and update your HP Scanjet driver
 
 Here’re 2 ways you can download and update your HP Scanjet driver:
@@ -32,6 +41,9 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 1. **[Download the HP Scanjet driver manually](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Download and update the HP Scanjet driver automatically (Recommended)](https://www.drivereasy.com/knowledge/hp-scanjet-drivers-download-and-update-on-windows/#option2)**
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 1: Download the HP Scanjet driver manually
 
  Manufacturers always release the drivers for their product on the**official website** . So, to manually install/update the driver for HP Scanjet, follow these steps:
@@ -42,6 +54,9 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
  2) In the row containing your model, click the**rightmost link** to enter the download page.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-23-46-1200x727.jpg)
 
  3) If you aren’t using Windows 10 64-bit,**choose your OS** first.
@@ -56,6 +71,9 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
  When you complete the installation process, connect your HP Scanjet to the computer and see if it’s running.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 2: Download and update the HP Scanjet driver automatically (Recommended)
 
  1)**Connect** HP Scanjet to your computer.

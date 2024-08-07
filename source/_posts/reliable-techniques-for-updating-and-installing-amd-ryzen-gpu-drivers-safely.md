@@ -1,7 +1,7 @@
 ---
 title: Reliable Techniques for Updating & Installing AMD Ryzen GPU Drivers Safely
-date: 2024-08-05 13:41:39
-updated: 2024-08-07 10:40:21
+date: 2024-08-06T09:13:39.658Z
+updated: 2024-08-07T09:13:39.658Z
 tags:
   - win11
   - win10
@@ -15,10 +15,16 @@ thumbnail: https://thmb.techidaily.com/6751e55bdf4c2e1662ce3bd78f4508fbf0de25f71
 
 ## Update or Install? Secure the Newest AMD SMBus Drivers in a Flash
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56fa1540bd0.jpg)
 
  If you see **Advanced Micro Devices, Inc driver update for AMD SMBus** in Windows Update, just**DON’T** install the update via Windows Update. Since it could very well just fail and cause further problems . Here we show you 2 safe and easy options to**update your AMD SMBus driver** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## 2 options to update AMD SMBus drivers
 
 1. **[Update your AMD SMBus driver automatically (Recommended)](https://www.drivereasy.com/knowledge/advanced-micro-devices-inc-driver-update-for-amd-smbus-solved/#O1)**
@@ -38,12 +44,18 @@ thumbnail: https://thmb.techidaily.com/6751e55bdf4c2e1662ce3bd78f4508fbf0de25f71
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3da218d4356.jpg)  
  You can click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ### Option 2: Update your**AMD** **SMBus**  driver manually
 
 **Warning** : Downloading the wrong driver or installing it incorrectly can compromise your PC’s stability and even cause the whole system to crash. So please proceed at your own peril.
@@ -52,8 +64,14 @@ thumbnail: https://thmb.techidaily.com/6751e55bdf4c2e1662ce3bd78f4508fbf0de25f71
 
 1. Go to **[AMD’s official website](https://www.amd.com/en)**  .
 2. Click**DRIVERS & SUPPORT** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b174777cee5f.jpg)
 3. Under **Latest AMD Drivers and Software** , locate **AMD Chipset, AHCI, USB 3.0 and RAID Drivers** , click**the bit version** that corresponds with**your own Windows OS** (even if you’re using the**AMD X399 Chipset** ).  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b174e63eec18.png)
 4. Click**DOWNLOAD** in the first result to make sure you download the latest**AMD Chipset** **Drivers** version.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b174cf9e1f05.png)

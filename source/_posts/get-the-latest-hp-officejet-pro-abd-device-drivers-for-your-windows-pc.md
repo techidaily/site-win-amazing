@@ -1,7 +1,7 @@
 ---
 title: Get the Latest HP OfficeJet Pro Abd Device Drivers for Your Windows PC
-date: 2024-08-04 10:22:10
-updated: 2024-08-06 11:11:48
+date: 2024-08-06T09:13:54.443Z
+updated: 2024-08-07T09:13:54.443Z
 tags:
   - win11
   - win10
@@ -26,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 1. **[Download HP OfficeJet 6970 Pro driver manually](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Update HP OfficeJet 6970 Pro driver automatically](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Download HP OfficeJet 6970 Pro driver manually
 
  The HP manufacturer provides the driver software for their printers, so you can manually download the printer driver you need from the HP support website.
@@ -36,14 +39,28 @@ Here’s what you need to do:
 
  2) Type**OfficeJet Pro 6970** in the search box and choose**HP OfficeJet Pro 6970 All-in-One Printer series** in the drop-down list. Then the support page for this printer will open.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-263.png)
 
  3) Click**Software, Drivers and Firmware** on the left.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-265.png)
 
  4) You’ll see the driver download list. Click the**Download** button under the recommended driver.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-266.png)
 
  5) Once downloaded, double click the file and follow the on-screen instructions to finish the installation.
@@ -52,6 +69,9 @@ Here’s what you need to do:
 
  If this method doesn’t work for you, don’t worry. Move on to the next method.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### Method 2: Update HP OfficeJet 6970 Pro driver automatically
 
  If you don’t have the time, patience, or computer skills, you can update your HP OfficeJet 6970 Pro driver automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -70,6 +90,9 @@ Here’s what you need to do:
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or outdated on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – You’ll be prompted to upgrade when you click**Update All** ).
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-270.png)
 
 4) Once updated, restart your computer to take effect.

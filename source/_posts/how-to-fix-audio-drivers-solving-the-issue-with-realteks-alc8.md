@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Audio Drivers: Solving the Issue with Realtek's ALC8"
-date: 2024-08-06 15:27:51
-updated: 2024-08-07 11:55:31
+date: 2024-08-06T09:13:45.497Z
+updated: 2024-08-07T09:13:45.497Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
  The **igfxEM Module has stopped working** error is often caused by the corrupt or incompatible Intel graphics driver on your computer. So you should**update your Intel graphics driver** to resolved the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## To solve the **igfxEM Module has stopped working issue**
 
 1. [**Update your Intel graphics card driver automatically (Recommended)**](https://www.drivereasy.com/knowledge/igfxem-module-has-stopped-working-solved/#M1)
@@ -38,10 +41,16 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2f377bbd22.jpg)
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1768fa40604.jpg)
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -55,16 +64,25 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 **Warning** : Downloading the wrong driver or installing it incorrectly will compromise your PC’s stability and even cause the whole system to crash. So please proceed at your own peril.
 
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Locate and double-click on**Display adapters** (aka.**Graphics card** , **Video card** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20944f17aad.jpg)
 3. Right-click on **your flavor** of**Intel graphics card driver** (**Intel(R) HD Graphics 4000** , in my case) and click**Update driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2095e8d1edc.jpg)
 4. Click **Search automatically for updated driver software** .  
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b20963695fae.jpg)
 5. Depending on whether Windows provides you a driver update:  
    * If **yes** , then follow the on-screen instructions to update the driver and skip the rest of the steps. Then restart your computer for the changes to take effect.  
    * If **no** , and instead you got the message **The best drivers for your device already installed** , then you might have to continue with the following steps.**CLEARLY** the message isn’t true and Windows can fail its job in keeping up with the manufacturer’s latest graphics drivers (**hence the error igfxEM Module has stopped working** ).  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2f2d5dc1ef.jpg)
 6. Go to**Intel’s official website** , check out the**Support** section for driver downloads.
 7. Enter**the model** of your Intel graphics card and search for results.

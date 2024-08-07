@@ -1,7 +1,7 @@
 ---
 title: "Ensure Smooth Printing on Your PC: Download Windows Drivers for HP Laserjet Pro P1102w"
-date: 2024-08-05 17:12:46
-updated: 2024-08-07 11:31:12
+date: 2024-08-06T09:13:53.417Z
+updated: 2024-08-07T09:13:53.417Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ If you’re having a problem with your**Broadcom Bluetooth driver** in your comp
 
  As you may have already known, Broadcom Bluetooth drivers for Windows are not available anymore on Broadcom website, so you should update the Broadcom Bluetooth driver by installing the Windows updates. The drivers updates are not always downloaded automatically by Windows Update. So we provide these two ways to download and install the Broadcom Bluetooth driver for Windows 10, Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
 1. [Download and install Broadcom Bluetooth driver manually](https://tools.techidaily.com/drivereasy/download/)
@@ -26,6 +29,9 @@ If you’re having a problem with your**Broadcom Bluetooth driver** in your comp
 
  Note: the screenshots below come from Windows 10, but the fixes also work on Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## What is the Broadcom Bluetooth driver?
 
  Broadcom Bluetooth is a simple and easy-to-use Bluetooth program from Broadcom, providing enhanced data rates. The Broadcom Bluetooth driver offers support for any Broadcom device installed in Windows 10, Windows 8.1, Windows 8, Windows 7, and Windows XP.
@@ -40,10 +46,17 @@ If you’re having a problem with your**Broadcom Bluetooth driver** in your comp
 
  2) Type**devmgmt.msc** and click**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aebfe5b3f345.png)
 
  3) In Device Manager, double click**Bluetooth** to expand it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aebfed6c2699.jpg)
 
  4) Right click your**Broadcom Bluetooth device** (it may be displayed as**Unknown device** ), and click**Update driver** .
@@ -74,12 +87,19 @@ If you’re having a problem with your**Broadcom Bluetooth driver** in your comp
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd74d18191.png)
 
  3) Click the**Update** button next to the flagged Bluetooth device to automatically download and install the correct version of that driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when your click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aec069258099.jpg)
 
 4) Restart your computer to make it take effect.

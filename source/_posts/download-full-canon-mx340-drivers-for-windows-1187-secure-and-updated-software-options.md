@@ -1,7 +1,7 @@
 ---
 title: Download Full Canon MX340 Drivers for Windows 11/8/7 - Secure & Updated Software Options
-date: 2024-08-05 20:17:45
-updated: 2024-08-07 10:50:41
+date: 2024-08-06T09:13:53.448Z
+updated: 2024-08-07T09:13:53.448Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/b2faccf55ba2f62eeda01fb2856eae6cf952310d8
 
 You have a Corsair gaming mouse but it doesn’t work properly. It could be frustrating, especially when you’re playing games. To make it work again, you can download and install the latest iCUE driver.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What’s iCUE?
 
  iCUE (Intelligent Corsair Utility Engine) is a Corsair interface. It’s a powerful, intelligent software which can connect all your compatible products together and let you control almost everything in a single interface.  
@@ -35,12 +38,18 @@ There are two ways to download iCUE.
 2. Click**DOWNLOAD NOW** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-10-14_14-49-22.jpg)
 3. Click**Or skip this step and start Download** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-10-14_14-51-06.jpg)
 4. Follow the instructions to finish the process.
 5. Open iCUE to control devices.
 
 ## iCUE won’t open?
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Change the folder location
 
 Some users had proven this method worked for them.
@@ -55,6 +64,9 @@ Some users had proven this method worked for them.
 
  If you met this issue after installing the latest version, try reinstall with the older version.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Download the older iCUE version
 
  Some users said they fixed the issue by reinstalling the previous version of iCUE.
@@ -72,6 +84,9 @@ e.g. downloads.corsair.com/Files/CUE/iCUESetup_3.32.80_release.msi
 
  Paste the link in the address bar and press**Enter** . You’re downloading that version of iCUE directly from Corsair.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus tip: Upgrade your PC drivers for better usage
 
  To get a better gaming and lighting experience, it’s very important to keep your drivers updated. There are two ways to upgrade your PC drivers.
@@ -90,6 +105,9 @@ e.g. downloads.corsair.com/Files/CUE/iCUESetup_3.32.80_release.msi
 
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-84.png)
 
  3) Click the **Update**  button next to the devices to automatically download the correct version of their drivers, then you can manually install the drivers (you can do this with the FREE version).

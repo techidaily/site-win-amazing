@@ -1,7 +1,7 @@
 ---
 title: Boost Gaming Performance with the Latest NVIDIA GTX amoDrivers for GeForce 1660 Ti
-date: 2024-08-04 12:20:44
-updated: 2024-08-07 11:24:30
+date: 2024-08-06T09:13:41.724Z
+updated: 2024-08-07T09:13:41.724Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5
 
 Looking to update your**Intel NUC drivers** ? If yes, then you’ve come to the right place. Finding the correct drivers online could be a hair-raising adventure, but with this tutorial you should be able to do that quite quickly and easily. Now let’s dive right in and see what’s what.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## How to update your**Intel NUC** drivers
 
 There’re mainly two options for you:
@@ -29,13 +32,22 @@ There’re mainly two options for you:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Option 1 – Update the drivers manually
 
  Intel keeps updating the NUC drivers. To get them, you need to visit the support website of Intel, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 10, 64 bit) and download the drivers manually. Follow these steps:
 
 1. Go to the **[Drivers & Software page](https://downloadcenter.intel.com/) [](https://www.asus.com/us/Motherboards/ROG-MAXIMUS-X-HERO/HelpDesk%5FDownload/)**  of Intel.
 2. Under**Select your product** , click**Intel NUC** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-21_17-44-31.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 3. On the next page, expand**View by product** and select your model. Go on to expand**Filter by** and select your operating system.![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-21_17-49-40.jpg)
 4. Then you’ll be presented with a list of available downloads. Take note of their type because only those classified as**Driver** should be your targets, unless you’re also looking for BIOS updates and the like.![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-21_18-10-18.jpg)
 5. Click on your desired driver. Then, click**Download** .![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-21_18-17-34.jpg)
@@ -55,8 +67,14 @@ There’re mainly two options for you:
  You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-21_18-23-33.jpg)
 3. Click the**Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-21_18-23-28.jpg)
 
  If you have any problem using Driver Easy to update your driver, please feel free to email us at**<support@drivereasy.com>** . We are always here if we can help.
