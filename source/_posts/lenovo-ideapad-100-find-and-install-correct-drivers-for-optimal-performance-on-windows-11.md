@@ -1,0 +1,148 @@
+---
+title: Lenovo IdeaPad 100 - Find & Install Correct Drivers for Optimal Performance on Windows 11
+date: 2024-08-13T09:51:47.645Z
+updated: 2024-08-14T09:51:47.645Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - DriverDownload
+description: This Article Describes Lenovo IdeaPad 100 - Find & Install Correct Drivers for Optimal Performance on Windows 11
+excerpt: This Article Describes Lenovo IdeaPad 100 - Find & Install Correct Drivers for Optimal Performance on Windows 11
+thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6156836ba9860fa44be8739e.jpg
+---
+
+## Seamless AMD Radeon RX 6800 Experience on Windows - Fresh Drivers for Win11, 10, 8 and 7
+
+![amd rx 6800 driver](https://images.drivereasy.com/wp-content/uploads/2020/12/feature-image-1.jpg)
+
+ Got a shiny new AMD RX 6800 graphics card and expect an ultimate gaming experience and flawless graphics display? If so, you need to keep your GPU driver up-to-date at all times. In this tutorial, you’ll explore two safe ways to update the AMD RX 6800 driver easily:
+
+**[Method 1 – Manually](https://tools.techidaily.com/drivereasy/download/)**
+
+ You need to find the exactly right driver online, download it, and install it step by step, which may require some computer skills and patience.
+
+OR
+
+**[Method 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/amd-rx-6800-driver-download-for-windows/#method2)**
+
+ This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+### Method 1 – Download and install the driver manually
+
+ To check for any updates of the AMD Radeon RX 6800 driver, you can head towards the download page of AMD, where new drivers are regularly rolled out for general improvement and bug fixes.
+
+If you have no idea how to do this, simply follow the steps below.
+
+1. Visit **[AMD’s support website](https://www.amd.com/en/support)**  .
+2. Scroll down to the search section, and choose**Graphics** \>**AMD Radeon 6000 Series** \>**AMD Radeon 6800 Series** \>**AMD Radeon 6800** . Then, click**Submit** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/a.jpg)
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+3. Select the correct operating system and click the**Download** button next to the driver or software.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/b.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
+4. Double-click the downloaded file and follow the on-screen instructions to install the driver.
+5. Reboot your computer for the changes to take effect.
+
+ If the process of manual driver update is too complex for you, there is an easier option below.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+### Method 2 – Download and install the driver automatically (Recommended)
+
+ If you don’t have the time, patience or computer skills to update your AMD RX 6800 driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  it takes just 2 clicks:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![amd 6800xt driver driver easy](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
+3. Click the **Update**  button next to the flagged AMD Radeon RX 6800 driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+ Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800-de-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ Restart your computer for the changes to take full effect, and the driver should be working without problems.
+
+---
+
+ Hopefully this post comes in handy when you update the AMD RX 6800 driver. If you have further questions or suggestions, feel free to leave a comment below and we’ll be glad to help.
+
+* [AMD](https://tools.techidaily.com/drivereasy/download/)
+* [Drivers](https://tools.techidaily.com/drivereasy/download/)
+* [graphics](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-perfect-your-tiktok-presence-with-siri-commands-and-features/"><u>[New] 2024 Approved  Perfect Your TikTok Presence with Siri Commands and Features</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unleashing-widespread-engagement-on-facebook-for-2024/"><u>[Updated] Unleashing Widespread Engagement on Facebook for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-premium-picks-the-very-best-tripods-for-sharp-4k-videos/"><u>2024 Approved  Premium Picks  The Very Best Tripods for Sharp 4K Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-simplified-steps-for-crafting-professional-srt-files/"><u>2024 Approved  Simplified Steps for Crafting Professional SRT Files</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-proper-way-to-link-zoom-and-your-gmail-accounts/"><u>2024 Approved  The Proper Way to Link Zoom and Your Gmail Accounts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-ultimate-guide-to-picture-purity-erasing-images-excesses/"><u>2024 Approved  The Ultimate Guide to Picture Purity  Erasing Images' Excesses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-high-res-video-leading-4k-conversion-tools/"><u>2024 Approved  Unlock High-Res Video  Leading 4K Conversion Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/asus-motherboard-driver-downloads-step-by-step-tutorial-for-windows-os/"><u>ASUS Motherboard Driver Downloads - Step-by-Step Tutorial for Windows OS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/asus-pce-ac56-driver-troubleshooting-effective-fixes-for-windows-operating-systems/"><u>ASUS PCE-AC56 Driver Troubleshooting: Effective Fixes for Windows Operating Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/asus-pce-ac68-wireless-network-card-freshly-released-driver-download-option/"><u>ASUS PCE-AC68 Wireless Network Card - Freshly Released Driver Download Option</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-driving-game-control-program-logitech-momopede-racer-hub-for-personal-computers/"><u>Download Driving Game Control Program: Logitech Momopede Racer Hub for Personal Computers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-hp-m45n-color-laserjet-printer-driver-for-improved-performance/"><u>Download the Latest HP M45n Color LaserJet Printer Driver for Improved Performance</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easily-install-your-logitech-brio-camera-on-windows-drivers-available-here/"><u>Easily Install Your Logitech BRIO Camera on Windows - Drivers Available Here!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-canon-pro-100-printer-setup-for-windows-the-quick-guide/"><u>Easy Canon PRO 100 Printer Setup for Windows: The Quick Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-download-and-update-for-windows-bluetooth-dongle-driver-suite/"><u>Easy Download & Update for Windows Bluetooth Dongle Driver Suite</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-install-perfectv39-driver-setup-for-windows-7810-users-by-epson/"><u>Easy Install: PerfectV39 Driver Setup for Windows 7/8/10 Users by Epson</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-amd-ati-radeon-hd-3450-latest-drivers-and-updates/"><u>Effortless Installation: AMD ATI Radeon HD 3450 Latest Drivers and Updates</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-11-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 11 with iTunes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-back-on-track-overcoming-destiny-2s-voice-chat-malfunctions/"><u>Get Back on Track: Overcoming Destiny 2'S Voice Chat Malfunctions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978711216-get-the-newest-epson-tm-t88v-windows-driver-software-here/"><u>Get the Newest EPSON TM-T88v Windows Driver Software Here</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-up-and-running-quick-driver-install-for-intel-ac-3160-dual-band-router/"><u>Get Up and Running: Quick Driver Install for Intel AC 3160 Dual Band Router</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-hands-on-the-official-epson-wf-2630-drivers-windows-7-81-and-10-compatible/"><u>Get Your Hands on the Official Epson WF 2630 Drivers: Windows 7, 8.1 & 10 Compatible</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-honor-magic-5-pro-by-drfone-android/"><u>How to Bypass FRP from Honor Magic 5 Pro?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-repair-connection-problems-between-your-lg-peripheral-and-windows-pc/"><u>How to Repair Connection Problems Between Your LG Peripheral and Windows PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-p1006-driver-software-installation-and-download-instructions/"><u>HP P1006 Driver Software: Installation & Download Instructions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-scanjet-drivers-update-improve-your-printers-functionality-across-multiple-windows-versions/"><u>HP Scanjet Drivers Update: Improve Your Printer's Functionality Across Multiple Windows Versions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unfailing-focus-top-tripods-for-iphone-and-android-cameras/"><u>In 2024, Unfailing Focus  Top Tripods for iPhone & Android Cameras</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-driver-updates-revamping-your-cpu-drivers-on-microsoft-windows-efficiently/"><u>Mastering Driver Updates: Revamping Your CPU Drivers on Microsoft Windows Efficiently</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/overcoming-windows-driver-issues-with-the-hp-laserjet-p2035-a-users-manual/"><u>Overcoming Windows Driver Issues with the HP LaserJet P2035: A User's Manual</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975148886-seamlessly-connect-your-devices-with-techkey-bluetooth-driver-software-windows-10-7-and-8-free-downloads-inside/"><u>Seamlessly Connect Your Devices with Techkey Bluetooth Driver Software (Windows 10, 7 & #8) - Free Downloads Inside</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/solve-your-xbox-controller-device-driver-troubles-on-windows-1187-systems/"><u>Solve Your Xbox Controller Device Driver Troubles on Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-ce-34878-0-issue-on-your-playstation-4-a-step-by-step-guide/"><u>Solving the CE-34878-0 Issue on Your PlayStation 4: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-samsung-galaxy-z-flip-5-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Samsung Galaxy Z Flip 5 FRP</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-or-install-wifi-card-drivers-realtek-rtl81cu-compatible-with-windows-711/"><u>Update or Install WiFi Card Drivers: Realtek RTL81#CU Compatible with Windows 7/11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-epson-scanner-essential-driver-software-download-options/"><u>Update Your Epson Scanner: Essential Driver Software Download Options</u></a></li>
+</ul></div>
