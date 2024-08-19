@@ -1,7 +1,7 @@
 ---
 title: Ductility Measures a Material's Ability to Deform Plastically Before Rupture, Indicated by Elongation or Area Reduction.
-date: 2024-08-06T09:13:58.392Z
-updated: 2024-08-07T09:13:58.392Z
+date: 2024-08-18T13:23:18.187Z
+updated: 2024-08-19T13:23:18.187Z
 tags:
   - win11
   - win10
@@ -101,3 +101,69 @@ _You can do it for free if you like, but it’s partly manual._
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-accessing-and-saving-fb-stories-made-simple-5-top-tactics-mobiledesktop/"><u>[New] Accessing & Saving FB Stories Made Simple  5 Top Tactics (Mobile/Desktop)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-ultimate-workflow-for-embedding-subtitle-track-in-mp4s/"><u>[New] In 2024, Ultimate Workflow for Embedding Subtitle Track in MP4s</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-focus-and-depth-with-videoleaps-zoom-feature/"><u>[New] Mastering Focus and Depth with Videoleap's Zoom Feature</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-webcam-safety-essentials-the-best-covers-ranked/"><u>[New] Webcam Safety Essentials  The Best Covers Ranked</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-mastering-facebook-livestreams-four-easy-steps/"><u>[Updated] 2024 Approved  Mastering Facebook Livestreams  Four Easy Steps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-unveiling-the-5-prized-webcams-for-ultimate-game-broadcasting/"><u>[Updated] In 2024, Unveiling the 5 Prized Webcams for Ultimate Game Broadcasting</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-mobile-asmr-must-have-apps/"><u>[Updated] Mastering Mobile ASMR  Must-Have Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-methods-for-rolling-macos-sierra-back-to-el-capitan/"><u>[Updated] Methods for Rolling MacOS Sierra Back to El Capitan</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-mastering-the-art-of-real-time-photography-on-google-meet/"><u>2024 Approved  Mastering the Art of Real-Time Photography on Google Meet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-stars-staggering-fortune-from-youtube-success-for-2024/"><u>Child Star's Staggering Fortune From YouTube Success for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-walkthrough-fresh-nvme-drivers-download-and-installation-on-windows/"><u>Complete Walkthrough: Fresh NVMe Drivers Download & Installation on Windows</u></a></li>
+<li><a href="https://article-posts.techidaily.com/crafting-engaging-storytelling-podcasts-with-applee-devices-for-2024/"><u>Crafting Engaging Storytelling Podcasts with Apple'e Devices for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-most-recent-windows-improvements-and-fixes-july-2024-edition/"><u>Discover the Most Recent Windows Improvements & Fixes - July 2024 Edition</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-upgrade-latest-lenovo-thinkpad-t420s-drivers-compatible-with-windows-11/"><u>Download & Upgrade: Latest Lenovo ThinkPad T420s Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-correct-driver-for-your-epson-perfection-v500-scanner-and-printer/"><u>Download the Correct Driver for Your Epson Perfection V500 Scanner and Printer</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975593882-download-the-latest-hp-photosmart-7520-printer-software-today/"><u>Download the Latest HP Photosmart 7520 Printer Software Today!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-getting-the-latest-amd-ati-radeon-hd-3450-graphics-card-drivers/"><u>Easy Guide: Getting the Latest AMD ATI Radeon HD 3450 Graphics Card Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-guide-to-downloading-logitech-software-on-pcs/"><u>Effortless Guide to Downloading Logitech Software on PCs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhancing-print-quality-updating-the-driver-of-your-epson-wf-7720-printer-for-windows/"><u>Enhancing Print Quality: Updating the Driver of Your Epson WF-7720 Printer for Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/essential-iphone-drivers-for-windows-10-users-download-installation-tips/"><u>Essential iPhone Drivers for Windows 10 Users: Download, Installation Tips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/expert-tips-overcoming-startech-hardware-compatibility-challenges-in-windows-11-8-and-e7-systems/"><u>Expert Tips: Overcoming StarTech Hardware Compatibility Challenges in Windows 11, 8 & E7 Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-install-modern-nvidia-geforce-gtx-1050-drivers-comprehensive-guide-for-free/"><u>Find & Install Modern Nvidia Geforce GTX 1050 Drivers: Comprehensive Guide for Free!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-access-to-the-m-audio-fast-track-ultra-driver-enhance-your-setup-today/"><u>Free Access to the M-Audio Fast Track Ultra Driver - Enhance Your Setup Today!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-driver-software-for-creative-sound-blaster-recon3d-speakers-and-headsets/"><u>Free Driver Software for Creative Sound Blaster Recon3D Speakers and Headsets</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/freshest-version-of-dells-wi-fi-driver-for-seamless-connectivity-in-windows-7-systems/"><u>Freshest Version of Dell's Wi-Fi Driver for Seamless Connectivity in Windows 7 Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-amd-smbus-drivers-swift-and-straightforward-installation-guide/"><u>Get the Latest AMD SMBus Drivers - Swift and Straightforward Installation Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-dell-wd19-hard-drive-drivers-here/"><u>Get the Latest Dell WD19 Hard Drive Drivers Here!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-epson-wf-1077-drivers-for-windows-pcs-windows-108187-supported/"><u>Get the Latest Epson WF-1077 Drivers for Windows PCs (Windows 10/8.1/8/7 Supported)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-epson-xp-245-up-and-running-on-windows-by-downloading-the-right-drivers/"><u>Get Your Epson XP-245 Up and Running on Windows by Downloading the Right Drivers!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-does-biometric-authentication-work/"><u>How Does Biometric Authentication Work?</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 Plus To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-and-install-thunderbolt-3-drivers-for-your-windows-11-8-or-7-system/"><u>How to Update & Install Thunderbolt 3 Drivers for Your Windows 11, 8 or 7 System</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-elevate-your-videos-with-complimentary-banners-here/"><u>In 2024, Elevate Your Videos with Complimentary Banners, Here</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-essential-tech-for-new-channel-launches/"><u>In 2024, Essential Tech for New Channel Launches</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-from-airwaves-to-files-online-audio-capture-basics/"><u>In 2024, From Airwaves to Files  Online Audio Capture Basics</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-realme-narzo-n55-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Realme Narzo N55 for Free? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-pro-convert-solutions-efficient-ytvideo-to-text-converters/"><u>In 2024, Pro Convert Solutions  Efficient YTVideo to Text Converters</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-samsung-galaxy-f04-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Samsung Galaxy F04 FRP</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-textual-amplification-for-igtv-broadcasts/"><u>In 2024, Textual Amplification for IGTV Broadcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-finest-videography-tools/"><u>In 2024, The Finest Videography Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-whats-new-on-facebook-an-updated-look/"><u>In 2024, What's New on Facebook - An Updated Look</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-official-dell-ethernet-driver-on-your-windows-7-system-now/"><u>Install Official Dell Ethernet Driver on Your Windows 지원 7 System Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installing-the-official-drivers-for-your-epson-wf-2750-printer/"><u>Installing the Official Drivers for Your Epson WF-2750 Printer</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/logitech-g502-gaming-mouse-troubleshooting-and-updating-drivers-made-simple/"><u>Logitech G502 Gaming Mouse: Troubleshooting & Updating Drivers Made Simple</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-intel-nuc-drivers-swift-and-effortless-upgrades-to-maximize-system-speed/"><u>Mastering Intel NUC Drivers: Swift & Effortless Upgrades to Maximize System Speed</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mediatek-chipset-fast-download-of-usb-vcom-drivers/"><u>MediaTek Chipset - Fast Download of USB VCOM Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/optimize-screen-quality-a-guide-to-installing-new-drivers-for-samsung-monitors-on-windows/"><u>Optimize Screen Quality: A Guide to Installing New Drivers for Samsung Monitors on Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/optimize-your-screen-connection-download-updated-targus-displaylink-drivers-for-older-windows-versions/"><u>Optimize Your Screen Connection: Download Updated Targus DisplayLink Drivers for Older Windows Versions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721433275299-protecting-your-mac-ignore-chatgpt-apps/"><u>Protecting Your Mac? Ignore ChatGPT Apps</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-guide-to-downloading-router-drivers-for-seamless-connectivity/"><u>Quick Guide to Downloading Router Drivers for Seamless Connectivity</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-guide-installing-free-asrock-ab350-pro4-drivers-on-your-pcs-operating-system/"><u>Quick Guide: Installing Free Asrock AB350 Pro4 Drivers on Your PC's Operating System.</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/solved-excel-2003-spreadsheet-disappears-after-opening-by-stellar-guide/"><u>Solved Excel 2003 Spreadsheet Disappears after Opening</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-finding-and-updating-your-zebra-zp450-printers-software-with-ease/"><u>Step by Step: Finding and Updating Your Zebra ZP450 Printer's Software with Ease</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-your-dell-camera-drivers-properly/"><u>Step-by-Step Guide: Updating Your Dell Camera Drivers Properly</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/streamlined-guide-to-fresh-dell-printer-driver-downloads-and-upgrades/"><u>Streamlined Guide to Fresh Dell Printer Driver Downloads and Upgrades</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/successful-installation-guide-huion-tablet-software-updates-and-downloads-for-pc/"><u>Successful Installation Guide: Huion Tablet Software Updates & Downloads for PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshoot-and-enhance-your-windows-eb-experience-get-the-latest-usb-c-driver-downloads-here/"><u>Troubleshoot & Enhance Your Windows Eb Experience – Get the Latest USB-C Driver Downloads Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-persistent-freezing-issues-in-ascent-pc-version/"><u>Troubleshooting Steps for Persistent Freezing Issues in 'Ascent' PC Version</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-intel-nuc-drivers-instantly-with-these-easy-techniques/"><u>Update Your Intel NUC Drivers Instantly with These Easy Techniques</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updated-guide-how-to-install-broadcom-bluetooth-driver-on-windows-11-8-or-groovy-7/"><u>Updated Guide: How to Install Broadcom Bluetooth Driver on Windows 11, 8 or Groovy 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/windows-compatible-driver-downloads-and-updates-for-your-hp-officejet-pro-8620-printer/"><u>Windows Compatible Driver Downloads and Updates for Your HP OfficeJet Pro #8620 Printer</u></a></li>
+</ul></div>
