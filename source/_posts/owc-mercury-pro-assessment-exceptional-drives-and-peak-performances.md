@@ -1,0 +1,212 @@
+---
+title: "OWC Mercury Pro Assessment: Exceptional Drives and Peak Performances"
+date: 2024-08-27T20:06:27.164Z
+updated: 2024-08-28T20:06:27.164Z
+categories:
+  - BestProducts
+description: "This Article Describes OWC Mercury Pro Assessment: Exceptional Drives and Peak Performances"
+excerpt: "This Article Describes OWC Mercury Pro Assessment: Exceptional Drives and Peak Performances"
+thumbnail: https://thmb.techidaily.com/b97d0ebad54511b61b45570cc2aa70ceb4b57e4382ef455cbbee6f6a39f5f377.jpg
+---
+
+## Regular Maintenance Is Essential to Prevent Wear and Ensure Efficient Operation
+
+4.8
+
+## Apple Watch Series 9 GPS + Cellular 45mm
+
+![Apple Watch Series 9 (front).](https://www.lifewire.com/thmb/WFGRUAsDxA0krS7sPX6WGqtdVbQ=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatchSeries9front-649521c98f4d421cad652d5c0d1230a4.jpg)
+
+Apple
+
+ My Favorite Things
+
+* Theater mode keeps the watch from lighting up at inopportune times
+* Apple Pay on your wrist is incredibly convenient
+* Fits securely and comfortably
+
+ Annoyances
+
+* Navigating through the list of apps gets annoying
+* Tedious to type messages (though I rarely feel the need to)
+
+ The Apple Watch 9 is comfortable, stylish, and has incredible battery life.
+
+[View On Amazon $457](https://www.amazon.com/Apple-Cellular-Smartwatch-Midnight-Aluminum/dp/B0CHXFH656?tag=lifewire-onsite-prod-20&ascsubtag=8415760%7Cne2a5ccc09be7443aa21b4e7b104026e418%7CB0CHXFH656) [View On Walmart $439](https://www.walmart.com/ip/Apple-Watch-Series-9-GPS-45mm-Pink-Aluminum-Case-with-Light-Pink-Sport-Band-S-M/5032289284) [View On Best Buy $429](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-series-9-gps-45mm-midnight-aluminum-case-with-midnight-sport-band-m-l-midnight%2F6340284.p%3FskuId%3D6340284)
+
+4.8
+
+## Apple Watch Series 9 GPS + Cellular 45mm
+
+![Apple Watch Series 9 (front).](https://www.lifewire.com/thmb/nPYphnTjSnL2fpeSHarRr-eDzuw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatchSeries9front-649521c98f4d421cad652d5c0d1230a4.jpg)
+
+Apple
+
+[View On Amazon $457](https://www.amazon.com/Apple-Cellular-Smartwatch-Midnight-Aluminum/dp/B0CHXFH656?tag=lifewire-onsite-prod-20&ascsubtag=8415760%7Cne2a5ccc09be7443aa21b4e7b104026e418%7CB0CHXFH656) [View On Walmart $439](https://www.walmart.com/ip/Apple-Watch-Series-9-GPS-45mm-Pink-Aluminum-Case-with-Light-Pink-Sport-Band-S-M/5032289284) [View On Best Buy $429](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-series-9-gps-45mm-midnight-aluminum-case-with-midnight-sport-band-m-l-midnight%2F6340284.p%3FskuId%3D6340284)
+
+ in this article
+
+ Expand
+
+* [Pricing and What's New](https://www.lifewire.com/#toc-pricing-and-whats-new)
+* [Theater Mode](https://www.lifewire.com/#toc-theater-mode)
+* [Fitness Tracking](https://www.lifewire.com/#toc-fitness-tracking)
+* [Who Should Buy It?](https://www.lifewire.com/#toc-who-should-buy-it)
+* [Specs](https://www.lifewire.com/#toc-full-spec)
+
+ I've worn the Apple Watch 9 every day since I received it in late September and have benefited from the Apple Watch since my husband bought the Series 7 in 2021, and we started going on daily walks.
+
+ It's nice to have my own. With an excellent battery, cool features, and a comfortable fit, the Apple Watch Series 9 is a great buy.
+
+![Apple Watch Series 9 on a wrist.](https://www.lifewire.com/thmb/-MmQLsH_4EYd8KhLmLkRZehkEQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatch9_wrist-69497d2de4864606b425effeba1dca5c.jpg)
+
+Lifewire/Molly McLaughlin
+
+ I haven't used many smartwatches, but I remember when a smartwatch wouldn't last through the day. Thankfully, that's not the case with the Series 9, which has yet to die on me (aside from when I unknowingly unplugged its charger right before bed).
+
+ It offers conveniences, too, not just "nice to haves," the top one being using Apple Pay at the register. (No fumbling around for my phone or wallet.) And using it to swipe onto the subway feels like a luxury.
+
+[How to Set Up Apple Watch](https://www.lifewire.com/set-up-apple-watch-4589317)
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Pricing and What's New
+
+ The Apple Watch Series 9 costs $399 for Wi-Fi only, the same as the Series 8 & 7\. To add Cellular, pricing starts at $499\. (I have the Apple Watch Series 9 GPS + Cellular 45mm.)
+
+ The last few models have had the same processor, but the Series 9 gets the S9 chip, which promises 30 percent more speed and all-day battery life.
+
+![Apple Watch Series 9 on a desk next to its charger.](https://www.lifewire.com/thmb/fnvFdlUB4ml_QaA-kIP14u1pQsU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatch9_withcharger-11e49fb444df404b834b2127b3ebcab0.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Lifewire/Molly McLaughlin
+
+ The display has double the brightness of the Series 8 and comes in a new pink color.
+
+ Apple released a new[Double Tap](https://www.lifewire.com/use-double-tap-on-apple-watch-7972025) gesture on the Series 9 and Ultra 2 that controls the primary button in an app without touching your watch. Tap your index finger and thumb twice to snooze alarms, stop timers, answer calls, and more.
+
+ It's a cool feature, though I often forget it's an option.
+
+[How to Use the Double Tap Gesture on Apple Watch](https://www.lifewire.com/use-double-tap-on-apple-watch-7972025)
+
+ Finally, if you lose your iPhone, you can ping it from your watch, showing you which direction to go and emitting haptic feedback when you get close. I haven't yet used this feature, but I will update this review when I do.
+
+[How to Ping Your iPhone From Your Apple Watch](https://www.lifewire.com/ping-iphone-from-apple-watch-7570320)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Theater Mode
+
+ One of my favorite features is Theater Mode, which prevents the screen from lighting up when you glance at it or receive a notification. It's perfect for the movies and theater, of course, but it also came in handy when I was recently on jury duty during the trial and needed to keep distractions to a minimum.
+
+![Apple Watch Theater Mode screen.](https://www.lifewire.com/thmb/q170D6_ERklcCxR3P_p6t13HV5E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AppleWatch9_theatermodeoffon-953887b5d6f547c1b334d7912aa139ac.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
+ It turns on silent mode and makes your Walkie-Talkie status unavailable, but you'll receive haptic notifications.  
+
+[Smart Watches & Wearables](https://www.lifewire.com/theater-mode-on-apple-watch-5115897)
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Fitness Tracking
+
+ I use the watch for fitness tracking and try to "close my rings" daily. After a few bike rides where my average speed was skewed because I forgot to pause or unpause the workout during or after a break, I was pleased to find that you can enable automatic pausing (auto-pause) for biking and running.
+
+ In my experience, the watch was quick to pause when I stopped at traffic lights and resume once I started moving again. (This is also helpful if you forget to end a workout.)
+
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Who Should Buy It?
+
+ If you have a Series 6 or older, it's worth moving up to the Series 9 as you're likely dealing with declining performance and a more easily depleted battery. The Series 9 costs the same as the Series 7 and 8, so there's little reason to purchase last year's model.
+
+ You can use your old watch bands and cases on a newer model, which is convenient.
+
+ On the other hand, if you have an Apple Watch Series 7 or later that works well and has a good battery, there's little reason to upgrade. (The Series 4 and newer watches are eligible for watchOS 10 if you have an iPhone XS or more recent.)
+
+ One thing to know is that if you get an Apple Watch, you should have an iPhone too. It doesn't play well with Android smartphones and won't pair over Bluetooth.
+
+[I Tried Both: Apple Watch Series 9 vs Fitbit Charge 6](https://www.lifewire.com/apple-watch-vs-fitbit-8650200)
+
+[Smart Watches & Wearables](https://www.lifewire.com/how-to-use-apple-watch-4584460)
+
+## Specs
+
+* Product Name  Watch Series 9 GPS + Cellular 45mm
+* Product Brand  Apple
+* Case Options  45mm and 41mm aluminum or stainless steel
+* Battery Life  Up to 18 hours (36 in Low Power Mode)
+* Processor  Apple S9
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-a-clearer-sight-youtube-watching-tweets-at-1080p/"><u>[Updated] 2024 Approved  A Clearer Sight  YouTube, Watching Tweets at 1080P</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-best-youtube-video-converters-for-high-quality-webm/"><u>[Updated] In 2024, Best YouTube Video Converters for High-Quality WebM</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-tailoring-video-content-for-igtv-with-horizontal-footage/"><u>[Updated] Tailoring Video Content for IGTV with Horizontal Footage</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-upscaling-your-youtube-visuals/"><u>2024 Approved  Upscaling Your YouTube Visuals</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/asus-vg248qe-driver-downloads-and-updates-for-windows-made-simple/"><u>Asus VG248QE: Driver Downloads and Updates for Windows Made Simple</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/bluetooth-device-connectivity-for-windows-msi-drivers-download-page/"><u>Bluetooth Device Connectivity for Windows: MSi Drivers Download Page</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/cutting-edge-fb-video-creators-20-free-apps-for-marketers-for-2024/"><u>Cutting-Edge FB Video Creators  20 Free Apps for Marketers for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-newest-drivers-rtx-2080-compatible-with-windows-11-7-and-8/"><u>Download Newest Drivers: RTX 2080 Compatible with Windows 11, 7 & 8</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-updated-rtx-2060-drivers-now-compatible-with-multiple-windows-oses-including-11-10-8-and-7/"><u>Download Updated RTX 2060 Drivers Now - Compatible with Multiple Windows OSes Including 11, 10, 8 & 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-epson-et-2750-windows-printer-drivers-download/"><u>Easy Installation Guide: Epson ET-2750 Windows Printer Drivers Download</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722966154753-easy-installation-scansnap-software-updates-and-drivers-for-windows-get-set-up-quick/"><u>Easy Installation: ScanSnap Software Updates and Drivers for Windows - Get Set Up Quick!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722969651955-efficient-troubleshooting-guide-for-logitech-c615-mouse-drivers-instantly-resolved/"><u>Efficient Troubleshooting Guide for Logitech C615 Mouse Drivers - Instantly Resolved!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722956966172-enhance-audio-quality-in-no-time-upgrade-to-the-newest-acer-driver/"><u>Enhance Audio Quality in No Time - Upgrade to the Newest Acer Driver</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/epson-tm-t88v-driver-upgrade-the-ultimate-guide-to-downloading-and-installing-for-windows-users/"><u>EPSON TM-T88V Driver Upgrade: The Ultimate Guide to Downloading and Installing for Windows Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-install-newest-kodak-printer-drivers-a-step-by-step-tutorial/"><u>Find & Install Newest Kodak Printer Drivers: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fixing-lg-monitor-drivers-in-windows-10-comprehensive-solutions/"><u>Fixing LG Monitor Drivers in Windows 10: Comprehensive Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978829900-get-free-steelseries-drivers-for-arctis-5-headsets-now/"><u>Get Free SteelSeries Drivers for Arctis 5 Headsets Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-amd-rx-5700-xt-graphics-card-driver-for-windows-operating-systems-111087/"><u>Get the Latest AMD RX 5700 XT Graphics Card Driver for Windows Operating Systems (11/10/8/7)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-hp-z440-workstation-graphics-driver-here/"><u>Get the Newest HP Z440 Workstation Graphics Driver Here</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-hp-pagewide-pro-477dw-drivers-update-now-for-windows-11-10-and-8-systems/"><u>Get Your HP PageWide Pro 477DW Drivers: Update Now For Windows 11, 10 and 8 Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-successfully-boot-armored-core-vi-fires-of-rubicon-without-errors/"><u>How to Successfully Boot Armored Core VI: Fires of Rubicon Without Errors?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-proportions-a-guide-to-video-aspect-ratios-for-2024/"><u>Ideal Proportions  A Guide to Video Aspect Ratios for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-nubia-z50s-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Nubia Z50S Pro without App | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-13-pro-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 13 Pro Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-vivo-v29-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo V29 Lock Screen Password</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-love-in-full-bloom-top-7-premium-marriage-films-from-youtube-and-vimeo/"><u>In 2024, Love in Full Bloom  Top 7 Premium Marriage Films From YouTube and Vimeo</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-key-to-infinite-entertainment-master-youtube-video-loops/"><u>In 2024, The Key to Infinite Entertainment  Master Youtube Video Loops</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-or-update-your-asus-dvd-playerwriter-drivers-easily/"><u>Install or Update Your ASUS DVD Player/Writer Drivers Easily</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-updated-asus-media-player-drivers-with-ease/"><u>Install Updated ASUS Media Player Drivers with Ease</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/instant-download-hp-envy-5055-driver-software-fast-and-easy-access/"><u>Instant Download: HP Envy 5055 Driver Software - Fast and Easy Access</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-intel-usb-30-software-compatible-with-windows-11-get-your-free-copy/"><u>Latest Intel USB 3.0 Software Compatible with Windows 11 - Get Your Free Copy!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/lenovo-x230-driver-downloads-made-easy-and-fast/"><u>Lenovo X230 Driver Downloads Made Easy & Fast</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-tech-discoveries-by-toms-gear-experts/"><u>Mastering Modern Tech: Discoveries by Tom's Gear Experts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/residence-refers-to-a-person/"><u>Residence' Refers to a Person</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-updating-your-dell-laptops-webcam-driver/"><u>Step-by-Step Guide: Updating Your Dell Laptop's Webcam Driver</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-to-update-and-download-windows-sata-controller-drivers/"><u>Step-By-Step Tutorial to Update & Download Windows SATA Controller Drivers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999652831-stop-sekiro-from-closing-unexpectedly-quick-solutions-inside/"><u>Stop Sekiro From Closing Unexpectedly - Quick Solutions Inside</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/0-speedy-rising-yt-spaces-for-cognitive-illumination-for-2024/"><u>The 10 Speedy Rising YT Spaces For Cognitive Illumination for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-simple-way-to-obtain-the-latest-amd-ryzen-driver-updates-and-ensure-reliability/"><u>The Simple Way to Obtain the Latest AMD Ryzen Driver Updates & Ensure Reliability</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/unlocking-enhanced-gaming-with-free-nvidia-3d-vision-drivers-for-windows-devices/"><u>Unlocking Enhanced Gaming with Free Nvidia 3D Vision Drivers for Windows Devices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updating-your-razer-blackwidow-drivers-made-simple-full-support-tutorial/"><u>Updating Your Razer BlackWidow Drivers Made Simple - Full Support Tutorial</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/windows-10-broadcom-gige-network-adapter-driver-download-and-installation-guide-solved/"><u>Windows 10 Broadcom GigE Network Adapter Driver Download & Installation Guide - Solved</u></a></li>
+</ul></div>
