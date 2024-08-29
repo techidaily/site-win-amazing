@@ -1,7 +1,7 @@
 ---
 title: Easy Techniques to Fabricate Sample Datasets Using Microsoft Excel
-date: 2024-08-27 17:18:25
-updated: 2024-08-29 10:47:37
+date: 2024-08-28T04:34:25.194Z
+updated: 2024-08-29T04:34:25.194Z
 tags:
   - excel
 categories:
@@ -28,6 +28,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
  From there, it's about adding the data you want and then doing a little cleanup.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ##  Adding Random Numbers
 
  To add an integer at random, we’ll use the "RANDBETWEEN" function. Here, we can specify a range of random numerals, in this case, a number from one to 1,000, then copy it to each cell in the column below it.
@@ -52,6 +55,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
     
 ![Excel random number formula](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/random-number-formula-copy-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
  Once done, you'll need to clean up the data just a little. Start by right-clicking inside the cell, and selecting "Format Cells."
 
 ![Excel format cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/format-2.png) 
@@ -60,6 +66,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Excel format currency](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/format-currency-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Adding Dates
 
  Excel's built-in calendar treats each date as a number, with the number one being January 1, 1900\. Finding the number for the date you need isn't so straightforward, but we've got you covered.
@@ -78,14 +99,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Excel highlight column](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/date-highlight-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Right-click and select "Format Cells" from the menu.
 
 ![Excel format cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/format-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
  From here, choose the "Date" option and then choose the format you prefer from the available list. Press "OK" once you're done (or "Enter" on the keyboard). Now, all of your random numbers should look like dates.
 
 ![Excel data format](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/date-format-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Adding Item Data
 
  Randomized data in Excel isn’t limited to just numbers or dates. Using the "VLOOKUP" feature, we can create a list of products, name it, then pull from it to create a randomized list in another column.
@@ -94,6 +124,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Excel columns and rows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/pet-store-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
  Next, we’ll highlight the entire column, right-click it, and select the “Define Name” option.
 
 ![Excel define name](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/define-name-2.png) 
@@ -112,6 +145,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
     
 ![Excel formula](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/pets-formula-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
  Click and drag the "+" sign at the bottom right of the cell to copy the data into additional cells below (or to the side).
 
 ![Excel copy data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/more-pets-2.png) 
@@ -132,3 +168,39 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-zap-extra-details-sharpen-logitech-webcam-recordings/"><u>[New] Zap Extra Details - Sharpen Logitech Webcam Recordings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-become-an-audio-trailblazer-exclusive-vocal-change-techniques-in-free-fire-free/"><u>[Updated] Become an Audio Trailblazer – Exclusive Vocal Change Techniques in Free Fire (Free)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-celebrating-the-greats-anime-opens-of-all-time/"><u>[Updated] Celebrating the Greats  Anime Opens of All Time</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-short-cuts-big-impact-top-editors-for-youtube-short-videos-on-mobile/"><u>[Updated] Short Cuts, Big Impact  Top Editors for YouTube Short Videos on Mobile</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-maximize-engagement-insider-secrets-to-youtube-seo/"><u>2024 Approved  Maximize Engagement  Insider Secrets to YouTube SEO</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/camera-drivers-download-and-install-for-windows-111087/"><u>Camera Drivers Download and Install for Windows 11/10/8/7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722954667002-compatible-with-windows-download-the-official-brother-hl-l234e0-dw-laser-printer-software-and-drivers-now/"><u>Compatible With Windows: Download the Official Brother HL-L234e0 DW Laser Printer Software and Drivers Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-logitech-drivers-for-windows-fast-and-simple-installation/"><u>Download Logitech Drivers for Windows - Fast and Simple Installation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-newest-generic-bluetooth-adapter-drivers-for-windows-systems/"><u>Download the Newest Generic Bluetooth Adapter Drivers for Windows Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-download-your-amd-ryzen-5-2400g-gpu-drivers-today/"><u>Effortless Installation: Download Your AMD Ryzen 5 2400G GPU Drivers Today</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/enhance-your-site-performance-with-the-robust-capabilities-of-cookiebot-technology/"><u>Enhance Your Site Performance with the Robust Capabilities of Cookiebot Technology</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/expert-tips-installing-and-updating-mbox-2-drivers-on-your-windows-device-a-comprehensive-guide/"><u>Expert Tips: Installing and Updating MBox 2 Drivers on Your Windows Device - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-install-the-right-printer-driver-epson-wf-ds30-compatible-with-windows-1187/"><u>Find & Install the Right Printer Driver: Epson WF-DS30 Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-geforce-rtx-3070-ti-driver-update-compatible-with-windows-11-8-and-7/"><u>Free GeForce RTX 3070 Ti Driver Update - Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/freshest-drivers-for-intel-hd-graphics-440-download-and-update-instructions/"><u>Freshest Drivers for Intel HD Graphics 440: Download & Update Instructions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-epson-tm-c88v-drivers-for-your-windows-pc-free-and-easy-download/"><u>Get the Newest EPSON TM-C88V Drivers for Your Windows PC – Free and Easy Download</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-targus-displaylink-driver-updates-for-windows-platforms/"><u>Get the Newest Targus DisplayLink Driver Updates for Windows Platforms</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-the-newest-logitech-t630-drivers-for-windows-operating-systems-7-8-and-10/"><u>How to Get the Newest Logitech T630 Drivers for Windows Operating Systems: 7, 8 & 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-pagewide-pro-477dw-printer-drivers-compatible-with-windows-11108-pcs-free-download-now/"><u>HP PageWide Pro 477DW Printer Drivers - Compatible with Windows 11/10/8 PCs, Free Download Now!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hone-your-meme-skills-quickly-using-9gag-strategies/"><u>In 2024, Hone Your Meme Skills Quickly Using 9GAG Strategies</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/master-the-setup-of-your-hp-zbook-15-g3-laptop-download-and-install-optimal-windows-drivers/"><u>Master the Setup of Your HP ZBook 15 G3 Laptop - Download & Install Optimal Windows Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/optimize-your-pcs-performance-with-updated-intel-optane-drivers-the-comprehhrenous-guide/"><u>Optimize Your PC's Performance with Updated Intel Optane Drivers – The Comprehhrenous Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simple-guide-updating-and-downloading-microsoft-drivers-for-windows-11-8-and-7/"><u>Simple Guide: Updating and Downloading Microsoft Drivers for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/speedy-download-of-high-performance-amd-ryzen-5-2400g-video-card-drivers/"><u>Speedy Download of High-Performance AMD Ryzen 5 2400G Video Card Drivers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-strategy-crafting-video-ads-without-spending-a-dime-for-2024/"><u>Step-by-Step Strategy  Crafting Video Ads without Spending a Dime for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-guide-to-acquiring-new-xp-pen-drivers-and-ensuring-seamless-updates/"><u>The Ultimate Guide to Acquiring New XP-Pen Drivers & Ensuring Seamless Updates</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-tutorial-for-taking-screengrabs-on-windows-and-mac/"><u>The Ultimate Tutorial for Taking Screengrabs on Windows and Mac</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/toshiba-laptop-driver-downloads-and-updates-for-windows-systems/"><u>Toshiba Laptop Driver Downloads & Updates for Windows Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-updating-your-mbox-2-drivers-in-windows-a-successful-approach/"><u>Troubleshooting and Updating Your MBox 2 Drivers in Windows - A Successful Approach</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-guide-to-downloading-and-installing-hps-powerful-dual-charge-12023/"><u>Ultimate Guide to Downloading and Installing HP's Powerful Dual Charge (120/23</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/k-the-power-of-social-sharing-for-your-youtube-videos/"><u>Unlock the Power of Social Sharing for Your YouTube Videos</u></a></li>
+</ul></div>

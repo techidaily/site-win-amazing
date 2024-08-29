@@ -1,7 +1,7 @@
 ---
 title: "Dividing Initials From Surnames: A Step-by-Step Guide Using Microsoft Excel"
-date: 2024-08-28 14:26:23
-updated: 2024-08-29 11:47:53
+date: 2024-08-28T04:35:07.142Z
+updated: 2024-08-29T04:35:07.142Z
 tags:
   - excel
 categories:
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/d4011b13ce09e30b67e00ca49a12c263fc568d55d
 
 ![An Excel spreadsheet with full names of people.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/1-full-names-excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  First, we'll select all the full names that we want to separate. We will not select any column headers or Excel will separate them as well.
 
 ![Select all names in the spreadsheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/2-select-all-names.png) 
@@ -56,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/d4011b13ce09e30b67e00ca49a12c263fc568d55d
 
 ![Clear the "Destination" field's contents and click the up-arrow icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/6-name-destination.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
  Since we want to display the first name in the C column and the last name in the D column, we'll click the C2 cell in the spreadsheet. Then we'll click the down-arrow icon.
 
 ![Click the C2 cell and then click the down-arrow icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/7-select-first-name-cell.png) 
@@ -68,8 +75,14 @@ thumbnail: https://thmb.techidaily.com/d4011b13ce09e30b67e00ca49a12c263fc568d55d
 
 ![First and last names separated in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/9-first-last-names-separated.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 Related: [How to Use Text to Columns Like an Excel Pro](https://ios-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-apple-iphone-14-pro-for-parents-drfone-by-drfone-virtual-ios/) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Separate First and Last Names With Middle Names
 
  If your spreadsheet has middle names in addition to first and last names, use Excel's Flash Fill feature to quickly separate the first and last names. To use this feature, you must be using Excel 2013 or later, as earlier versions don't support this feature.
@@ -84,10 +97,26 @@ Related: [How to Use Text to Columns Like an Excel Pro](https://ios-location-tra
 
 ![Click the C2 cell and manually enter the first name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/11-enter-first-name.png) 
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  We'll now click the D2 cell and manually type the last name of the record in the B2 cell. It will be "Makvana" in this case.
 
 ![Click the D2 cell and manually enter the last name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/12-enter-last-name.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
  To activate Flash Fill, we'll click the C2 cell where we manually entered the first name. Then, in Excel's ribbon at the top, we'll click the "Data" tab.
 
 ![Click the "Data" tab in Excel's ribbon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/13-excel-data-tab.png) 
@@ -96,14 +125,23 @@ Related: [How to Use Text to Columns Like an Excel Pro](https://ios-location-tra
 
 ![Select "Flash Fill" in the "Data" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/14-excel-flash-fill.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
  And instantly, Excel will automatically separate the first name for the rest of the records in your spreadsheet.
 
 ![First names separated in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/15-first-names-separated.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To do the same for the last name, we'll click the D2 cell. Then, we'll click the "Data" tab and select the "Flash Fill" option. Excel will then automatically populate the D column with the last names separated from the records in the B column.
 
 ![Last names separated in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/16-last-names-separated.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  And that's how you go about rearranging the names in your Excel spreadsheets. Very useful! If you ever need to do the opposite, learn [the many ways you can combine first and last names in Excel](https://article-helps.techidaily.com/updated-2024-approved-elevate-your-drone-game-with-top-tier-lipo-tech/).
 
 ---
@@ -126,3 +164,52 @@ Related: [How to Make One Long Column into Multiple Columns in Excel](https://ti
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/god-of-war-simplifying-complex-moves/"><u>'God of War': Simplifying Complex Moves</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-facebook-video-downloader-application-for-mobilewinmac/"><u>[New] In 2024, Facebook Video Downloader Application for Mobile/Win/Mac</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-getting-started-how-to-organize-a-google-based-conference-call/"><u>[New] In 2024, Getting Started  How to Organize a Google-Based Conference Call</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-advanced-strategies-for-recording-and-saving-gameplay-on-ps4/"><u>[Updated] Advanced Strategies for Recording and Saving Gameplay on PS4</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-professionals-guide-to-outstanding-4k-filmmaking-gear/"><u>2024 Approved  Professionals' Guide to Outstanding 4K Filmmaking Gear</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024s-cloud-price-tracker-find-the-lowest-bills-here/"><u>2024'S Cloud Price Tracker  Find the Lowest Bills Here</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/boost-your-networks-performance-download-and-update-to-latest-killer-e2500-driver-software/"><u>Boost Your Network's Performance: Download & Update to Latest Killer E2500 Driver Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/brother-hl-2270dw-find-and-install-updated-printer-drivers-on-windows-systems-here/"><u>Brother HL-2270DW: Find and Install Updated Printer Drivers on Windows Systems Here!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/canon-windows-driver-downloads-free-compatible-software-for-scannersprinters/"><u>Canon Windows Driver Downloads - Free Compatible Software for Scanners/Printers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-samsung-galaxy-m14-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Samsung Galaxy M14 5G</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-guide-to-download-and-install-ricoh-printer-drivers-on-pcs-windows-only/"><u>Complete Guide to Download and Install Ricoh Printer Drivers on PCs (Windows Only)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-guide-installing-the-latest-conexant-drivers-on-microsofts-windows-11-update-2004/"><u>Complete Guide: Installing the Latest Conexant Drivers on Microsoft's Windows 11 Update 2004</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-newest-generic-bluetooth-adapter-drivers-for-windows-systems/"><u>Download the Newest Generic Bluetooth Adapter Drivers for Windows Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-download-latest-intel-uhd-graphics-630-driver-version-for-improved-performance/"><u>Easy Download: Latest Intel UHD Graphics 630 Driver Version for Improved Performance</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-downloads-for-the-latest-amd-radeon-rx-470-graphics-card-drivers/"><u>Easy Downloads for the Latest AMD Radeon RX 470 Graphics Card Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-install-logitech-brio-webcam-drivers-for-windows-operating-systems-windows-11-8-and-7/"><u>Easy Install: Logitech Brio Webcam Drivers for Windows Operating Systems (Windows 11, 8 & 7)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installer-updated-fingerprint-drivers-for-windows-systems-download-now/"><u>Easy Installer: Updated Fingerprint Drivers for Windows Systems - Download Now</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/empower-your-digital-tales-with-complimentary-upgrades-for-2024/"><u>Empower Your Digital Tales with Complimentary Upgrades for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/expert-advice-seamlessly-correct-lenovos-troublesome-usb-drivers/"><u>Expert Advice: Seamlessly Correct Lenovo's Troublesome USB Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-asus-dvd-software-download-and-installation-guide/"><u>Free ASUS DVD Software: Download and Installation Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-downloads-ax-series-processor-driver-suite/"><u>Free Downloads: AX-Series Processor Driver Suite</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-amd-radeon-hd-driver-for-win7-systems/"><u>Get the Latest AMD Radeon HD Driver for Win7 Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-realtek-rtl8188cu-network-card-drivers-supporting-windows-117/"><u>Get the Latest Realtek RTL8188CU Network Card Drivers Supporting Windows 11/7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-windows-compatible-drivers-for-amd-radeon-r9-series-cards-instantly/"><u>Get the Latest Windows-Compatible Drivers for AMD Radeon R9 Series Cards Instantly!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-amd-chipset-updates-now-supports-windows-10-7-8-and-81-systems/"><u>Get Your AMD Chipset Updates Now - Supports Windows 10, 7, 8 & 8.1 Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722974427567-get-your-samsung-device-up-and-running-with-official-adb-drivers/"><u>Get Your Samsung Device Up and Running with Official ADB Drivers!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-sound-blaster-z-software-on-your-windows-11-pc-without-hassle/"><u>How to Get Sound Blaster Z Software on Your Windows 11 PC Without Hassle</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-the-newest-driver-for-your-epson-l3150-on-windows-10-8-and-7-step-by-step/"><u>How to Get the Newest Driver for Your Epson L3150 on Windows 10, 8 & 7 - Step by Step</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-itel-p40-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Itel P40 Data? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-lava-blaze-2-pro-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Lava Blaze 2 Pro Face Lock?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-logitech-g402-software-and-drivers-free-download-now-available/"><u>Install Logitech G402 Software and Drivers - Free Download Now Available!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/intel-graphics-drivers-free-downloads-updates-and-compatibility-guide-for-windows-1011/"><u>Intel Graphics Drivers: Free Downloads, Updates and Compatibility Guide for Windows 10/11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-compatible-bluetooth-driver-software-for-windows-devices-free-download/"><u>Latest Compatible Bluetooth Driver Software for Windows Devices - Free Download</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-vivo-s18e-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Vivo S18e FRP Without Computer</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-tp-link-wifi-network-card-drivers-compatible-with-windows-10-8-and-7/"><u>Latest TP-Link WiFi Network Card Drivers | Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-version-of-asus-pce-ac68-driver-for-immediate-download/"><u>Latest Version of ASUS PCE-AC68 Driver for Immediate Download</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/realtek-audio-driver-update-compatible-with-windows-11107-install-now/"><u>Realtek Audio Driver Update: Compatible with Windows 11/10/7 - Install Now!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975010722-realtek-card-readers-secure-your-download-of-tailored-windows-10-drivers-today/"><u>Realtek Card Readers: Secure Your Download of Tailored Windows 10 Drivers Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamlessly-install-hp-envy-5660-device-drivers-a-user-friendly-tutorial/"><u>Seamlessly Install HP ENVY 5660 Device Drivers: A User-Friendly Tutorial</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/speedy-download-of-high-performance-amd-ryzen-5-2400g-video-card-drivers/"><u>Speedy Download of High-Performance AMD Ryzen 5 2400G Video Card Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-correcting-the-issues-with-realtek-8821ae-pci-e-nic-wireless-adapter-drivers/"><u>Step by Step Guide to Correcting the Issues with Realtek 8821AE PCI-E NIC Wireless Adapter Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722960814452-step-by-step-instructions-downloading-and-installing-steelseries-arctis-5-audio-drivers-today/"><u>Step-by-Step Instructions: Downloading & Installing SteelSeries Arctis 5 Audio Drivers Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-resolving-driver-errors-for-the-corsair-h115i-in-recent-windows-versions/"><u>Troubleshooting and Resolving Driver Errors for the Corsair H115i in Recent Windows Versions</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-the-beat-goes-on-finding-song-titles-using-your-ios-devices-audio-cues/"><u>Updated In 2024, The Beat Goes On Finding Song Titles Using Your iOS Devices Audio Cues</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-to-aasin-radeon-rx-970-pro-for-superior-gaming-performance/"><u>Upgrade To AASIN Radeon RX 970 PRO for Superior Gaming Performance</u></a></li>
+</ul></div>

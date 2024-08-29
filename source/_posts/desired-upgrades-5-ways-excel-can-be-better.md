@@ -1,7 +1,7 @@
 ---
 title: "Desired Upgrades: 5 Ways Excel Can Be Better"
-date: 2024-08-26 11:37:45
-updated: 2024-08-29 11:28:55
+date: 2024-08-28T04:35:04.830Z
+updated: 2024-08-29T04:35:04.830Z
 tags:
   - excel
 categories:
@@ -33,6 +33,9 @@ Lucas Gouveia / How-To Geek | [selinofoto](https://www.shutterstock.com/image-ph
 
  While it's great to know you can rely on [How-to Geeks' articles](https://activate-lock.techidaily.com/how-to-remove-icloud-on-iphone-12-smoothly-by-drfone-ios/) to help you wade through the treacherous waters of Excel's complex menus, tools, and formulas, you shouldn't _have_ to. As it stands, Excel is a program for specialists, and adopting a simpler ribbon and offering a more intuitive experience (closer to Google Sheets' user interface) would go some way to improving its accessibility.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ##  Excel's Desktop App Should Be Free (or Cheaper)
 
  While Microsoft has developed the free Excel for the web since its launch, the subscription-only desktop app still boasts many tools and features that make it an optimal choice over its web-based counterpart. What's more, since the desktop app uses a computer's memory (rather than being powered by your internet browser and connection), it runs more quickly and can handle large data and complex operations more effectively. And those are just a few of the many reasons you might prefer the desktop app to the online version.
@@ -41,6 +44,9 @@ Lucas Gouveia / How-To Geek | [selinofoto](https://www.shutterstock.com/image-ph
 
 ![Dollar sign built out of yellow LEGO bricks.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/a40e8d94.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _[Lewis Tse / Shutterstock.com](https://www.shutterstock.com/image-photo/money-made-by-brick-743325682)_
 
  Moreover, Microsoft no longer supports one-time purchases. So, while you'll still get security updates, you won't get any new features, and once you've set it up on your computer, Microsoft won't help you with any other issues you have.
@@ -55,10 +61,25 @@ _[Lewis Tse / Shutterstock.com](https://www.shutterstock.com/image-photo/money-m
 
 ![Man looking at laptop screen with frustrated expression.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/frustrated-man-laptop.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _[fizkes / Shutterstock.com](https://www.shutterstock.com/image-photo/frustrated-black-male-student-work-laptop-1463228459)_
 
  Many people who use Excel don't necessarily need to use all of its advanced features, so a slimline version of the program for quick and easy spreadsheet work would address its well-known complexity and performance issues. Those of us who do want to use Excel to its full capacity should be able to do so without worrying about it crashing our devices.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Excel Should Spot Human Errors
 
  Yes, Excel will sometimes flag formula inconsistencies (for example, if you have a column of formulas and one cell contains a formula that is different from the others), but one single typo in a formula could destroy a whole spreadsheet's functionality. Excel is too sensitive to errors without offering too much of a solution to overcome such sensitivity.
@@ -79,6 +100,9 @@ Lucas Gouveia / How-To Geek
 
  After all, it _is_ possible. My bank alerts me if a regular payment is lower or higher than usual, so Excel should be able to spot abnormal data in a spreadsheet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## 
 
 ##  Replace Merge Cells With Center Across Selection
@@ -87,6 +111,10 @@ Lucas Gouveia / How-To Geek
 
 ![An Excel spreadsheet with an error message reading 'You can't do that to a merged cell.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/merge-error-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
  Instead, it's better to use the [Center Across Selection](https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-motorola-moto-g73-5g-by-drfone-android/) tool, which results in the cells being merged but the cells' structures being retained.
 
  Since I discovered this alternative and better way to present my data in Excel, I've not once used the program's Merge And Center tool, and I would bet that others would be of the same view. So, instead of having the Merge And Center icon in the Home tab on the ribbon, Excel should have the Center Across Selection option as a default tool, not least because this supports the spreadsheet's long-term structural integrity more than the Merge And Center option does.
@@ -109,3 +137,49 @@ Lucas Gouveia / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-stay-within-the-law-pre-upload-video-copyright-checks-on-tiktok/"><u>[Updated] In 2024, Stay Within the Law  Pre-Upload Video Copyright Checks on TikTok</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unpacking-the-impact-of-youtubes-shorts-programme/"><u>[Updated] Unpacking the Impact of YouTube's Shorts Programme</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-world-of-windows-11s-in-built-high-dynamic-range-feature/"><u>2024 Approved  Navigating the World of Windows 11'S In-Built High Dynamic Range Feature</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-and-simple-ipad-conversion-turn-jpgpng-into-pdf/"><u>2024 Approved  Quick and Simple iPad Conversion  Turn JPG/PNG Into PDF</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-setup-tutorial-for-windows-users-free-focusrite-scarlett-2i2-dac-and-headphone-amplifier/"><u>Complete Setup Tutorial for Windows Users - [Free] Focusrite Scarlett ^2^I2 DAC & Headphone Amplifier</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/dance-move/"><u>Dance Move</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-upgrade-guide-broadcom-gige-networking-drivers-for-windows-10-problem-free/"><u>Download and Upgrade Guide: Broadcom GigE Networking Drivers for Windows 10 - Problem-Free</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-asus-atk0110-bios-and-acpi-drivers-at-no-cost-for-optimal-functionality/"><u>Download ASUS ATK0110 BIOS & ACPI Drivers at No Cost for Optimal Functionality</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-access-to-brother-hl-l2360dw-driver-downloads-compatible-with-your-device/"><u>Easy Access to Brother HL-L2360DW Driver Downloads - Compatible with Your Device</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-download-compatible-asus-usb-bt500-bluetooth-50-adapter-drivers-for-windows-users-11-10-and-8/"><u>Easy Download: Compatible Asus USB-BT500 Bluetooth 5.0 Adapter Drivers for Windows Users (11, 10 & 8)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-of-lenovo-x1-carbon-drivers-on-windows-11-and-7-systems/"><u>Easy Installation of Lenovo X1 Carbon Drivers on Windows 11 & 7 Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-steps-get-your-hp-zbook-studio-x64-g7-up-and-running-on-windows-pcs/"><u>Easy Steps: Get Your HP ZBook Studio X64 G7 Up & Running on Windows PCs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhanced-performance-with-updated-nvidia-geforce-210-drivers-on-windows-10/"><u>Enhanced Performance with Updated NVIDIA GeForce 210 Drivers on Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/fallout-3-boot-problems-master-the-latest-fixes-to-get-gaming/"><u>Fallout 3 Boot Problems? Master the Latest Fixes to Get Gaming !</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fixing-hp-laserjet-1020-printer-drivers-problems-in-microsoft-windows-easily/"><u>Fixing HP LaserJet 1020 Printer Drivers Problems in Microsoft Windows Easily</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-samsung-usb-drivers-direct-download-and-installation-guide/"><u>Free Samsung USB Drivers: Direct Download & Installation Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-windows-compatible-audio-card-driver-installation-packages/"><u>Free Windows-Compatible Audio Card Driver Installation Packages</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-best-audio-experience-with-newly-updated-focusrite-scarlett-18i20-windows-drivers-for-free-download/"><u>Get the Best Audio Experience with Newly Updated Focusrite Scarlett 18I20 Windows Drivers for Free Download</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722973516866-get-the-latest-lenovo-ideapad-vehicle-your-ultimate-guide-to-driver-updates-on-windows-10/"><u>Get the Latest Lenovo IdeaPad Vehicle, Your Ultimate Guide to Driver Updates on Windows 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-lenovo-t430-driver-updates-for-windows-operating-systems-windows-10-8-7-instantly/"><u>Get the Latest Lenovo T430 Driver Updates for Windows Operating Systems (Windows 10, 8, 7) Instantly</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-canon-printing-machine-ready-dr-c225-driver-downloads-for-modern-windows-os/"><u>Get Your Canon Printing Machine Ready: DR-C225 Driver Downloads for Modern Windows OS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-free-nvidia-rtx-3060-ti-drivers-for-latest-windows-os-download-now/"><u>Get Your Free NVIDIA RTX 3060 Ti Drivers for Latest Windows OS - Download Now</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nubia-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nubia</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-xiaomi-13t-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Xiaomi 13T Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-engine-control-driver-on-steelseries-mechanical-keyboards/"><u>Install Engine Control Driver on SteelSeries Mechanical Keyboards</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/material-selection-based-on-toughness-is-crucial-for-impact-resistant-applications-such-as-automotive-safety-components/"><u>Material Selection Based on Toughness Is Crucial for Impact-Resistant Applications, Such as Automotive Safety Components.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/new-release-bamboo-art-pen-and-touch-software-installation-guide/"><u>New Release: Bamboo Art Pen & Touch Software Installation Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-fix-for-your-intel-dual-band-wi-fi-latest-3160-driver-edition/"><u>Quick Fix for Your Intel Dual Band Wi-Fi: Latest 3160 Driver Edition</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-setup-get-your-bcm207n02a0-drivers-installed-on-windows-today/"><u>Quick Setup: Get Your BCM207n02A0 Drivers Installed on Windows Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-fix-for-xbox-controller-compatibility-issues-on-windows-7-8-and-11/"><u>Step-by-Step Fix for Xbox Controller Compatibility Issues on Windows 7, 8, and 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/successful-guide-installing-the-epson-xp-830-printer-driver-faqs-answered/"><u>Successful Guide: Installing the Epson XP-830 Printer Driver - FAQs Answered</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/take-your-pc-gaming-to-the-next-level-with-freshly-updated-gtx-1660-ti-drivers/"><u>Take Your PC Gaming to the Next Level with Freshly Updated GTX 1660 Ti Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-fast-track-to-latest-drivers-a-straightforward-approach-for-dell-alienware-g7-laptops/"><u>The Fast Track to Latest Drivers: A Straightforward Approach for Dell Alienware G7 Laptops</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-vivo-y17s-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Vivo Y17s Phones</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-5-seconds-timelapse-shooter-for-2024/"><u>Top 5-Seconds Timelapse Shooter for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/triumphant-resolution-fixing-consecutive-errors-during-your-pc-playtime-adventure/"><u>Triumphant Resolution: Fixing Consecutive Errors During Your PC Playtime Adventure</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-usb-drivers-for-samsung-qn85aqn83aqn90a-260ci/"><u>Troubleshooting USB Drivers for Samsung QN85A/QN83A/QN90A (260Ci)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-hp-deskjet-2600-printer-get-the-newest-windows-compatible-drivers-for-7810-systems/"><u>Update Your HP DeskJet 2600 Printer - Get the Newest Windows Compatible Drivers for 7/8/10 Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/usb-c-drivers-download-guide-for-windows-10-systems/"><u>USB-C Drivers: Download Guide for Windows 10 Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/usb-c-drivers-how-to-download-and-install-on-windows-10/"><u>USB-C Drivers: How to Download and Install on Windows 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/whats-new-update-on-your-logitech-extreme-3d-driver/"><u>What’s New: Update on Your Logitech Extreme 지역 3D 프로 마우스 Driver</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Data Analysis with a Custom Excel Dashboard - Step-by-Step Guide
-date: 2024-08-26 13:19:31
-updated: 2024-08-29 11:33:36
+date: 2024-08-28T04:35:15.279Z
+updated: 2024-08-29T04:35:15.279Z
 tags:
   - excel
 categories:
@@ -46,6 +46,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An unformatted Excel table with the Format As Table button highlighted and the options showing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/format-as-table.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  The next step in preparing your data is to [name the table](https://facebook-record-videos.techidaily.com/new-your-essential-guide-to-mobile-asmr-sounds/). Click anywhere within your newly formatted table, and give the table a short name in the Table Name box within the Table Design tab on the ribbon. Try to keep this to one word, if possible, for easier use later on.
 
 ![An Excel table with the Table Name area in the Table Design tab highlighted. The word 'Employees' has been typed into the Table Name box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/name-table.png) 
@@ -58,6 +61,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Now that your data is prepared, you need to create tables that will feed the data to your charts. You might think that this is an unnecessary step, because you've already got your data nicely formatted into a table, but [PivotTables let you manipulate your data more easily and summarize your data more quickly](https://desktop-recording.techidaily.com/new-apex-10-royale-showdowns-for-2024/).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Create Your First Pivot Table Template
 
  Click any cell in your original data table, and in the Insert tab, click PivotTable.
@@ -76,26 +82,47 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An Excel workbook with three new sheets, all of which contain a PivotTable area.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/duplicate-pivottable-sheets.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once you have the correct number of PivotTables, rename the tabs according to the data they will contain.
 
 ![An Excel workbook with the three sheets containing PivotTables renamed according to the data they will show.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/renamed-tabs-for-pivottables.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ###  Amend Your First Pivot Table
 
  Click anywhere on the first PivotTable you created, and the PivotTable Fields sidebar will open on the right.
 
 ![An Excel PivotTable area on the left and the PivotTable sidebar on the right.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pivottable-sidebar.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This is where you'll choose the data to add to your table (and this will inform your charts later on). Click one of the series and drag it to the correct area below, and repeat this process for each series you want to include. In our case, as we're on the Sales Price tab, we will click and drag Employee into the Rows section and Sale Price into the Values section. You will see your PivotTable update on the left as you do this.
 
 ![An Excel PivotTable sidebar on the right, with 'Employee' in the Rows Section and 'Sum Of Sale Price' in the Values section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pivottable-options-inserted.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ###  Format Your Pivot Table
 
  The final step before you create your charts is to format the PivotTable, so the data will display how you want it to when you create your chart. In our example, we want to change the numbers to a currency by selecting the data and clicking the currency icon in the Home tab.
 
 ![An Excel PivotTable with the numerical data changed to USD currency, accessed via the currency icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pivottable-data-to-currency.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Step 4: Create Your First Chart
 
  You're now ready to create your first chart.
@@ -104,6 +131,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The PivotTable Analyze tab with the PivotChart icon selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/pivotchart.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
  Then, choose a chart that presents your data in the best way, and click "OK."
 
 ![Excel's Insert Dialog box with the different types of charts highlighted on the left and the OK button highlighted at the bottom.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/choose-pivotchart-style.png) 
@@ -112,6 +142,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A formatted PivotChart in Excel next to the PivotTable used to create it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/formatted-pivotchart-from-pivottable.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When you're ready, select the edge of the chart and press Ctrl+C, and then go to your dashboard sheet and press Ctrl+V. Before you add the other charts, reposition and resize this first one so that your dashboard will look great. You could even add a stylish header to your dashboard tab.
 
 ![An Excel dashboard tab containing a chart.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/chart-in-dashboard.png) 
@@ -122,8 +155,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![A dashboard in Excel containing three PivotCharts.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/dashboard-pivotcharts.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When repositioning your charts, hold down the Alt key to make them snap into a given position. This is great for lining items up when you have more than one on a worksheet.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ##  Step 6: Add Slicers
 
  To make your charts more interactive, [add slicers](https://article-tips.techidaily.com/2024-approved-duration-formula-20mb-video-in-secs/). Click any of your charts, and in the PivotChart Analyze tab, click "Insert Slicer."
@@ -134,10 +173,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Insert Slicers dialog box in Excel, with the options highlighted and the OK button selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/select-slicer-data.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
  Reposition the resultant slicer. Then, to make your slicer tidier, right-click anywhere on the slicer, and click "Slicer Settings."
 
 ![The Slicer Settings option, accessible by right-clicking on a slicer in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/slicer-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Change the settings according to what you want the slicer to show. In our case, we don't need it to show the slicer header, so we've unchecked that box. When you're done, click "OK."
 
 ![Excel's Slicer Settings dialog box, with 'Display Header' unchecked, and the OK button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/slicer-settings-options.png) 
@@ -152,12 +197,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  To select more than one item in a slicer to display in your charts, hold Ctrl as you choose your options.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Step 7: Add More Data
 
  Because you formatted your tables properly in step 1, when you add new data to your original data table, the PivotTables will automatically pick this up. To make sure your dashboard reflects any new data you added, go back to your dashboard and click on one of your charts. Then, in the PivotChart Analyse tab, head to the Data group and click "Refresh All" under the Refresh button.
 
 ![The 'Refresh All' option in the PivotChart Analyze tab is selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/refresh-pivot-data.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Step 8: Tidy Your Workbook
 
  Before you share your professional workbook, take a minute to tie up the loose ends.
@@ -192,3 +243,42 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-amazing.techidaily.com/free-compatible-drivers-to-set-up-your-samsung-printer-on-windows-system/"><u>[Free] Compatible Drivers to Set Up Your Samsung Printer on Windows System</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-masterful-post-placement-to-surge-video-views/"><u>[New] 2024 Approved  Masterful Post Placement to Surge Video Views</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-navigating-the-short-form-space-youtubes-bite-vs-tiktok-written-by-a-marketing-analyst-with-expertise-in-social-media-trends-and-platforms/"><u>[New] Navigating the Short-Form Space  YouTube's Bite Vs. TikTok' Written by a Marketing Analyst with Expertise in Social Media Trends and Platforms.</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-live-link-lifters-annual-archive-access/"><u>[Updated] In 2024, Live Link Lifters - Annual Archive Access</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-linkedin-messaging-etiquette/"><u>[Updated] Mastering LinkedIn Messaging Etiquette</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-smooth-integration-of-macos-sierra-on-old-systems/"><u>[Updated] Smooth Integration of macOS Sierra on Old Systems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/10-premier-online-systems-for-screen-saving/"><u>10 Premier Online Systems for Screen Saving</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonic-starting-points-10-song-picks-for-engaging-podcast-openers/"><u>2024 Approved  Harmonic Starting Points  10 Song Picks for Engaging Podcast Openers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-top-tier-eyeball-enticer-author/"><u>2024 Approved  Top-Tier Eyeball Enticer Author</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-driver-verifier-manager-w11-edition/"><u>Accessing Driver Verifier Manager W11 Edition</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/best-practices-for-updating-hp-deskjet-inkjet-printer-driver-v2700-get-the-new-version-today/"><u>Best Practices for Updating HP Deskjet Inkjet Printer Driver v2700 - Get the New Version Today!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-hp-officejet-4655-printer-drivers-latest-updates/"><u>Download & Install HP OfficeJet 4655 Printer Drivers: Latest Updates</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-amd-radeon-r9-graphics-card-drivers-on-your-windows-pc/"><u>Download and Install AMD Radeon R9 Graphics Card Drivers on Your Windows PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-latest-hp-officejet-pro-8620-printer-drivers-on-windows/"><u>Download and Install Latest HP OfficeJet Pro 8620 Printer Drivers on Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-asus-pce-ac68-controller-drivers-now-no-hesitation-required/"><u>Download ASUS PCE-AC68 Controller Drivers Now – No Hesitation Required</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-corsair-keyboard-driver-windows-compatible-at-no-cost/"><u>Download Corsair Keyboard Driver (Windows Compatible) at No Cost</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-trustworthy-and-updated-drivers-for-any-epson-scanner-model/"><u>Download Trustworthy & Updated Drivers For Any Epson Scanner Model</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-the-official-ricoh-c4503-printer-software-downloads-fast-latest-version/"><u>Find the Official Ricoh C4503 Printer Software Downloads Fast | Latest Version</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-best-printing-experience-with-updated-hp-officejet-3830-drivers-on-windows/"><u>Get the Best Printing Experience with Updated HP OfficeJet 3830 Drivers on Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722971820763-get-the-latest-acer-display-drivers-instantly-here/"><u>Get the Latest Acer Display Drivers Instantly Here!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-hp-thunderbolt-dock-g2-software-for-120w-and-230w-chargers/"><u>Get the Latest HP Thunderbolt Dock G2 Software for 120W and 230W Chargers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-toshiba-driver-updates-for-your-windows-based-device-here/"><u>Get the Latest Toshiba Driver Updates for Your Windows-Based Device Here!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722965979919-get-your-amd-gpio-driver-now-free-and-ready-for-use/"><u>Get Your AMD GPIO Driver Now – Free & Ready for Use!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-linksys-ae1200-drivers-in-no-time-speedy-download-process-here/"><u>Get Your Linksys AE1200 Drivers in No Time - Speedy Download Process Here</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-poco-c65-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Poco C65 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-officejet-4655-driver-downloads-latest-versions-available-now/"><u>HP Officejet 4655 Driver Downloads: Latest Versions Available Now!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/livekernelevent-117-trouble-heres-how-you-can-fix-it/"><u>LiveKernelEvent 117 Trouble? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unlock-stunning-bokeh-best-apps-for-iphone-and-android/"><u>New 2024 Approved Unlock Stunning Bokeh Best Apps for iPhone and Android</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-installation-guide-realtek-alc892a-audio-drivers-for-windows-11/"><u>Quick Installation Guide: RealTek ALC892A Audio Drivers for Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/role-of-coast-guards-in-monitoring-vmsais-discuss-how-coast-guard-authorities-use-this-information-to-monitor-maritime-traffic-ensure-compliance-with-intern201/"><u>Role of Coast Guards in Monitoring VMS/AIS: Discuss How Coast Guard Authorities Use This Information to Monitor Maritime Traffic, Ensure Compliance with International Regulations, Detect Anomalies, and Respond Effectively to Emergencies or Threats</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-wacom-driver-download-process-explained/"><u>Seamless Wacom Driver Download Process Explained</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722976855446-steelseries-engine-download-upgrade-your-pc-gaming-on-windows-10-today/"><u>SteelSeries Engine Download: Upgrade Your PC Gaming on Windows 10 Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-download-of-intel-cpugpu-drivers-instant-access/"><u>Step-by-Step Download of Intel CPU/GPU Drivers - Instant Access!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-chrome-freezing-on-you-effective-fixes-and-workarounds-revealed/"><u>Stop Chrome Freezing on You! Effective Fixes & Workarounds Revealed</u></a></li>
+</ul></div>
