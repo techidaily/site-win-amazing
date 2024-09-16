@@ -1,7 +1,7 @@
 ---
 title: "Get Your RTX 2080 GPU Updated: Drivers for Win10 and Win11 Available Now"
-date: 2024-09-10T12:26:21.082Z
-updated: 2024-09-11T12:26:21.082Z
+date: 2024-09-15T21:01:59.033Z
+updated: 2024-09-16T17:34:16.233Z
 tags:
   - win11
   - win10
@@ -17,47 +17,16 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 
 If you have a **GS65 Stealth Thin 8RF** laptop, and you have driver issue such as the missing or outdated motherboard driver, don’t worry. There are solutions to fix it.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Why you need MSI GS65 drivers?
 
  Drivers are software components that make devices and the operating system talk to each other. Both system and device are updating to catch up with the changing world, so is drivers. If the operating system changes the way it speaks to devices and drivers haven’t updated, devices can’t receive correct commands and cause problems.
 
  That’s why when you meet problems, you need to download the related driver to solve it.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to download MSI GS65 Drivers?
 
@@ -69,20 +38,6 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/download-msi-gs65-drivers-for-windows/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### **Option 1 –** **Download and install the driver manually**
 
  You can download MSI GS65 drivers from the MSI website and here’s how:
@@ -92,19 +47,18 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/gs.jpg)
 3. Download and install the driver manually.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### **Option 2 – Automatically update MSI GS65 drivers**
 
@@ -119,41 +73,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version).  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -167,8 +95,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,57 +102,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-amazing.techidaily.com/download-amd-rx-6900-xt-driver-for-windows-111087/"><u>[Download] AMD RX 6900 XT Driver for Windows 11/10/8/7</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-covert-content-creation-how-to-invisibly-alter-videos-for-2024/"><u>[New] Covert Content Creation How to Invisibly Alter Videos for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-voice-your-thoughts-encouraging-commentary-on-your-content/"><u>[New] Voice Your Thoughts Encouraging Commentary on Your Content</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/handbrake-drm/"><u>「HandBrake で DRM保護ファイルのコピーガードを回避できない時、エラー処理と変換再試行法」</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-setup-instructions-for-downloading-the-epson-wf-3640-driver-windows-version/"><u>Complete Setup Instructions for Downloading the Epson WF-3640 Driver (Windows Version)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-solution-how-to-get-and-setup-arduino-nano-board-driver-in-windows/"><u>Complete Solution: How to Get and Setup Arduino Nano Board Driver in Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/direct-download-updated-canon-ip110-printer-drivers-for-various-windows-editions/"><u>Direct Download: Updated Canon IP110 Printer Drivers for Various Windows Editions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-free-wi-fi-drivers-compatible-with-windows-7-simple-steps/"><u>Download & Update: Free Wi-Fi Drivers Compatible with Windows 7 - Simple Steps!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-canon-printer-drivers-compatible-with-windows-systems/"><u>Download Canon Printer Drivers - Compatible with Windows Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-hp-officejet-3830-drivers-on-windows-step-by-step-guide/"><u>Download the HP OfficeJet 3830 Drivers on Windows – Step-by-Step Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-guide-to-downloading-and-installing-hp-officejet-pro-8600-windows-drivers/"><u>Easy Guide to Downloading and Installing HP Officejet Pro 8600 Windows Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-how-to-finding-and-downloading-the-right-drivers-for-your-acer-aspire-in-windows/"><u>Easy How-To: Finding and Downloading the Right Drivers for Your Acer Aspire in Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-installation-of-logitech-k400-keyboard-and-mouse-drivers-online/"><u>Easy Installation of Logitech K400 Keyboard and Mouse Drivers Online</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/expert-tips-for-swift-and-safe-download-of-brother-hl-3170cdw-driver-files/"><u>Expert Tips for Swift & Safe Download of Brother HL-3170cdw Driver Files</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fast-track-your-hp-audio-driver-update-with-free-immediate-download/"><u>Fast-Track Your HP Audio Driver Update with Free, Immediate Download</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fixing-the-notorious-graphics-driver-issues-expert-tips-and-tricks/"><u>Fixing the Notorious Graphics Driver Issues - Expert Tips and Tricks</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-ricoh-printer-software-downloads-and-installation-guide-for-windows/"><u>Free Ricoh Printer Software - Downloads & Installation Guide for Windows</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-v30-lite-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo V30 Lite 5G? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-find-and-update-your-windows-device-with-the-latest-epson-xp-430-driver-software-detailed-steps-included/"><u>How to Find and Update Your Windows Device with the Latest Epson XP-430 Driver Software (Detailed Steps Included)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-keep-your-epson-wf-7720-printer-running-smoothly-on-windows-with-a-driver-update/"><u>How to Keep Your Epson WF-7720 Printer Running Smoothly on Windows with a Driver Update</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-nubia-red-magic-9-proplus-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Nubia Red Magic 9 Pro+ to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-poco-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Poco ?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-officejet-pro-8610-driver-downloads-for-windows-users-windows-11-8-7-xp-and-vista/"><u>HP Officejet Pro 8610 Driver Downloads for Windows Users (Windows 11, 8, 7, XP & Vista)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-expertly-reviewed-7-top-voice-changer-applications/"><u>In 2024, Expertly Reviewed 7 Top Voice Changer Applications</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-depth-fund-allocation-setting-up-a-podcast-stage-for-2024/"><u>In-Depth Fund Allocation Setting Up a Podcast Stage for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mastering-the-setup-corsair-h115i-liquid-cpu-cooler-drivers-for-modern-windows-systems/"><u>Mastering the Setup: Corsair H115i Liquid CPU Cooler Drivers for Modern Windows Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/newest-bluetooth-adapter-drivers-for-windows-free-download/"><u>Newest Bluetooth Adapter Drivers for Windows - Free Download</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/newest-hp-pagewide-pro-amoji-477dw-driver-software-for-windows-11108-download-now/"><u>Newest HP PageWide Pro Amoji 477DW Driver Software for Windows 11/10/8 - Download Now!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/optimize-your-laptops-wi-fi-capabilities-how-to-obtain-and-use-intel-network-adapter-software-on-windows/"><u>Optimize Your Laptop's Wi-Fi Capabilities: How to Obtain and Use Intel Network Adapter Software on Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-and-effortless-download-of-sound-blaster-z-drivers-for-window-10-users/"><u>Quick & Effortless Download of Sound Blaster Z Drivers for Window 10 Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-steps-to-download-and-update-your-dell-screens-drivers-efficiently/"><u>Quick Steps to Download and Update Your Dell Screen's Drivers Efficiently</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/samsung-m2070fw-driver-downloads-fast-and-simple-installation-steps/"><u>Samsung M2070FW Driver Downloads | Fast & Simple Installation Steps</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-how-to-fix-and-download-mouse-drivers-for-windows-7-systems/"><u>Step-by-Step Tutorial: How To Fix & Download Mouse Drivers For Windows 7 Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-affordable-gaming-companion-an-in-depth-look-at-the-nintendo-switch-lite-edition/"><u>The Affordable Gaming Companion: An In-Depth Look at the Nintendo Switch Lite Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essential-guide-to-file-compression-via-cli/"><u>The Essential Guide to File Compression via CLI</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-tradeoffs-you-need-to-know-about-when-choosing-an-asus-zenbook-flip-s-14-oled-edition-an-in-depth-look/"><u>The Tradeoffs You Need to Know About When Choosing an Asus ZenBook Flip S 14 OLED Edition: An In-Depth Look</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-ultimate-companion-of-asus-network-driver-downloads-and-install-guides-tailored-for-windows-users/"><u>The Ultimate Compan#ion of Asus Network Driver Downloads & Install Guides – Tailored for Windows Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-for-recurring-disruptions-in-your-pc-experience-with-f1-2020/"><u>The Ultimate Fix for Recurring Disruptions in Your PC Experience with F1 2020</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/tp-link-ac-wireless-network-card-drivers-updated-for-windows-operating-systems-11-8-and-groove-download-now/"><u>TP-Link AC Wireless Network Card Drivers Updated | For Windows Operating Systems (11, 8 & Groove) Download Now</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-tips-effortless-ralink-drivers-installation-on-microsoft-operating-systems/"><u>Troubleshooting Tips: Effortless Ralink Drivers Installation on Microsoft Operating Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-brother-hl-l2370dw-direct-links-to-latest-driver-downloads/"><u>Update Your Brother HL-L2370DW: Direct Links to Latest Driver Downloads</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722973896150-update-your-wacom-artpen-driver-with-these-simple-steps-get-downloading-now/"><u>Update Your Wacom Artpen Driver with These Simple Steps – Get Downloading Now</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Infinix Smart 7 HD? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-saving-strategies-securing-your-mov-on-windows-pcs/"><u>[New] In 2024, Saving Strategies Securing Your .mov On Windows PCs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-leading-ipad-voice-recorders-1-2-3/"><u>[Updated] 2024 Approved Leading iPad Voice Recorders #1, #2, #3</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-manycam-recorder-review/"><u>[Updated] In 2024, ManyCam Recorder Review</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-stream-with-clarity-ranking-the-best-6-microphones-today/"><u>[Updated] Stream with Clarity Ranking the Best 6 Microphones Today</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionizing-reality-best-vr-gadgets-today/"><u>2024 Approved Revolutionizing Reality Best VR Gadgets Today</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/accelerated-video-capture-device-and-voice-commentary-feature/"><u>Accelerated Video Capture Device & Voice Commentary Feature</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722961647597-effortless-setup-for-thrustmaster-t150-find-and-download-drivers-today/"><u>Effortless Setup for Thrustmaster T150: Find and Download Drivers Today!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/expert-tips-for-downloading-and-upgrading-to-the-latest-xp-pen-drivers/"><u>Expert Tips for Downloading and Upgrading to the Latest XP-Pen Drivers</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-xiaomi-civi-3-disney-100th-anniversary-edition-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Xiaomi Civi 3 Disney 100th Anniversary Edition 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-hps-cross-platform-printing-software-on-your-pc/"><u>How to Install HP's Cross-Platform Printing Software on Your PC</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-infinix-note-30-vip-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Infinix Note 30 VIP? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722962138040-speedy-setup-for-razer-mamba-free-driver-software-here/"><u>Speedy Setup for Razer Mamba - Free Driver Software Here!</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/top-ranking-mp4-video-encoder-tools-of-2023-a-comprehensive-guide/"><u>Top-Ranking MP4 Video Encoder Tools of 2023: A Comprehensive Guide</u></a></li>
 </ul></div>
-
-
-
 

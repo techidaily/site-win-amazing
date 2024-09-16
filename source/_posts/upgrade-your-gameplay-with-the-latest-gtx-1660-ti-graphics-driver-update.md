@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your Gameplay with the Latest GTX 1660 Ti Graphics Driver Update
-date: 2024-09-10T12:23:04.044Z
-updated: 2024-09-11T12:23:04.044Z
+date: 2024-09-12T19:22:40.153Z
+updated: 2024-09-16T18:52:36.379Z
 tags:
   - win11
   - win10
@@ -17,33 +17,10 @@ thumbnail: https://thmb.techidaily.com/8802195183c08c165ad84f773d4a1ece25e2e1ef5
 
 It’s always important to**update your graphics driver to its latest version** so as to get the most out of the graphics card (like improving screen resolution, reducing lag, preventing system crashes etc.). In this post, we’re going to show you 2 easy ways to get the latest **Nvidia** **GeForce RTX 2080 Ti** driver.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## To update**Nvidia** **GeForce RTX 2080 Ti driver in Windows**
 
@@ -69,65 +46,11 @@ It’s always important to**update your graphics driver to its latest version** 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-2.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-3.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Option 2: Update GeForce RTX 2080 Ti **driver**  manually
 
@@ -140,40 +63,8 @@ It’s always important to**update your graphics driver to its latest version** 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd022aaae4b3.jpg)
 3. You’ll see a list of results pop up right under. Click **the first result**   to make sure you download the latest driver release.  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd023054e8a3.jpg)
 4. Click **DOWNLOAD** .  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd02334521ec.jpg)
 5. Double-click on the downloaded file and follow the on-screen instructions to finish the install.
@@ -193,8 +84,6 @@ It’s always important to**update your graphics driver to its latest version** 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,64 +91,30 @@ It’s always important to**update your graphics driver to its latest version** 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-amazing.techidaily.com/download-gigabyte-audio-driver-free/"><u>[Download] Gigabyte Audio Driver | Free</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-steelseries-engine-for-windows-10/"><u>[Download] SteelSeries Engine for Windows 10</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-how-to-stream-on-youtube-and-twitch-with-obs/"><u>[New] How to Stream on YouTube & Twitch with OBS</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-step-by-step-turn-your-images-darker/"><u>[New] In 2024, Step-by-Step Turn Your Images Darker</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-guide-to-beauty-channels-your-step-by-step-blueprint/"><u>[New] The Ultimate Guide to Beauty Channels Your Step-By-Step Blueprint</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-expertly-edited-content-choosing-the-best-editor-for-2024/"><u>[Updated] Expertly Edited Content Choosing The Best Editor for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-trustworthy-youtube-to-mp4-file-extraction-processes/"><u>[Updated] In 2024, Trustworthy YouTube to MP4 File Extraction Processes</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-depth-study-of-video-tech-outside-manycam/"><u>[Updated] In-Depth Study of Video Tech Outside ManyCam</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-photo-editing-basics-unveiled-dive-into-lunapic/"><u>[Updated] Photo Editing Basics Unveiled Dive Into LunaPic</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-walking-through-time-a-guide-to-inverted-videos-on-instagram/"><u>[Updated] Walking Through Time A Guide to Inverted Videos on Instagram</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-text-tactics-top-10-best-practices/"><u>2024 Approved Text Tactics Top 10 Best Practices</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-art-of-subtlety-decoding-snapchats-concealed-messages/"><u>2024 Approved The Art of Subtlety Decoding Snapchat's Concealed Messages</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-top-practices-to-personalize-snapchat-video-playback/"><u>2024 Approved Top Practices to Personalize Snapchat Video Playback</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/comprehensive-instructions-for-driver-refresh-on-the-acer-nitro-5-laptop/"><u>Comprehensive Instructions for Driver Refresh on the Acer Nitro 5 Laptop</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/comprehensive-tutorial-updating-your-sony-vaios-windows-drivers/"><u>Comprehensive Tutorial: Updating Your Sony Vaio's Windows Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-latest-firmware-for-hp-laserjet-p1007-compatible-printer-drivers/"><u>Download Latest Firmware for HP LaserJet P1007 - Compatible Printer Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-logitech-audio-driver-software-compatible-with-windows-10-7-and-8/"><u>Download Logitech Audio Driver Software Compatible with Windows 10, 7 & 8</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-latest-epson-scanner-driver-software-now/"><u>Download the Latest Epson Scanner Driver Software Now!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722966932517-effortless-dell-monitor-driver-updates-get-the-latest-version-now/"><u>Effortless Dell Monitor Driver Updates - Get the Latest Version Now!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ensure-flawless-printing-on-your-pc-download-epson-workforce-ds-30-drivers-for-win-11-8-and-7/"><u>Ensure Flawless Printing on Your PC: Download Epson WorkForce DS-30 Drivers for Win 11, 8 & 7</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-on-getting-your-corsair-audio-gear-back-in-action-the-virtuoso-mic-edition/"><u>Expert Advice on Getting Your Corsair Audio Gear Back in Action: The Virtuoso Mic Edition</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-brother-mfc-9130cw-printer-software-and-drivers-free/"><u>Get the Latest Brother MFC-9130CW Printer Software and Drivers Free</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-lenovo-x220-up-and-running-fast-driver-downloads/"><u>Get Your Lenovo X220 Up and Running - Fast Driver Downloads</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-effortlessly-update-your-system-with-intel-serial-io-software/"><u>How To Effortlessly Update Your System With Intel Serial I/O Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-the-correct-printer-driver-for-hp-laserjet-pro-m402n-in-a-windows-environment/"><u>How to Get the Correct Printer Driver for HP LaserJet Pro M402n in a Windows Environment</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-install-new-lenovo-camcorder-drivers-on-windows-7/"><u>How to Install New Lenovo Camcorder Drivers on Windows 7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-obtain-the-official-dell-wlan-adapter-drivers-with-step-by-step-instructions/"><u>How to Obtain the Official Dell WLAN Adapter Drivers with Step-by-Step Instructions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-perform-a-logitech-m510-mouse-firmware-update-step-by-step-tutorial/"><u>How to Perform a Logitech M510 Mouse Firmware Update: Step-by-Step Tutorial</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-honor-magic-5-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Honor Magic 5 online without jailbreak</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-upgrade-nvidia-drivers-comprehensive-downloading-instructions/"><u>How to Upgrade NVIDIA Drivers - Comprehensive Downloading Instructions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-lava-blaze-2-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Lava Blaze 2 Pro Data? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-officejet-pro-968-software-and-driver-download-latest-version-available/"><u>HP OfficeJet Pro Ⅶ968 Software & Driver Download - Latest Version Available</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-to-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, How to Mirror PC to Apple iPhone 12 mini? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-logitech-gaming-mouse-download-latest-drivers-for-win11win10win8win7/"><u>Install Logitech Gaming Mouse: Download Latest Drivers for Win11/Win10/Win8/Win7</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/intel-compatible-features-in-apples-macos-sequoia-operating-system/"><u>Intel-Compatible Features in Apple's macOS Sequoia Operating System</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-hp-elitebook-x360-1030-g2-usb-driver-bundle-for-smooth-operations/"><u>Latest HP EliteBook X36^0 1030 G2 USB Driver Bundle for Smooth Operations</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722978872254-quick-fix-downloading-and-updating-asus-bluetooth-drivers-with-expert-advice-for-seamless-connectivity/"><u>Quick Fix: Downloading and Updating ASUS Bluetooth Drivers with Expert Advice for Seamless Connectivity.</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/rndis-drivers-for-windows-easy-downloading-and-updating-processes-explained/"><u>RNDIS Drivers for Windows: Easy Downloading and Updating Processes Explained</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solved-windows-1111-slow-boot/"><u>Solved: Windows 11/11 Slow Boot</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-fix-for-your-hp-laserjet-p2035-printers-driver-woes-in-the-windows-environment-solved/"><u>Step-by-Step Fix for Your HP LaserJet (P2035) Printer's Driver Woes in the Windows Environment [Solved]</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-updating-your-dell-2330dn-monochrome-printer-driver/"><u>Step-by-Step Guide to Updating Your Dell 2330D/N Monochrome Printer Driver</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-fixing-the-persistent-xerox-update-error-code-0x800f020b-on-pcs-running-windows/"><u>Step-by-Step Solution: Fixing the Persistent Xerox Update Error Code 0X800f020b on PCs Running Windows</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-phone-shops-where-to-purchase-the-latest-smartphones/"><u>Top Phone Shops: Where to Purchase the Latest Smartphones</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/top-ten-youtube-regulations-to-abide-by/"><u>Top Ten YouTube Regulations to Abide By</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-epson-wf-7720-printer-software-for-enhanced-windows-compatibility/"><u>Update Epson WF-7720 Printer Software for Enhanced Windows Compatibility</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-arduino-new-usb-drivers-for-enhanced-windows-integration/"><u>Update Your Arduino: New USB Drivers for Enhanced Windows Integration</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-system-with-the-new-nvidia-rtx-3080-ti-graphics-card-driver-windows-support-includes-w11-w8-and-w7/"><u>Update Your System with the New NVIDIA RTX 3080 Ti Graphics Card Driver - Windows Support Includes W11, W8 & W7</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/windows-10-printer-spooler-non-responsive/"><u>Windows 10 Printer Spooler Non-Responsive</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/windows-compatible-magic-mouse-drivers-installation-guide/"><u>Windows Compatible Magic Mouse Drivers: Installation Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ignite-dreams-the-best-movies-to-energize-your-soul/"><u>[New] Ignite Dreams The Best Movies to Energize Your Soul</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-guide-to-choosing-a-tunefab-recorder-for-2024/"><u>[New] The Ultimate Guide to Choosing a Tunefab Recorder for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-launch-your-own-fb-stream-on-pc-mac-and-laptop-using-obs/"><u>[Updated] In 2024, Launch Your Own FB Stream on PC, Mac & Laptop Using OBS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-instantaneous-frame-construction-facebook-photo-groups/"><u>2024 Approved Instantaneous Frame Construction Facebook Photo Groups</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oppo-a38-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-to-downloading-and-updating-intels-raid-drivers-on-various-windows-versions/"><u>Easy Guide to Downloading and Updating Intel's RAID Drivers on Various Windows Versions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-intel-thunderbolt-chip-drivers-download-page/"><u>Effortless Installation: Intel Thunderbolt Chip Drivers Download Page</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fast-and-simple-way-to-obtain-logitech-software-for-windows-computers/"><u>Fast & Simple Way to Obtain Logitech Software for Windows Computers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-free-qualcomm-atheros-ar938x-drivers-instantly-and-hassle-free/"><u>Get Your Free Qualcomm Atheros AR938X Drivers Instantly & Hassle-Free</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-find-and-install-lenovo-ideapad-100-driver-updates-for-windows-11/"><u>How to Find and Install Lenovo IdeaPad 100 Driver Updates for Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtubes-time-warp-watch-lists-in-the-reverse-order/"><u>In 2024, YouTube's Time Warp Watch Lists in the Reverse Order</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/nvidias-newest-rtx-2-groove-with-your-windows-11-7-or-8-drivers-now-available/"><u>Nvidia's Newest RTX 2 Groove with Your Windows 11, 7 or 8 – Drivers Now Available</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-and-official-hp-laserjet-pro-m404n-drivers-downloading-and-updates-process/"><u>Secure & Official HP LaserJet Pro M404n Drivers: Downloading and Updates Process</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-tier-session-identifier-generator-for-2024/"><u>Top-Tier Session Identifier Generator for 2024</u></a></li>
+<li><a href="https://discover-help.techidaily.com/why-you-should-avoid-using-tube2gram-for-uploading-videos-from-youtube-to-instagram/"><u>Why You Should Avoid Using Tube2Gram for Uploading Videos From YouTube to Instagram</u></a></li>
 </ul></div>
 
-
-
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
