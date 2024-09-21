@@ -1,7 +1,7 @@
 ---
 title: CR2 Image Format - How to Access and View Files Easily
-date: 2024-09-10 20:42:55
-updated: 2024-09-13 10:52:44
+date: 2024-09-15T18:22:32.224Z
+updated: 2024-09-21T18:20:38.268Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f65231397420add6e99e93d21f420e273.JPG
@@ -214,6 +214,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -305,6 +312,19 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 1. Activez l'accentuation des images d'AMD en cliquant sur **Paramètres**, puis sur **Graphiques** pour trouver le paramètre. Vous pouvez l'activer pour des jeux individuels ou globalement.
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
 
@@ -403,6 +423,19 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
@@ -423,6 +456,19 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -454,6 +500,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)[À propos de la version Windows](https://www.gecata.com/)
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -536,11 +589,29 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-fixing-muted-audio-and-video-transmission-errors-on-fb-messengers-mobile-app/"><u>[New] 2024 Approved Fixing Muted Audio & Video Transmission Errors on FB Messengers Mobile App</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-detailed-exploration-youtubes-visionary-suite-for-2024/"><u>[New] A Detailed Exploration YouTube's Visionary Suite for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-15-pioneering-online-education-websites-beyond-udemy/"><u>[Updated] 2024 Approved 15 Pioneering Online Education Websites Beyond Udemy</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-a-year-in-the-market-top-15-finance-videos/"><u>[Updated] A Year in the Market Top 15 Finance Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-rhyme-and-groove-top-20-rap-sensations-on-tiktok-today/"><u>[Updated] Rhyme & Groove Top 20 Rap Sensations on TikTok Today</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-list-elite-4k-tv-selection/"><u>2024 Approved Exclusive List Elite 4K TV Selection</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/audience-attracting-innovations-in-fb-video-ad-design/"><u>Audience-Attracting Innovations in FB Video Ad Design</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/discover-the-ultimate-hd-screen-grab-software-a-comprehensive-ranking-for-enhanced-productivity-insights-from-movavi/"><u>Discover the Ultimate HD Screen Grab Software : A Comprehensive Ranking for Enhanced Productivity - Insights From Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-imovie-para-windows-gratis-e-oficial-download-mais-seguro/"><u>Download iMovie Para Windows Grátis E Oficial - Download Mais Seguro</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guide-pratique-de-conversion-mpeg-2-vers-mp4-avi-ou-ts-pour-une-meilleure-accessibilite/"><u>Guide Pratique De Conversion MPEG-2 Vers MP4, AVI Ou TS Pour Une Meilleure Accessibilité</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gadget-unveiling-top-youtube-channels-to-watch/"><u>In 2024, Gadget Unveiling Top YouTube Channels to Watch</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/online-mkvmjpeg-converter-wijziging-naar-gratiesoftware-movavi-duurvrije-en-eenvoudige/"><u>Online MKV/MJPEG Converter Wijziging Naar Gratiesoftware - Movavi, Duurvrije En Eenvoudige</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/techniques-rapides-pour-tirer-le-fil-detonnant-dans-les-clips-videos-a-laide-de-movavi/"><u>Techniques Rapides Pour Tirer Le Fil Détonnant Dans Les Clips Vidéos À L'aide De Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-15-films-with-dolby-atmos-sound-experience-for-your-home-theater/"><u>Top 15 Films with Dolby Atmos Sound Experience for Your Home Theater</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transforma-audio-mp2-a-wav-libremente-utilizando-convertidores-en-linea-una-guia-de-movavi/"><u>Transforma Audio MP2 a WAV Libremente Utilizando Convertidores en Línea: Una Guía De Movavi</u></a></li>
+</ul></div>
+

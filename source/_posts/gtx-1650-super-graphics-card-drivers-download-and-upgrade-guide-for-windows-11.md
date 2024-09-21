@@ -1,7 +1,7 @@
 ---
 title: GTX 1650 Super Graphics Card Drivers Download and Upgrade Guide for Windows 11
-date: 2024-09-09T20:31:58.710Z
-updated: 2024-09-16T16:34:45.877Z
+date: 2024-09-17T18:10:04.999Z
+updated: 2024-09-21T20:35:26.714Z
 tags:
   - win11
   - win10
@@ -61,10 +61,10 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Manually update your Targus DisplayLink driver
@@ -77,40 +77,47 @@ OR
 4. Type the**model name** or**serial number** of your Targus product into the search box to locate the corresponding drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-368.png) Alternatively, you may select**Category** and then**Product** to look for the drivers of your product.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-370.png)
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. After locating the corresponding driver for your product, click on the**Download** button below.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-372.png)
 6. Right-click on the file (with a ZIP extension) you’ve just downloaded to open the context menu. Then click**Extract All…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-375.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. In the pop-up window, click**Browse…** and choose a destination folder where you want to decompress the file. Then, click**Extract** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-376.png)
 8. Wait till the decompression process finishes. Then**copy** the full path of the destination folder. (The path will be different depending on your choice in the last step. )![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-20_15-47-31.png)
 9. On your keyboard, press the **Windows Logo Key** and **R**  at the same time to open the**Run**  box. Type **devmgmt.msc** and click **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap13-2.png)
 10. In the**Device Manager** window, locate your Targus device and then right-click on it to open the context menu. Select**Update driver** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap14-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 11. If prompted, click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-384.png)
 12. **Paste** the full path copied in**Step 8** onto the address bar. Remember to check the **Include subfolders** box. Then hit the **Next** button.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-387.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 13. Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
@@ -139,16 +146,12 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-enhancing-webcam-gaming-experience-and-quality/"><u>[New] 2024 Approved Enhancing WebCam Gaming Experience & Quality</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-transformative-techniques-to-mute-background-noise/"><u>[New] In 2024, Transformative Techniques to Mute Background Noise</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-intuitive-face-blurring-guide-on-piscart-tools/"><u>[New] Intuitive Face-Blurring Guide on PiscArt Tools</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-spectrum-perfection-color-grading-basics/"><u>[New] Spectrum Perfection Color Grading Basics</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722978126346-effortless-update-for-logitech-m325-drivers-get-it-now/"><u>Effortless Update for Logitech M325 Drivers – Get It Now</u></a></li>
-<li><a href="https://solve-news.techidaily.com/enhance-your-site-with-cookiebot-driven-personalization/"><u>Enhance Your Site with Cookiebot-Driven Personalization</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-hp-laserjet-1320-printer-drivers-and-updates-for-your-windows-pc/"><u>Get the Latest HP LaserJet 1320 Printer Drivers & Updates for Your Windows PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-free-techkey-bluetooth-drivers-for-win-10-7-and-8-instant-download/"><u>Get Your Free Techkey Bluetooth Drivers for Win 10, 7 & 8 - Instant Download</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-install-updated-nvidia-quadro-drivers-on-your-windows-10-pc-enhanced-performance-and-reliability/"><u>How to Install Updated NVIDIA Quadro Drivers on Your Windows 10 PC: Enhanced Performance and Reliability</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/lenovo-thinkpad-obtain-the-latest-safely-verified-drivers-here-guaranteed/"><u>Lenovo ThinkPad - Obtain the Latest, Safely Verified Drivers Here [Guaranteed]</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-restrictions-protecting-data-through-updated-safety-protocols/"><u>Understanding the Restrictions: Protecting Data Through Updated Safety Protocols</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ignite-your-imagination-a-look-at-the-leading-6-nft-makers/"><u>[Updated] In 2024, Ignite Your Imagination - A Look at the Leading 6 NFT Makers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/4-effective-methods-for-capturing-sound-from-web-pages-using-movavi/"><u>4 Effective Methods for Capturing Sound From Web Pages Using Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/app-vs-website-the-unmatched-benefits-of-using-chatgpt-offline/"><u>App vs Website: The Unmatched Benefits of Using ChatGPT Offline</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-vivo-y55s-5g-2023-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo Y55s 5G (2023) Unlock Without Password</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavi-converti-immagini-mef-in-formato-jpeg-gratuito-online/"><u>Movavi: Converti Immagini MEF in Formato JPEG Gratuito Online</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speedily-solve-airdrop-connectivity-issues-with-this-list-of-16-effective-tips/"><u>Speedily Solve AirDrop Connectivity Issues with This List of 16 Effective Tips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-logiciels-dorganisation-et-de-tri-des-photographies/"><u>Top Logiciels D'Organisation Et De Tri Des Photographies</u></a></li>
 </ul></div>
 

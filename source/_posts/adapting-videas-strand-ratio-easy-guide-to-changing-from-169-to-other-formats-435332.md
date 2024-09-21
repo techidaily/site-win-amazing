@@ -1,7 +1,7 @@
 ---
 title: "Adapting Videa's Strand Ratio - Easy Guide to Changing From 16:9 to Other Formats (4:3/5:3/3:2)"
-date: 2024-09-11 22:31:52
-updated: 2024-09-13 11:20:28
+date: 2024-09-18T17:28:56.670Z
+updated: 2024-09-21T19:35:52.270Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a056aaed74ee36c6a269ef696.jpg
@@ -240,6 +240,13 @@ Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows C
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
 Mais même en l'absence de tels redémarrages "en pleine face", qui sont en fait assez rares, le téléchargement des mises à jour en arrière-plan limite vos vitesses de connexion et occupe la mémoire vive de votre PC.
@@ -277,6 +284,13 @@ Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez da
 Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive souvent que de nouveaux bogues apparaissent dans les nouvelles mises à jour ou que certains éléments cessent de fonctionner.
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver les notifications
 
@@ -324,6 +338,13 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
 ### Optez pour un SSD
@@ -361,6 +382,19 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -400,6 +434,13 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
@@ -536,11 +577,28 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-fixing-absence-of-color-on-game-feedback/"><u>[New] 2024 Approved Fixing Absence of Color on Game Feedback</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-heaviest-airborne-haulers-drone-selection-insights/"><u>[New] In 2024, Heaviest Airborne Haulers Drone Selection Insights</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-unlocking-revenue-harnessing-video-ad-dollars-on-youtube/"><u>[New] In 2024, Unlocking Revenue Harnessing Video Ad Dollars on YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-pro-tools-for-netflix-capture-a-mac-guide-of-six-strategies-for-2024/"><u>[New] Pro Tools for Netflix Capture A Mac Guide of Six Strategies for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1-all-of-movavis-features-explore-the-full-potential-with-movavi-video-editor/"><u>1. All of Movavi's Features - Explore the Full Potential with Movavi Video Editor</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mkamp3-movavi/"><u>免費網站 MKA到MP3 無間斷變更 - 使用 Movavi 音頻轉換工具</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722995610140-back-4-blood-wont-open-here-are-the-solutions-for-all-your-windows-needs/"><u>Back 4 Blood Won't Open? Here Are the Solutions for All Your Windows Needs!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/conversion-sans-frais-changer-un-fichier-webm-en-format-flac-directement-en-ligne-avec-laide-de-movavi/"><u>Conversion Sans Frais: Changer Un Fichier Webm en Format Flac Directement en Ligne - Avec L'Aide De Movavi</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/demystifying-twitter-archives-for-users-and-analysts/"><u>Demystifying Twitter Archives for Users & Analysts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/discover-the-leading-10-adobe-after-effects-replacements-both-cost-free-and-commercial-solutions/"><u>Discover the Leading 10 Adobe After Effects Replacements, Both Cost-Free & Commercial Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-f04-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy F04 Phone Hassle-Free</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-powerhouse-guide-to-screen-recording-with-tunefab/"><u>In 2024, The Powerhouse Guide to Screen Recording with Tunefab</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/streamline-your-media-conversion-with-konvertera-free-and-fast-mp4-online/"><u>Streamline Your Media Conversion with Konvertera - Free and Fast MP4 Online</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/trasformare-video-flv-in-formato-ogg-gratuitamente-online-conversione-rapida-e-facile-con-movavi/"><u>Trasformare Video FLV in Formato OGG Gratuitamente Online - Conversione Rapida E Facile Con Movavi</u></a></li>
+</ul></div>
+

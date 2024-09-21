@@ -1,7 +1,7 @@
 ---
 title: "Top Apps Perfezionare Le Fotografie Dell'Album Digitale: Guida Completa"
-date: 2024-09-10 12:51:14
-updated: 2024-09-13 11:21:30
+date: 2024-09-17T16:17:26.906Z
+updated: 2024-09-21T21:51:25.193Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142dd7f5f842e985181e8a620c0.jpg
@@ -287,6 +287,13 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler le panneau de contrôle NVIDIA
 
 Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiques à la carte dans le panneau de configuration. Voici quelques-uns des meilleurs paramètres Windows 10 pour les cartes NVIDIA pour les jeux.
@@ -305,6 +312,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 1. Activez l'accentuation des images d'AMD en cliquant sur **Paramètres**, puis sur **Graphiques** pour trouver le paramètre. Vous pouvez l'activer pour des jeux individuels ou globalement.
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
 
@@ -411,6 +425,19 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Empêchez votre ordinateur portable de surchauffer
 
 Les ordinateurs portables sont réputés pour leur surchauffe, car tous les composants sont serrés dans le châssis et l'air circule peu. En cas de surchauffe, le système ralentit et les performances de jeu aussi. Utilisez ces conseils de prévention :
@@ -454,6 +481,19 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)[À propos de la version Windows](https://www.gecata.com/)
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -510,6 +550,13 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -536,11 +583,27 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-celebrating-androids-best-moba-players-today/"><u>[New] Celebrating Android's Best MOBA Players Today</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-elevating-videogame-recording-the-steam-methodology-for-2024/"><u>[New] Elevating Videogame Recording The Steam Methodology for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-revel-in-the-wonders-of-asmrs-positive-effects/"><u>2024 Approved Revel in the Wonders of ASMR's Positive Effects</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/conversion-gratuite-des-fichiers-wmv-en-format-aiff-en-ligne-solutions-de-movavi/"><u>Conversion Gratuite Des Fichiers WMV en Format AIFF en Ligne - Solutions De Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/converter-de-video-livre-online-tornar-suas-imagens-do-padrao-mpeg3g2-com-o-software-da-movavi/"><u>Converter De Vídeo Livre Online: Tornar Suas Imagens Do Padrão MPEG/3G2 Com O Software Da Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ensuring-data-security-when-utilizing-tailored-gpt-models-like-chatgpt/"><u>Ensuring Data Security When Utilizing Tailored GPT Models Like ChatGPT</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-logging-you-out-randomly-7-ways-to-fix-it/"><u>Facebook Logging You Out Randomly? 7 Ways to Fix It</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-converter-transform-m4v-videos-into-flash-format-swf-movavi/"><u>Free Converter: Transform M4V Videos Into Flash Format (SWF) - Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/harmonizing-services-uniting-your-musical-lists/"><u>Harmonizing Services Uniting Your Musical Lists</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/instagram-frihetigenes-hemliga-handbok-den-3-sidiga-ansatsen-att-komprimera-videor-for-du-inledningsvis-movavi/"><u>Instagram-Frihetigenes Hemliga Handbok: Den 3-Sidiga Ansatsen Att Komprimera Videor För Du - Inledningsvis Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavi-swfgif/"><u>Movaviで無料ですぐに完了! SWFファイルをオンラインでGIFに変換</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/recipe-renovation-with-a-digital-master-chef-chatgpt/"><u>Recipe Renovation with a Digital Master Chef (ChatGPT)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-11-sites-para-download-de-subtitulado-en-espanol/"><u>Top 11 Sites Para Download De Subtitulado en Español</u></a></li>
+</ul></div>
+

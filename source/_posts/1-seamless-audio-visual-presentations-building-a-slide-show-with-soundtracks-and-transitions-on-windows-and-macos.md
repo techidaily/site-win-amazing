@@ -1,7 +1,7 @@
 ---
 title: "1. Seamless Audio-Visual Presentations: Building a Slide Show with Soundtracks and Transitions on Windows & macOS"
-date: 2024-09-11 21:20:40
-updated: 2024-09-13 12:25:42
+date: 2024-09-18T17:36:19.163Z
+updated: 2024-09-21T17:10:52.004Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/c7c73b7c4a7efc6c835802b5aee6775aac1b5aafcbc08ea28ac48bf90c458f91.jpg
@@ -176,6 +176,13 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
@@ -213,6 +220,19 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
@@ -278,6 +298,13 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -310,6 +337,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver l'accélération de la souris
 
 Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en matière de jeu, mais il s'agit plutôt d'un conseil pour vous permettre d'améliorer vos performances personnelles en matière de jeu. L'accélération de la souris est un paramètre qui fait bouger votre souris en se basant non seulement sur la détection des mouvements physiques mais aussi sur la vitesse. Cette option rend en fait les mouvements de votre souris moins précis, car elle ajoute un paramètre supplémentaire au mouvement que vous transmettez à la souris. Étant donné que la précision est cruciale pour la précision de la visée dans les jeux de tir à la première personne, si vous êtes un fan de Call of Duty, Counter-Strike ou Overwatch, vous devriez absolument désactiver cette option.
@@ -317,6 +351,13 @@ Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en m
 Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de la souris" dans la zone de recherche. Choisissez **Modifier l'affichage ou la vitesse du pointeur de la souris**. Dans la fenêtre qui s'ouvre, allez dans l'onglet **Options du pointeur** et décochez la case **Améliorer la précision du pointeur**.
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -536,11 +577,30 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-live-large-the-top-5-mac-streaming-applications/"><u>[New] Live, Large The Top 5 Mac Streaming Applications</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/uickclip-genius/"><u>[New] QuickClip Genius</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/outube-music-a-guide-to-coherence/"><u>[New] YouTube Music A Guide to Coherence</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exploring-various-ways-to-earn-on-youtube/"><u>[Updated] 2024 Approved Exploring Various Ways to Earn on YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-top-5-affordable-drones-under-500/"><u>[Updated] Top 5 Affordable Drones Under $500</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/online-movavi-mp4-to-gif/"><u>無償で使えるOnline動画形式変更機能 - Movavi MP4 to GIF</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/m4bwavmoveavi/"><u>無料で効率的にオンデマンド変換! M4BをWAVにするMoveaviソリューション</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/convertir-contenido-de-video-de-mp4-al-estandar-aiff-de-forma-gratuita-usando-herramientas-de-movavi-guia-paso-a-paso/"><u>Convertir Contenido De Video De MP4 Al Estándar AIFF De Forma Gratuita Usando Herramientas De Movavi - Guía Paso a Paso</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/covert-tutorial-how-to-capture-snapchats-unnoticed/"><u>Covert Tutorial: How To Capture Snapchats Unnoticed</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-fixing-persistent-crashes-in-the-popular-ring-of-elysium-title/"><u>Expert Tips for Fixing Persistent Crashes in the Popular Ring of Elysium Title</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-on-getting-your-broken-bose-speaker-back-in-action/"><u>Expert Tips on Getting Your Broken Bose Speaker Back in Action</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-online-conversion-change-your-files-from-aac-to-m4a-format-using-movavi/"><u>Free Online Conversion: Change Your Files From AAC to M4A Format Using Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/online-free-converter-from-mpeg-to-flv-movavi/"><u>Online Free Converter From MPEG to FLV - Movavi</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-5-recorder-picks-to-freeze-your-web-wanderings-in-time/"><u>Top 5 Recorder Picks to Freeze Your Web Wanderings in Time</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transformez-vos-photos-nef-en-format-jpeg-gratuitement-en-ligne-a-laide-de-movavi/"><u>Transformez Vos Photos NÉF en Format JPEG Gratuitement en Ligne À L'aide De MOVAVI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/virtual-therapist-tools-safe-ai-for-mental-health/"><u>Virtual Therapist Tools: Safe AI for Mental Health</u></a></li>
+</ul></div>
+

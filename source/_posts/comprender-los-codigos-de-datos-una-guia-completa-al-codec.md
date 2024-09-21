@@ -1,7 +1,7 @@
 ---
 title: "Comprender Los Códigos De Datos: Una Guía Completa Al Códec"
-date: 2024-09-12 11:15:37
-updated: 2024-09-13 10:16:56
+date: 2024-09-15T16:28:50.282Z
+updated: 2024-09-21T19:50:40.895Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b3efda1ae17d3bfe6d387995.jpg
@@ -184,6 +184,13 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler les paramètres graphiques d'un jeu
 
 Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aider à optimiser votre expérience de jeu. En voici trois que vous devriez vérifier dans le menu des paramètres du jeu avant de jouer.
@@ -221,6 +228,13 @@ Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été d�
 Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur la   **touche Windows** \+ **R**, tapez "dxdiag" et cliquez sur **OK**. L'outil de diagnostic DirectX s'ouvre.
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -309,6 +323,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
 
@@ -407,6 +428,13 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
@@ -467,6 +495,13 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Modifiez les paramètres de votre carte graphique
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
@@ -536,11 +571,30 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-avoidance-and-remedy-of-live-video-interruption-issues-fb/"><u>[New] Avoidance & Remedy of Live Video Interruption Issues (FB)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-amplify-your-brand-a-guide-to-better-facebook-page-scores/"><u>[Updated] 2024 Approved Amplify Your Brand A Guide to Better Facebook Page Scores</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-flip-the-script-on-instagram-vids-complete-guide/"><u>[Updated] 2024 Approved Flip the Script on Instagram Vids [Complete Guide]</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-slumber-screen-shows-story-insights-reviewed/"><u>[Updated] Slumber Screen Shows Story Insights Reviewed</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1726222622089-movavi-video-editor/"><u>免费获取 Movavi Video Editor 以及更多优美程序 - 绝不错过!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/apexs-single-player-focus-how-to-optimize-your-game-experience-for-2024/"><u>Apex's Single Player Focus How to Optimize Your Game Experience for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/conversao-de-audio-e-video-livre-do-movavi-wma-para-mp4-sem-custo-algum/"><u>Conversão De Áudio E Vídeo Livre Do Movavi - WMA Para MP4 Sem Custo Algum</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/creating-stunning-slow-motion-videos-with-your-iphone-a-4-step-guide-using-the-movavi-app/"><u>Creating Stunning Slow Motion Videos with Your iPhone: A 4-Step Guide Using the Movavi App</u></a></li>
+<li><a href="https://article-tips.techidaily.com/enhance-accessibility-with-top-free-text-conversion-software-for-macs/"><u>Enhance Accessibility with Top Free Text Conversion Software for Macs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-online-conversion-of-nsv-files-to-mpeg-moveave/"><u>Free Online Conversion of NSV Files to MPEG - Moveave</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratuit-verbetering-mod-naar-avi-format-onlinereproductie-in-duo-minuten/"><u>Gratuit Verbetering MOD Naar Avi-Format - Onlinereproductie in Duo Minuten</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://solve-news.techidaily.com/step-by-step-instructions-for-watching-mov-format-movies-on-your-windows-pc-windows-1011/"><u>Step-by-Step Instructions for Watching MOV Format Movies on Your Windows PC (Windows 10/11)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/xerox-workcentre-6515-firmware/"><u>Xerox WorkCentre 6515 Firmware</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1726227225942-mp4-m4b-movavi/"><u>모바일 장치에 적합한 MP4, M4B 비디오를 원형값으로 쉽고 무료로 변환하는 방법 - Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1726224038139-movavi/"><u>오토바이오를 위한 원형 동호흡 파일을 쉽게 대화형 파일로 변환하는 방법 – Movavi</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Raster Graphics (RAF) 로스트로 비용 없이 PNG을 구문 변환하기 위한 자세한 단계 - Movavi 지원
-date: 2024-09-11 11:32:33
-updated: 2024-09-13 10:55:56
+date: 2024-09-17T18:23:30.068Z
+updated: 2024-09-21T19:09:43.391Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/0cc9ca6810c238dfdd969844d2250493a479c3321512aa3c39ef7570f30da978.jpg
@@ -221,6 +221,13 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 對普通使用者而言工具太多了
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [**IrfanView**](https://www.irfanview.com/)
@@ -242,6 +249,13 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 [**XnView**](https://www.xnview.com/en/)
 
 ![](https://cdn.staticont.net/page_type/0013/40/9462b44dd7787a9d521c67727a9d947cbc74b9ef.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 與 FastStone 的圖片檢視器類似，XnView 的介面易於瀏覽，可以清晰顯示所有圖像，並為使用者提供所選照片的大型視圖。該軟體支援所有標準的圖像檔案類型，如 JPEG、PNG 和 TIFF，甚至還支援其他一些編解碼器，如相機的 RAW 檔等等。甚至還能當作多媒體瀏覽平台來使用，讓您開啟並檢查影音檔。雖然在新增動畫和轉換檔案方面沒有 Windows Photo Viewer 那麼全面，但仍不失為 XnView Classic 的推薦替代品，或者只需支付少量費用就能獲得強化的 MP 版本。
 
@@ -298,6 +312,13 @@ Movavi Photo Editor
 [免費下載](https://tools.techidaily.com/movavi/products/)[關於 Mac 版](https://tools.techidaily.com/movavi/photo-editor/)
 
 ![Movavi Photo Editor](https://cdn.staticont.net/products/0023/55/9a17d17e3b725cbe831e0805991a555d41a72bca.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 常見問題集
 
@@ -363,6 +384,13 @@ Movavi Photo Editor
 
 ![有問題嗎?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 有問題嗎?
 
 若找不到問題的答案，請隨時與支援團隊聯繫。
@@ -379,6 +407,13 @@ Movavi Photo Editor
 
 ![](https://cdn.staticont.net/large/0023/57/cf8906a2f1d2d8afde4fca802515cea44f819eb7.jpg)![](https://cdn.staticont.net/large/0023/57/a26cd736bdba4b196180fd96537ae9b75b6253ba.jpg)![](https://cdn.staticont.net/large/0023/57/c2e7dff79a124e18600d55aec01616cde09d6c5b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 超過 150萬位用戶已訂閱我們的電子報
 
 您的電子郵件
@@ -393,11 +428,29 @@ Movavi Photo Editor
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-elevate-your-lol-gameplay-on-camera-three-methods-for-2024/"><u>[New] Elevate Your LOL Gameplay on Camera - Three Methods for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-intenseflame-screen-recorders-for-2024/"><u>[Updated] IntenseFlame Screen Recorders for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-seamless-online-video-sharing-via-vimeo/"><u>[Updated] Seamless Online Video Sharing via Vimeo</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-smooth-telegram-web-use/"><u>[Updated] Unveiling the Secrets of Smooth Telegram Web Use</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/benchmarking-the-future-in-depth-analysis-on-top-gaming-laptops-in-202/"><u>Benchmarking The Future: In-Depth Analysis on Top Gaming Laptops in 202</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/brother-hl-l2370dw-printer-driver-download-latest-version-available-now/"><u>Brother HL-L2370DW Printer Driver Download: Latest Version Available Now!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-setup-your-asus-touchpad-drivers-fast-on-windows-11/"><u>Download and Setup Your ASUS Touchpad Drivers Fast on Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-logitech-hd-webcam-c27eb-driver-download-for-win-10-and-11-systems/"><u>Easy Installation Guide: Logitech HD Webcam C27eb Driver Download for Win 10 and 11 Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-ch340-serial-port-driver-compatible-with-windows-10/"><u>Get the Newest CH340 Serial Port Driver Compatible with Windows 10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-and-use-logitech-sound-card-drivers-for-windows-11-7-and-8-operating-systems/"><u>How to Download and Use Logitech Sound Card Drivers for Windows 11, 7 & 8 Operating Systems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oppo-f25-pro-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Oppo F25 Pro 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-instructions-refresh-your-ati-drivers-for-enhanced-performance/"><u>Step-by-Step Instructions: Refresh Your ATI Drivers for Enhanced Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/to-buy-or-not-the-mechanical-keyboard-dilemma/"><u>To Buy or Not: The Mechanical Keyboard Dilemma</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tweet-town-ranking-the-trending-threads-for-2024/"><u>Tweet Town Ranking the Trending Threads for 2024</u></a></li>
+</ul></div>
+

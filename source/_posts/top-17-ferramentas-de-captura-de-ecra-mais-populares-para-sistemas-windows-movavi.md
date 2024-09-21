@@ -1,7 +1,7 @@
 ---
 title: Top 17 Ferramentas De Captura De Ecrã Mais Populares Para Sistemas Windows - Movavi
-date: 2024-09-11 10:38:32
-updated: 2024-09-13 11:50:21
+date: 2024-09-18T21:00:31.320Z
+updated: 2024-09-21T16:26:02.297Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/f3c81d671c8975a0a306f74ea58cef7dc2a77184049b2346fa009262537fb57a.jpg
@@ -221,11 +221,25 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 
 * 對普通使用者而言工具太多了
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [**IrfanView**](https://www.irfanview.com/)
 
 ![](https://cdn.staticont.net/page_type/0013/40/dcdf45d4b6ceea077e36e869c5e7f60097f8c957.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 十幾年來，IrfanView 都是許多 Windows 10 和 Windows 7 電腦中的必備產品。原因不難理解，這款軟體包含了一大堆的圖像編輯功能，包括批次轉換，並允許為更多特殊需求新增外掛程式。IrfanView 同時也是掃描機和電腦之間的介面，因此無需再打開通用的掃描視窗，也無需在設定上做手腳，因為 IrfanView 全會為您搞定，更能組織圖片。雖然這款軟體看起來有點舊了，但說到務實的圖片瀏覽，這個就能搞定一切了。
 
@@ -236,6 +250,13 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 缺點：
 
 * 使用者介面過時且不符合大眾口味
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -274,6 +295,19 @@ FastStone 可能是最牢靠的看圖軟體了。該軟體在瀏覽、簡單的�
 [**Google Photos**](https://www.google.com/intl/zh-TW/photos/about/)
 
 ![](https://cdn.staticont.net/page_type/0013/45/d64fdda203dbd8ccf5369a8901c4a494f69794ae.webp)
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Google Photos 與其套件中的其他 Google 應用程式一起運作。這些應用程式都是在線上提供，而不會儲存在本機裝置上。這使得本工具非常適合那些隨時保持網路連線、並用多種裝置 (筆記型電腦、智慧型手機、平板電腦等等)，而且需要同步編輯的數位游牧民。然而，您仍可從五種不同的儲存模式中進行選擇，其中一種便是離線模式。離線儲存使您無論身在何方，都能存取檔案，而不需要網際網路連線。正如您所期望的那樣，Google 的介面流暢而現代，視窗中的工具都很直觀，但確實缺乏像 Windows Photo Viewer 那樣建立電影或新增動畫的能力。
 
@@ -363,6 +397,13 @@ Movavi Photo Editor
 
 ![有問題嗎?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 有問題嗎?
 
 若找不到問題的答案，請隨時與支援團隊聯繫。
@@ -393,11 +434,24 @@ Movavi Photo Editor
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/ismv-mp4/"><u>.ismv ファイルから MP4 への効果的な変換手順</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-15-sites-offering-premium-free-vectr-and-illustration-tools-and-services/"><u>[Updated] 15 Sites Offering Premium-Free Vectr and Illustration Tools & Services</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/aac-mp4-movavi/"><u>AAC MP4音声コーデック変換 - オンラインで無料、簡単なMovaviアプリ</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eliminate-absence-in-sims-screens/"><u>Eliminate Absence in Sims' Screens</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/expert-tips-for-cleaning-up-your-photos-remove-distractions-using-movavi-image-editor/"><u>Expert Tips for Cleaning Up Your Photos - Remove Distractions Using Movavi Image Editor</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratis-convertidor-de-archivos-vob-a-video-guia-completa-con-movavi/"><u>Gratis Convertidor De Archivos VOB a VIDEO: Guía Completa Con Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-ai-types-community-wide-to-homebound-integration/"><u>Navigating AI Types: Community-Wide to Homebound Integration</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-why-wont-my-pc-exit-windows-10-properly/"><u>Solution Guide: Why Won't My PC Exit Windows 10 Properly?</u></a></li>
+<li><a href="https://driver-error.techidaily.com/stabilized-external-hdd-controls/"><u>Stabilized External HDD Controls</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/title-overzicht-van-het-webm-formatovervattingstekstuig-en-de-manier-om-ermee-te-werken/"><u>Title: Overzicht Van Het WebM-Formatovervattingstekstuig en De Manier Om Ermee Te Werken</u></a></li>
+</ul></div>
+

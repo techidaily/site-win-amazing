@@ -1,7 +1,7 @@
 ---
 title: Install Updated Corsair H80i V2 SATA & NVMe Drive Drivers Today!
-date: 2024-09-12T16:12:54.806Z
-updated: 2024-09-16T20:09:13.167Z
+date: 2024-09-20T16:22:30.033Z
+updated: 2024-09-21T22:07:03.489Z
 tags:
   - win11
   - win10
@@ -54,13 +54,6 @@ OR
 
 **4)** Download the audio driver and install it manually.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Option 2 – Automatically update drivers**
 
  If you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with Driver Easy.
@@ -74,19 +67,20 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2019/05/giga1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -109,18 +103,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/our-go-to-list-asmr-on-phone-platforms/"><u>[New] Your Go-To List ASMR on Phone Platforms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-approved-tempo-transformation-software-index/"><u>[Updated] Expert-Approved Tempo Transformation Software Index</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-resounding-videos-a-tutorial-on-instagrams-musical-integration-for-2024/"><u>[Updated] Resounding Videos A Tutorial on Instagram's Musical Integration for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-outros-that-grow-your-channel-faster/"><u>[Updated] YouTube Outros that Grow Your Channel Faster</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-x100-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo X100</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-steps-for-installing-microsoft-drivers-updates-on-your-windows-1187-pc/"><u>Easy Steps for Installing Microsoft Drivers Updates on Your Windows 11/8/7 PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-your-game-repositorys-visibility-on-epic-labs/"><u>Enhancing Your Game Repository's Visibility on Epic Labs</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722978446316-get-your-graphics-upgraded-nvidias-new-game-ready-windows-drivers-free-downloads-available/"><u>Get Your Graphics Upgraded: NVIDIA's New Game-Ready Windows Drivers - Free Downloads Available!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/guide-to-downloading-and-installing-hps-cross-platform-print-driver-for-windows-users/"><u>Guide to Downloading & Installing HP's Cross-Platform Print Driver for Windows Users</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-samsung-galaxy-s23plus-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Samsung Galaxy S23+ Activity | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-hp-laserjet-5200-printer-driver-on-your-computer-running-windows-11108-step-by-step-tutorial/"><u>Install HP LaserJet 5200 Printer Driver on Your Computer Running Windows 11/10/8 - Step-by-Step Tutorial</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-notch-visual-chronology-creator-for-2024/"><u>Top-Notch Visual Chronology Creator for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722970197491-windows-nwi-fi-driver-downloads-modernize-and-enhance-connectivity-on-windows-7-systems/"><u>Windows #N#Wi-Fi Driver Downloads: Modernize and Enhance Connectivity on Windows 7 Systems.</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-funnyframefinder-your-source-for-meme-creation-online/"><u>[New] FunnyFrameFinder Your Source for Meme Creation Online</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-how-to-reverse-image-search-instagram/"><u>[New] How To Reverse Image Search Instagram</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-elite-nintendo-switch-fighters-showdown-max-156/"><u>[Updated] Elite Nintendo Switch Fighters Showdown (Max 156)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-laggard-to-lightning-pick-8-apps-now/"><u>[Updated] From Laggard to Lightning Pick 8 Apps Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/2024-mp4-ifo-3-ifo-mp4/"><u>2024 연도 MP4에서 최고의 IFO 파일로 자유롭게 전환하는 3가지 기본 IFO MP4 방법</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/caf-mp4movavi/"><u>直接在线CAF-MP4转换：利用Movavi自由扩展影片格式</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-oneplus-ace-2v-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to OnePlus Ace 2V FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-chatgpt-experience-by-building-detailed-user-personas/"><u>Enhance Your ChatGPT Experience by Building Detailed User Personas</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-from-stills-to-songs-the-art-of-audio-visual-fusion/"><u>In 2024, From Stills to Songs The Art of Audio-Visual Fusion</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/step-by-step-crafting-youtube-content-in-sony-vegas/"><u>Step-by-Step Crafting YouTube Content in Sony Vegas</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-15-video-stabilizers-the-ultimate-guide-to-finding-the-right-tool-free-and-premium-options/"><u>Top 15 Video Stabilizers: The Ultimate Guide to Finding the Right Tool (Free and Premium Options)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transformez-vos-fichiers-amv-en-mp4-gratuitement-sur-internet-le-service-de-conversion-rapide-de-movavi/"><u>Transformez Vos Fichiers AMV en MP4 Gratuitement Sur Internet - Le Service De Conversion Rapide De Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/tga-jpg-png-gif/"><u>무료 인터넷 연결으로 TGA이미지를 JPG, PNG, GIF로 자주 바꾸기: 모바비</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/wavmp3-movavi/"><u>オンライン無料によるWAV形式からMP3への高速変換 - Movaviマジック</u></a></li>
 </ul></div>
 
