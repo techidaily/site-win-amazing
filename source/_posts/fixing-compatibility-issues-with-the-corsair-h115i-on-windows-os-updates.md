@@ -1,7 +1,7 @@
 ---
 title: Fixing Compatibility Issues with the Corsair H115i on Windows OS Updates
-date: 2024-09-16T20:55:32.859Z
-updated: 2024-09-21T17:32:52.170Z
+date: 2024-09-25T20:24:20.320Z
+updated: 2024-09-28T05:37:32.614Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 1. [Manually download the HP Universal Print Driver](https://tools.techidaily.com/drivereasy/download/)
 2. [Automatically download and install the HP Universal Print Driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Manually download the HP Universal Print Driver
 
  To download the correct**HP Universal Print Driver** , you should go to the[HP website](https://support.hp.com/drivers) , find the latest version of your print driver and manually install it in your computer.
@@ -53,11 +60,25 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af11f1d25dbe.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your printer to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af11f403b2dc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -82,18 +103,18 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-professional-lenses-and-cameras-for-youtubers/"><u>[Updated] Professional Lenses & Cameras for Youtubers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-how-to-upload-srt-files-to-social-media-100-working-methods/"><u>2024 Approved How to Upload SRT Files to Social Media (100% Working Methods)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-solution-updating-huion-graphics-tablet-software-for-pcs/"><u>Complete Solution: Updating Huion Graphics Tablet Software for PCs</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/easy-guide-to-downloading-complete-youtube-playlists-and-channel-videos/"><u>Easy Guide to Downloading Complete YouTube Playlists & Channel Videos</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/eye-on-the-best-online-photo-printers-for-24/"><u>Eye on the Best Online Photo Printers for '24</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-d-link-driver-updates-for-windows-easy-installation-tutorial/"><u>Get the Latest D-Link Driver Updates for Windows - Easy Installation Tutorial</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-and-set-up-hp-laserjet-printer-driver-5200-on-windows-11-10-and-8/"><u>How to Get and Set Up HP LaserJet Printer Driver 5200 on Windows 11, 10 & 8</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-logitech-g-pro-driver-software-available-here-compatible-with-windows-111087/"><u>Latest Logitech G Pro Driver Software Available Here - Compatible with Windows 11/10/8/7</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/online-mp4-en-mpeg-kunt-u-vervangen-gratis-met-movavi-vriendelijke-convertor/"><u>Online MP4 en MPEG Kunt U Vervangen Gratis Met Movavi - Vriendelijke Convertor</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/techkey-universal-bluetooth-receiver-drivers-download-for-windows-11-7-and-nvidia-8/"><u>Techkey Universal Bluetooth Receiver Drivers - Download for Windows 11, 7 & nVidia 8</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-choosing-the-perfect-mouse-for-your-mac/"><u>Ultimate Guide: Choosing the Perfect Mouse for Your Mac</u></a></li>
+</ul></div>
 

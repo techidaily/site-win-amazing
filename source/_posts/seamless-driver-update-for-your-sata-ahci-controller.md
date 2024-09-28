@@ -1,7 +1,7 @@
 ---
 title: Seamless Driver Update for Your SATA AHCI Controller
-date: 2024-09-20T20:47:03.346Z
-updated: 2024-09-21T17:20:09.428Z
+date: 2024-09-23T02:33:22.648Z
+updated: 2024-09-28T08:23:37.212Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ There are two ways to download iCUE.
 1. [Download and install iCUE through the homepage](https://tools.techidaily.com/drivereasy/download/)
 2. [Download iCUE from the product page](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Download and install iCUE through the homepage
 
 1. Go to the[iCUE homepage](https://www.corsair.com/uk/en/icue) .
@@ -47,13 +54,21 @@ There are two ways to download iCUE.
 1. Go to[Corsair’s homepage](https://www.corsair.com/us/en/) .
 2. Enter your mouse type in the**SEARCH** box and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/search.jpg)
 3. Scroll down and click**DOWNLOADS** . Then click the link to download iCUE.![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Double-click on the downloaded file and follow the on-screen instructions to install the software.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What to do if your mouse still has issues?
@@ -70,18 +85,18 @@ There are two ways to download iCUE.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-84.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the devices to automatically download the correct version of their drivers, then you can manually install the drivers (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-91.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -104,5 +119,21 @@ There are two ways to download iCUE.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-vision-capture-expert-insights-into-video-tech/"><u>[Updated] 2024 Approved Vision Capture Expert Insights Into Video Tech</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-youtubes-ultimate-mp3-creators-list/"><u>[Updated] 2024 Approved YouTube's Ultimate MP3 Creators List</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-streamline-your-soundtrack-with-these-playlist-tips-for-youtube-for-2024/"><u>[Updated] Streamline Your Soundtrack with These Playlist Tips for YouTube for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/best-practices-for-updating-the-mono-laser-printing-driver-on-dell-models-2330d-and-2330dn/"><u>Best Practices for Updating the Mono Laser Printing Driver on Dell Models 2330D & 2330DN</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-productivity-with-these-5-unique-windows-pc-time-saver-tools/"><u>Boost Productivity with These 5 Unique Windows PC Time Saver Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722963514303-download-and-install-kyocera-printer-drivers-on-windows-step-by-step-guide/"><u>Download & Install KYOCERA Printer Drivers on Windows - Step by Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-most-recent-asus-pce-ac68-chip-set-drivers-for-free/"><u>Download the Most Recent ASUS PCE-AC68 Chip Set Drivers for Free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-ways-to-reduce-iphone-video-file-size-a-step-by-step-guide/"><u>Free Ways to Reduce iPhone Video File Size: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-plus-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Plus to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Infinix Smart 8 HD? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-precise-update-your-dell-camera-drivers-without-errors/"><u>How to Precise Update Your Dell Camera Drivers Without Errors</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Lava Agni 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-accelerate-engagement-through-vimeo-linking/"><u>In 2024, Accelerate Engagement Through Vimeo Linking</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simple-steps-updating-your-lenovos-bios-and-chipset-drivers/"><u>Simple Steps: Updating Your Lenovo's BIOS and Chipset Drivers</u></a></li>
+</ul></div>
 

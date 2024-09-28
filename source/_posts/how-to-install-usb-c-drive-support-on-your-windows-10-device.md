@@ -1,7 +1,7 @@
 ---
 title: How to Install USB-C Drive Support on Your Windows 10 Device
-date: 2024-09-19T21:59:10.543Z
-updated: 2024-09-21T17:00:07.194Z
+date: 2024-09-26T07:08:43.390Z
+updated: 2024-09-27T17:10:09.071Z
 tags:
   - win11
   - win10
@@ -56,6 +56,13 @@ OR
 
  5) After downloading, double click the downloaded file to run and follow the on-screen instructions to install the driver.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 2 – Automatically update the driver
 
  If you don’t have the time, patience, or computer skills to update the Canon PIXMA Pro 100 driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -70,9 +77,23 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-112.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-113.png)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Note: you can do it for free if you like, but it’s partly manual.
 
@@ -97,12 +118,20 @@ Note: you can do it for free if you like, but it’s partly manual.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-pro-tips-for-immediate-use-of-io-screen-recorder/"><u>[New] 2024 Approved Pro Tips for Immediate Use of IO Screen Recorder</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-windows-best-chat-tools-ranked-3-1/"><u>[New] 2024 Approved Windows' Best Chat Tools Ranked #3-#1</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-validating-monetization-on-content-platforms/"><u>[New] Validating Monetization on Content Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-solving-movie-editing-queries-with-filmora-guidance/"><u>[Updated] Solving Movie-Editing Queries with Filmora Guidance</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-master-commanders-unleashed-ranking-7-total-war-champions/"><u>2024 Approved Master Commanders Unleashed Ranking 7 Total War Champions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/battle-of-the-brains-which-is-more-advanced-chatgpt-or-googles-bard/"><u>Battle of the Brains: Which Is More Advanced, ChatGPT or Google's Bard?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-nvidia-quadro-drivers-for-windows-11-latest-direct-device-control-dch-versions/"><u>Download Nvidia Quadro Drivers for Windows 11: Latest Direct Device Control (DCH) Versions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fast-track-to-flawless-printing-secure-hp-deskjet-3520-wireless-printer-drivers-for-windows-and-macos/"><u>Fast Track to Flawless Printing: Secure HP Deskjet 3520 Wireless Printer Drivers for Windows and macOS</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simple-guide-microsoft-drivers-update-and-installation-for-windows-11-8-and-7/"><u>Simple Guide: Microsoft Drivers Update and Installation for Windows 11, 8, and 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-downloading-and-applying-the-latest-broadcom-ethernet-driver-for-gigabit-connections-in-windows-10-issue-fixed/"><u>Step-by-Step Guide: Downloading and Applying the Latest Broadcom Ethernet Driver for Gigabit Connections in Windows 10 [ISSUE FIXED]</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/trustworthy-guide-to-download-and-set-up-sades-headset-drivers-on-windows-platforms/"><u>Trustworthy Guide to Download & Set Up Sades Headset Drivers on Windows Platforms</u></a></li>
+<li><a href="https://extra-information.techidaily.com/uncover-the-ultimate-directory-of-no-cost-vector-art-sites/"><u>Uncover the Ultimate Directory of No-Cost Vector Art Sites</u></a></li>
+</ul></div>
 
