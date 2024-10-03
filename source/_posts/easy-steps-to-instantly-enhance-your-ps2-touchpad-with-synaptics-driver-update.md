@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Instantly Enhance Your PS/2 Touchpad with Synaptics Driver Update
-date: 2024-09-20T21:13:16.877Z
-updated: 2024-09-28T03:01:17.822Z
+date: 2024-09-29T07:49:12.765Z
+updated: 2024-10-02T23:31:29.411Z
 tags:
   - win11
   - win10
@@ -60,28 +60,15 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Option 2: Manually update your Synaptics PS/2 Port Touchpad driver
 
  If you feel like updating your Synaptics PS/2 Port Touchpad driver manually, here’s the simple and useful guide for you.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Update your driver via official websites
@@ -98,16 +85,16 @@ Here’re the steps to update your driver via Device Manager:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Here comes the window of**Device Manager** . Double-click on the**Mice and other pointing devices** category to expand its drop-down list. Then right-click**Synaptics PS/2 Port Touchpad** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-230.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) In the context menu of Synaptics PS/2 Port Touchpad, select**Update driver** .
 
@@ -117,6 +104,13 @@ Here’re the steps to update your driver via Device Manager:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-232.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Wait till the download and installation process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-233.png)
@@ -124,10 +118,10 @@ Here’re the steps to update your driver via Device Manager:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-234.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Click **Close** when it’s all done.
@@ -156,14 +150,22 @@ Here’re the steps to update your driver via Device Manager:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-advanced-tools-for-efficiently-converting-xmlssattml-to-srt/"><u>[Updated] 2024 Approved Advanced Tools for Efficiently Converting XML/SSA/TTML to SRT</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amd-radeon-rx-6800-xt-graphics-card-drivers-download-and-installation-guide-for-windows-11-10-8-and-7/"><u>AMD Radeon RX 6800 XT Graphics Card Drivers: Download & Installation Guide for Windows 11, 10, 8, and 7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-installation-of-linksys-wusb6300-network-adapter-free-driver-download-guide/"><u>Easy Installation of Linksys WUSB6300 Network Adapter - Free Driver Download Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effective-fixes-for-realtek-alc887-hd-audio-drivers-enhancing-your-windows-experience/"><u>Effective Fixes for Realtek ALC887 HD Audio Drivers: Enhancing Your Windows Experience</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fixing-connectivity-issues-the-ultimate-guide-to-lg-usb-driver-setup-in-windows-1087/"><u>Fixing Connectivity Issues: The Ultimate Guide to LG USB Driver Setup in Windows 10/8/7</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-essential-low-cost-footage-source-directory/"><u>In 2024, Essential Low-Cost Footage Source Directory</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-twitters-mandated-video-dimensions-aspect-ratio-noted/"><u>In 2024, Twitter's Mandated Video Dimensions (Aspect Ratio Noted)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/stream-your-audiovid-creations-here-for-2024/"><u>Stream Your AudioVid Creations Here for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/reating-your-channels-pathway-youtubian-starter-pack-earning-money/"><u>[New] Creating Your Channel's Pathway Youtubian Starter Pack, Earning Money</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-a-guide-to-crafting-a-captivating-fb-memory-reel/"><u>[Updated] 2024 Approved A Guide to Crafting a Captivating FB Memory Reel</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-ranking-the-best-most-innovative-pc-vr-headsets/"><u>[Updated] In 2024, Ranking the Best, Most Innovative PC VR Headsets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unleash-your-videos-potential-with-dynamic-titles/"><u>[Updated] Unleash Your Video's Potential with Dynamic Titles</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-long-winded-to-concise-the-art-of-youtube-trimming/"><u>2024 Approved From Long-Winded to Concise The Art of YouTube Trimming</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazfit-helio-ring-detailed-insights-into-pricing-strategy-market-debut-and-spec-sheet/"><u>Amazfit Helio Ring - Detailed Insights Into Pricing Strategy, Market Debut & Spec Sheet</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210685742-comprehensive-guide-resolve-windows-update-error-0x8024002e-once-and-for-all/"><u>Comprehensive Guide: Resolve Windows Update Error 0X8024002E Once and For All</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/creating-interactive-forms-with-checkboxes-on-microsoft-excel-worksheets/"><u>Creating Interactive Forms with Checkboxes on Microsoft Excel Worksheets</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/desired-upgrades-5-ways-excel-can-be-better/"><u>Desired Upgrades: 5 Ways Excel Can Be Better</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/disabling-microsoft-excels-insert-sparklines-feature-a-step-by-step-guide/"><u>Disabling Microsoft Excel's Insert Sparklines Feature: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/dividing-initials-from-surnames-a-step-by-step-guide-using-microsoft-excel/"><u>Dividing Initials From Surnames: A Step-by-Step Guide Using Microsoft Excel</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-techniques-to-quickly-total-column-values-using-microsoft-excel-tools/"><u>Easy Techniques to Quickly Total Column Values Using Microsoft Excel Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-tutorial-adding-and-displaying-a-microsoft-excel-file-directly-on-your-blog/"><u>Easy Tutorial: Adding and Displaying a Microsoft Excel File Directly on Your Blog</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effective-strategies-for-implementing-accessible-labels-on-excel-visual-data-representations/"><u>Effective Strategies for Implementing Accessible Labels on Excel Visual Data Representations</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/efficient-techniques-for-converting-excel-rows-into-columns-and-back/"><u>Efficient Techniques for Converting Excel Rows Into Columns and Back</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-apple-iphone-7-plus-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Apple iPhone 7 Plus Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Xiaomi Redmi A2+? | Dr.fone</u></a></li>
 </ul></div>
 

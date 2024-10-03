@@ -1,7 +1,7 @@
 ---
 title: Step by Step Tutorial to Get Canon PRO 100 Up and Running on Windows Systems
-date: 2024-09-15T21:12:08.176Z
-updated: 2024-09-16T20:17:58.818Z
+date: 2024-09-28T13:38:59.623Z
+updated: 2024-10-03T09:27:47.567Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Update your fingerprint driver automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update the fingerprint driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -46,12 +53,34 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-48.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-49.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click**Update** to do it for free if you like, but it’s partly manual.  
   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 2: Update fingerprint driver manually
 
  To update your fingerprint driver manually, you’ll need to go to the manufacturer’s official website (such as **[Synaptic](https://www.synaptics.com/) [s](https://www.synaptics.com/)**  ), find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -79,12 +108,17 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-5-innovative-yt-tales-share-your-life-journey/"><u>[Updated] 5 Innovative YT Tales Share Your Life Journey</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-building-endorsements-strategically/"><u>[Updated] Building Endorsements Strategically</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/boost-your-screen-quality-with-the-latest-display-driver-installations/"><u>Boost Your Screen Quality with the Latest Display Driver Installations</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-best-nine-essential-live-gaming-services/"><u>In 2024, Best Nine Essential Live Gaming Services</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722973433411-latest-compatible-thrustmaster-t300-racing-wheel-drivers-for-windows-10-and-11-free-download-links-inside/"><u>Latest Compatible Thrustmaster T300 Racing Wheel Drivers for Windows 10 and 11 – Free Download Links Inside</u></a></li>
+<li><a href="https://fox-info.techidaily.com/optimal-data-recorder-for-sony-a7c-model-for-2024/"><u>Optimal Data Recorder for Sony A7C Model for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/solutions-for-connecting-an-lg-device-to-windows-os-xp-vista-7/"><u>Solutions for Connecting an LG Device to Windows OS (XP, Vista, 7)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-and-installing-ftdi-drivers-on-windows-systems/"><u>Step-by-Step Guide: Updating & Installing FTDI Drivers on Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-persistent-mouse-disconnection-problems-at-home/"><u>Understanding and Fixing Persistent Mouse Disconnection Problems at Home</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/webex-review-a-features-rich-tool-for-online-meetings/"><u>WebEx Review: A Features-Rich Tool for Online Meetings</u></a></li>
+</ul></div>
 

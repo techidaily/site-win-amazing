@@ -1,7 +1,7 @@
 ---
 title: Install HP Thunderbolt Dock G2 - Download Suitable Software for Both 120 and 230 Watt Versions
-date: 2024-09-24T20:49:09.115Z
-updated: 2024-09-27T19:54:10.387Z
+date: 2024-10-01T12:59:57.099Z
+updated: 2024-10-03T01:57:53.765Z
 tags:
   - win11
   - win10
@@ -32,10 +32,16 @@ thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326c
 2. [**Update your Thunderbolt drivers automatically**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Download the Thunderbolt drivers from your device manufacturer website
@@ -44,6 +50,13 @@ You can download your Thunderbolt drivers from your device manufacturer website 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29c6b4ddf40.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Go to the product driver download page, then download the correct and latest Thunderbolt drivers to your computer.
 
  Download the driver that’s suitable for your variant of Windows system. You should know what system is running on your computer — whether it’s Windows 7, 8 or 10, 32-bit or 64-bit version, etc.
@@ -51,10 +64,10 @@ You can download your Thunderbolt drivers from your device manufacturer website 
 **3)**Open the downloaded file and follow the on-screen instructions to install it on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Update your Thunderbolt drivers automatically
@@ -64,28 +77,15 @@ If you don’t have the time, patience or skills to update the Thunderbolt drive
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a66b4a3dfe.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Click the **Update**  button next to your _Thunderbolt device_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29c95e8c019.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’ve updated your driver with Driver Easy but your driver issues persist, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
 
@@ -106,14 +106,18 @@ If you don’t have the time, patience or skills to update the Thunderbolt drive
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-how-to-stream-your-podcast-with-a-click/"><u>[New] How to Stream Your Podcast with a Click</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-screenshot-supreme-expert-analysis-of-recorders/"><u>[Updated] 2024 Approved Screenshot Supreme Expert Analysis of Recorders</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-hidden-harmony-harvesters-ios-and-android-secret-audio-apps/"><u>[Updated] In 2024, Hidden Harmony Harvesters IOS & Android Secret Audio Apps</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-visual-upgrade-mastery-of-video-enhancer-version-22/"><u>2024 Approved Ultimate Visual Upgrade Mastery of Video Enhancer Version 2.2</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-epson-perfection-v39-printer-software-for-win7-win8-and-win10/"><u>Download Epson Perfection V39 Printer Software for Win7, Win8 & Win10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-essential-drivers-for-your-lenovo-x1-carbon-on-windows-117-without-hassle/"><u>Download Essential Drivers for Your Lenovo X1 Carbon on Windows 11/7 Without Hassle</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-of-canon-mg2900-printer-driver-and-latest-firmware-updates/"><u>Free Download of Canon MG2900 Printer Driver & Latest Firmware Updates</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-upgrade-compatible-laptop-docks-for-thinkpad-with-usb-c-port/"><u>Latest Upgrade: Compatible Laptop Docks for ThinkPad with USB-C Port</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-mac-video-maker-effortless-slideshow-creation-in-macos/"><u>New Mac Video Maker Effortless Slideshow Creation in macOS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-guide-to-adding-dynamic-captions-to-instagram-media/"><u>[New] Guide to Adding Dynamic Captions to Instagram Media</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-switch-onoff-youtubes-pip-mode-on-your-iphone/"><u>[Updated] 2024 Approved Switch On/Off YouTube's PIP Mode on Your iPhone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1-mastering-mobile-excel-table-management-a-user-friendly-guide/"><u>1. Mastering Mobile Excel Table Management: A User-Friendly Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-refine-your-iphone-hdri-expert-tips-for-clearer-results-in-premiere-pro/"><u>2024 Approved Refine Your iPhone HDRI Expert Tips for Clearer Results in Premiere Pro</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/a-comprehensive-guide-on-what-are-excel-xlsx-documents-and-how-to-view-them/"><u>A Comprehensive Guide on What Are Excel XLSX Documents & How To View Them</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/avoid-traps-and-cons-navigating-through-the-risks-in-the-mac-app-marketplace/"><u>Avoid Traps & Cons: Navigating Through the Risks in the Mac App Marketplace</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/best-techniques-to-emphasize-highestlowest-values-using-microsoft-excel/"><u>Best Techniques to Emphasize Highest/Lowest Values Using Microsoft Excel</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/boost-your-workflow-swap-out-tedious-excel-equations-for-the-power-of-chatgpt-automation/"><u>Boost Your Workflow - Swap Out Tedious Excel Equations for the Power of ChatGPT Automation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bring-your-videos-into-the-future-converting-sdr-to-hdr-with-ease-for-2024/"><u>Bring Your Videos Into the Future Converting SDR to HDR with Ease for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-guide-effective-techniques-for-importingexporting-contacts-between-microsoft-outlook-and-google-mail/"><u>Comprehensive Guide: Effective Techniques for Importing/Exporting Contacts Between Microsoft Outlook & Google Mail</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-tecno-spark-10c-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Tecno Spark 10C to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-lenovo-thinkphone-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Lenovo ThinkPhone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-experts-list-of-top-vector-stock-portals/"><u>The Expert's List of Top Vector Stock Portals</u></a></li>
 </ul></div>
 

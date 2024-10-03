@@ -1,7 +1,7 @@
 ---
 title: Update Your HP OfficeJet 4655 with Newest Driver Version
-date: 2024-09-27T08:53:33.541Z
-updated: 2024-09-28T07:08:04.252Z
+date: 2024-09-29T01:41:17.260Z
+updated: 2024-10-03T10:47:31.645Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) –  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 1: Update your Surface Book drivers automatically (Recommended)**
@@ -53,25 +53,26 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bbe94614e.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7cabf4d114.jpg)  
- You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7cabf4d114.jpg)  
+ You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4. **Restart**   your computer for the changes to take effect.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 2: Update your Surface Book drivers manually**
@@ -86,10 +87,10 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
 3. Select your model from the list of Surface products and follow the on-screen instructions to download the files that you need for driver updates.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Be sure to choose**ONLY** drivers that are compatible with your Windows version.
@@ -116,16 +117,20 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/advanced-software-for-animation-and-modeling-for-2024/"><u>Advanced Software for Animation & Modeling for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/dell-g15-windows-os-drivers-free-download-and-installation-tutorial/"><u>Dell G15 Windows OS Drivers - Free Download & Installation Tutorial</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/digital-photography-incorporating-accurate-dates/"><u>Digital Photography Incorporating Accurate Dates</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effective-solutions-for-ralink-rt3290-driver-challenges-in-various-windows-versions/"><u>Effective Solutions for Ralink RT3290 Driver Challenges in Various Windows Versions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-guide-to-correcting-lenovo-usb-driver-troubleshooting-issues/"><u>Effortless Guide to Correcting Lenovo USB Driver Troubleshooting Issues</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-laptop-screens-stability-ended-flashes/"><u>Fixing Laptop Screens' Stability, Ended Flashes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-honor-x50-by-fonelab-android-recover-music/"><u>How to recover old music from your Honor X50</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-ultimate-catalog-of-remarkable-education-websites/"><u>In 2024, The Ultimate Catalog of Remarkable Education Websites</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/phone-wars-determining-if-the-iphone-outshines-samsung-in-your-pocket/"><u>Phone Wars: Determining if the iPhone Outshines Samsung in Your Pocket</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/quantity-of-videos-on-128gb-storage-media/"><u>Quantity of Videos on 128GB Storage Media</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-nvidia-mx150-drivers-on-windows-with-our-comprehensive-guide/"><u>Update Your NVIDIA MX150 Drivers on Windows with Our Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-revolutionize-your-channels-thumbnails-with-these-tools/"><u>[New] 2024 Approved Revolutionize Your Channel's Thumbnails with These Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-transform-your-instagram-with-8-unique-unboxing-video-ideas/"><u>[New] In 2024, Transform Your Instagram with 8 Unique Unboxing Video Ideas</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-the-art-of-inverted-lookups-on-instagram-posts/"><u>[New] Mastering the Art of Inverted Lookups on Instagram Posts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-insights-on-youtube-tvs-unique-features/"><u>[Updated] 2024 Approved Essential Insights on YouTube TV's Unique Features</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-latest-hp-printer-drivers-on-windows-1011-compatible-versions/"><u>Download & Install Latest HP Printer Drivers on Windows 10/11: Compatible Versions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-troubleshooting-xp-pen-driver-downloads-and-updates-unveiled/"><u>Easy Troubleshooting: XP-Pen Driver Downloads & Updates Unveiled</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-scansnap-software-installation-and-updates-on-windows-get-started-now/"><u>Effortless ScanSnap Software Installation & Updates on Windows – Get Started Now</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/elevate-your-device-experience-with-smooth-screen-capture/"><u>Elevate Your Device Experience with Smooth Screen Capture</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guide-to-overcome-xbox-accessory-driver-conflicts-in-windows-11-8-and-earlier-versions-windows-7/"><u>Guide to Overcome Xbox Accessory Driver Conflicts in Windows 11, 8 and Earlier Versions (Windows 7)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-honor-magic-6-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Honor Magic 6 on Windows??</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722963907057-improve-your-pcs-performance-with-the-rtx-2060-super-driver-update-for-windows-11-download-now/"><u>Improve Your PC's Performance with the RTX 2060 Super Driver Update for Windows 11 - Download Now</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/leverage-your-sites-potential-with-the-advanced-tracking-of-cookiebot-solutions/"><u>Leverage Your Site's Potential with the Advanced Tracking of Cookiebot Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/m4rmp3wavm4a/"><u>M4Rファイルを効率的にMP3/WAV/M4A形式に転換するための完全ガイド</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-resolving-lg-printer-connection-errors-on-windows-10/"><u>Troubleshooting and Resolving LG Printer Connection Errors on Windows 10</u></a></li>
 </ul></div>
 

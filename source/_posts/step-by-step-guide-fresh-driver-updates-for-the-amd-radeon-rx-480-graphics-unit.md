@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Fresh Driver Updates for the AMD Radeon RX 480 Graphics Unit"
-date: 2024-09-21T16:01:32.117Z
-updated: 2024-09-28T07:38:47.550Z
+date: 2024-09-29T03:00:12.150Z
+updated: 2024-10-02T21:00:14.899Z
 tags:
   - win11
   - win10
@@ -34,46 +34,33 @@ Device Manager is the easiest way for you to get the updated device drivers, but
 
 You need to go for other ways to get your display card driver updated since Microsoft cannot help you do this for now.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2: Update Radeon RX 480 Graphics Card Driver** **Manually**
 
 If Device Manager fails to get you the latest driver available, you can always go to AMD and get the driver by yourself, but it requires certain skill sets. If you’re not comfortable updating the driver by yourself, go ahead and jump to[**Method 3**](https://tools.techidaily.com/drivereasy/download/)to get it automatically.  1) First, go to the support website of AMD drivers: **AMD Drivers + Download Center**  . Scroll down a little bit to choose from the **Radeon RX 400 Series** section your operating system. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f717d77cb0.png) 2) Download the **Radeon Software** by pressing the **Download** button on the side. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f72b36c238.jpg) 3) If you need more drivers for you **AMD Radeon RX 480** , you can choose the **Optional Downloads**  bar and then download the drivers you need.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f7327b334e-475x600.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Go to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) again. Locate and expand **Display adapters** . Double-click **AMD Radeon RX 480** . ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f6ee252477.jpg)5) Go to the **Driver**tab, and click **Uninstall**. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f742f54e25.jpg)Click **OK**to continue. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f7452e10b3.png)6) Double-click the downloaded**AMD Radeon RX 480**driver, and run the installation manually. 7) Restart your computer for the changes to take effect after the installation.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3: Update Radeon RX 480 Graphics Card Driver Automatically (Recommended)**
@@ -81,6 +68,13 @@ If Device Manager fails to get you the latest driver available, you can always g
 If you’re not confident playing around with drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/).**Driver Easy**will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[**Download**](https://tools.techidaily.com/drivereasy/download/)and install Driver Easy. 2) Run Driver Easy and click the **Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers. 3) Click the**Update**button next to a flagged AMD 480 device to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click_**Update All**_).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e5f628aad8e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * [graphics](https://tools.techidaily.com/drivereasy/download/)
 
@@ -99,21 +93,24 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-elevate-ig-stories-with-seamless-audio-integration-for-2024/"><u>[Updated] Elevate IG Stories With Seamless Audio Integration for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-precision-review-of-the-dji-inspire-2-drone/"><u>[Updated] Precision Review of the DJI Inspire 2 Drone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-the-potential-of-video-game-vlogging/"><u>[Updated] Unlocking the Potential of Video Game Vlogging</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-refining-online-discussions-in-google-meet/"><u>2024 Approved Refining Online Discussions in Google Meet</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-guide-installing-epson-xp-430-printer-drivers-on-windows/"><u>Complete Guide: Installing Epson XP-430 Printer Drivers on Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-samsung-m2070fw-driver-a-step-by-step-tutorial/"><u>Download and Install Samsung M2070FW Driver: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722898608787-efficient-steps-unfriending-more-than-one-person-on-snapchat/"><u>Efficient Steps: Unfriending More than One Person on Snapchat</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-roblox-loading-problems-with-these-simple-tips-and-fixes/"><u>Fix Your Roblox Loading Problems with These Simple Tips and Fixes</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722965592566-get-the-most-recent-windows-drivers-for-your-netgear-a61-0-device-here/"><u>Get the Most Recent Windows Drivers for Your Netgear A61 0 Device Here!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722975467640-get-your-epson-wf-7710-up-and-running-on-win11win10-free-driver-download/"><u>Get Your Epson WF-7710 Up and Running on Win11/Win10 - Free Driver Download</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-motorola-moto-g84-5g-frp-by-drfone-android/"><u>How Can We Bypass Motorola Moto G84 5G FRP?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-audio-manipulation-in-canva-videos/"><u>In 2024, Mastering Audio Manipulation in Canva Videos</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ring-youtube-views-secrets-for-a-million-followers/"><u>Mastering Youtube Views Secrets for a Million Followers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722969546314-revamp-your-sound-fast-fix-with-updated-acer-audio-drivers/"><u>Revamp Your Sound: Fast Fix with Updated Acer Audio Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-ultimate-how-to-secure-your-huion-device-with-the-latest-windows-drivers/"><u>The Ultimate How-To: Secure Your Huion Device with the Latest Windows Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-logitech-g27-steering-controller-drivers-compatible-with-windows-versions-11-10-and-7/"><u>Update Logitech G27 Steering Controller Drivers - Compatible with Windows Versions 11, 10 & 7</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-core-principles-for-online-storytelling-craftsmanship/"><u>[New] In 2024, Core Principles for Online Storytelling Craftsmanship</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-secrets-of-seamless-video-editing-using-windows-11-tools-for-2024/"><u>[New] Secrets of Seamless Video Editing Using Windows 11 Tools for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-expert-tips-for-clearer-zoomed-snapshots-on-snapchat/"><u>[Updated] Expert Tips for Clearer Zoomed Snapshots on Snapchat</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726224127209-oggmov-movavi/"><u>在線免費OGG影片轉移成MOV - 運用Movavi編輯器</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/acpismo8810-resolving-compatibility-issues-with-dell-hardware/"><u>ACPI/SMO8810: Resolving Compatibility Issues with Dell Hardware</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easily-update-your-canon-mg3420-printer-download-the-latest-windows-1087-drivers-today/"><u>Easily Update Your Canon MG3420 Printer: Download the Latest Windows 10/8/7 Drivers Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-download-and-installation-of-epson-xp-430-drivers-for-windows-comprehensive-tutorial/"><u>Easy Download & Installation of Epson XP-430 Drivers for Windows: Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-access.techidaily.com/essential-tips-for-constructing-professional-podcast-rss-feeds-for-2024/"><u>Essential Tips for Constructing Professional Podcast RSS Feeds for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-updated-drivers-for-your-hp-deskjet-2540-free-downloads-available-now/"><u>Get the Updated Drivers for Your HP DeskJet 2540 - FREE Downloads Available Now!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/honoring-heritage-photo-conversion-and-visual-storytelling/"><u>Honoring Heritage Photo Conversion and Visual Storytelling</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-the-latest-asus-board-software-for-your-windows-pc/"><u>How to Get the Latest ASUS Board Software for Your Windows PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-nokia-c12-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Nokia C12 Phones with/without a PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installing-nvme-driver-updates-on-windows-quick-and-easy-steps/"><u>Installing NVMe Driver Updates on Windows: Quick and Easy Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212007066-laptop-and-mouse-woes-revitalize-a-broken-usb-mouse-with-these-proven-fix-techniques/"><u>Laptop and Mouse Woes? Revitalize a Broken USB Mouse with These Proven Fix Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/nvidia-rtx-2e70-super-drivers-install-and-update-instructions-for-windows-1011-users/"><u>NVIDIA RTX 2E70 Super Drivers: Install & Update Instructions for Windows 10/11 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-guide-easy-downloads-for-zebra-gk420d-device-driver/"><u>Quick Guide: Easy Downloads for Zebra GK420D Device Driver</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/sleep-aid-asmr-techniques-unveiled/"><u>Sleep Aid ASMR Techniques Unveiled</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-speedy-way-to-download-and-install-windows-7-keyboard-drivers/"><u>The Speedy Way to Download & Install Windows 7 Keyboard Drivers</u></a></li>
 </ul></div>
 

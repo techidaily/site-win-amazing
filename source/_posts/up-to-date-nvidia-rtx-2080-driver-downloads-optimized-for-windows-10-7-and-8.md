@@ -1,7 +1,7 @@
 ---
 title: "Up-to-Date NVIDIA RTX 2080 Driver Downloads: Optimized for Windows 10, 7 & 8"
-date: 2024-09-21T07:17:43.148Z
-updated: 2024-09-27T18:58:12.600Z
+date: 2024-10-01T11:15:52.960Z
+updated: 2024-10-03T13:44:06.375Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 
 **[Option 2: Manually](https://tools.techidaily.com/drivereasy/download/)**  – Some computer skills are required.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 1: Install/Update your RTX 3080 driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -50,25 +43,25 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Once you’ve installed/updated your graphics driver, restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Install/Update your RTX 3080 driver manually
 
@@ -83,13 +76,26 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 3. Click**Download** . Then run the install wizard to install the graphics driver.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3080-driver-dl.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -110,20 +116,20 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/actical-video-takedown-a-guide-to-judging-ownership-and-opposition/"><u>[New] Tactical Video Takedown A Guide to Judging Ownership and Opposition</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-freecam-x-an-in-depth-webcam-capture-analysis/"><u>[Updated] 2024 Approved FreeCam X An In-Depth Webcam Capture Analysis</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-cutting-edge-tools-for-online-subtitle-editing/"><u>[Updated] Cutting-Edge Tools for Online Subtitle Editing</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-why-netgear-orbi-is-your-ideal-pick-for-a-superior-mesh-router-system/"><u>Discover Why Netgear Orbi Is Your Ideal Pick for a Superior Mesh Router System</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-logitech-rx250-drivers-compatible-with-windows-7-8-and-10/"><u>Download Logitech RX250 Drivers: Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enhance-your-streams-the-ultimate-guide-to-a-premium-netflix-journey/"><u>Enhance Your Streams: The Ultimate Guide to a Premium Netflix Journey</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/essential-steps-for-successfully-installing-the-latest-arduino-driver-update-on-windows/"><u>Essential Steps for Successfully Installing the Latest Arduino Driver Update on Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-asus-optical-drive-software-download-now/"><u>Get the Latest ASUS Optical Drive Software - Download Now</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-lava-storm-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Lava Storm 5G Phone Network-Ready</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-itel-p55-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Itel P55 5G Phone FRP Lock</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/secure-and-optimized-fresh-sades-headset-drivers-for-windows-computers-reliable-download/"><u>Secure & Optimized: Fresh Sades Headset Drivers for Windows Computers (Reliable Download)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/smooth-and-speedy-samsung-m2070fw-driver-installation-start-today/"><u>Smooth and Speedy Samsung M2070FW Driver Installation – Start Today</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/step-by-step-approach-to-crafting-3d-text-in-photoshop-for-2024/"><u>Step-by-Step Approach to Crafting 3D Text in Photoshop for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-downloading-and-installing-razer-drivers-for-various-windows-versions/"><u>Step-by-Step Guide: Downloading and Installing Razer Drivers for Various Windows Versions</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/us-birthday-a-universal-happiness/"><u>U.S. Birthday: A Universal Happiness</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-the-art-of-instagram-video-sharing-for-2024/"><u>[New] Mastering the Art of Instagram Video Sharing for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-uncover-the-10-most-trusted-wedding-timer-apps-androidios-of-2023-for-2024/"><u>[Updated] Uncover the 10 Most Trusted Wedding Timer Apps (Android/iOS) of 2023 for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-retro-to-future-radeon-rebooted/"><u>2024 Approved Retro to Future Radeon Rebooted</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-logitech-g-pro-x-mic-errors-diagnosis-and-quick-fixes-guide/"><u>Common Logitech G Pro X Mic Errors: Diagnosis & Quick Fixes [Guide]</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-asus-pce-ac56-driver-fixes-for-windows-10-8-and-7-operating-systems/"><u>Complete ASUS PCE-AC56 Driver Fixes for Windows 10, 8 & 7 Operating Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/decisive-captures-combatting-disarray/"><u>Decisive Captures Combatting Disarray</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/demystifying-igtv-for-a-comprehensive-social-media-experience/"><u>Demystifying IGTV For a Comprehensive Social Media Experience</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/downloading-and-upgrading-the-epson-et-3760-drivers-made-simple-a-windows-users-handbook/"><u>Downloading & Upgrading the Epson ET-3760 Drivers Made Simple: A Windows User's Handbook</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-brother-laser-printer-setup-l2700dw-driver-and-installation-manual-for-pc-and-laptop/"><u>Effortless Brother Laser Printer Setup: L2700DW Driver & Installation Manual for PC and Laptop</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-started-huion-h610-pro-digital-art-pad-drivers-downloaded/"><u>Get Started: Huion H610 Pro Digital Art Pad Drivers Downloaded</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hassle-free-installation-obtain-your-hp-stream-driver-packages-now/"><u>Hassle-Free Installation: Obtain Your HP Stream Driver Packages Now</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photo-mosaics-unveiled-a-journey-to-brighter-spaces/"><u>In 2024, Photo Mosaics Unveiled A Journey to Brighter Spaces</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-canon-mg36-driver-software-updates-for-smooth-printing-experience/"><u>Latest Canon MG36# Driver Software Updates for Smooth Printing Experience</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-generate-random-faces-online-top-free-tools-and-websites/"><u>New Generate Random Faces Online Top Free Tools and Websites</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolving-realtek-hd-card-driver-troubles-a-complete-guide/"><u>Resolving Realtek HD Card Driver Troubles - A Complete Guide</u></a></li>
 </ul></div>
 

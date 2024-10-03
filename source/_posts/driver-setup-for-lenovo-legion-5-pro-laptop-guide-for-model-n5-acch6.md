@@ -1,7 +1,7 @@
 ---
 title: "Driver Setup for Lenovo Legion 5 Pro Laptop: Guide for Model N5, ACCH6"
-date: 2024-09-21T03:20:19.302Z
-updated: 2024-09-28T02:05:22.722Z
+date: 2024-09-29T00:51:14.367Z
+updated: 2024-10-02T17:59:01.554Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ There are two ways you can update your driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 1 – Update the driver manually
 
 **Intel** keeps updating the NVMe drivers. To get them, you need to go to the **[Intel Support](https://downloadcenter.intel.com/product/35125/Memory-and-Storage)**  website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10, 64 bit) and download the driver manually.
@@ -43,10 +50,10 @@ There are two ways you can update your driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-162.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file (usually with the EXE extension) and follow the on-screen instructions to install the driver.
@@ -54,10 +61,10 @@ There are two ways you can update your driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Intel NVMe driver
@@ -73,17 +80,10 @@ There are two ways you can update your driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update yourIntel NVMe driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-163.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -118,24 +118,17 @@ There are two ways you can update your driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-visual-victory-apple-and-android-highlight-covers/"><u>[New] Visual Victory Apple & Android Highlight Covers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-what-is-behind-the-blue-icon-that-graces-your-messenger-chat-window-in-2024/"><u>[New] What Is Behind the Blue Icon that Graces Your Messenger Chat Window, In 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-advanced-approach-harnessing-watch-for-mac-unlock/"><u>[Updated] 2024 Approved Advanced Approach Harnessing Watch for Mac Unlock</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-edit-like-a-championtop-strategies-for-beginner-youtubers/"><u>[Updated] In 2024, Edit Like a Champion—Top Strategies for Beginner YouTubers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/after-updating-drivers-and-restarting-your-system-reconnect-your-iphoneipad-using-an-apple-certified-usb-cable-you-should-now-be-able-to-establish-a-success342/"><u>After Updating Drivers and Restarting Your System, Reconnect Your iPhone/iPad Using an Apple-Certified USB Cable. You Should Now Be Able to Establish a Successful Connection without Receiving Any 'Device Not Found' Error Messages</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/boost-g3-performance-with-latest-dell-driver-update-for-gamers/"><u>Boost G3 Performance with Latest Dell Driver Update for Gamers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversion-gratuite-de-fichiers-3gp-vers-format-swf-avec-movavi/"><u>Conversion Gratuite De Fichiers 3GP Vers Format SWF Avec Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-m-audio-fast-track-driver-software-for-multiple-windows-versions-free-of-cost/"><u>Get the Latest M-Audio Fast Track Driver Software for Multiple Windows Versions Free of Cost!</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/how-to-seamlessly-cut-mp4-mkv-avchd-files-without-losing-image-clarity-and-detail/"><u>How To Seamlessly Cut MP4, MKV, AVCHD Files Without Losing Image Clarity and Detail</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-seamlessly-get-latest-epson-printing-drivers-running-in-windows-11/"><u>How To Seamlessly Get Latest Epson Printing Drivers Running in Windows 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/instant-access-secure-and-reliable-drivers-for-arduino-mega-boards/"><u>Instant Access: Secure and Reliable Drivers for Arduino Mega Boards</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-the-art-of-virtual-board-usage-in-web-conferences-android-apple-and-pc/"><u>Mastering the Art of Virtual Board Usage in Web Conferences Android, Apple & PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722968867532-not-ideal-for-fluids-that-easily-foul-due-to-maintenance-challenges/"><u>Not Ideal for Fluids that Easily Foul, Due to Maintenance Challenges</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-stability-issues-solving-darkest-dungeon-2-pc-game-crashes/"><u>Overcoming Stability Issues: Solving Darkest Dungeon 2 PC Game Crashes</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaiming-microsoft-store-functionality-on-windows-devices/"><u>Reclaiming Microsoft Store Functionality on Windows Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/step-by-step-to-easy-nft-crafting/"><u>Step-by-Step to Easy NFT Crafting</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-ultimate-walkthrough-for-acquiring-and-installing-nexiq-usb-link-12-driver/"><u>The Ultimate Walkthrough for Acquiring & Installing Nexiq USB-Link 1/2 Driver</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/thinkpad-enhancement-fresh-driver-for-optimal-performance-with-thunderbolt-3-docking-station/"><u>ThinkPad Enhancement: Fresh Driver for Optimal Performance with Thunderbolt 3 Docking Station</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/upgrade-your-pc-with-the-corsair-h80i-v2-easy-driver-installation-guide-and-download-link/"><u>Upgrade Your PC with the Corsair H80i V2: Easy Driver Installation Guide and Download Link</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-instagram-enhancement-picture-posting-guide/"><u>[New] Instagram Enhancement Picture Posting Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mobile-mastery-secure-your-favorite-igtv-content-easily/"><u>[Updated] In 2024, Mobile Mastery Secure Your Favorite IGTV Content Easily</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-perfectly-pair-photos-for-your-instagram-story-easy-guide/"><u>[Updated] In 2024, Perfectly Pair Photos for Your Instagram Story Easy Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-best-photo-frame-apps-of-2024/"><u>10 Best Photo Frame Apps of 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-error-handling-a-closer-look-at-6-common-problems-and-solutions/"><u>ChatGPT Error Handling: A Closer Look at 6 Common Problems and Solutions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/essential-windows-11-camcorders-and-webcams-guide/"><u>Essential Windows 11 Camcorders & Webcams Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/focusrite-scarlett-amo-2i2-for-pcs-download-free-windows-driver/"><u>Focusrite Scarlett Amo 2I2 for PCs – [Download] Free Windows Driver</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/freshly-released-download-and-setup-ricoh-printer-drivers-for-win-10817-systems/"><u>Freshly Released: Download and Setup Ricoh Printer Drivers for Win 10/8.1/7 Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-and-set-up-epson-l3110-printer-drivers-on-windows-7-8-and-10/"><u>How to Download and Set Up Epson L3110 Printer Drivers on Windows 7, 8 & 10</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-in-depth-giroptic-complete-immersion/"><u>In 2024, In-Depth Giroptic Complete Immersion</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975472571-logitech-g910-software-latest-download-for-windows/"><u>Logitech G910 Software – Latest Download For Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-synaptics-touchpad-driver-downloads-and-update-steps-for-smooth-sailing/"><u>Quick Synaptics Touchpad Driver Downloads & Update Steps for Smooth Sailing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: HP Officejet Pro 6968 Installable Software & Drivers for PCs
-date: 2024-09-23T06:18:29.224Z
-updated: 2024-09-27T22:43:48.786Z
+date: 2024-09-27T21:59:36.384Z
+updated: 2024-10-03T14:00:46.764Z
 tags:
   - win11
   - win10
@@ -48,8 +48,6 @@ OR
 2. Click **Windows Installer, for Windows XP and up** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ar.jpg)
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
-![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
-4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
 
 <!-- affiliate ads begin -->
 <a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
@@ -58,34 +56,23 @@ OR
 <img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
+4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Select **Browse my computer for driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9725918e348.png)
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update drivers**
@@ -101,8 +88,22 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/mega2560-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -125,24 +126,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://hardware-updates.techidaily.com/download-now-enhance-your-windows-11-experience-with-updated-realtek-readers/"><u>[Download Now]: Enhance Your Windows 11 Experience with Updated RealTek Readers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/rom-concrete-jungles-to-eco-havens-rethinking-urban-living-for-2024/"><u>[New] From Concrete Jungles to Eco Havens Rethinking Urban Living for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-ideal-pastimes-pairing-with-your-favorite-audio-shows-for-2024/"><u>[New] Ideal Pastimes Pairing with Your Favorite Audio Shows for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-unlocking-the-art-of-guesting-on-social-tiktok-lives/"><u>[Updated] 2024 Approved Unlocking the Art of Guesting on Social TikTok Lives</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-compelling-visuals-the-podcast-cover-playbook/"><u>2024 Approved Crafting Compelling Visuals The Podcast Cover Playbook</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-journey-through-openais-gpt-generations/"><u>A Journey Through OpenAI’s GPT Generations</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722967589641-easy-fixes-for-razer-blackwidow-user-issues-update-drivers-today/"><u>Easy Fixes for Razer BlackWidow User Issues - Update Drivers Today!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-driver-update-for-synaptics-ps2-touchpad-get-started-now/"><u>Effortless Driver Update for Synaptics PS/2 Touchpad - Get Started Now!</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/expert-analysis-of-plugables-versatile-11-in-1-dual-hdmi-dock-expander-a-must-have-upgrade-for-efficient-windows-operations/"><u>Expert Analysis of Plugable's Versatile 11-in-1 Dual HDMI Dock Expander: A Must-Have Upgrade for Efficient Windows Operations</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-new-nvidia-drivers-instantly-fresh-installation-and-updates-available/"><u>Get New Nvidia Drivers Instantly - Fresh Installation and Updates Available</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-new-corsair-k70-driversoftware-download-instructions/"><u>Get the New Corsair K70: Driver/Software Download Instructions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-hp-deskjet-2700-printer-software-and-driver-updates-now/"><u>Get the Newest HP Deskjet 2700 Printer Software & Driver Updates Now</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-fetch-and-install-updated-nvidia-drivers-seamlessly/"><u>How to Fetch and Install Updated NVIDIA Drivers Seamlessly</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-officejet-pro-8620-how-to-download-and-update-drivers-in-windows/"><u>HP OfficeJet Pro 8620: How to Download & Update Drivers in Windows</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-6s-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 6s</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-unlocking-a-world-of-possibits-with-macbook-airs-screen-recording-feature/"><u>In 2024, Unlocking a World of Possibits with MacBook Air's Screen Recording Feature</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-your-computers-cpu-drivers-on-windows/"><u>Step-by-Step Guide: Updating Your Computer's CPU Drivers on Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/upgrade-to-the-current-brother-hl-l2350dw-printer-driver-version-step-by-step-guide/"><u>Upgrade to the Current Brother HL-L2350DW Printer Driver Version: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/windows-guide-finding-and-setting-up-new-nvme-hard-drive-drivers/"><u>Windows Guide: Finding and Setting Up New NVMe Hard Drive Drivers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-virtual-arena-transcript-for-2024/"><u>[Updated] Virtual Arena Transcript for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-get-your-acer-wi-fi-drivers-downloaded-today/"><u>Easy Installation Guide: Get Your Acer Wi-Fi Drivers Downloaded Today!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-setup-secure-your-razer-mamba-drivers-today/"><u>Effortless Setup: Secure Your Razer Mamba Drivers Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-compatible-drivers-for-realtek-cards-on-windows-10/"><u>Free Download: Compatible Drivers for Realtek Cards on Windows 10</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-y28-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo Y28 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-vivo-y02t-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Vivo Y02T? Fixed | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ring-youtube-video-edits-the-ultimate-step-by-step-guide-for-2024/"><u>Mastering YouTube Video Edits The Ultimate Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigate-the-future-of-web-engagement-7-must-have-chatgpt-tools-for-google-chrome-users/"><u>Navigate the Future of Web Engagement: 7 Must-Have ChatGPT Tools for Google Chrome Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-connectivity-find-download-and-update-drivers-for-netgear-wireless-adapters-today/"><u>Seamless Connectivity: Find, Download & Update Drivers for NETGEAR Wireless Adapters Today!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-installing-updated-intel-graphics-drivers-for-win-10win-11-systems/"><u>Step-by-Step Guide: Installing Updated Intel Graphics Drivers for Win 10/Win 11 Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/switch-from-siri-to-chatgpt-on-your-iphone-a-comprehensive-guide/"><u>Switch From Siri to ChatGPT on Your iPhone: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-32-complimentary-data-safety-solutions-a-thorough-compilation-and-assessment/"><u>Top 32 Complimentary Data Safety Solutions: A Thorough Compilation & Assessment</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-does-after-effects-keep-freezing-or-crashing-solutions-for-windows-10-and-11-users/"><u>Why Does After Effects Keep Freezing or Crashing? Solutions for Windows 10 and 11 Users</u></a></li>
 </ul></div>
 

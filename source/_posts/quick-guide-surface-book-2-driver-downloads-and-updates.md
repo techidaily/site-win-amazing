@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Surface Book 2 Driver Downloads and Updates"
-date: 2024-09-26T22:18:25.172Z
-updated: 2024-09-28T05:57:23.995Z
+date: 2024-09-27T15:16:06.303Z
+updated: 2024-10-03T05:47:38.490Z
 tags:
   - win11
   - win10
@@ -35,10 +35,16 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) –  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 1: Update your Surface Book drivers automatically (Recommended)**
@@ -53,32 +59,27 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bbe94614e.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7cabf4d114.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. **Restart**   your computer for the changes to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 2: Update your Surface Book drivers manually**
 
@@ -92,10 +93,10 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
 3. Select your model from the list of Surface products and follow the on-screen instructions to download the files that you need for driver updates.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Be sure to choose**ONLY** drivers that are compatible with your Windows version.
@@ -122,24 +123,22 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-mastering-zero-cost-online-seminars-youtube-edition/"><u>[New] 2024 Approved Mastering Zero-Cost Online Seminars YouTube Edition</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-top-6-economical-action-cams-available-for-99-or-below/"><u>[New] 2024 Approved Top 6 Economical Action Cams Available for $99 or Below</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-elevating-your-podcast-the-best-mics-ranked-for-2024/"><u>[New] Elevating Your Podcast The Best Mics Ranked for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-step-by-step-instagram-videos-that-wow-viewers/"><u>[Updated] 2024 Approved Step-by-Step Instagram Videos that Wow Viewers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-pro-tips-for-captivating-snapchat-stories/"><u>2024 Approved Pro Tips for Captivating Snapchat Stories</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/click-on-search-to-display-the-latest-drivers-compatible-with-your-device/"><u>Click on 'Search,' To Display the Latest Drivers Compatible with Your Device.</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-keyboard-driver-for-windows-7-easily-and-quickly/"><u>Download Keyboard Driver for Windows 7 – Easily & Quickly</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-required-drivers-for-your-samsung-850-evo-ssd-now/"><u>Download Required Drivers for Your Samsung 850 EVO SSD Now</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-steelseries-keyboard-drivers-free-download/"><u>Get the Latest SteelSeries Keyboard Drivers - Free Download</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-realme-c51-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/intel-hd-graphics-620-driver-error-solutions-for-a-smooth-windows-experience/"><u>Intel HD Graphics 620 Driver Error Solutions for a Smooth Windows Experience</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-amd-radeon-hd-7870-driver-downloads-and-update-guide-for-windows-10-users/"><u>Latest AMD Radeon HD 7870 Driver Downloads and Update Guide for Windows 10 Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-toshiba-satellite-driver-downloads-for-windows-users/"><u>Latest Toshiba Satellite Driver Downloads for Windows Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-the-micro-mobility-universe-timelines-breaking-stories-and-hot-tips/"><u>Navigating the Micro-Mobility Universe: Timelines, Breaking Stories & Hot Tips</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/newest-geforce-rtx-2070-drivers-now-available-optimized-for-windows-1087-systems/"><u>Newest Geforce RTX 2070 Drivers Now Available - Optimized for Windows 10/8/7 Systems!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/no-more-glue-techniques-to-free-tiktok-video-from-stickers/"><u>No More Glue Techniques to Free TikTok Video From Stickers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/toonbox-complete-insight-for-24-year/"><u>ToonBox Complete Insight for '24 Year</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-hp-laserjet-1020-drivers-on-windows-a-comprehensive-guide/"><u>Troubleshooting HP LaserJet 1020 Drivers on Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-xs-max-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone XS Max Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-enhancing-social-media-engagement-with-branded-icons-on-instagram/"><u>[New] Enhancing Social Media Engagement with Branded Icons on Instagram</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-concept-to-completion-using-magix-video-pro-x/"><u>[New] From Concept to Completion Using Magix Video Pro X</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-masterpiece-makers-editing-images-with-invisible-text/"><u>[Updated] In 2024, Masterpiece Makers Editing Images with Invisible Text</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-xiaomi-redmi-13c-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Xiaomi Redmi 13C to iPhone | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/a-swift-journey-to-using-ez-grabber-like-a-pro/"><u>A Swift Journey to Using EZ Grabber Like a Pro</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-your-pc-with-realtek-asio-windows-10-drivers-now/"><u>Download and Update Your PC with RealTek Asio Windows 10 Drivers Now!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-innovative-webcam-driver-software-for-pcs/"><u>Download and Update: Innovative Webcam Driver Software for PCs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-latest-drivers-for-your-epson-l3150-printer-compatible-with-windows-10-8-and-7/"><u>Download Latest Drivers for Your Epson L3150 Printer - Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-your-arduino-mega-2560-driver-today-effortless-installation-steps-inside/"><u>Download Your Arduino Mega 2560 Driver Today - Effortless Installation Steps Inside</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevate-engagement-discover-these-top-12-techniques-for-video-success/"><u>Elevate Engagement - Discover These Top 12 Techniques for Video Success</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-intel-hd-graphics-4400-drivers-now-available-for-download/"><u>Get the Latest Intel HD Graphics 4400 Drivers - Now Available for Download!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-14-pro-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-find-and-install-the-correct-canon-pixma-mx490-drivers-for-your-windows-machine/"><u>How to Find and Install the Correct Canon PIXMA MX490 Drivers for Your Windows Machine</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-officejet-pro-8740-drivers-free-download-compatible-with-windows-11-10-and-8/"><u>HP Officejet Pro 8740 Drivers Free Download - Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-oppo-reno-11-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Oppo Reno 11 Pro 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-epsons-newest-drivers-download-the-wf-2760-printer-software-for-windows-operating-systems-win11108/"><u>Install Epson's Newest Drivers - Download the WF-2760 Printer Software for Windows Operating Systems (Win11/10/8)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/pioneering-soundtracks-for-stellar-instagram-reels/"><u>Pioneering Soundtracks for Stellar Instagram Reels</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Compatibility Issues with the Corsair H115i on Windows OS Updates
-date: 2024-09-25T20:24:20.320Z
-updated: 2024-09-28T05:37:32.614Z
+date: 2024-09-28T10:50:06.926Z
+updated: 2024-10-03T01:27:26.401Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 2. [Automatically download and install the HP Universal Print Driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Manually download the HP Universal Print Driver
@@ -61,10 +61,16 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af11f1d25dbe.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to your printer to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
@@ -74,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af11f403b2dc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -105,16 +111,24 @@ thumbnail: https://thmb.techidaily.com/e3894a6ad1afb8650d841abb2ecac55565ace18e9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-professional-lenses-and-cameras-for-youtubers/"><u>[Updated] Professional Lenses & Cameras for Youtubers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-how-to-upload-srt-files-to-social-media-100-working-methods/"><u>2024 Approved How to Upload SRT Files to Social Media (100% Working Methods)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-solution-updating-huion-graphics-tablet-software-for-pcs/"><u>Complete Solution: Updating Huion Graphics Tablet Software for PCs</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/easy-guide-to-downloading-complete-youtube-playlists-and-channel-videos/"><u>Easy Guide to Downloading Complete YouTube Playlists & Channel Videos</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/eye-on-the-best-online-photo-printers-for-24/"><u>Eye on the Best Online Photo Printers for '24</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-d-link-driver-updates-for-windows-easy-installation-tutorial/"><u>Get the Latest D-Link Driver Updates for Windows - Easy Installation Tutorial</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-and-set-up-hp-laserjet-printer-driver-5200-on-windows-11-10-and-8/"><u>How to Get and Set Up HP LaserJet Printer Driver 5200 on Windows 11, 10 & 8</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-logitech-g-pro-driver-software-available-here-compatible-with-windows-111087/"><u>Latest Logitech G Pro Driver Software Available Here - Compatible with Windows 11/10/8/7</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/online-mp4-en-mpeg-kunt-u-vervangen-gratis-met-movavi-vriendelijke-convertor/"><u>Online MP4 en MPEG Kunt U Vervangen Gratis Met Movavi - Vriendelijke Convertor</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/techkey-universal-bluetooth-receiver-drivers-download-for-windows-11-7-and-nvidia-8/"><u>Techkey Universal Bluetooth Receiver Drivers - Download for Windows 11, 7 & nVidia 8</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-choosing-the-perfect-mouse-for-your-mac/"><u>Ultimate Guide: Choosing the Perfect Mouse for Your Mac</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-journey-to-joyful-snaps-animated-faces-on-mobile/"><u>[New] In 2024, Journey to Joyful Snaps Animated Faces on Mobile</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/digiartys-ultimate-dvd-ripper-secure-your-final-user-license-agreement-now/"><u>Digiarty's Ultimate DVD Ripper: Secure Your Final User License Agreement Now!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-of-hp-stream-drivers-available-now/"><u>Effortless Installation of HP Stream Drivers Available Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975899064-forest-fire-control-including-water-bombing/"><u>Forest Fire Control (Including Water Bombing)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-canon-mg3600-drivers-installation-guide-and-updates/"><u>Get the Newest Canon MG3600 Drivers: Installation Guide and Updates</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-lenovo-monitor-drivers-installed-easily-online/"><u>Get the Newest Lenovo Monitor Drivers Installed Easily Online</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-hp-officejet-4650-printer-setup-software-installed-on-windows/"><u>Get Your HP OfficeJet 4650 Printer Setup Software Installed on Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hassle-free-guide-to-freshly-update-your-asus-z370-e-motherboard-drivers/"><u>Hassle-Free Guide to Freshly Update Your Asus Z370-E Motherboard Drivers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hp-laptops-silent-restore-sound-functionality-with-these-windows-11-fixes/"><u>HP Laptops Silent? Restore Sound Functionality with These Windows 11 Fixes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-excelling-without-vimeo-best-editing-software-rankings/"><u>In 2024, Excelling Without Vimeo Best Editing Software Rankings</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-realme-10t-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Realme 10T 5G Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-directory-for-vr-display-venues/"><u>In 2024, Ultimate Directory for VR Display Venues</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722965877641-intel-optane-driver-updates-for-windows-made-easy-step-by-step-instructions-inside/"><u>Intel Optane Driver Updates for Windows Made Easy – Step-by-Step Instructions Inside</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-issues-with-unopened-microsoft-word-documents-a-step-by-step-guide/"><u>Solving Issues with Unopened Microsoft Word Documents: A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/summary-of-gopro-hero5-action-video-for-2024/"><u>Summary of GoPro Hero5 Action Video for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-oppo-f23-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Oppo F23 5G Phones</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/tp-link-wireless-adapter-80211ac-drivers-for-win1087-newest-version-available/"><u>TP-Link Wireless Adapter (802.11Ac) Drivers for Win10/8/7 - Newest Version Available</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-techniques-for-refreshing-webcam-drivers-on-windows-10-machines/"><u>Troubleshooting Techniques for Refreshing Webcam Drivers on Windows 10 Machines</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updated-amd-rx-ebx-6700-xt-graphics-driver-for-modern-windows-systems-win11107/"><u>Updated AMD RX Ebx 6700 XT Graphics Driver for Modern Windows Systems (Win11/10/7)</u></a></li>
 </ul></div>
 
