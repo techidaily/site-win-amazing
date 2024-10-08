@@ -1,7 +1,7 @@
 ---
 title: "New Graphics Cards Drivers Available Now: Download the Latest RTX 2080 for Windows 10, 7 & 8"
-date: 2024-09-29T10:11:09.602Z
-updated: 2024-10-03T04:32:50.842Z
+date: 2024-10-05T19:49:46.376Z
+updated: 2024-10-08T16:52:39.961Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 [**Method 2** **– Manually:**](https://tools.techidaily.com/drivereasy/download/) You can update your Geforce RTX 2080 driver on your own. This requires some time, patience, and sometimes even computer skills.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Update your Geforce RTX 2080 driver automatically
@@ -51,27 +51,27 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap455.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3\. Click **Update** next to your **Geforce RTX 2080** graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap454-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Download and install your Geforce RTX 2080 driver manually
 
@@ -84,10 +84,10 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap469.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3\. Click the **DOWNLOAD** button to download the driver file.
@@ -116,15 +116,18 @@ _You can do it for free if you like, but it’s partly manual._
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-invaluable-list-of-prime-no-charge-sites-for-seamless-video-editing-experience/"><u>[New] 2024 Approved Invaluable List of Prime No-Charge Sites for Seamless Video Editing Experience</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-taming-twitch-audio-for-top-notch-streaming-saves/"><u>[Updated] In 2024, Taming Twitch Audio for Top-Notch Streaming Saves</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-intense-moment-capture-iphone-burst-mode/"><u>[Updated] Intense Moment Capture IPhone Burst Mode</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-best-fix-free-wireless-driver-downloads-available-now/"><u>Get the Best Fix: Free Wireless Driver Downloads Available Now</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-most-recent-drivers-for-hp-officejet-4655/"><u>Get the Most Recent Drivers for HP OfficeJet 4655</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hassle-free-setup-of-amd-ryzen-5-2600-video-card-drivers-what-you-need-to-know/"><u>Hassle-Free Setup of AMD Ryzen 5 2600 Video Card Drivers: What You Need to Know</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-how-to-empty-your-mailbox-in-gmail-for-androidios-devices/"><u>Step-by-Step Tutorial: How to Empty Your Mailbox in Gmail for Android/iOS Devices</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-updating-and-downloading-canons-mg3email-protected22-printer-drivers/"><u>Step-by-Step: Updating & Downloading Canon's MG3([email Protected])22 Printer Drivers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/steps-to-correct-missing-jvmdll-file-error-on-your-computer/"><u>Steps to Correct Missing jvm.dll File Error on Your Computer</u></a></li>
-<li><a href="https://extra-information.techidaily.com/your-roadmap-to-mastery-the-ultimate-guide-to-google-podcasting/"><u>Your Roadmap to Mastery The Ultimate Guide to Google Podcasting</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/6x-90/"><u> [ 6X = 90 </u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-financially-flourishing-online-media-personality/"><u>[New] 2024 Approved Financially Flourishing Online Media Personality</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1715937945528-new-2024-approved-how-to-choose-between-filmora-and-democreator/"><u>[New] 2024 Approved How to Choose Between Filmora and Democreator?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-understanding-optimal-frames-per-second-in-cinema-slow-mo/"><u>[New] In 2024, Understanding Optimal Frames Per Second in Cinema Slow-Mo</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1726227633421-movavitgajpeg/"><u>使用Movavi免費線上TGA到JPEG變更工具 - 高效率編譯器選擇</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/como-hacer-una-transcripcion-de-tu-reunion-webex-tendencias-y-estrategias-para-2024-con-movavi/"><u>Cómo Hacer Una Transcripción De Tu Reunión Webex: Tendencias Y Estrategias Para 2024 Con Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-14-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 14 Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-binkw32dll-not-found-issue-a-step-by-step-guide/"><u>Resolving the binkw32.dll Not Found Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-10-gratuit-groepse-editieprogrammas-voor-microsoft-windows-professioneel-omzeten-van-pdfs/"><u>Top 10 Gratuit Groepse Editieprogramma's Voor Microsoft Windows - Professioneel Omzeten Van PDF's</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-11-essential-2d-animation-tools-comprehensive-guide-to-free-and-premium-options/"><u>Top 11 Essential 2D Animation Tools: Comprehensive Guide to Free & Premium Options</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-media-playback-on-youtube-flv-files-tutorial-for-2024/"><u>Unified Media Playback on YouTube FLV Files Tutorial for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/verschilend-vob-conversie-van-mpg-gratis-online-vervanger-met-movavi/"><u>Verschilend VOB-Conversie Van MPG: Gratis Online Vervanger Met Movavi</u></a></li>
 </ul></div>
 

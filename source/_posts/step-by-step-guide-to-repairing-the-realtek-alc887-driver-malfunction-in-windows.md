@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Repairing the Realtek ALC887 Driver Malfunction in Windows
-date: 2024-09-27T21:33:13.914Z
-updated: 2024-10-03T10:48:14.811Z
+date: 2024-10-07T18:35:59.917Z
+updated: 2024-10-08T16:39:44.002Z
 tags:
   - win11
   - win10
@@ -48,15 +48,22 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-121.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Ralink RT3290 driver for now, simply click on the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -65,13 +72,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 **Option 1** can be applied to all versions of Windows. Still, if you opt to download and update your Ralink RT3290 driver manually, please read on and try Option 2 (it only works for Windows 8 and Windows 7).
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 2: Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)**
 
@@ -88,10 +88,10 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
@@ -113,10 +113,10 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
@@ -161,20 +161,14 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-leverage-vimeo-for-wider-viewership/"><u>[Updated] In 2024, Leverage Vimeo for Wider Viewership</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-unrestricted-data-saver-solutions/"><u>[Updated] Top Unrestricted Data Saver Solutions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-guide-amd-radeon-hd-6350-drivers-for-windows/"><u>Download & Update Guide: AMD Radeon HD 6350 Drivers for Windows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/essential-tricks-to-resolve-iphone-gallery-glitches-tip-guide/"><u>Essential Tricks to Resolve iPhone Gallery Glitches (Tip Guide)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-laserjet-1018-driver-installation-guide-fast-and-easy-download-options/"><u>HP LaserJet 1018 Driver Installation Guide: Fast & Easy Download Options</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/lg-stylo-6-analysis-impressive-design-with-a-handy-stylus/"><u>LG Stylo 6 Analysis: Impressive Design with a Handy Stylus</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/loom-capture-toolkit-essential-screen-casts-tips-for-2024/"><u>Loom Capture Toolkit Essential Screen Casts Tips for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/overcoming-known-graphic-drivers-problems-effective-solutions-revealed/"><u>Overcoming 'Known Graphic Drivers Problems': Effective Solutions Revealed</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/seamless-date-insertion-into-photo-editing/"><u>Seamless Date Insertion Into Photo Editing</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-installation-of-updated-dell-d31n-gpu-drivers-for-optimal-performance/"><u>Step-by-Step Installation of Updated Dell D31n GPU Drivers for Optimal Performance</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/the-smart-planners-guide-to-virtual-meeting-success-for-2024/"><u>The Smart Planner's Guide to Virtual Meeting Success for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-social-media-networks-facebook-twitter-instagram-youtube/"><u>Top Social Media Networks: Facebook, Twitter, Instagram, YouTube</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-instantly-upgrade-your-sound-with-nahimic-drivers/"><u>Update: Instantly Upgrade Your Sound with Nahimic Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/usb-bluetooth-dongle-driver-update-process-for-windows-operating-system/"><u>USB Bluetooth Dongle Driver Update Process for Windows Operating System</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-detection-issue-for-graphic-cards/"><u>[FIXED] Detection Issue for Graphic Cards</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-free-high-quality-desktop-video-encoding-software/"><u>[New] In 2024, Free, High-Quality Desktop Video Encoding Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-redefining-collaboration-the-power-of-immersive-vr/"><u>[Updated] Redefining Collaboration The Power of Immersive VR</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificnial-intelligence-the-double-edged-sword-enabling-cybercriminal-activities-five-ways/"><u>Artificnial Intelligence: The Double-Edged Sword Enabling Cybercriminal Activities (Five Ways)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-newest-nvidia-quadro-rtx-8000-drivers-compatible-with-windows-11-10-and-7/"><u>Download the Newest Nvidia Quadro RTX 8000 Drivers Compatible with Windows 11, 10 & 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722976989163-get-your-insignia-usbvga-driver-installed-step-by-step-guide/"><u>Get Your Insignia USB/VGA Driver Installed - Step by Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/nahimic-driver-installment-swift-and-easy-enhancement-of-your-sound-system/"><u>Nahimic Driver Installment - Swift and Easy Enhancement of Your Sound System</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-tutorial-keeping-your-dell-xps-15s-hardware-updated-with-windows-driver-upgrades/"><u>The Ultimate Tutorial: Keeping Your Dell XPS 15'S Hardware Updated with Windows Driver Upgrades</u></a></li>
 </ul></div>
 

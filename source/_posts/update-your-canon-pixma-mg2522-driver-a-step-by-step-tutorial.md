@@ -1,7 +1,7 @@
 ---
 title: Update Your Canon PIXMA MG2522 Driver - A Step-by-Step Tutorial
-date: 2024-09-28T01:30:05.853Z
-updated: 2024-10-02T20:05:58.966Z
+date: 2024-10-04T18:40:19.711Z
+updated: 2024-10-08T19:14:48.668Z
 tags:
   - win11
   - win10
@@ -31,16 +31,10 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
  Driver updates often feature some major bug fixes and performance boost, that’s why we recommend you to update your driver.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to download and update your HP Scanjet driver
@@ -58,16 +52,16 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-23-46-1-1200x727.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the row containing your model, click the**rightmost link** to enter the download page.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-23-46-1200x727.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) If you aren’t using Windows 10 64-bit,**choose your OS** first.
 
@@ -75,28 +69,15 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-25-10-1200x752.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Once you’ve downloaded the driver,**double-click** to open the file and follow the on-screen instruction to install.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-32-40-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you complete the installation process, connect your HP Scanjet to the computer and see if it’s running.
@@ -110,6 +91,19 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
  3) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_17-40-32-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the**Pro version** of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
   
@@ -140,19 +134,18 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-leveraging-libraries-improving-efficiency-in-your-javascript-projects/"><u>[New] 2024 Approved Leveraging Libraries Improving Efficiency in Your JavaScript Projects</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-green-screen-mastery-essential-free-lessons-from-youtubes-best-4-channels/"><u>[New] Green Screen Mastery Essential Free Lessons From YouTube's Best 4 Channels</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-ultimate-size-solution-to-boost-your-videos-online-performance-for-2024/"><u>[New] The Ultimate Size Solution to Boost Your Video's Online Performance for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/boosting-your-systems-soundscape-downloading-and-installing-soundmax-drivers-on-windows/"><u>Boosting Your System's Soundscape: Downloading & Installing SoundMAX Drivers on Windows</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/convert-your-ms-word-documents-to-stunning-high-res-images-flipbuilder-free-conversion-tool/"><u>Convert Your MS Word Documents to Stunning High-Res Images - FlipBuilder Free Conversion Tool!</u></a></li>
-<li><a href="https://win-able.techidaily.com/error-free-gaming-with-steam-a-complete-breakdown-of-correcting-error-code-n130/"><u>Error-Free Gaming with Steam: A Complete Breakdown of Correcting Error Code N130</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-easily-install-and-upgrade-to-the-newest-nvidia-rtx-3070-driver-for-windows-users/"><u>How to Easily Install & Upgrade to the Newest NVIDIA RTX 3070 Driver for Windows Users</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-y36-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo Y36?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-the-latest-driver-for-your-hp-laserjet-pro-mfp-m42ebfdw-printer-on-windows-11-10-and-7-systems/"><u>Install the Latest Driver for Your HP LaserJet Pro MFP M42ebfdw Printer on Windows 11, 10 & 7 Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722977599551-intel-ac3160-wifi-card-latest-stable-drivers-installed-fast/"><u>Intel AC3160 WiFi Card - Latest Stable Drivers Installed Fast</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/official-downloads-install-logitech-steering-wheel-g29-pro-drivers-for-windows-xp-vista-7810/"><u>Official Downloads: Install Logitech Steering Wheel (G29 Pro) Drivers for Windows XP, Vista, 7/8/10</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/smooth-reels-enhancing-android-video-clarity/"><u>Smooth 'Reels' Enhancing Android Video Clarity</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-installing-new-surface-book-2-device-drivers-without-hassle/"><u>Step-by-Step Tutorial: Installing New Surface Book 2 Device Drivers Without Hassle</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unlocking-the-full-potential-of-minecraft-an-ultimate-exploration-of-this-beloved-sandbox-game-for-players-of-every-age-group/"><u>Unlocking the Full Potential of Minecraft: An Ultimate Exploration of This Beloved Sandbox Game for Players of Every Age Group</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-tricks-to-simulate-quantum-leap-phenomena/"><u>[New] In 2024, Tricks to Simulate Quantum Leap Phenomena</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-prime-construction-tips-for-mc-community-abodes-for-2024/"><u>[New] Prime Construction Tips for MC Community Abodes for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-timeless-80s-effects-boosting-creative-videos/"><u>[Updated] 2024 Approved Timeless 80S Effects Boosting Creative Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-balance-tint-editor-pro/"><u>[Updated] Balance Tint Editor Pro</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-efficiently-expanding-on-stardews-ginger-isle/"><u>[Updated] In 2024, Efficiently Expanding on Stardew's Ginger Isle</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-latest-epson-wf-2630-driver-for-win-78110-fast-and-reliable-installation-guide/"><u>Download Latest Epson WF-2630 Driver for Win 7/8.1/10 - Fast and Reliable Installation Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/expert-advice-installing-latest-drivers-for-corsair-headsets-on-windows-systems/"><u>Expert Advice: Installing Latest Drivers for Corsair Headsets on Windows Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-best-out-of-your-pc-with-updated-msi-b35-tomahawk-driver-pack-compatible-with-both-windows-10-and-7/"><u>Get the Best Out of Your PC with Updated MSI B35# Tomahawk Driver Pack: Compatible with Both Windows 10 & 7</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862732090-get-the-powerhouse-dell-g16-gaming-laptop-now-at-just-949/"><u>Get the Powerhouse Dell G16 Gaming Laptop Now at Just $949!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-solutions-fixing-issues-with-thinkpads-thunderbolt-3-dock-connection/"><u>Troubleshooting and Solutions: Fixing Issues with ThinkPad's Thunderbolt 3 Dock Connection</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-guide-downloading-logitech-t63am-t630-drivers-for-windows-7810/"><u>Ultimate Guide: Downloading Logitech T63am T630 Drivers for Windows 7/8/10</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
 </ul></div>
 

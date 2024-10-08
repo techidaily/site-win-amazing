@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Image Cropping – Quick & Simple Techniques by Movavi
-date: 2024-09-11 11:14:23
-updated: 2024-09-13 12:22:23
+date: 2024-10-07T18:26:25.558Z
+updated: 2024-10-08T17:16:52.988Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532a7a2ec26036834e7833dd28.jpg
@@ -222,6 +222,19 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 Utiliser le mode de jeu Windows 10
@@ -266,6 +279,13 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
@@ -277,6 +297,19 @@ Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez da
 Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive souvent que de nouveaux bogues apparaissent dans les nouvelles mises à jour ou que certains éléments cessent de fonctionner.
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver les notifications
 
@@ -318,6 +351,13 @@ Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de 
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
@@ -352,6 +392,13 @@ De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver l'algorithme de Nagle
 
 En gros, l'algorithme de Nagle améliore l'efficacité des réseaux TCP/IP en créant des paquets de données, ce qui réduit le nombre de paquets à envoyer sur le réseau. Ce processus affecte votre connexion Internet, la rendant moins stable. La désactivation de cet algorithme sur votre PC peut contribuer à des problèmes de latence lorsque vous jouez à des jeux en ligne.
@@ -372,6 +419,13 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -394,6 +448,13 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Double-cliquez sur la valeur **REG\_DWORD EnablePrefetcher**.
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -419,6 +480,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 2. Pour la ventilation, essayez de surélever votre ordinateur portable ou utilisez un bureau conçu pour les ordinateurs portables.
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
@@ -536,11 +604,31 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-club-anthems-expertly-curated-dj-vids-downloads/"><u>[New] 2024 Approved Club Anthems Expertly Curated DJ Vids Downloads</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-unique-cellphone-alerts-from-popular-tiktok-music/"><u>[New] Crafting Unique Cellphone Alerts From Popular TikTok Music</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-low-light-captures-on-your-iphone/"><u>[Updated] Mastering Low-Light Captures on Your IPhone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/at-least-4-and-no-more-than-8-public-interest-representatives-who-do-not-participate-in-organic-agricultural-or-trade/"><u>At Least 4 and No More than 8 Public Interest Representatives (Who Do Not Participate in Organic Agricultural or Trade)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-driver-installer-for-hp-zbook-fury-15-g8-with-intel-core-processors-windows-compatible/"><u>Complete Driver Installer for HP ZBook Fury 15 G8 with Intel Core Processors (Windows Compatible)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-sapphire-video-card-drivers-for-your-pc-compatible-with-windows-os/"><u>Get the Newest Sapphire Video Card Drivers for Your PC – Compatible with Windows OS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-razer-mamba-up-and-running-with-this-fast-downloader/"><u>Get Your Razer Mamba Up and Running with This Fast Downloader</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guide-installing-hp-laserjet-pro-m4e-series-drivers-for-seamless-printing-on-windows-systems/"><u>Guide: Installing HP LaserJet Pro M4e Series Drivers for Seamless Printing on Windows Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-hp-laserjet-pro-m402n-driver-on-windows/"><u>How to Download HP LaserJet Pro M402n Driver on Windows</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-guide-seamlessly-entering-and-exiting-recovery-mode-on-your-ipad/"><u>How To Guide: Seamlessly Entering & Exiting Recovery Mode on Your iPad</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-nokia-g310-by-fonelab-android-recover-music/"><u>How to recover old music from your Nokia G310</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-mastering-picture-in-picture-settings-for-youtube-ios/"><u>In 2024, Mastering Picture-in-Picture Settings for YouTube (iOS)</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-driver-packs-available-enhance-your-hp-z440-workstation-performance-today/"><u>Latest Driver Packs Available - Enhance Your HP Z440 Workstation Performance Today!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/make-windows-11-detect-your-usb-device-easy-fixes-and-solutions/"><u>Make Windows 11 Detect Your USB Device: Easy Fixes and Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/transformando-videos-em-pcs-com-passos-diretos-e-eficientes-dicas-essenciais-da-movavi/"><u>Transformando Vídeos Em PCs Com Passos Diretos E Eficientes – Dicas Essenciais Da Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-enhance-development-with-chatgpt-powered-vs-code/"><u>Ultimate Guide: Enhance Development with ChatGPT-Powered VS Code</u></a></li>
+</ul></div>
+

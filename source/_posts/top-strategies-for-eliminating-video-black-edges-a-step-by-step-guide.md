@@ -1,7 +1,7 @@
 ---
 title: "Top Strategies for Eliminating Video Black Edges: A Step-by-Step Guide"
-date: 2024-09-10 16:31:50
-updated: 2024-09-13 10:19:56
+date: 2024-10-02T19:52:19.375Z
+updated: 2024-10-08T17:29:49.329Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/f1f88a30ef6a6045fdd8de1ae1bff22298ec89fff91a1dcd9baaedda62548cb2.jpg
@@ -278,6 +278,13 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -298,6 +305,13 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -305,6 +319,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 1. Activez l'accentuation des images d'AMD en cliquant sur **Paramètres**, puis sur **Graphiques** pour trouver le paramètre. Vous pouvez l'activer pour des jeux individuels ou globalement.
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
 
@@ -323,6 +344,13 @@ Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
@@ -395,6 +423,13 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -403,9 +438,23 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
 
@@ -510,6 +559,13 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -536,11 +592,31 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-live-action-revealed-an-in-depth-review-of-polaroids-new-camera-for-2024/"><u>[New] Live-Action Revealed An In-Depth Review of Polaroid's New Camera for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-the-craft-of-epic-gopro-time-lapse-video/"><u>[New] Mastering the Craft of Epic GoPro Time Lapse Video</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-strategies-for-retrieving-private-chat-photos/"><u>[Updated] Strategies for Retrieving Private Chat Photos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/avoid-high-costs-buying-budget-friendly-gopros-for-2024/"><u>Avoid High Costs Buying Budget-Friendly GoPros for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-thunderbolt-driver-software-for-windows-pcs/"><u>Download the Latest Thunderbolt Driver Software for Windows PCs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-most-recent-drivers-for-your-lenovo-camera-on-windows-7/"><u>Download the Most Recent Drivers for Your Lenovo Camera on Windows 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fixing-realtek-network-adapter-issues-on-windows-11107-systems-effective-solutions-unveiled/"><u>Fixing Realtek Network Adapter Issues on Windows 11/10/7 Systems – Effective Solutions Unveiled</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6s-plus-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6s Plus to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-and-update-the-driver-for-your-tp-link-ub400-wireless-bluetooth-adapter/"><u>How to Get and Update the Driver for Your TP-Link UB400 Wireless Bluetooth Adapter</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-iphone-xr-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From iPhone XR - 4 Easy Ways</u></a></li>
+<li><a href="https://fox-that.techidaily.com/independent-methods-for-restoring-an-iphone-bypassing-itunes/"><u>Independent Methods for Restoring an iPhone - Bypassing iTunes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/instant-setup-the-best-guide-for-samsung-m2070-drivers-today/"><u>Instant Setup: The Best Guide for Samsung M2070 Drivers Today</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/live-mastery-elevating-your-360-degree-videos-on-facebook/"><u>Live Mastery Elevating Your 360 Degree Videos on Facebook</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/master-the-process-of-renewing-your-dell-docking-stations-drivers/"><u>Master the Process of Renewing Your DELL Docking Station's Drivers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-deleted-reminders-on-your-iphone-with-these-simple-steps/"><u>Revive Deleted Reminders on Your iPhone with These Simple Steps</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/solving-asus-pce-ac56-drivers-troubleshooting-guide-for-windows-11-8-and-7/"><u>Solving ASUS PCE-AC56 Drivers: Troubleshooting Guide for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-correcting-lenovo-peripheral-usb-drivers/"><u>Step-by-Step Guide to Correcting Lenovo Peripheral USB Drivers</u></a></li>
+</ul></div>
+

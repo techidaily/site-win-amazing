@@ -1,7 +1,7 @@
 ---
 title: "Comment Transformer Vos Photos Au Format DNG en Ligne Gratuitement via Movavi : Les Étapes Détaillées"
-date: 2024-09-10 23:47:57
-updated: 2024-09-13 11:21:54
+date: 2024-10-05T19:05:51.288Z
+updated: 2024-10-08T19:08:48.635Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/8c17bff5e71b76e9078569f50553d7aee9842859c375aac80dbab691c4377bde.jpg
@@ -166,6 +166,13 @@ Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'u
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
 
 La carte graphique travaille pour rendre les images fixes, ou frames, pendant que vous jouez à un jeu. Elle travaille en collaboration avec d'autres composants matériels tels que la RAM, le CPU et le GPU pour créer une expérience de jeu complète. En cas d'arrêt de l'un de ces composants, votre FPS commencera à baisser. La plupart des joueurs préfèrent un taux de 60 FPS en jouant, mais la plupart des jeux sont en fait très bien à 30 FPS.
@@ -213,6 +220,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
@@ -338,6 +352,19 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
@@ -361,6 +388,13 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -411,6 +445,13 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Empêchez votre ordinateur portable de surchauffer
 
 Les ordinateurs portables sont réputés pour leur surchauffe, car tous les composants sont serrés dans le châssis et l'air circule peu. En cas de surchauffe, le système ralentit et les performances de jeu aussi. Utilisez ces conseils de prévention :
@@ -423,6 +464,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -454,6 +502,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)[À propos de la version Windows](https://www.gecata.com/)
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -487,6 +542,13 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 3. Effectuez un nettoyage du disque et une maintenance du système
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Windows 10 est-il meilleur pour les jeux ?
 
@@ -536,11 +598,33 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/njoy-9-complete-uncut-holiday-cine-classics-for-no-cost-in-2024/"><u>[New] Enjoy 9 Complete, Uncut Holiday Cine Classics for No Cost, In 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-social-stage-this-years-viral-video-vanguards-on-twitter/"><u>[Updated] In 2024, The Social Stage This Year's Viral Video Vanguards on Twitter</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavimp3avi/"><u>「Movaviで簡単！無料のオンラインMP3からフルレングスAVIへ変換」</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-elevating-your-standards-a-path-to-superior-interview-skills/"><u>2024 Approved Elevating Your Standards A Path to Superior Interview Skills</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-historical-deep-dives-from-youtubes-most-impactful-creators/"><u>2024 Approved Historical Deep Dives From YouTube's Most Impactful Creators</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/cambiar-formato-de-video-mp4-a-wav-online-sin-costo-con-movavi/"><u>Cambiar Formato De Video MP4 a WAV Online Sin Costo Con Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratis-konverteren-van-jp2-tot-jpeg-efficient-online-tools-met-movavi/"><u>Gratis Konverteren Van JP2 Tot JPEG: Efficiënt Online-Tools Met Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratis-online-converter-3gpp-para-mpeg-software-de-conversao-gratuita-pelo-movavi/"><u>Gratis Online Converter 3GPP Para MPEG - Software De Conversão Gratuita Pelo Movavi</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-x90s-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-on-camera-techniques-key-shots-for-aspiring-directors-for-2024/"><u>In-Depth on Camera Techniques Key Shots for Aspiring Directors for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguistic-kinship-ukraine-to-russia/"><u>Linguistic Kinship - Ukraine to Russia</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/m4r-to-mp3-online-transformation-fast-and-cost-free/"><u>M4R to MP3 Online Transformation - Fast and Cost-Free!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/step-by-step-audio-transformation-tips-for-enhanced-competitive-play-in-free-fire/"><u>Step-by-Step Audio Transformation Tips for Enhanced Competitive Play in Free Fire</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/the-battle-of-uniqueness-vs-commonality-how-to-captivate-millennials-interest-in-banking-financial-services-and-more-thought-leadership-by-abbyy/"><u>The Battle of Uniqueness Vs. Commonality: How to Captivate Millennials' Interest in Banking, Financial Services & More | Thought Leadership by ABBYY</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-12-aplicativos-mais-eficientes-para-capturar-a-tela-do-seu-laptop/"><u>Top 12 Aplicativos Mais Eficientes Para Capturar a Tela Do Seu Laptop</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-13-free-mkv-to-mp4-converters-for-pcs-and-macs-best-choices/"><u>Top 13 Free MKV to MP4 Converters for PCs and Macs - Best Choices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-create-a-lasting-impression-best-free-animated-logo-makers-and-design-secrets-for-2024/"><u>Updated Create a Lasting Impression Best Free Animated Logo Makers & Design Secrets for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/vob-wma/"><u>VOB 파일을 WMA로 자유성 전원 대화형 변환 - 이메일, 비디오, 그리고 음악</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/3gp-to-swfmovavi/"><u>オンデマンドの3GP to SWF変換！MOVAVI無料コーナーで試せるビデオ編集</u></a></li>
+</ul></div>
+

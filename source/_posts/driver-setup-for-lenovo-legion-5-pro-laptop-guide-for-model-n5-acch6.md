@@ -1,7 +1,7 @@
 ---
 title: "Driver Setup for Lenovo Legion 5 Pro Laptop: Guide for Model N5, ACCH6"
-date: 2024-09-29T00:51:14.367Z
-updated: 2024-10-02T17:59:01.554Z
+date: 2024-10-01T19:46:45.316Z
+updated: 2024-10-08T17:58:06.056Z
 tags:
   - win11
   - win10
@@ -37,10 +37,10 @@ There are two ways you can update your driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 1 – Update the driver manually
@@ -49,22 +49,15 @@ There are two ways you can update your driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-162.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file (usually with the EXE extension) and follow the on-screen instructions to install the driver.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Intel NVMe driver
@@ -80,10 +73,17 @@ There are two ways you can update your driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update yourIntel NVMe driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-163.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -118,17 +118,18 @@ There are two ways you can update your driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-instagram-enhancement-picture-posting-guide/"><u>[New] Instagram Enhancement Picture Posting Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mobile-mastery-secure-your-favorite-igtv-content-easily/"><u>[Updated] In 2024, Mobile Mastery Secure Your Favorite IGTV Content Easily</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-perfectly-pair-photos-for-your-instagram-story-easy-guide/"><u>[Updated] In 2024, Perfectly Pair Photos for Your Instagram Story Easy Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/10-best-photo-frame-apps-of-2024/"><u>10 Best Photo Frame Apps of 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-error-handling-a-closer-look-at-6-common-problems-and-solutions/"><u>ChatGPT Error Handling: A Closer Look at 6 Common Problems and Solutions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/essential-windows-11-camcorders-and-webcams-guide/"><u>Essential Windows 11 Camcorders & Webcams Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/focusrite-scarlett-amo-2i2-for-pcs-download-free-windows-driver/"><u>Focusrite Scarlett Amo 2I2 for PCs – [Download] Free Windows Driver</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/freshly-released-download-and-setup-ricoh-printer-drivers-for-win-10817-systems/"><u>Freshly Released: Download and Setup Ricoh Printer Drivers for Win 10/8.1/7 Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-download-and-set-up-epson-l3110-printer-drivers-on-windows-7-8-and-10/"><u>How to Download and Set Up Epson L3110 Printer Drivers on Windows 7, 8 & 10</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-in-depth-giroptic-complete-immersion/"><u>In 2024, In-Depth Giroptic Complete Immersion</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722975472571-logitech-g910-software-latest-download-for-windows/"><u>Logitech G910 Software – Latest Download For Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-synaptics-touchpad-driver-downloads-and-update-steps-for-smooth-sailing/"><u>Quick Synaptics Touchpad Driver Downloads & Update Steps for Smooth Sailing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-top-clicker-article-titles-maker/"><u>[Updated] In 2024, Top Clicker Article Titles Maker</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-exploring-stardews-peak-mods-list-of-the-best/"><u>2024 Approved Exploring Stardew's Peak Mods - List of the Best</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/7-effective-methods-for-capturing-screenshots-on-your-dell-device-with-movavi/"><u>7 Effective Methods for Capturing Screenshots on Your Dell Device with Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavi-business-edition/"><u>強力なビデオ編集・スクリーンキャプチャーソフト: Movavi Business Edition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/audio-amplification-for-powerpoint-presentations-for-2024/"><u>Audio Amplification for PowerPoint Presentations for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/economic-empowerment-how-reels-and-revenue-work-together-for-creators/"><u>Economic Empowerment: How Reels and Revenue Work Together for Creators</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-traffic-analysis-using-the-cookiebot-platform/"><u>Elevate Traffic Analysis Using the Cookiebot Platform</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-v-purse-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-tailored-tv-experience-via-social-media-content/"><u>In 2024, Tailored TV Experience via Social Media Content</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-zoom-the-ultimate-guide-to-audio-recording-for-podcasts/"><u>Mastering Zoom The Ultimate Guide to Audio Recording for Podcasts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavi-3gp3g2/"><u>Movaviで応用: 無料で3GP形式から3G2への簡単なオンライン変換 - ビデオ変換ガイド</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/professional-screen-capture-tool-nahravani-obrazovky-software/"><u>Professional Screen Capture Tool | Nahrávání Obrazovky Software</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-real-deal-with-samsung-cf591-gaming-performance-explored-in-detail/"><u>The Real Deal with Samsung CF591 - Gaming Performance Explored in Detail</u></a></li>
 </ul></div>
 

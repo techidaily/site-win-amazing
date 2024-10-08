@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Dealing with the Synaptics Nub Driver Glitch on Windows 10"
-date: 2024-09-28T21:38:05.318Z
-updated: 2024-10-02T17:21:41.290Z
+date: 2024-10-03T18:57:46.095Z
+updated: 2024-10-08T17:51:57.297Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
 [**Method 2 – Automatically:**](https://tools.techidaily.com/drivereasy/download/) This option is **much quicker and easier** . **All**   you need to do is **just a couple of mouse clicks** !
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Download and update the drivers for your Lenovo X1 Carbon manually
 
  You can download the updated driver files from the official website of Lenovo. Then install them on your X1 Carbon on your own. Here is how to do it:
@@ -46,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap669.png)
 4. Click **Operating systems**  to select the OS you’re currently using. Click **Expand Details**  to view the details of each device.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap670.png)
 5. Click **the downward triangle**  to view the details of that driver. Then you can click **the download button**  to download that driver. If you want to download multiple drivers, you can also click **the plus button**  to add it to your downloads list first.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap671.png)
@@ -61,20 +61,33 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 7. Click **the Download button**  . Then follow the on-screen instruction to download these driver files.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap673.png)
 8. After all the driver files are downloaded on your X1 Carbon, double-click the driver files one by one and follow the on-screen instructions to install the updated driver files on your X1 Carbon.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Download and update the drivers for your Lenovo X1 Carbon automatically
@@ -89,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap675.png)  
  You can do it for free if you like, but it’s partly manual.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -120,16 +126,21 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-selecting-the-right-video-recorder-for-teaching/"><u>[New] Selecting the Right Video Recorder for Teaching</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-reimagining-the-corporate-environment-to-maximize-employee-potential/"><u>[Updated] 2024 Approved Reimagining the Corporate Environment to Maximize Employee Potential</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-a-game-changer-how-bandicams-2023-update-transforms-capturing-games/"><u>[Updated] A Game Changer How Bandicam's 2023 Update Transforms Capturing Games</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-achieving-excellence-in-game-recording-techniques-windows-11-style/"><u>2024 Approved Achieving Excellence in Game Recording Techniques, Windows 11 Style</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boosting-your-instagram-presence-how-to-increase-follower-counts/"><u>Boosting Your Instagram Presence: How to Increase Follower Counts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-tips-for-smooth-csgo-performance-optimization/"><u>Effective Tips for Smooth CS:GO Performance Optimization</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/expert-guide-overcoming-ralink-rt3290-driver-hiccups-in-windows-1087/"><u>Expert Guide: Overcoming Ralink RT3290 Driver Hiccups in Windows 10/8/7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/geforce-gtx-460-driver-update-seamless-guide-for-pc-users/"><u>GeForce GTX 460 Driver Update: Seamless Guide for PC Users</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-navigating-the-world-of-drone-video-manipulation/"><u>In 2024, Navigating the World of Drone Video Manipulation</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/overcoming-connectivity-hurdles-resolving-windows-10-bluetooth-driver-issues-effectively/"><u>Overcoming Connectivity Hurdles: Resolving Windows 10 Bluetooth Driver Issues Effectively</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-speedy-way-to-download-and-update-your-samsung-c460-drivers/"><u>The Speedy Way to Download and Update Your Samsung C460 Drivers</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-boosting-earnings-in-cosmetic-videography/"><u>2024 Approved Boosting Earnings in Cosmetic Videography</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-learn-to-flip-film-sequences-on-iphone/"><u>2024 Approved Learn to Flip Film Sequences on iPhone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/brother-mfc-l2700dw-software-installation-guide-for-microsoft-windows-users/"><u>Brother MFC-L2700DW Software Installation Guide for Microsoft Windows Users</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-file-management-with-command-prompt-in-windows-11-a-step-by-step-tutorial/"><u>Effective File Management with Command Prompt in Windows 11 - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722972848032-genomic-selection-uses-molecular-markers-across-the-entire-genome-to-predict-plant-performance/"><u>Genomic Selection Uses Molecular Markers Across the Entire Genome to Predict Plant Performance.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guide-resolving-ralink-rt3290-driver-compatibility-issues-across-multiple-windows-platforms/"><u>Guide: Resolving Ralink RT3290 Driver Compatibility Issues Across Multiple Windows Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-spectrum-of-light-with-windows-hdr-video-capabilities/"><u>In 2024, Explore the Spectrum of Light with Windows' HDR Video Capabilities</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-tecno-spark-10-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Tecno Spark 10 5G Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-t2-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo T2 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-launchpad-to-success-establishing-your-own-food-flavor-blogchannel/"><u>In 2024, Launchpad to Success Establishing Your Own Food Flavor Blog/Channel</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-nvidia-quadro-rtx-4000-graphics-card-driver-updates-free-download/"><u>Latest NVIDIA Quadro RTX 4000 Graphics Card Driver Updates: Free Download</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-easy-installation-razer-mamba-drivers-download/"><u>Quick and Easy Installation: Razer Mamba Drivers Download</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-safe-and-easy-mastering-the-download-process-for-your-geforce-gtx-750-graphics-card-drivers/"><u>Quick, Safe & Easy: Mastering the Download Process for Your GeForce GTX 750 Graphics Card Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/realtek-rtl81e8cu-drivers-fresh-release-for-enhanced-wi-fi-on-windows-710/"><u>Realtek RTL81e8Cu Drivers: Fresh Release for Enhanced Wi-Fi on Windows 7/10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/section-3b-five-facts-to-remember-about-systolic-dysfunction-in-hfref/"><u>Section 3B: Five Facts to Remember About Systolic Dysfunction in HFrEF</u></a></li>
 </ul></div>
 

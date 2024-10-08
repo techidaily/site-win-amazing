@@ -1,7 +1,7 @@
 ---
 title: Upgrade To a Superior Gaming Session - Update to the Latest ASUS GeForce GTX 970 Pro GPU for Maximum Performance
-date: 2024-10-02T00:15:56.143Z
-updated: 2024-10-03T12:02:01.180Z
+date: 2024-10-02T17:07:11.896Z
+updated: 2024-10-08T21:20:37.327Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-download-and-install-arduino-nano-driver-in-windows-solved/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1 –** **Download and install the driver manually**
 
  The screenshots below are from Windows 10, but the steps are also valid for other Windows system.
@@ -48,13 +55,6 @@ OR
 2. Click **Windows Installer, for Windows XP and up** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ar.jpg)
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
@@ -65,19 +65,19 @@ OR
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update drivers**
@@ -93,15 +93,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/nano.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -124,20 +124,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-your-secret-to-popularity-choosing-best-thumbnail-fonts/"><u>[New] In 2024, Your Secret to Popularity Choosing Best Thumbnail Fonts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-the-2023-dive-into-apeaksofts-video-capture-marvels-for-2024/"><u>[New] The 2023 Dive Into Apeaksoft’s Video Capture Marvels for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amd-radeon-hd-7700-download-current-drivers-and-enjoy-optimized-gaming-experience/"><u>AMD Radeon HD 7700: Download Current Drivers and Enjoy Optimized Gaming Experience</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-through-gpt-3-limits-solving-four-common-problems/"><u>Breaking Through GPT-3 Limits: Solving Four Common Problems</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/breakthrough-in-youtube-saving-technology/"><u>Breakthrough in YouTube Saving Technology</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/comprehensive-instructions-how-to-get-your-wd-ses-usb-device-drivers-up-and-running-after-2-cups-of-coffee-in-less-than-5-minutes/"><u>Comprehensive Instructions: How to Get Your WD SES USB Device Drivers Up and Running After 2 Cups of Coffee in Less than 5 Minutes</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722977448097-download-intelligent-cpu-drivers-fast-simple-steps-inside/"><u>Download Intelligent CPU Drivers Fast - Simple Steps Inside!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-hp-officejet-4650-windows-drivers-here/"><u>Get Your HP OfficeJet 4650 Windows Drivers Here!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-toshiba-printer-and-scanner-working-installers-for-windows/"><u>Get Your Toshiba Printer and Scanner Working: Installers for Windows</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-chrome-os-native-screen-recorder/"><u>In 2024, Chrome OS Native Screen Recorder</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-xr-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your iPhone XR</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mastering-microsoft-driver-installation-windows-11-8-and-7-edition-a-troubleshooters-guide/"><u>Mastering Microsoft Driver Installation: Windows 11, 8, & 7 Edition - A Troubleshooter's Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-redmi-k70-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Redmi K70</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-your-ati-graphics-card-drivers-on-windows/"><u>Step-by-Step Guide: Updating Your ATI Graphics Card Drivers on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-compiling-shaders-issue-in-call-of-duty-black-ops-cold-war/"><u>Troubleshooting Guide: Fixing 'Compiling Shaders' Issue in Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-comprehensive-morphvox-modification-handbook/"><u>[New] 2024 Approved Comprehensive MorphVOX Modification Handbook</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-curated-selection-5-superior-android-ps2-game-emulators/"><u>[New] Curated Selection 5 Superior Android PS2 Game Emulators</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-2023-facebook-short-videos-and-everything-about-them/"><u>[New] In 2024, 2023 | Facebook Short Videos and Everything About Them</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-fixed-shorts-are-now-easily-accessible/"><u>[Updated] YouTube Fixed Shorts Are Now Easily Accessible</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/re-youtubes-iconic-icons-online-tools-desktop-software-and-commands-for-2024/"><u>Capture YouTube's Iconic Icons Online Tools, Desktop Software & Commands for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-canon-mg220-drivers-for-windows-with-easy-installation-tips/"><u>Get the Latest Canon MG2지원20 Drivers for Windows with Easy Installation Tips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722966465195-get-the-latest-geforce-rtx-ebx-3070-drivers-compatible-with-windows-1011-free-download/"><u>Get the Latest GeForce RTX Ebx 3070 Drivers Compatible with Windows 10/11 – Free Download!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/identifying-keygen-malware-on-windows-recognition-and-eradication-steps/"><u>Identifying Keygen Malware on Windows: Recognition and Eradication Steps</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-hp-laserjet-amo-1320-printer-drivers-compatible-with-windows-os/"><u>Latest HP LaserJet Amo 1320 Printer Drivers - Compatible with Windows OS</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-top-8-free-soundscape-resources-for-audio-enhancement/"><u>New Top 8 Free Soundscape Resources for Audio Enhancement</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/solution-to-hp-beataudio-driver-issues-on-various-windows-versions-a-comprehensive-guide/"><u>Solution to HP BeatAudio Driver Issues on Various Windows Versions: A Comprehensive Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/step-by-step-tutorial-save-vimeo-content-directly-on-your-iphone-with-no-hassle/"><u>Step-by-Step Tutorial: Save Vimeo Content Directly on Your iPhone with No Hassle</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-7-best-stardew-valley-mods-for-2024/"><u>The 7 Best Stardew Valley Mods for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-tutorial-reviving-your-epson-wf-7nf020-with-fresh-windows-drivers/"><u>The Ultimate Tutorial: Reviving Your Epson WF-7nf020 with Fresh Windows Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-guide-to-installing-lenovo-x1-carbon-drivers-on-windows-11-and-windows-7-systems/"><u>Ultimate Guide to Installing Lenovo X1 Carbon Drivers on Windows 11 & Windows 7 Systems</u></a></li>
 </ul></div>
 

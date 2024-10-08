@@ -1,7 +1,7 @@
 ---
 title: "HID-Compliant Peripheral Management: Upgrading Your Mouse's Software"
-date: 2024-09-30T23:04:09.384Z
-updated: 2024-10-02T17:03:37.685Z
+date: 2024-10-07T17:33:25.201Z
+updated: 2024-10-08T19:52:08.535Z
 tags:
   - win11
   - win10
@@ -35,16 +35,10 @@ There are two ways to download iCUE.
 2. [Download iCUE from the product page](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Download and install iCUE through the homepage
@@ -52,13 +46,6 @@ There are two ways to download iCUE.
 1. Go to the[iCUE homepage](https://www.corsair.com/uk/en/icue) .
 2. Click**DOWNLOAD NOW** . Follow the on-screen instructions to finish the installation.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Download iCUE from the product page
 
@@ -69,10 +56,16 @@ There are two ways to download iCUE.
 3. Scroll down and click**DOWNLOADS** . Then click the link to download iCUE.![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Double-click on the downloaded file and follow the on-screen instructions to install the software.
@@ -92,10 +85,10 @@ There are two ways to download iCUE.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-84.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the devices to automatically download the correct version of their drivers, then you can manually install the drivers (you can do this with the FREE version).
@@ -103,6 +96,13 @@ There are two ways to download iCUE.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-91.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -127,24 +127,16 @@ There are two ways to download iCUE.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-your-youtube-url-your-way-easy-personalization-steps/"><u>[Updated] Your YouTube URL, Your Way Easy Personalization Steps</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-step-by-step-guide-to-excellent-ipadiphone-interview-podcast-recording/"><u>2024 Approved Step-by-Step Guide to Excellent iPad/iPhone Interview Podcast Recording</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/7-crucial-gadgets-for-successful-metaverse-journey/"><u>7 Crucial Gadgets for Successful Metaverse Journey</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/arduino-compatibility-improvements-fresh-usb-driver-updates-for-windows-systems/"><u>Arduino Compatibility Improvements: Fresh USB Driver Updates for Windows Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/bypassing-issues-with-elgato-hd60-drivers-simple-steps-to-success/"><u>Bypassing Issues with Elgato HD60 Drivers - Simple Steps to Success</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-guide-to-download-drivers-for-insignia-ns-pcy5bma2-on-modern-and-legacy-windows-platforms/"><u>Complete Guide to Download Drivers for Insignia NS-PCY5BMA2 on Modern and Legacy Windows Platforms</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/still-photos-to-dynamic-video-how-to-use-your-cellular-device/"><u>From Still Photos to Dynamic Video How To Use Your Cellular Device</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-iphone-6-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on iPhone 6 or iPad?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-t2-pro-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo T2 Pro 5G</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-flawlessly-get-wacom-intuos-3-drivers-installed-on-your-pc-running-microsoft-os-effortless-and-reliable/"><u>How To Flawlessly Get Wacom Intuos 3 Drivers Installed on Your PC Running Microsoft OS - [Effortless & Reliable]</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/improving-compatibility-updating-the-software-for-your-lenovo-docking-station/"><u>Improving Compatibility: Updating the Software for Your Lenovo Docking Station</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-yearly-roundup-premium-skype-recorder-options/"><u>In 2024, Yearly Roundup Premium Skype Recorder Options</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/installing-corsair-k70-keyboard-driver-and-program-download/"><u>Installing Corsair K70 Keyboard: Driver and Program Download</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/instant-access-to-intels-82579-vga-driver-software-free-downloads-available-now/"><u>Instant Access to Intel's 82579 VGA Driver Software – Free Downloads Available Now</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/age-timestamps-tactics-to-skyrocket-video-views-for-2024/"><u>Leverage Timestamps Tactics to Skyrocket Video Views for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/navigating-mov-saving-in-windows-11-top-six-methods-reviewed/"><u>Navigating .MOV Saving in Windows 11 - Top Six Methods Reviewed</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/nvidia-driver-installation-packages-for-multiple-windows-versions-10-7-and-8/"><u>NVIDIA Driver Installation Packages for Multiple Windows Versions: 10, 7, and 8</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-instructions-to-obtain-and-install-new-toshiba-drivers-on-windows/"><u>Step-by-Step Instructions to Obtain & Install New Toshiba Drivers on Windows</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-new-horizons-windows-11s-latest-advances/"><u>[New] New Horizons Windows 11'S Latest Advances</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-downloads-of-the-latest-amd-smbus-drivers-start-here/"><u>Effortless Downloads of the Latest AMD SMBus Drivers – Start Here!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gaiety-media-download-review-for-2024/"><u>Gaiety Media Download Review for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-system-up-and-running-free-asrock-ab350-pro4-driver-downloads-for-windows/"><u>Get Your System Up and Running: Free ASRock AB350 Pro4 Driver Downloads for Windows!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/helpful-advice-overcoming-the-challenge-of-a-frozen-igfxem-module/"><u>Helpful Advice: Overcoming the Challenge of a Frozen igfxEM Module</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-and-improve-pc-microphone-issues-in-rec-room/"><u>How To Repair and Improve PC Microphone Issues in Rec Room</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-13-pro-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 13 Pro Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-what-is-an-ai-voice-generator/"><u>New 2024 Approved What Is an AI Voice Generator?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/reliable-and-user-friendly-amd-ryzen-driver-installation-steps-for-optimal-performance/"><u>Reliable & User-Friendly AMD Ryzen Driver Installation Steps for Optimal Performance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-guide-installing-and-updating-scansnap-ix500-drivers-on-your-pc/"><u>Simple Guide: Installing & Updating ScanSnap iX500 Drivers on Your PC</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-xiaomi-civi-3-disney-100th-anniversary-edition-by-fonelab-android-recover-data/"><u>Undelete lost data from Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
 </ul></div>
 

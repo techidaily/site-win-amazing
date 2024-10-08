@@ -1,7 +1,7 @@
 ---
 title: Step by Step Tutorial to Get Canon PRO 100 Up and Running on Windows Systems
-date: 2024-09-28T13:38:59.623Z
-updated: 2024-10-03T09:27:47.567Z
+date: 2024-10-03T19:14:26.507Z
+updated: 2024-10-08T16:44:19.245Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 1: Update your fingerprint driver automatically (Recommended)
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-48.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
@@ -65,20 +65,20 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-49.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.  
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Update fingerprint driver manually
@@ -110,15 +110,17 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-5-innovative-yt-tales-share-your-life-journey/"><u>[Updated] 5 Innovative YT Tales Share Your Life Journey</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-building-endorsements-strategically/"><u>[Updated] Building Endorsements Strategically</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/boost-your-screen-quality-with-the-latest-display-driver-installations/"><u>Boost Your Screen Quality with the Latest Display Driver Installations</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-best-nine-essential-live-gaming-services/"><u>In 2024, Best Nine Essential Live Gaming Services</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722973433411-latest-compatible-thrustmaster-t300-racing-wheel-drivers-for-windows-10-and-11-free-download-links-inside/"><u>Latest Compatible Thrustmaster T300 Racing Wheel Drivers for Windows 10 and 11 – Free Download Links Inside</u></a></li>
-<li><a href="https://fox-info.techidaily.com/optimal-data-recorder-for-sony-a7c-model-for-2024/"><u>Optimal Data Recorder for Sony A7C Model for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/solutions-for-connecting-an-lg-device-to-windows-os-xp-vista-7/"><u>Solutions for Connecting an LG Device to Windows OS (XP, Vista, 7)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-and-installing-ftdi-drivers-on-windows-systems/"><u>Step-by-Step Guide: Updating & Installing FTDI Drivers on Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-fixing-persistent-mouse-disconnection-problems-at-home/"><u>Understanding and Fixing Persistent Mouse Disconnection Problems at Home</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/webex-review-a-features-rich-tool-for-online-meetings/"><u>WebEx Review: A Features-Rich Tool for Online Meetings</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-elevating-your-photography-hdr-strategies-for-ps/"><u>[New] 2024 Approved Elevating Your Photography HDR Strategies for PS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-easy-to-follow-guide-to-mobile-recording-snapchat-edition/"><u>[New] Easy-to-Follow Guide to Mobile Recording Snapchat Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-concept-to-cinematic-creating-charismatic-clips-with-wmm/"><u>[New] From Concept to Cinematic Creating Charismatic Clips with WMM</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-secrets-to-steering-clear-of-vr-sickness-for-2024/"><u>[Updated] The Secrets to Steering Clear of VR Sickness for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977816692-easy-steps-to-download-and-set-up-your-epson-xp-430-driver-on-a-windows-pc-full-instructions-inside/"><u>Easy Steps to Download & Set Up Your Epson XP-430 Driver on a Windows PC – Full Instructions Inside</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978020711-get-your-msi-z370-a-pro-updates-free-driver-package-available-now/"><u>Get Your MSI Z370-A Pro Updates - Free Driver Package Available Now</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/google-vs-others-a-comparison-in-ar-stickers-for-2024/"><u>Google Vs. Others A Comparison in AR Stickers for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-x-fold-2-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo X Fold 2 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/new-release-nvidia-geforce-rtx-2070-drivers-compatible-with-windows-1087/"><u>New Release: NVIDIA GeForce RTX 2070 Drivers Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/revitalize-your-system-easy-ways-to-refresh-cpu-driver-software-in-windows-operating-systems/"><u>Revitalize Your System: Easy Ways to Refresh CPU Driver Software in Windows Operating Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-setting-up-brother-l2540dw-with-windows-download-the-correct-printer-driver-here/"><u>Step by Step: Setting Up Brother L2540DW with Windows - Download the Correct Printer Driver Here</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-checklist-for-joining-and-contributing-to-an-xtwitter-event/"><u>The Ultimate Checklist for Joining & Contributing to an X/Twitter Event</u></a></li>
 </ul></div>
 

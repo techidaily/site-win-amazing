@@ -1,7 +1,7 @@
 ---
 title: Movavi 在線無限制的 JP2 到 JPG 格式轉換器：這就是你需要的！
-date: 2024-09-10 18:53:49
-updated: 2024-09-13 11:38:47
+date: 2024-10-04T17:30:43.095Z
+updated: 2024-10-08T20:05:19.303Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/2944d63225d253c3279f8dae40efe484858639ea552fbe04c95a0ccb48d7f545.jpg
@@ -210,6 +210,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
@@ -235,6 +242,13 @@ Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** 
 Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour activer le Game Mode. Si votre PC prend en charge le Mode Jeu, le système optimisera les performances de votre PC pour les jeux.
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Gérez vos heures actives
 
@@ -265,6 +279,13 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher les vignettes au lieu des icônes.
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Gérer les mises à jour automatiques de Steam
 
@@ -306,9 +327,23 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
 
@@ -325,6 +360,13 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Optez pour un SSD
 
@@ -395,6 +437,13 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -402,6 +451,13 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Utiliser une alimentation externe
 
@@ -536,11 +592,29 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-facebooks-best-free-tools-to-punctually-publish-posts/"><u>[New] Facebook's Best Free Tools to Punctually Publish Posts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-the-right-epson-l3110-driver-for-your-windows-version-11-10-or-7/"><u>Download & Install the Right Epson L3110 Driver for Your Windows Version (11, 10 or 7)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722972962423-download-instantly-ultimate-usb-webcam-drivers-get-set-up-fast/"><u>Download Instantly: Ultimate USB Webcam Drivers - Get Set Up Fast!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/freshest-graphics-card-drivers-installed-seamlessly-on-windows-systems/"><u>Freshest Graphics Card Drivers Installed Seamlessly on Windows Systems</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-direct-entry-into-your-channel-simplifying-the-follow-button-creation/"><u>In 2024, Direct Entry Into Your Channel Simplifying the Follow Button Creation</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unseen-watchers-manual-how-to-stay-anonymous-on-instagram-live/"><u>In 2024, Unseen Watcher’s Manual How to Stay Anonymous on Instagram Live</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-drivers-for-intel-wi-fi-ac-95cu-adapter-downloaded-easy-heres-how/"><u>Latest Drivers for Intel Wi-Fi AC 95Cu Adapter Downloaded Easy – Here's How</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/logitechs-ultimate-driving-experience-driving-force-gt-driver-download-for-windows-71011-now-available/"><u>Logitech's Ultimate Driving Experience: Driving Force GT Driver Download for Windows 7/10/11 Now Available!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-game-freezes-effective-solutions-to-prevent-titanfall-2-crashes/"><u>Resolving Game Freezes: Effective Solutions to Prevent Titanfall 2 Crashes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/speedy-guide-activating-the-latest-surface-dock-driver-with-ease/"><u>Speedy Guide: Activating the Latest Surface Dock Driver with Ease</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-is-now-unleashing-the-potential-of-gpts-language-system/"><u>The Future Is Now: Unleashing the Potential of GPT's Language System</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-tips-re-ignite-windows-11-explorer/"><u>Troubleshooting Tips: Re-Ignite Windows 11 Explorer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-nubia-z50-ultra-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Nubia Z50 Ultra without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/up-to-date-and-effortlessly-configured-how-to-update-your-microsoft-sculpt-ergonomic-keyboard-drivers/"><u>Up-to-Date and Effortlessly Configured: How to Update Your Microsoft Sculpt Ergonomic Keyboard Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updating-your-logitech-m510-a-step-by-step-software-update-tutorial/"><u>Updating Your Logitech M510: A Step-by-Step Software Update Tutorial</u></a></li>
+</ul></div>
+

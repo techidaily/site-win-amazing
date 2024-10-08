@@ -1,7 +1,7 @@
 ---
 title: "Up-to-Date NVIDIA RTX 2080 Driver Downloads: Optimized for Windows 10, 7 & 8"
-date: 2024-10-01T11:15:52.960Z
-updated: 2024-10-03T13:44:06.375Z
+date: 2024-10-02T21:25:20.196Z
+updated: 2024-10-08T18:31:29.079Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 
 **[Option 2: Manually](https://tools.techidaily.com/drivereasy/download/)**  – Some computer skills are required.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Install/Update your RTX 3080 driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -43,24 +50,31 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Once you’ve installed/updated your graphics driver, restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Install/Update your RTX 3080 driver manually
@@ -75,27 +89,7 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-3080-driver-official-dl.jpg)
 3. Click**Download** . Then run the install wizard to install the graphics driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3080-driver-dl.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -116,20 +110,16 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-the-art-of-instagram-video-sharing-for-2024/"><u>[New] Mastering the Art of Instagram Video Sharing for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-uncover-the-10-most-trusted-wedding-timer-apps-androidios-of-2023-for-2024/"><u>[Updated] Uncover the 10 Most Trusted Wedding Timer Apps (Android/iOS) of 2023 for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-retro-to-future-radeon-rebooted/"><u>2024 Approved Retro to Future Radeon Rebooted</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/common-logitech-g-pro-x-mic-errors-diagnosis-and-quick-fixes-guide/"><u>Common Logitech G Pro X Mic Errors: Diagnosis & Quick Fixes [Guide]</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-asus-pce-ac56-driver-fixes-for-windows-10-8-and-7-operating-systems/"><u>Complete ASUS PCE-AC56 Driver Fixes for Windows 10, 8 & 7 Operating Systems</u></a></li>
-<li><a href="https://fox-links.techidaily.com/decisive-captures-combatting-disarray/"><u>Decisive Captures Combatting Disarray</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/demystifying-igtv-for-a-comprehensive-social-media-experience/"><u>Demystifying IGTV For a Comprehensive Social Media Experience</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/downloading-and-upgrading-the-epson-et-3760-drivers-made-simple-a-windows-users-handbook/"><u>Downloading & Upgrading the Epson ET-3760 Drivers Made Simple: A Windows User's Handbook</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-brother-laser-printer-setup-l2700dw-driver-and-installation-manual-for-pc-and-laptop/"><u>Effortless Brother Laser Printer Setup: L2700DW Driver & Installation Manual for PC and Laptop</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-started-huion-h610-pro-digital-art-pad-drivers-downloaded/"><u>Get Started: Huion H610 Pro Digital Art Pad Drivers Downloaded</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hassle-free-installation-obtain-your-hp-stream-driver-packages-now/"><u>Hassle-Free Installation: Obtain Your HP Stream Driver Packages Now</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-photo-mosaics-unveiled-a-journey-to-brighter-spaces/"><u>In 2024, Photo Mosaics Unveiled A Journey to Brighter Spaces</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-canon-mg36-driver-software-updates-for-smooth-printing-experience/"><u>Latest Canon MG36# Driver Software Updates for Smooth Printing Experience</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-generate-random-faces-online-top-free-tools-and-websites/"><u>New Generate Random Faces Online Top Free Tools and Websites</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/resolving-realtek-hd-card-driver-troubles-a-complete-guide/"><u>Resolving Realtek HD Card Driver Troubles - A Complete Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-ioss-best-selection-of-premium-psp-emulators/"><u>[New] In 2024, IOS's Best Selection of Premium PSP Emulators</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-transforming-self-doubt-into-youtube-dominance/"><u>[New] Transforming Self-Doubt Into YouTube Dominance</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-picture-in-picture-pro-optimizing-your-viewing-with-netflixs-floating-window-feature/"><u>[Updated] In 2024, Picture-in-Picture Pro Optimizing Your Viewing with Netflix's Floating Window Feature</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-the-aoc-display-driver-compatible-with-windows-11-10-and-8/"><u>Download and Install the AOC Display Driver: Compatible with Windows 11, 10, and 8</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-amd-radeon-r9-series-driver-software-for-windows-pcs/"><u>Get the Latest AMD Radeon R9 Series Driver Software for Windows PCs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-infinix-hot-40-pro-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Infinix Hot 40 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/melodic-moments-to-augment-your-status-for-2024/"><u>Melodic Moments to Augment Your Status for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-start-downloading-and-setting-up-sandisk-drivers-for-windows-10-users/"><u>Quick Start: Downloading and Setting Up SanDisk Drivers for Windows 10 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/streamline-your-gameplay-with-the-newest-amd-vega-graphics-driver-downloads/"><u>Streamline Your Gameplay with the Newest AMD Vega Graphics Driver Downloads</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-hp-elitebook-8460p-windows-driver-step-by-step-download-instructions-fixed/"><u>Update Your HP EliteBook 8460P Windows Driver - Step-by-Step Download Instructions [FIXED]</u></a></li>
+<li><a href="https://fox-access.techidaily.com/vintage-voices-top-websites-for-classical-ringtone-acquisition-for-2024/"><u>Vintage Voices Top Websites for Classical Ringtone Acquisition for 2024</u></a></li>
 </ul></div>
 

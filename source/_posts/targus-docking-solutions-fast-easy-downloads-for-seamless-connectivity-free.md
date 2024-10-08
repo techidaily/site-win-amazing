@@ -1,7 +1,7 @@
 ---
 title: Targus Docking Solutions - Fast, Easy Downloads for Seamless Connectivity [FREE]
-date: 2024-09-27T15:00:25.299Z
-updated: 2024-10-03T06:46:50.059Z
+date: 2024-10-04T19:57:27.653Z
+updated: 2024-10-08T18:33:29.770Z
 tags:
   - win11
   - win10
@@ -48,13 +48,6 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap40.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the Targus Docking Station driver for now, hit the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-361.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at**<support@drivereasy.com>** .
@@ -70,46 +63,73 @@ OR
 1. Find your way to the official website of[Targus](https://us.targus.com/) .
 2. In the top right of this web page, click**Support** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-365.png)
 3. Select**Drivers & Manuals** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-367.png)
-4. Type the**model name** or**serial number** of your Targus device into the search box to locate the corresponding drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-368.png) Alternatively, you may select**Category** and then**Product** to look for the drivers of your Docking Station.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-160.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Type the**model name** or**serial number** of your Targus device into the search box to locate the corresponding drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-368.png) Alternatively, you may select**Category** and then**Product** to look for the drivers of your Docking Station.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-160.png)
 
 5. After locating the corresponding driver for your product, click on the**Download** button below.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-372.png)
 6. Right-click on the file (with a ZIP extension) you’ve just downloaded to open the context menu. Then click**Extract All…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-375.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. In the pop-up window, click**Browse…** and choose a destination folder where you want to decompress the file. Then, click**Extract** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-376.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Wait till the decompression process finishes. Then**copy** the full path of the destination folder. (The path will be different based on your choice in the last step. )![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-20_15-47-31.png)
 9. On your keyboard, press the **Windows Logo Key** and **R**  at the same time to open the**Run**  box. Type **devmgmt.msc** and click **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap13-2.png)
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 10. In the**Device Manager** window, locate your Targus Docking Station and then right-click on it to open the context menu. Select**Update driver** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap14-1.png)
 11. If prompted, click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-384.png)
 12. **Paste** the full path copied in**Step 8** onto the address bar. Remember to check the **Include subfolders** box. Then hit the **Next** button.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-387.png)
 13. Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -133,22 +153,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-an-overview-of-the-most-impressive-5-book-vtts/"><u>[New] 2024 Approved An Overview of the Most Impressive 5 Book VTTs</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-exclusive-guide-the-best-4-ringtone-providers/"><u>[New] 2024 Approved Exclusive Guide The Best 4 Ringtone Providers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-one-click-coordination-sync-your-zoom-calls-across-devices/"><u>[New] One-Click Coordination Sync Your Zoom Calls Across Devices</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-savvy-instagram-usage-how-to-retrieve-free-filters-via-search/"><u>[New] Savvy Instagram Usage How to Retrieve Free Filters via Search</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-cutting-edge-mini-drones-for-the-savvy-buyer-for-2024/"><u>[Updated] Cutting-Edge Mini Drones for the Savvy Buyer for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-upgrade-latest-lenovo-thinkpad-t420s-drivers-compatible-with-windows-11/"><u>Download & Upgrade: Latest Lenovo ThinkPad T420s Drivers Compatible with Windows 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722975593882-download-the-latest-hp-photosmart-7520-printer-software-today/"><u>Download the Latest HP Photosmart 7520 Printer Software Today!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/enhancing-print-quality-updating-the-driver-of-your-epson-wf-7720-printer-for-windows/"><u>Enhancing Print Quality: Updating the Driver of Your Epson WF-7720 Printer for Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-and-tricks-refreshing-your-audio-experience-by-properly-cleansing-home-stereo-speakers/"><u>Expert Tips & Tricks - Refreshing Your Audio Experience by Properly Cleansing Home Stereo Speakers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-dell-wd19-hard-drive-drivers-here/"><u>Get the Latest Dell WD19 Hard Drive Drivers Here!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-epson-wf-1077-drivers-for-windows-pcs-windows-108187-supported/"><u>Get the Latest Epson WF-1077 Drivers for Windows PCs (Windows 10/8.1/8/7 Supported)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-the-newest-drivers-for-hid-mouse-support/"><u>Installing the Newest Drivers for HID Mouse Support</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/logitech-g502-gaming-mouse-troubleshooting-and-updating-drivers-made-simple/"><u>Logitech G502 Gaming Mouse: Troubleshooting & Updating Drivers Made Simple</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-guide-installing-free-asrock-ab350-pro4-drivers-on-your-pcs-operating-system/"><u>Quick Guide: Installing Free Asrock AB350 Pro4 Drivers on Your PC's Operating System.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-when-your-usb-port-sharing-fails/"><u>Step-by-Step Solutions When Your USB Port Sharing Fails</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/successful-installation-guide-huion-tablet-software-updates-and-downloads-for-pc/"><u>Successful Installation Guide: Huion Tablet Software Updates & Downloads for PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/why-you-should-get-an-apple-watch-6-persuasive-arguments-by-industry-expert-featured/"><u>Why You Should Get an Apple Watch: 6 Persuasive Arguments by Industry Expert, Featured</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-design-revolutionaries-discovering-6-icon-and-logo-banks-online-for-2024/"><u>[New] Design Revolutionaries Discovering 6 Icon & Logo Banks Online for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-sharpen-your-videoleap-videos-from-afar/"><u>[New] In 2024, Sharpen Your Videoleap Videos From Afar</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-pixel-perfect-preservation-the-best-practices-of-recording-games-for-2024/"><u>[New] Pixel-Perfect Preservation The Best Practices of Recording Games for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-zoom-skype-integration-secrets-to-ultimate-video-conferencing/"><u>[New] ZOOM-Skype Integration Secrets to Ultimate Video Conferencing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-quick-fixes-how-to-screen-record-your-google-chats/"><u>[Updated] 2024 Approved Quick Fixes How to Screen Record Your GooGle Chats</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premium-steadicam-options-for-high-quality-dslr-shoots/"><u>[Updated] Premium Steadicam Options for High-Quality DSLR Shoots</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/a-detailed-guidance-how-to-change-or-customize-your-ringtone-on-an-iphone-for-2024/"><u>A Detailed Guidance How To Change Or Customize Your Ringtone On An iPhone for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-hp-deskjet-2652-printer-drivers-compatible-with-windows-11-10-8-and/"><u>Download HP Deskjet 2652 Printer Drivers: Compatible with Windows 11, 10, 8 &</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-troubleshooting-tips-for-webcam-driver-issues-in-windows-11/"><u>Easy Troubleshooting Tips for Webcam Driver Issues in Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-graphics-card-download-updated-vga-drivers-today/"><u>Enhance Your Graphics Card: Download Updated VGA Drivers Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/solution-steps-for-a-non-working-igfxem-module-problem/"><u>Solution Steps for a Non-Working Igfxem Module Problem</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-downloading-the-latest-lenovo-ideapad-groths-for-windows-10-users/"><u>Step-by-Step Guide: Downloading the Latest Lenovo IdeaPad Groths for Windows 10 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-solution-for-installing-broadcoms-high-speed-network-drivers-in-windows/"><u>Ultimate Solution for Installing Broadcom's High-Speed Network Drivers in Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-of-the-full-specs-anticipate-the-google-pixel-7s-grand-release-in-october/"><u>Unveiling of the Full Specs: Anticipate the Google Pixel 7'S Grand Release in October</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Install USB-C Drive Support on Your Windows 10 Device
-date: 2024-09-29T20:19:02.017Z
-updated: 2024-10-03T08:34:29.068Z
+date: 2024-10-03T16:42:48.659Z
+updated: 2024-10-08T21:12:04.119Z
 tags:
   - win11
   - win10
@@ -57,10 +57,10 @@ OR
  5) After downloading, double click the downloaded file to run and follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the driver
@@ -78,10 +78,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-112.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -89,10 +89,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-113.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Note: you can do it for free if you like, but it’s partly manual.
@@ -120,22 +126,20 @@ Note: you can do it for free if you like, but it’s partly manual.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/xclusive-guide-choosing-among-top-9-free-logo-creators/"><u>[New] Exclusive Guide Choosing Among Top 9 Free Logo Creators</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-unleash-creativity-with-the-right-camera-lenses/"><u>[Updated] Unleash Creativity with the Right Camera Lenses</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-14-plus-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 14 Plus Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-and-quick-upgrade-of-pl2303-adapter-drivers-compatible-with-all-windows-versions/"><u>Easy and Quick Upgrade of PL2303 Adapter Drivers - Compatible with All Windows Versions</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/free-online-conversion-transforming-webm-files-into-mp3-format-with-ease/"><u>Free Online Conversion: Transforming WebM Files Into MP3 Format with Ease</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-asus-z170-a-motherboard-drivers-for-windows-users-versions-11-8-and-7/"><u>Get the Latest ASUS Z170-A Motherboard Drivers for Windows Users (Versions 11, 8 & 7)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722974130395-get-the-new-hp-universal-printing-software-for-windows-installed-today/"><u>Get the New HP Universal Printing Software for Windows Installed Today!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/how-to-convert-video-files-from-mts-to-mp4-for-free-tips-for-both-windows-and-macos-users/"><u>How to Convert Video Files From MTS to MP4 for Free: Tips for Both Windows & macOS Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722977517977-how-to-easily-get-the-latest-linksys-wrt54g-drivers-downloaded-speed-up-your-network/"><u>How to Easily Get the Latest Linksys WRT54G Drivers Downloaded - Speed up Your Network</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-reno-8t-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo Reno 8T Devices | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-oppo-find-x6-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Oppo Find X6 Phone? Unlock It Now</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/microsoft-addresses-and-corrects-battery-driver-flaw-for-acpi-conformance/"><u>Microsoft Addresses and Corrects Battery Driver Flaw for ACPI Conformance</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/samsung-windows-printer-drivers-free-download/"><u>Samsung Windows Printer Drivers - Free Download</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/speed-up-your-creative-workflow-with-fast-wacom-driver-download/"><u>Speed-Up Your Creative Workflow with Fast Wacom Driver Download</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-downloading-the-latest-surface-book-t-2-drivers/"><u>Step-by-Step Tutorial: Downloading the Latest Surface Book T 2 Drivers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-fixes-for-firefox-freezing-issues-your-complete-2024-guide/"><u>Ultimate Fixes for Firefox Freezing Issues: Your Complete 2024 Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-trailer-making-made-easy-top-tools-for-mac-and-windows-for-2024/"><u>Updated Trailer Making Made Easy Top Tools for Mac and Windows for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-imagedivide-review-summary/"><u>[Updated] ImageDivide Review Summary</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-xiaomi-14-ultra-device-sim-by-drfone-android/"><u>Easily Unlock Your Xiaomi 14 Ultra Device SIM</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-to-downloading-and-installing-hp-officejet-pro-8610-drivers-for-various-windows-versions-1087xpvista/"><u>Easy Guide to Downloading & Installing HP Officejet Pro 8610 Drivers for Various Windows Versions (10/8/7/XP/Vista)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-to-use-zebra-gk420d-print-driver-for-immediate-download/"><u>Easy-to-Use Zebra GK420D Print Driver for Immediate Download</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ensure-seamless-printing-with-the-newly-released-canon-mx922-drivers-for-windows-users-installation-instructions-inside/"><u>Ensure Seamless Printing with the Newly Released Canon MX922 Drivers for Windows Users - Installation Instructions Inside</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-downloads-compatible-drivers-for-your-dell-g15-on-windows-pc/"><u>Free Downloads: Compatible Drivers for Your Dell G15 on Windows PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/from-amateur-vlogs-to-professional-gopro-cinematography-excellence/"><u>From Amateur Vlogs to Professional GoPro Cinematography Excellence</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-canon-windows-scan-drivers-for-free-effortless-installation-and-compatibility-guaranteed/"><u>Get the Latest Canon Windows Scan Drivers for Free: Effortless Installation & Compatibility Guaranteed</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-laserjet-p1006-drivers-immediate-download-options-available/"><u>HP LaserJet P1006 Drivers: Immediate Download Options Available</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-virality-voyage-navigating-newsfeeds-with-noteworthy-posts/"><u>In 2024, Virality Voyage Navigating Newsfeeds with Noteworthy Posts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722971621385-instantly-upgrade-with-razer-mamba-drivers-free-download-available-now/"><u>Instantly Upgrade with Razer Mamba Drivers - Free Download Available Now!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-cinematic-edge-edging-your-vt-footage-on-final-cut-x/"><u>The Cinematic Edge Edging Your VT Footage on Final Cut X</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-definitive-6-step-approach-to-fixing-the-werfaultexe-problem-on-windows-operating-systems/"><u>The Definitive 6-Step Approach to Fixing the werfault.exe Problem on Windows Operating Systems</u></a></li>
 </ul></div>
 
