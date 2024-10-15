@@ -1,7 +1,7 @@
 ---
 title: Install Logitech Mouse on Windows - Free Driver Downloads Available Now
-date: 2024-10-06T19:58:47.692Z
-updated: 2024-10-08T16:51:02.111Z
+date: 2024-10-13T01:27:24.665Z
+updated: 2024-10-14T22:37:27.699Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 2. [Update printer driver automatically](https://tools.techidaily.com/drivereasy/download/)
 3. [Update printer driver in Device Manager](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update printer driver manually
 
  You can manually download the Canon MG2520 driver from the Canon website in your Windows computer. To do so, follow the instructions below:
@@ -44,27 +51,20 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaa83e682e2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Scroll down and find**Canon PIXMA MG2520 Windows Driver** , and click**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaa88da4ca7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) After downloading, extract the downloaded file, install the .exe file, and follow the on-screen instructions to do.
 
  This is time consuming. If this method doesn’t work for you, don’t worry. We have other solutions for you to try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update printer driver automatically
 
@@ -81,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/a6dbe934550b4e8e63b5bdb5b2859a1cbef0d47ae
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaaa3085ce8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to the flagged printer driver to automatically download the correct version the this driver (you can do this with the**FREE** version).
@@ -113,6 +113,13 @@ This is rather easy to update your Canon MG2520 printer driver, right?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26e71b4a11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Right click on your**Printer** (it can be displayed as**Unknown device** ), and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26ed419e84.png)
@@ -120,13 +127,6 @@ This is rather easy to update your Canon MG2520 printer driver, right?
  5) Choose**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26efde74b2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Then Windows will start to help search the new driver for your printer.
 
@@ -152,24 +152,20 @@ This is rather easy to update your Canon MG2520 printer driver, right?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-exclusive-list-of-top-web-based-sound-capturers-2023/"><u>[Updated] 2024 Approved Exclusive List of Top Web-Based Sound Capturers 2023</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-green-screen-journey-begins-on-yt-ideas-take-flight/"><u>[Updated] 2024 Approved Green Screen Journey Begins on YT, Ideas Take Flight</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-fabletellers-fellowship-esteemed-ensemble-for-2024/"><u>[Updated] Fabletellers Fellowship – Esteemed Ensemble for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-enhancing-your-youtube-content-with-right-camera-gear/"><u>[Updated] In 2024, Enhancing Your YouTube Content with Right Camera Gear</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-explore-the-best-ways-to-record-sound-in-your-latest-windows-11-pc/"><u>[Updated] In 2024, Explore the Best Ways to Record Sound in Your Latest Windows 11 PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/access-premium-behringer-driver-tools-free-download-today/"><u>Access Premium Behringer Driver Tools - FREE Download Today</u></a></li>
-<li><a href="https://program-issues.techidaily.com/achieve-unstoppable-prosperity-in-dragons-fortune-a-comprehensive-pc-playbook/"><u>Achieve Unstoppable Prosperity in 'Dragon's Fortune': A Comprehensive PC Playbook</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-new-psvr-2-pricing-info-official-release-dates-and-hardware-specs-revealed/"><u>Discover the New PSVR 2 - Pricing Info, Official Release Dates, and Hardware Specs Revealed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-fixes-for-a-non-responsive-msi-dragon-center-experience/"><u>Easy Fixes for a Non-Responsive MSI Dragon Center Experience</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ensure-compatibility-update-hp-officejet-pro-6970-drivers-for-windows-users/"><u>Ensure Compatibility: Update HP OfficeJet Pro 6970 Drivers for Windows Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-microsoft-sound-card-drivers-for-your-windows-pc-free-download/"><u>Get the Latest Microsoft Sound Card Drivers for Your Windows PC – Free Download</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/mastering-video-uploads-past-standard-limits-on-instagram-for-2024/"><u>Mastering Video Uploads Past Standard Limits on Instagram for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-access-download-your-brother-printer-drivers-today/"><u>Quick Access: Download Your Brother Printer Drivers Today</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/revitalize-your-system-a-comprehensive-walkthrough-to-update-motherboard-drivers-in-windows/"><u>Revitalize Your System: A Comprehensive Walkthrough to Update Motherboard Drivers in Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722958559035-step-by-step-fix-guide-for-hps-beats-sound-card-drivers-on-windows-1087-now-solved/"><u>Step by Step Fix Guide for HP's Beats Sound Card Drivers on Windows 10/8/7 - Now Solved!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-update-nvidias-geforce-gtx-460-driver-software-for-windows-computers/"><u>Step-by-Step Guide: Update NVIDIA's GeForce GTX 460 Driver Software for Windows Computers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/streamline-your-pc-upgrade-get-amds-latest-drivers-with-one-click/"><u>Streamline Your PC Upgrade: Get AMD's Latest Drivers With One Click!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/thrustmaster-t150-steering-wheel-drivers-swift-installation-guide/"><u>Thrustmaster T150 Steering Wheel Drivers - Swift Installation Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/win-a-free-wonderfox-upgrade-premium-video-editing-software/"><u>Win a Free WonderFox Upgrade: Premium Video Editing Software</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-mastering-video-caption-implementation-on-vimeo/"><u>[New] 2024 Approved Mastering Video Caption Implementation on Vimeo</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-navigating-periscope-understanding-features-pricing-and-registration-steps/"><u>[New] Navigating Periscope Understanding Features, Pricing & Registration Steps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fundamentals-of-gif-animation-mastery/"><u>[Updated] Fundamentals of GIF Animation Mastery</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-win10-video-capture-pro-professional-edition/"><u>[Updated] Win10 Video Capture Pro - Professional Edition</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-make-every-listen-count-with-these-15-powerful-activities/"><u>2024 Approved Make Every Listen Count with These 15 Powerful Activities</u></a></li>
+<li><a href="https://facebook.techidaily.com/defeating-displeasing-marketing-strategies-on-your-facebook-feed/"><u>Defeating Displeasing Marketing Strategies on Your Facebook Feed</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-the-latest-brother-hl-l2350dw-printer-drivers/"><u>Download & Install the Latest Brother HL-L2350DW Printer Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-the-latest-software-for-your-logitech-m510-mouse/"><u>How to Install the Latest Software for Your Logitech M510 Mouse</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-up-to-date-drivers-for-brother-hl-l2360dw-beginner-guide/"><u>Install Up-to-Date Drivers for Brother HL-L2360DW - Beginner Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-fix-for-amd-ryzen-5-2500u-users-step-by-step-driver-update-tutorial/"><u>Quick Fix for AMD Ryzen ^5 2500U Users: Step-by-Step Driver Update Tutorial</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-sony-xperia-5-v-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Sony Xperia 5 V Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fox-search.techidaily.com/schutzmassnahmen-fur-ihre-iphone-adressenbuchseiten-exklusive-tipps-zum-sichern-in-der-icloud/"><u>Schutzmaßnahmen Für Ihre iPhone-Adressenbuchseiten: Exklusive Tipps Zum Sichern in Der iCloud</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/targus-displaylink-driver-update-instructions-for-windows-users-win11-win8-win7/"><u>Targus DisplayLink Driver Update Instructions for Windows Users (Win11, Win8, Win7)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-launching-maplestory-without-errors/"><u>Troubleshooting Guide: Launching MapleStory Without Errors</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-canon-mg2900-with-new-drivers-quick-guide-to-free-downloads/"><u>Update Your Canon MG2900 with New Drivers - Quick Guide to Free Downloads</u></a></li>
 </ul></div>
 

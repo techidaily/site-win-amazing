@@ -1,7 +1,7 @@
 ---
 title: "Latest Update: Installing Lenovo Thunderbolt 3 Station Software"
-date: 2024-09-11T20:33:28.724Z
-updated: 2024-09-16T16:28:16.364Z
+date: 2024-10-08T01:27:48.978Z
+updated: 2024-10-14T17:35:53.632Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 1 – Automatically update the driver
 
  If you don’t have the time, patience or computer skills to update your Lenovo Thunderbolt 3 Dock driver manually,**you can do it automatically with** **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -47,6 +54,13 @@ OR
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Lenovo Thunderbolt 3 Dock driver for now, simply click the**Update**  button next to it.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-22_18-52-17.jpg)
 
@@ -63,6 +77,20 @@ OR
 1. Click **[here](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fpcsupport.lenovo.com%2Fus%2Fen%2Fproducts%2Faccessory%2Fdocks%2Fthunderbolt-3-graphic-dock%2Fdownloads%3FlinkTrack%3DCaps%253ABody%255FSearchProduct%26searchType%3D3%26keyWordSearch%3DLenovo%2520Thunderbolt%25203%2520Graphic%2520Dock)**  to go to the download page of Lenovo Thunderbolt 3 dock drivers.
 2. In the upper left corner, select the version of your Windows operating system.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-22_18-28-26.jpg)
 3. Expand the list of**Software and Utilities** and select**Thunderbolt 3 Graphics Dock Driver** from the results. To download this driver, simply click the down arrow button below**Download** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-22_18-32-54.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
@@ -88,18 +116,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-bring-your-favorite-tunes-to-the-social-network-iphoneandroid/"><u>[New] In 2024, Bring Your Favorite Tunes to the Social Network (iPhone/Android)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-dazzle-with-directors-lighting-tips-for-captivating-clips/"><u>[New] In 2024, Dazzle with Directors' Lighting Tips for Captivating Clips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-timeless-80s-effects-boosting-creative-videos/"><u>[New] Timeless 80S Effects Boosting Creative Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/compatible-with-any-windows-os-111087-download-the-essential-sm-bus-controller-driver-today/"><u>Compatible with Any Windows OS (11/10/8/7), Download the Essential SM Bus Controller Driver Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-your-zebra-zp450-drivers-effortlessly-a-user-friendly-walkthrough-for-seamless-installation/"><u>Download & Update Your Zebra ZP450 Drivers Effortlessly - A User-Friendly Walkthrough for Seamless Installation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dvd-15/"><u>DVD複写手順：合法的に映画のコピーとリッピング - 第15章</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/essential-2024-guidelines-optimizing-your-seagate-backup-plus-drive-efficiency/"><u>Essential 2024 Guidelines: Optimizing Your Seagate Backup Plus Drive Efficiency</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-seamless-download-and-updating-for-microsoft-surface-drivers/"><u>Get the Latest: Seamless Download & Updating for Microsoft Surface Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-open-the-phone-dialer-in-windows-11/"><u>How to Open the Phone Dialer in Windows 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-counterclockwise-content-youtube-replay-methods/"><u>In 2024, Counterclockwise Content YouTube Replay Methods</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-simple-steps-updating-your-dell-inspiron-7001-g7s-drivers-in-no-time/"><u>Quick & Simple Steps: Updating Your Dell Inspiron 7001 G7's Drivers in No Time</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/realtek-sound-card-drivers-free-download-for-windows-11-10-and-7/"><u>Realtek Sound Card Drivers: Free Download for Windows 11, 10 & 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-download-source-for-nvidias-quadro-drivers-compatible-with-win11/"><u>Ultimate Download Source for NVIDIA's Quadro Drivers Compatible with Win11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-your-dvd-player-remove-region-locks-for-dvds-in-windows-os/"><u>Unlocking Your DVD Player: Remove Region Locks for DVDs in Windows OS</u></a></li>
+</ul></div>
 

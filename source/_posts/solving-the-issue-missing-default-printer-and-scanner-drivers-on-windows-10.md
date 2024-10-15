@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: Missing Default Printer & Scanner Drivers on Windows 10"
-date: 2024-09-13T16:03:01.276Z
-updated: 2024-09-16T19:07:55.766Z
+date: 2024-10-09T21:35:15.250Z
+updated: 2024-10-15T00:23:13.074Z
 tags:
   - win11
   - win10
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/9c2b7ca2e1893d88d6bb8597241a29c970bfa10f3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-273.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your drivers, please feel free to drop us an email at**<support@drivereasy.com>** . We are always here if we can help.
@@ -68,9 +75,29 @@ thumbnail: https://thmb.techidaily.com/9c2b7ca2e1893d88d6bb8597241a29c970bfa10f3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-280.png)
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) On the next page, you’ll be presented with a list of Xbox wireless adapter drivers. Scroll through the list until you find the one compatible with your Windows version. Then click the**Download**  button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-282.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) After the driver has been downloaded, open that destination folder where you’ve saved the driver file. Usually the file should be a compressed one.
 
@@ -79,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/9c2b7ca2e1893d88d6bb8597241a29c970bfa10f3
  6) Make sure you connect your Xbox device to the computer. Then, on your keyboard, Press the **Windows Logo Key** and **R** at the same time to invoke the Run dialog box. Type **devmgmt.msc**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-255.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Here pops up your**Device Manager** . Double-click on the **Other devices** node to open its drop-down list. Then right-click on**XBOX ACC** and select**Update driver** .
 
@@ -116,12 +150,23 @@ thumbnail: https://thmb.techidaily.com/9c2b7ca2e1893d88d6bb8597241a29c970bfa10f3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-ultimate-tiktok-live-jump-a-how-to-guide/"><u>[New] In 2024, The Ultimate TikTok Live Jump A How-To Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-add-border-to-instagram-photos-with-best-apps/"><u>[Updated] In 2024, How to Add Border to Instagram Photos with Best Apps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-step-into-the-world-of-modified-snapchat-speeches-two-simple-steps-for-2024/"><u>[Updated] Step Into the World of Modified Snapchat Speeches Two Simple Steps for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-streamlining-online-meetings-zoom-for-win10-for-2024/"><u>[Updated] Streamlining Online Meetings Zoom for WIN10 for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-itel-p40-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Itel P40? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/brother-scanner-and-printer-driver-update-for-optimal-performance-on-windows-systems/"><u>Brother Scanner and Printer Driver Update for Optimal Performance on Windows Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-guide-steps-to-successfully-downloading-and-setting-up-auto-gpt/"><u>Complete Guide: Steps to Successfully Downloading & Setting Up Auto-GPT</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-lenovo-ideapad-100-drivers-for-windows-10-a-step-by-step-guide/"><u>Download and Install Lenovo IdeaPad 100 Drivers for Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-to-downloading-and-updating-d-link-drivers-for-windows-pcs/"><u>Easy Guide to Downloading and Updating D-Link Drivers for Windows PCs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-setup-fresh-hp-m477-printer-drivers-to-enhance-your-printing-experience/"><u>Easy Setup: Fresh HP M477 Printer Drivers to Enhance Your Printing Experience</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-gaming-experience-with-the-newest-nvidia-geforce-210-driver-update-for-windows-10/"><u>Enhance Your Gaming Experience with the Newest Nvidia GeForce 210 Driver Update for Windows 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-qualcomm-and-atheros-complete-bluetooth-30-ar3011-drivers/"><u>Free Download: [Qualcomm & Atheros] Complete Bluetooth 3.0 AR3011 Drivers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-your-windows-10-or-11-with-logitech-hd-webcam-c270-drivers/"><u>How to Update Your Windows 10 or 11 with Logitech HD WebCam C270 Drivers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-how-to-remove-tiktok-watermarks-online-top-methods-and-tools-for-2024/"><u>New How to Remove TikTok Watermarks Online Top Methods and Tools for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prusas-new-venture-manufacturing-3d-printers-and-filaments-from-delaware/"><u>Prusa's New Venture: Manufacturing 3D Printers & Filaments From Delaware</u></a></li>
+</ul></div>
 

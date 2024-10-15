@@ -1,7 +1,7 @@
 ---
 title: Brother MFC-L2690DW Printer Driver | Download & Update
-date: 2024-09-13T21:27:39.220Z
-updated: 2024-09-16T21:15:59.968Z
+date: 2024-10-07T18:16:37.900Z
+updated: 2024-10-14T17:11:02.841Z
 tags:
   - win11
   - win10
@@ -51,18 +51,56 @@ thumbnail: https://thmb.techidaily.com/bb9b7157cde51ae69f835473474384e7538166f29
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92163d78f96.jpg)
 6. Click**Downloads** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b92169633e75.jpg)
 7. Select **your Windows OS**   and **OS version** . Then click**Search** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b921713414d6.jpg)
 8. Click **the first result**   for the full driver package. Then select **your preferred language** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613a0a97a4.jpg)
 9. Click **Agree to the EULA**  **and Download** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8613f9ec314.jpg)
 10. Follow the notes to finish the manual install.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b861455df55e.jpg)
 11. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Update your Brother MFC7360N driver automatically (Recommended)
 
@@ -102,12 +140,26 @@ thumbnail: https://thmb.techidaily.com/bb9b7157cde51ae69f835473474384e7538166f29
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-exploring-imovies-default-crop-settings/"><u>[New] 2024 Approved Exploring iMovie's Default Crop Settings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-flawless-screen-capture-s-assassins-creed-odyssey/"><u>[New] 2024 Approved Flawless Screen Capture 'S Assassin's Creed Odyssey</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-chronic-removal-method-for-youtubes-bite-sized-videos/"><u>[Updated] 2024 Approved Chronic Removal Method for YouTube's Bite-Sized Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-revolutionary-capturing-best-5-cameras-for-slow-mo/"><u>2024 Approved Revolutionary Capturing Best 5 Cameras for Slow Mo</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-customizing-windows-photos-app-intertwining-visuals-and-audio/"><u>2024 Approved The Art of Customizing Windows Photos App Intertwining Visuals & Audio</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-setup-for-logitech-k350-keys-fetch-the-drivers-here/"><u>Complete Setup for Logitech K350 Keys - Fetch the Drivers Here</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-installation-instructions-for-the-epson-xp-410-driver-on-windows-systems/"><u>Download & Installation Instructions for the Epson XP-410 Driver on Windows Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-official-hp-officejet-3830-software-and-drivers-for-windows-pcs/"><u>Download the Official HP OfficeJet 3830 Software & Drivers for Windows PCs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-upgrades-finding-and-applying-the-latest-software-for-epson-xp-440-devices/"><u>Effortless Upgrades: Finding & Applying the Latest Software for Epson XP-440 Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fix-coffee-stain-distortions-on-iphones-in-a-flash-for-free-for-2024/"><u>Fix Coffee Stain Distortions on iPhones in a Flash, for Free for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-free-download-for-your-realtek-usbpc-card-reader-on-windows-11/"><u>Get the Latest [Free Download] for Your RealTek USB/PC Card Reader on Windows 11</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/groundbreaking-release-introducing-the-global-premiere-in-photographic-restoration-tech-by-stellar/"><u>Groundbreaking Release: Introducing the Global Premiere in Photographic Restoration Tech by Stellar</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-fix-logitech-f710-driver-issue-on-windows-111087/"><u>How to Fix Logitech F710 Driver Issue on Windows 11/10/8/7</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-lustrous-android-video-techniques-for-every-user/"><u>In 2024, Lustrous Android Video Techniques for Every User</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Lenovo ThinkPhone? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/innovative-pc-optimized-for-air-cooling-with-central-high-powered-fans-defying-centrifugal-force/"><u>Innovative PC: Optimized for AIR COOLING with Central High-Powered Fans – Defying Centrifugal Force</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-fix-for-bluetooth-issues-download-techkey-adapter-drivers-compatible-with-all-windows-versions/"><u>Quick Fix for Bluetooth Issues - Download Techkey Adapter Drivers Compatible with All Windows Versions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-and-fast-download-of-lenovo-laptop-model-x230-essential-drivers/"><u>Secure and Fast Download of Lenovo Laptop Model X230 Essential Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-tutorial-on-rejuvenating-windows-11107-usb-audio-device-drivers/"><u>The Ultimate Tutorial on Rejuvenating Windows 11/10/7 USB Audio Device Drivers</u></a></li>
+</ul></div>
 

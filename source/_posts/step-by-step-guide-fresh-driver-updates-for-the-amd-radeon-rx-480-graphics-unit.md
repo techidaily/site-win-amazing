@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Fresh Driver Updates for the AMD Radeon RX 480 Graphics Unit"
-date: 2024-10-05T21:01:30.187Z
-updated: 2024-10-08T20:25:09.337Z
+date: 2024-10-09T20:13:13.175Z
+updated: 2024-10-14T16:05:55.588Z
 tags:
   - win11
   - win10
@@ -34,40 +34,40 @@ Device Manager is the easiest way for you to get the updated device drivers, but
 
 You need to go for other ways to get your display card driver updated since Microsoft cannot help you do this for now.
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2: Update Radeon RX 480 Graphics Card Driver** **Manually**
 
 If Device Manager fails to get you the latest driver available, you can always go to AMD and get the driver by yourself, but it requires certain skill sets. If you’re not comfortable updating the driver by yourself, go ahead and jump to[**Method 3**](https://tools.techidaily.com/drivereasy/download/)to get it automatically.  1) First, go to the support website of AMD drivers: **AMD Drivers + Download Center**  . Scroll down a little bit to choose from the **Radeon RX 400 Series** section your operating system. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f717d77cb0.png) 2) Download the **Radeon Software** by pressing the **Download** button on the side. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f72b36c238.jpg) 3) If you need more drivers for you **AMD Radeon RX 480** , you can choose the **Optional Downloads**  bar and then download the drivers you need.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f7327b334e-475x600.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Go to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) again. Locate and expand **Display adapters** . Double-click **AMD Radeon RX 480** . ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f6ee252477.jpg)5) Go to the **Driver**tab, and click **Uninstall**. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f742f54e25.jpg)Click **OK**to continue. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f7452e10b3.png)6) Double-click the downloaded**AMD Radeon RX 480**driver, and run the installation manually. 7) Restart your computer for the changes to take effect after the installation.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3: Update Radeon RX 480 Graphics Card Driver Automatically (Recommended)**
 
@@ -76,10 +76,10 @@ If you’re not confident playing around with drivers manually, you can do it au
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e5f628aad8e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [graphics](https://tools.techidaily.com/drivereasy/download/)
@@ -99,20 +99,18 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-clockwise-chronicles-apples-video-reversal-method/"><u>[New] Clockwise Chronicles Apple's Video Reversal Method</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-prime-websites-boosting-youtube-video-popularity/"><u>2024 Approved Prime Websites Boosting YouTube Video Popularity</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/6-best-voice-changers/"><u>6 Best Voice Changers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/rammp3-movavi/"><u>線上免費RAM至MP3格式轉換工具 - Movavi篩選輸入程式</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/copyright-protected-disney-dvds-steps-to-safely-back-up-your-collection-on-a-mac/"><u>Copyright-Protected Disney DVDs: Steps to Safely Back Up Your Collection on a Mac</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-conversion-turning-raw-images-into-png-format-on-the-web-with-movavi/"><u>Free Conversion: Turning RAW Images Into PNG Format on the Web with Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-online-converter-change-ogm-files-into-mp4-format-with-ease/"><u>Free Online Converter: Change OGM Files Into MP4 Format with Ease</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-oppo-find-n3-flip-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Oppo Find N3 Flip Devices</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-check-dji-fpv-drone-spectacles-features/"><u>In 2024, The Ultimate Check DJi FPV Drone Spectacles' Features</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1726222302594-mov-asf-movavi/"><u>MOV 到 ASF 自由转换 - 使用Movavi 无线转换器</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/movavi-reductions-offres-de-rabais-trouvez-vos-bons-de-commerce/"><u>Movavi Réductions Offres De Rabais: Trouvez Vos Bons De Commerce</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/prolonged-youtube-visibility-through-continuous-cc-membership-for-2024/"><u>Prolonged YouTube Visibility Through Continuous CC Membership for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/raf-jpeg-raf-jpg-movavi/"><u>RAF 이미지를 JPEG로 자유성 원위: 웹 스토리지에서 효율적인 RAF-JPG 변환기 - Movavi</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-best-smartphone-applications-for-diy-house-painters-top-4-picks/"><u>The Best Smartphone Applications for DIY House Painters: Top 4 Picks</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ultimate-guide-to-the-16-greatest-mp4-converter-applications-for-mp3-playback/"><u>Ultimate Guide to the 16 Greatest MP4 Converter Applications for MP3 Playback</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-navigating-twitters-aspect-ratio-policies/"><u>[New] 2024 Approved Navigating Twitter's Aspect Ratio Policies</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-virtualvista-viewers-verdict/"><u>[Updated] In 2024, VirtualVista Viewer's Verdict</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/mp4ts/"><u>【無料ツール】MP4ファイルをTS形式に簡単変換する方法</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/best-source-to-download-safe-and-updated-sades-headset-drivers-for-your-windows-pc/"><u>Best Source to Download Safe & Updated Sades Headset Drivers for Your Windows PC</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/comment-migrer-en-douceur-vers-windows-64-bits-depuis-windows-7-tout-en-preservant-vos-fichiers/"><u>Comment Migrer en Douceur Vers Windows 64-Bits Depuis Windows 7, Tout en Préservant Vos Fichiers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/crt-library-missing-windows-error-ensued/"><u>CRT Library Missing: Windows Error Ensued</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-install-brother-mfc-7360n-printer-drivers-on-windows-10-8-and-7/"><u>Easy Guide: Install Brother MFC-7360N Printer Drivers on Windows 10, 8, and 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/experience-enhanced-performance-with-new-corsair-keyboard-drivers-for-windows-free-and-safe-download-options-here/"><u>Experience Enhanced Performance with New Corsair Keyboard Drivers for Windows - Free & Safe Download Options Here</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-vixias-compact-cameras-on-a-tight-budget/"><u>Exploring VIXIA's Compact Cameras on a Tight Budget</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-logitech-audio-driver-downloads-for-pcs-running-windows-11-7-or-8/"><u>Latest Logitech Audio Driver Downloads for PCs Running Windows 11, 7 or 8</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/quickly-mastering-instagram-written-communication-for-2024/"><u>Quickly Mastering Instagram' Written Communication for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978156985-step-by-step-tutorial-how-to-effortlessly-update-wacom-cintiq-software/"><u>Step-by-Step Tutorial: How to Effortlessly Update Wacom Cintiq Software!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-installing-the-latest-drivers-for-microsofts-ergonomic-sculpt-keyboard/"><u>Step-by-Step Tutorial: Installing the Latest Drivers for Microsoft's Ergonomic Sculpt Keyboard</u></a></li>
 </ul></div>
 

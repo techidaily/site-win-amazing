@@ -1,7 +1,7 @@
 ---
 title: Seamless Driver Update for Your SATA AHCI Controller
-date: 2024-10-05T17:43:32.978Z
-updated: 2024-10-08T20:00:33.723Z
+date: 2024-10-12T03:27:49.064Z
+updated: 2024-10-14T18:41:03.246Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ There are two ways to download iCUE.
 2. Click**DOWNLOAD NOW** . Follow the on-screen instructions to finish the installation.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Download iCUE from the product page
 
  According to the Corsair gaming mouse you have, you can download related iCUE by your product’s model name.  
@@ -49,19 +56,26 @@ There are two ways to download iCUE.
 3. Scroll down and click**DOWNLOADS** . Then click the link to download iCUE.![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Double-click on the downloaded file and follow the on-screen instructions to install the software.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What to do if your mouse still has issues?
@@ -78,25 +92,11 @@ There are two ways to download iCUE.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-84.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the devices to automatically download the correct version of their drivers, then you can manually install the drivers (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-91.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -121,21 +121,22 @@ There are two ways to download iCUE.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-shock-free-footage-leading-smartphones-with-superior-ois-features/"><u>[New] Shock-Free Footage Leading Smartphones with Superior OIS Features</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-selection-of-top-5-best-android-photo-apps/"><u>[New] The Ultimate Selection of Top 5 Best Android Photo Apps</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-audible-annotations-choosing-the-top-speech-to-text-apps-for-2024/"><u>[Updated] Audible Annotations Choosing the Top Speech-to-Text Apps for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-innovative-strategies-for-maximizing-your-facebook-videos-for-2024/"><u>[Updated] Innovative Strategies for Maximizing Your Facebook Videos for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-guide-installing-epson-xp-430-printer-drivers-on-windows/"><u>Complete Guide: Installing Epson XP-430 Printer Drivers on Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-samsung-m2070fw-driver-a-step-by-step-tutorial/"><u>Download and Install Samsung M2070FW Driver: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/easy-tricks-for-playing-swf-games-in-windows-11-without-needing-adobe-flash/"><u>Easy Tricks for Playing SWF Games in Windows 11 Without Needing Adobe Flash</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/enhance-your-windows-11-pc-with-optimized-intel-iris-plus-graphics-version-655-drivers/"><u>Enhance Your Windows 지구 11 PC with Optimized Intel Iris Plus Graphics Version 655 Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ensure-seamless-compatibility-with-the-updated-canon-mx490-drivers-on-pcs/"><u>Ensure Seamless Compatibility with the Updated Canon MX490 Drivers on PCs</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722965592566-get-the-most-recent-windows-drivers-for-your-netgear-a61-0-device-here/"><u>Get the Most Recent Windows Drivers for Your Netgear A61 0 Device Here!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722975467640-get-your-epson-wf-7710-up-and-running-on-win11win10-free-driver-download/"><u>Get Your Epson WF-7710 Up and Running on Win11/Win10 - Free Driver Download</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-itel-p55t-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Itel P55T to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/screen-selection-simplified-find-the-best-display-for-xbox-series-x/"><u>Screen Selection Simplified - Find the Best Display for Xbox Series X</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-complete-picture-of-w15a-frame-reality/"><u>The Complete Picture of W15A Frame Reality</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-ultimate-how-to-secure-your-huion-device-with-the-latest-windows-drivers/"><u>The Ultimate How-To: Secure Your Huion Device with the Latest Windows Drivers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-delving-into-vlc-screenshot-technology/"><u>[New] In 2024, Delving Into VLC Screenshot Technology</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-real-time-game-capture-aps4-strategies-in-obs-for-2024/"><u>[New] Real-Time Game Capture APS4 Strategies in OBS for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ltimate-shot-selection-best-stabilizers-reviewed/"><u>[New] Ultimate Shot Selection - Best Stabilizers Reviewed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-vegas-pros-21-landmark-release-a-complete-analysis/"><u>[Updated] Vegas Pro's '21 Landmark Release - A Complete Analysis</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/asus-z370-e-motherboard-driver-download-fast-and-simple-installation-guide/"><u>ASUS Z370-E Motherboard Driver Download: Fast and Simple Installation Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-official-android-usb-driver-software-on-your-pc/"><u>Download & Install Official Android USB Driver Software on Your PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-updated-gpu-drivers-optimizing-your-pc-with-geforce-rtx-2080-support-on-various-windows-os/"><u>Download Updated GPU Drivers: Optimizing Your PC With GeForce RTX 2080 Support on Various Windows OS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/enhancing-teamimage-blurring-backgrounds-on-microsoft-teams-for-2024/"><u>Enhancing TeamImage Blurring Backgrounds on Microsoft Teams for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-canon-mg3022-driver-software-update-guide-and-download-links/"><u>Get the Latest Canon MG3022 Driver Software - Update Guide & Download Links</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-razer-controller-drivers-for-your-windows-operating-system-10-8-7-xp-vista/"><u>Get the Latest Razer Controller Drivers for Your Windows Operating System (10, 8, 7, XP, Vista)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-laserjet-1018-driver-installation-guide-fast-and-easy-download-options/"><u>HP LaserJet 1018 Driver Installation Guide: Fast & Easy Download Options</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafted-perfection-transforming-pics-into-words-with-apps/"><u>In 2024, Crafted Perfection Transforming Pics Into Words with Apps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-things-about-asmr-video-you-should-know/"><u>In 2024, Things About ASMR Video You Should Know</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/inside-the-cat-s42-phone-review-topnotch-durability-meets-below-average-speed/"><u>Inside the CAT S42 Phone Review: Topnotch Durability Meets Below-Average Speed</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-x90s-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo X90S FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/usb-bluetooth-dongle-driver-update-process-for-windows-operating-system/"><u>USB Bluetooth Dongle Driver Update Process for Windows Operating System</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/windows-10-webcam-driver-update-tutorial-easy-fix-for-better-video-quality/"><u>Windows 10 Webcam Driver Update Tutorial - Easy Fix for Better Video Quality</u></a></li>
 </ul></div>
 

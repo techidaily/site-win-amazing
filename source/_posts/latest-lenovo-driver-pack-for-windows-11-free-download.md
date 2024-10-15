@@ -1,7 +1,7 @@
 ---
 title: Latest Lenovo Driver Pack for Windows 11 - Free Download
-date: 2024-09-09T19:55:15.025Z
-updated: 2024-09-16T18:47:13.132Z
+date: 2024-10-11T19:04:31.712Z
+updated: 2024-10-15T00:12:52.194Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 
 **[Option 2: Manually](https://tools.techidaily.com/drivereasy/download/)**  – Some computer skills are required.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Install/Update your RTX 3080 driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -47,7 +54,21 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Once you’ve installed/updated your graphics driver, restart your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Install/Update your RTX 3080 driver manually
 
@@ -62,6 +83,13 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 3. Click**Download** . Then run the install wizard to install the graphics driver.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3080-driver-dl.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -80,12 +108,20 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-ultimate-arena-crafting-the-quintessential-7-total-war-tactics/"><u>[New] In 2024, Ultimate Arena Crafting the Quintessential 7 Total War Tactics</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-swift-and-secure-video-shipment-sending-oversized-content-from-ios/"><u>2024 Approved Swift & Secure Video Shipment Sending Oversized Content From iOS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/7-effective-methods-to-seamlessly-share-data-from-your-iphone-to-a-windows-or-mac-computer/"><u>7 Effective Methods to Seamlessly Share Data From Your iPhone to a Windows or Mac Computer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/bcm2045a0-driver-issues-breeze-through-troubleshooting-and-fix-them-swiftly/"><u>BCM2045A0 Driver Issues? Breeze Through Troubleshooting & Fix Them Swiftly!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-critical-msi-z370-a-pro-motherboard-drivers-improve-your-pcs-performance-today/"><u>Download Critical MSI Z370-A Pro Motherboard Drivers - Improve Your PC's Performance Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-to-follow-steps-intel-thunderbolt-driver-installation-tutorial/"><u>Easy-to-Follow Steps: Intel Thunderbolt Driver Installation Tutorial</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-setup-free-nvidia-3d-vision-support-for-windows-users/"><u>Effortless Setup: Free Nvidia 3D Vision Support for Windows Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-wacom-intuos-software-up-and-running-on-windows-the-ultimate-download-guide-for-full-featured-performance/"><u>Get Your Wacom Intuos Software Up and Running on Windows: The Ultimate Download Guide for Full-Featured Performance</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-fb-live-tv-broadcast-4-innovative-methods/"><u>In 2024, FB Live TV Broadcast 4 Innovative Methods</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-unlocking-ukraines-language-potential/"><u>Mondly Unlocking Ukraine's Language Potential</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mpow-bluetooth-drivers-update-available-free-download-for-windows-users-on-10-8-and-7-systems/"><u>MPOW Bluetooth Drivers Update Available: Free Download for Windows Users on 10, 8, and 7 Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-realme-gt-5-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Realme GT 5 to Gmail | Dr.fone</u></a></li>
+</ul></div>
 

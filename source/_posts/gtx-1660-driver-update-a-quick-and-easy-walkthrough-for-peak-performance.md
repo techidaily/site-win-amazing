@@ -1,7 +1,7 @@
 ---
 title: "GTX 1660 Driver Update: A Quick and Easy Walkthrough for Peak Performance"
-date: 2024-09-15T16:32:26.157Z
-updated: 2024-09-16T17:35:26.594Z
+date: 2024-10-09T01:43:34.939Z
+updated: 2024-10-14T20:01:06.130Z
 tags:
   - win11
   - win10
@@ -66,6 +66,13 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-57-09.jpg)
 5. Follow the onscreen instructions to finish the process.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Reboot the computer and update Windows after the process. If it’s not working, move to the next fix.
 
 ### Fix 3: Update Conexant audio driver
@@ -83,13 +90,6 @@ If this fix doesn’t work, move to the next fix.
 4. Right-click on Conexant and click**Update driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-58.jpg)
 5. Click**Search automatically for driver** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/search-automatically-for-updated-driver-software.jpg)
 6. Follow the onscreen instructions to finish the process.
@@ -117,19 +117,19 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Edit Local Group Policy
@@ -141,36 +141,39 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/open-device-manager.png)
 3. Click**Sound, video and game controllers** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Right-click on Conexant and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-59.jpg)
 5. In the**Details** tab, choose**Hardware Ids** under Property.
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. You’ll see a list of hardware IDs, right-click the shorter one and click**Copy** . Then paste it somewhere you can get it easily.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_16-41-14.jpg)
 7. Press the**Windows logo key + R** together to open the Run box.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Type**gpedit.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/local_group_policy_editor.jpg)
 9. Click **Computer Configuration > Administrative Templates > System > Device Installation > Device Installation R** **estrictions** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 10. Right-click **Prevent installation of devices that match any of these device IDs** in the right panel and click**Edit** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_16-56-14.jpg)
 11. Click**Enable** then click the**Show…** button.  
@@ -178,8 +181,22 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_16-59-51.jpg)
 12. Paste the Hardware IDs you got from**Step 6** in the blank space, then click**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_17-01-14.jpg)
 13. Update Windows to check.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -200,5 +217,19 @@ If this fix doesn’t work, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-bring-more-life-to-your-instagram-feed-with-these-4-gif-tips/"><u>[New] 2024 Approved Bring More Life to Your Instagram Feed with These 4 GIF Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-comedic-craftsmanship-unlocking-gags-at-zero-cost/"><u>[New] Comedic Craftsmanship Unlocking Gags at Zero Cost</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-best-10-gratuitous-online-transformers-for-srt-files-for-2024/"><u>[Updated] Best 10 Gratuitous Online Transformers for Srt Files for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-explore-5-premier-mac-cam-recording-software-beyond-bandicam-for-2024/"><u>[Updated] Explore 5 Premier Mac Cam Recording Software Beyond Bandicam for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-guide-to-updating-logitech-k400-plus-driver-begin-download-here/"><u>Complete Guide to Updating Logitech K400 Plus Driver - Begin Download Here</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-smart-applications-leveraging-gpt-3-for-python-development/"><u>Crafting Smart Applications: Leveraging GPT-3 for Python Development</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-guide-to-revamping-lenovo-pc-power-driver-software/"><u>Effortless Guide to Revamping Lenovo PC Power Driver Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/enhanced-user-experience-with-dynamic-content-personalization-via-cookiebot/"><u>Enhanced User Experience with Dynamic Content Personalization via Cookiebot</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-scanjet-driver-updates-available-install-now-for-enhanced-performance-on-windows-systems/"><u>HP Scanjet Driver Updates Available - Install Now for Enhanced Performance on Windows Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-worlds-of-gigantic-intelligent-language-models/"><u>Inside Worlds of Gigantic, Intelligent Language Models</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-realtek-usb-c-reader-software-compatible-with-windows-11-free-download/"><u>Latest Realtek USB-C Reader Software Compatible with Windows 11 – Free Download</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/windows-11-os-now-comes-with-built-in-printer-and-scanner-driver-solutions/"><u>Windows 11 OS Now Comes with Built-In Printer & Scanner Driver Solutions</u></a></li>
+</ul></div>
 

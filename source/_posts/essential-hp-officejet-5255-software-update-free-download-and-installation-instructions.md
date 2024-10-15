@@ -1,7 +1,7 @@
 ---
 title: Essential HP OfficeJet 5255 Software Update - Free Download and Installation Instructions
-date: 2024-10-02T19:40:09.519Z
-updated: 2024-10-08T18:52:17.786Z
+date: 2024-10-10T19:11:55.968Z
+updated: 2024-10-14T20:32:43.426Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1 – Update your driver via Device Manager**
 
  Try to update your Validity fingerprint sensor driver from within Device Manager:
@@ -46,23 +53,16 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 2. After the Start screen shows up, click the**magnifier** icon located in the upper right corner.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-05-41.png)
 3. Type**device** into the search box. Then select**Device Manager** from a list of search results.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1098.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Here comes**Device Manager** . Click the**▷** symbol to the left of**Biometric Devices** to expand its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1073.png)
 
 5. Right-click on**Validity Sensors (WBF)** to open its context menu. Then select**Update Driver Software…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-11-03.png)
 6. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-18-21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Wait till the download and installation process finishes.
@@ -72,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 2 – Update your driver from official websites**
 
  If you’d like to update your driver from its official website, you need to know the original equipment manufacturer (OEM) of your notebook or other devices with a fingerprint sensor. Given that the process of finding, downloading and installing the driver varies from person to person, this post will simply outline the method in a brief way.
@@ -79,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
  For example, if you’re using a Lenovo laptop, you can visit the official site of Lenovo and locate its**Support** section (that is where they usually provide drivers or other software for customers to download). Down there you should select “Drivers & Download” or whatever so that you can enter the download page of drivers. Usually there will a search box for you to type in your device model or the driver name, etc. As long as you give the right name, the website will automatically display a list of drivers that are considered to match your request. Select one from them depending on your Windows version (such as Windows 10 Pro, 64-bit), download it and install it step by step. On completion, please reboot your PC to let the changes take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 3 – Update your driver automatically (Recommended)**
 
@@ -100,16 +100,10 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Validity fingerprint sensor driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-36-48-1.png)
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -140,19 +134,16 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-photoshops-jiggle-minimizing-effective-or-overstated/"><u>[New] Photoshop's Jiggle Minimizing - Effective or Overstated?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-from-sd-to-4k-superiority-a-look-inside-the-d500/"><u>[Updated] 2024 Approved From SD to 4K Superiority A Look Inside the D500</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-leveraging-snapchat-for-professional-networking-and-sales/"><u>[Updated] 2024 Approved Leveraging Snapchat for Professional Networking & Sales</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-join-the-giggle-roll-and-tearful-talks-on-instagram-memes/"><u>[Updated] Join the Giggle-Roll and Tearful Talks on Instagram Memes</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unlock-ig-success-with-expert-insights-on-loop-videos-for-2024/"><u>[Updated] Unlock IG Success with Expert Insights on Loop Videos for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-hp-envy-5660-drivers-simple-steps-and-instructions/"><u>Download HP Envy 5660 Drivers: Simple Steps and Instructions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easy-guide-adding-subtitles-to-your-dvds-step-by-step-tutorial/"><u>Easy Guide: Adding Subtitles to Your DVDs - Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-updating-your-scansnap-device-on-windows/"><u>Easy Installation Guide: Updating Your ScanSnap Device on Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-newest-graphics-card-software-updates-for-windows-users-gtx-1650-super-included/"><u>Install Newest Graphics Card Software Updates for Windows Users (GTX 1650 Super Included)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-galaxy-a25-5g-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Galaxy A25 5G, is it possible?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-downloading-the-intel-wireless-ac-7260-driver/"><u>Step-by-Step Guide to Downloading the Intel Wireless AC 7260 Driver</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-brother-scanner-software-for-enhanced-windows-performance/"><u>Step-by-Step Guide: Updating Brother Scanner Software for Enhanced Windows Performance</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-our-selection-of-top-7-alarm-clock-mobile-apps/"><u>Unveiling Our Selection of Top 7 Alarm Clock Mobile Apps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-streamlining-your-videography-with-adobe-connects-features/"><u>[New] Streamlining Your Videography with Adobe Connect's Features</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-expediting-fb-videos-leading-extensions-and-apps-compilation/"><u>[Updated] 2024 Approved Expediting FB Videos Leading Extensions & Apps Compilation</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-quick-cuts-editing-instagram-videos-on-macos/"><u>[Updated] Quick Cuts Editing Instagram Videos on macOS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamless-webp-to-jpg-conversion-techniques/"><u>[Updated] Seamless WebP to JPG Conversion Techniques</u></a></li>
+<li><a href="https://discover-best.techidaily.com/2024mp4top8/"><u>「2024年の人気無料編集プログラム：オススメMP4専用フリーツールTOP8」</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722962475899-download-hp-deskjet-2600-printer-drivers-compatible-with-windows-7-8-and-10/"><u>Download HP DeskJet 2600 Printer Drivers Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-nvidia-graphics-card-drivers-easy-download-and-update/"><u>Get the Latest NVIDIA Graphics Card Drivers - Easy Download & Update</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hassle-free-process-to-revamp-your-scansnap-ix5e-driver-compatibility-on-windows-systems/"><u>Hassle-Free Process to Revamp Your ScanSnap iX5e Driver Compatibility on Windows Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-spark-20-proplus-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Spark 20 Pro+ to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/intels-xe-series-graphics-card-iris-plus-download-drivers-for-windows-11/"><u>Intel's Xe Series Graphics Card (Iris Plus) - Download Drivers for Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-your-workflow-seamless-scansnap-driver-setup-and-enhancement-for-windows-computers/"><u>Upgrade Your Workflow: Seamless ScanSnap Driver Setup and Enhancement for Windows Computers</u></a></li>
 </ul></div>
 

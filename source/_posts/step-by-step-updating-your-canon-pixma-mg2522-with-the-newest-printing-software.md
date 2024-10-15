@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Updating Your Canon PIXMA MG2522 with the Newest Printing Software"
-date: 2024-10-03T16:54:34.825Z
-updated: 2024-10-08T16:56:48.778Z
+date: 2024-10-08T21:20:11.277Z
+updated: 2024-10-14T22:18:35.941Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to get the correct driver?
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
  There are two ways you can get the right driver for your Logitech G402 mouse:
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 1 – Download and install the driver manually**
@@ -56,6 +56,19 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
  Logitech keeps updating the G402 driver. To get the latest driver, you need to go to the **[Logitech official website](https://tools.techidaily.com/drivereasy/download/)**  , find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
 
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2 – Automatically install the Logitech G402 driver
 
@@ -72,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-19-38.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click the **Update**  button next to the Logicool HID-compliant Cordless Mouse to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -83,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-51.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -132,20 +138,24 @@ Lastly, you may want to try your wireless mouse on metal surfaces.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-mastering-solo-podcast-production-for-top-spots/"><u>[New] 2024 Approved Mastering Solo Podcast Production for Top Spots</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-step-by-step-christian-tunes-customization-and-downloading/"><u>[New] Step-by-Step Christian Tunes Customization & Downloading</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/best-free-mp4-video-editing-tools-for-windows-and-mac-in-2n4-a-comprehensive-guide-to-the-top-11-picks/"><u>Best Free MP4 Video Editing Tools for Windows & Mac in 2N4: A Comprehensive Guide to the Top 11 Picks</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/converte-gratuito-em-mp4-ferramenta-on-line-para-transformar-arquivos-ogg-pelo-servico-de-alta-qualidade-do-movavi/"><u>Converte Gratuito Em MP4: Ferramenta On-Line Para Transformar Arquivos OGG Pelo Serviço De Alta Qualidade Do Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/discover-what-sets-movavi-apart-the-criteria-for-your-preferred-choice/"><u>Discover What Sets Movavi Apart – The Criteria for Your Preferred Choice!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/flexibele-lizenzing-van-flac-archieven-met-movavi-vrij-voorbeelden-inzamelen/"><u>Flexibele Lizenzing Van FLAC-Archieven Met Movavi - Vrij Voorbeelden Inzamelen!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-edit-your-fax-cover-using-windows-11-tools/"><u>How to Edit Your Fax Cover Using Windows 11 Tools</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-14-plus-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/how-to-transcribe-live-broadcasts-into-digital-format-for-2024/"><u>How to Transcribe Live Broadcasts Into Digital Format for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-a1-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo A1 5G FRP</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-y27-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo Y27 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mod-to-mp4-conversion-guide-top-7-tools-for-quick-and-easy-cross-platform-ripping-on-mac-and-pc/"><u>MOD to MP4 Conversion Guide: Top 7 Tools for Quick and Easy Cross-Platform Ripping on Mac & PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/movavi-pro-convert-your-flv-videos-quickly-and-without-cost/"><u>Movavi Pro: Convert Your FLV Videos Quickly and Without Cost!</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/professional-mac-strategies-for-classroom-audio-recording-for-2024/"><u>Professional Mac Strategies for Classroom Audio Recording for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-top-rated-hand-drawing-animation-tools-for-whiteboard-explainers/"><u>Updated 2024 Approved Top-Rated Hand Drawing Animation Tools for Whiteboard Explainers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-earnings-breakdown-youtubes-adsense-payments-by-thousands-of-views-for-2024/"><u>[Updated] Earnings Breakdown Youtube's AdSense Payments by Thousands of Views for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-how-to-correct-fisheye-lens-distortion-from-gopro-footage/"><u>[Updated] How to Correct Fisheye (Lens Distortion) From GoPro Footage</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-swift-screen-preserve-audio-accompanying/"><u>[Updated] Swift Screen Preserve Audio Accompanying</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722960527189-0-driver-now/"><u>0 Driver Now!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-webcams-to-boost-your-zoom-experience/"><u>2024 Approved Leading Webcams to Boost Your Zoom Experience</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-prodigy-ai-image-editing-arsenal/"><u>2024 Approved Prodigy AI Image Editing Arsenal</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-guide-updating-the-drivers-for-your-xp-pen-device/"><u>Comprehensive Guide: Updating the Drivers for Your XP-Pen Device</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/digital-footprints-on-instagram-effective-photo-watermarking-for-2024/"><u>Digital Footprints on Instagram Effective Photo Watermarking for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-improvement-upgrade-to-nahimic-drivers-for-optimal-audio-performance/"><u>Effortless Improvement - Upgrade to Nahimic Drivers for Optimal Audio Performance</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-intel-centrino-n-6205-wifi-drivers-no-cost-installation-guide/"><u>Get the Latest: Intel Centrino N 6205 WiFi Drivers – No Cost Installation Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-hp-laserjet-p1006-driver-downloaded-today-step-by-step-tutorial/"><u>Get Your HP LaserJet P1006 Driver Downloaded Today: Step-by-Step Tutorial!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-samsung-galaxy-m34-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Samsung Galaxy M34 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/pathway-from-windows-7-to-modern-windows-11/"><u>Pathway From Windows 7 to Modern Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-setup-mastering-the-wacom-intuos-driver-with-simple-steps/"><u>Quick Setup: Mastering the Wacom Intuos Driver with Simple Steps</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-geforce-rtx-3070-ti-windows-drivers-win-10-87-direct-from-nvidia/"><u>Secure GeForce RTX 3070 Ti Windows Drivers (Win 10, 8/7) - Direct From NVIDIA</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722961328489-speedy-and-straightforward-download-of-amds-rx-580-drivers-enhance-your-visual-experience/"><u>Speedy and Straightforward Download of AMD's RX 580 Drivers - Enhance Your Visual Experience!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/step-by-step-guide-to-smooth-facetime-calls-on-mobile-for-2024/"><u>Step-by-Step Guide to Smooth FaceTime Calls on Mobile for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722962402764-the-decision-must-be-made-between-two-options-neither-of-which-is-correct-or-wrong-but-may-involve-different-values/"><u>The Decision Must Be Made Between Two Options, neither of Which Is Correct or Wrong but May Involve Different Values</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-resolving-the-dark-display-dilemma-on-your-android-device/"><u>Troubleshooting Tips: Resolving the Dark Display Dilemma on Your Android Device</u></a></li>
 </ul></div>
 
