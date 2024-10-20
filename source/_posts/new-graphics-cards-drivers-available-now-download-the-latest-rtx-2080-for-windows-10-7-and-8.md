@@ -1,7 +1,7 @@
 ---
 title: "New Graphics Cards Drivers Available Now: Download the Latest RTX 2080 for Windows 10, 7 & 8"
-date: 2024-10-10T00:52:34.869Z
-updated: 2024-10-14T18:28:54.780Z
+date: 2024-10-16T17:36:48.030Z
+updated: 2024-10-20T16:13:30.261Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 
 [**Method 2** **– Manually:**](https://tools.techidaily.com/drivereasy/download/) You can update your Geforce RTX 2080 driver on your own. This requires some time, patience, and sometimes even computer skills.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Update your Geforce RTX 2080 driver automatically
 
  If you don’t have the time, patience or computer skills to update your Geforce RTX 2080 driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all** .
@@ -56,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap454-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _You can do it for free if you like, but it’s partly manual._
@@ -67,10 +60,10 @@ _You can do it for free if you like, but it’s partly manual._
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Download and install your Geforce RTX 2080 driver manually
@@ -84,15 +77,22 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap469.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3\. Click the **DOWNLOAD** button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap461.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4.**Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
@@ -116,20 +116,16 @@ _You can do it for free if you like, but it’s partly manual._
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-eliminating-blemishes-in-image-downloads/"><u>[New] Eliminating Blemishes in Image Downloads</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-harness-the-full-potential-of-your-videos-with-simple-cuts-on-windows/"><u>[New] Harness the Full Potential of Your Videos with Simple Cuts on Windows</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-photographic-lifelines-in-the-cloud-affordable-and-elite-storage-solutions/"><u>[New] In 2024, Photographic Lifelines in the Cloud Affordable & Elite Storage Solutions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-easy-way-to-change-and-upgrade-iphones-ringtones/"><u>[New] The Easy Way to Change and Upgrade iPhone's Ringtones</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-seamless-downloads-at-hand-the-best-5-chrome-extensions-for-fb-videos/"><u>2024 Approved Seamless Downloads at Hand The Best 5 Chrome Extensions for FB Videos</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-12-pro-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 12 Pro to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amp-your-gameplay-with-newly-released-amd-vega-drivers-easy-setup-inside/"><u>Amp Your Gameplay with Newly Released AMD Vega Drivers – Easy Setup Inside</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-dell-audio-drivers-a-simple-tutorial/"><u>Download & Install Dell Audio Drivers - A Simple Tutorial</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722966942828-easy-to-install-techkey-bluetooth-adapter-drivers-for-windows-operating-systems-win10-win7-and-win-get-them-now/"><u>Easy-to-Install Techkey Bluetooth Adapter Drivers for Windows Operating Systems: Win10, Win7, and Win# – Get Them Now!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/enhance-connectivity-with-speedy-wi-fi-finding-and-downloading-premium-drivers/"><u>Enhance Connectivity with Speedy Wi-Fi: Finding and Downloading Premium Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hassle-free-downloading-get-and-install-the-newest-epson-et-4550-driver-fast-with-this-guide/"><u>Hassle-Free Downloading: Get and Install the Newest Epson ET-4550 Driver Fast with This Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-fix-samsung-printer-drivers-on-windows-problems-and-solutions/"><u>How to Fix Samsung Printer Drivers on Windows - Problems and Solutions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-dissecting-the-ispring-screencap-magic/"><u>In 2024, Dissecting the iSpring Screencap Magic</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-tecno-spark-10-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Tecno Spark 10 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/1728473756612-windows-server-201n/"><u>Windows Server 201N恢复驱动器设置的两种方法 -一详解</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/levate-the-visual-appeal-of-your-video-credits-for-2024/"><u>[New] Elevate the Visual Appeal of Your Video Credits for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-epson-es-400-scandriver-for-pc-step-by-step-guide/"><u>Download & Install Epson ES-400 ScanDriver for PC: Step by Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-free-steelseries-drivers-for-arctis-5-headsets-now/"><u>Get Free SteelSeries Drivers for Arctis 5 Headsets Now!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-free-tools-and-tricks-creating-compelling-youtube-video-ads/"><u>In 2024, Free Tools and Tricks Creating Compelling YouTube Video Ads</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installing-the-nexiq-usb-link-drivers-step-by-step-instruction-video/"><u>Installing the NEXIQ USB Link Drivers - Step by Step Instruction Video</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/marketing-mastery-series-top-podcasts-to-guide-you-through-social-medias-impact/"><u>Marketing Mastery Series Top Podcasts to Guide You Through Social Medias Impact</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-top-cartoon-animation-software-for-mobile-devices-for-2024/"><u>New Top Cartoon Animation Software for Mobile Devices for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/optimize-your-hp-zbook-15-g3-comprehensive-downloads-and-installation-tips-for-windows/"><u>Optimize Your HP ZBook 15 G3: Comprehensive Downloads & Installation Tips for Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-for-fixing-msedgeexe-errors-within-windows-os/"><u>Step-by-Step Solutions for Fixing 'msedge.exe' Errors Within Windows OS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-setup-tutorial-installing-logitechs-mx-master-desktop-software/"><u>Ultimate Setup Tutorial: Installing Logitech's MX Master Desktop Software</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unleashing-creativity-quick-lens-building-on-snapchat/"><u>Unleashing Creativity Quick Lens Building on Snapchat</u></a></li>
 </ul></div>
 

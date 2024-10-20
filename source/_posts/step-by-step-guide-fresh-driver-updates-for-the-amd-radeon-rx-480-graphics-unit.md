@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Fresh Driver Updates for the AMD Radeon RX 480 Graphics Unit"
-date: 2024-10-09T20:13:13.175Z
-updated: 2024-10-14T16:05:55.588Z
+date: 2024-10-17T17:07:47.930Z
+updated: 2024-10-20T17:05:59.051Z
 tags:
   - win11
   - win10
@@ -34,39 +34,39 @@ Device Manager is the easiest way for you to get the updated device drivers, but
 
 You need to go for other ways to get your display card driver updated since Microsoft cannot help you do this for now.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2: Update Radeon RX 480 Graphics Card Driver** **Manually**
 
 If Device Manager fails to get you the latest driver available, you can always go to AMD and get the driver by yourself, but it requires certain skill sets. If you’re not comfortable updating the driver by yourself, go ahead and jump to[**Method 3**](https://tools.techidaily.com/drivereasy/download/)to get it automatically.  1) First, go to the support website of AMD drivers: **AMD Drivers + Download Center**  . Scroll down a little bit to choose from the **Radeon RX 400 Series** section your operating system. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f717d77cb0.png) 2) Download the **Radeon Software** by pressing the **Download** button on the side. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f72b36c238.jpg) 3) If you need more drivers for you **AMD Radeon RX 480** , you can choose the **Optional Downloads**  bar and then download the drivers you need.
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f7327b334e-475x600.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Go to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) again. Locate and expand **Display adapters** . Double-click **AMD Radeon RX 480** . ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f6ee252477.jpg)5) Go to the **Driver**tab, and click **Uninstall**. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f742f54e25.jpg)Click **OK**to continue. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f7452e10b3.png)6) Double-click the downloaded**AMD Radeon RX 480**driver, and run the installation manually. 7) Restart your computer for the changes to take effect after the installation.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3: Update Radeon RX 480 Graphics Card Driver Automatically (Recommended)**
@@ -76,10 +76,10 @@ If you’re not confident playing around with drivers manually, you can do it au
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e5f628aad8e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [graphics](https://tools.techidaily.com/drivereasy/download/)
@@ -99,18 +99,22 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-navigating-twitters-aspect-ratio-policies/"><u>[New] 2024 Approved Navigating Twitter's Aspect Ratio Policies</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-virtualvista-viewers-verdict/"><u>[Updated] In 2024, VirtualVista Viewer's Verdict</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/mp4ts/"><u>【無料ツール】MP4ファイルをTS形式に簡単変換する方法</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/best-source-to-download-safe-and-updated-sades-headset-drivers-for-your-windows-pc/"><u>Best Source to Download Safe & Updated Sades Headset Drivers for Your Windows PC</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/comment-migrer-en-douceur-vers-windows-64-bits-depuis-windows-7-tout-en-preservant-vos-fichiers/"><u>Comment Migrer en Douceur Vers Windows 64-Bits Depuis Windows 7, Tout en Préservant Vos Fichiers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/crt-library-missing-windows-error-ensued/"><u>CRT Library Missing: Windows Error Ensued</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-guide-install-brother-mfc-7360n-printer-drivers-on-windows-10-8-and-7/"><u>Easy Guide: Install Brother MFC-7360N Printer Drivers on Windows 10, 8, and 7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/experience-enhanced-performance-with-new-corsair-keyboard-drivers-for-windows-free-and-safe-download-options-here/"><u>Experience Enhanced Performance with New Corsair Keyboard Drivers for Windows - Free & Safe Download Options Here</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-vixias-compact-cameras-on-a-tight-budget/"><u>Exploring VIXIA's Compact Cameras on a Tight Budget</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-logitech-audio-driver-downloads-for-pcs-running-windows-11-7-or-8/"><u>Latest Logitech Audio Driver Downloads for PCs Running Windows 11, 7 or 8</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/quickly-mastering-instagram-written-communication-for-2024/"><u>Quickly Mastering Instagram' Written Communication for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722978156985-step-by-step-tutorial-how-to-effortlessly-update-wacom-cintiq-software/"><u>Step-by-Step Tutorial: How to Effortlessly Update Wacom Cintiq Software!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-installing-the-latest-drivers-for-microsofts-ergonomic-sculpt-keyboard/"><u>Step-by-Step Tutorial: Installing the Latest Drivers for Microsoft's Ergonomic Sculpt Keyboard</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-2023-how-to-find-videos-on-facebook/"><u>[New] 2024 Approved 2023 | How to Find Videos on Facebook?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-streamers-crossroad-navigating-between-vimeo-youtube-dailymotion/"><u>[Updated] In 2024, The Streamer's Crossroad Navigating Between Vimeo, YouTube, Dailymotion</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-twilight-tactics-capturing-the-best-in-low-light-portraits-for-2024/"><u>[Updated] Twilight Tactics Capturing the Best in Low Light Portraits for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-photoshop-color-adjustments-for-beginners/"><u>2024 Approved Photoshop Color Adjustments for Beginners</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/5-easy-install-guide-canon-mf8200c-driver-download-compatible-with-windows-os/"><u>5. Easy Install Guide: Canon MF8200C Driver Download Compatible with Windows OS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722970858652-arbitration-can-be-less-formal-than-court-proceedings-potentially-reducing-the-time-and-cost-associated-with-dispute-resolution/"><u>Arbitration Can Be Less Formal than Court Proceedings, Potentially Reducing the Time and Cost Associated with Dispute Resolution.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-mf4500-user-guide-and-driver-installation-step-by-step/"><u>Canon MF4500 User Guide and Driver Installation Step by Step</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/canon-mg3022-driver-download-guide-easy-installation-and-update-steps/"><u>Canon MG3022 Driver Download Guide – Easy Installation and Update Steps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discovering-the-top-8-collaborative-android-video-tiles-premiumfree/"><u>Discovering the Top 8 Collaborative Android Video Tiles (Premium/Free)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-insignia-device-drivers-on-windows-a-swift-and-straightforward-guide/"><u>Download Insignia Device Drivers on Windows: A Swift & Straightforward Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-downloads-canoscan-lide-120-scan-tool-and-version-enhancements/"><u>Free Downloads: CanoScan LiDE 120 Scan Tool & Version Enhancements</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-toshiba-bluetooth-software-safe-download-links-here/"><u>Get the Latest Toshiba Bluetooth Software - Safe Download Links Here!</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-find-and-install-new-driver-updates-for-windows-10-and-11/"><u>How to Easily Find and Install New Driver Updates for Windows 10 and 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-innovative-mini-houses-with-an-oriental-twist/"><u>In 2024, Innovative Mini Houses with an Oriental Twist</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-price-estimation-guide-for-music-video-production/"><u>In 2024, Price Estimation Guide for Music Video Production</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installing-the-latest-soundmax-drivers-for-windows-systems-step-by-step-instructions/"><u>Installing the Latest SoundMAX Drivers for Windows Systems: Step-by-Step Instructions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722968918489-seamless-integration-download-and-setup-for-top-tier-intel-thunderbolt-controller-drivers/"><u>Seamless Integration: Download & Setup for Top-Tier Intel Thunderbolt Controller Drivers</u></a></li>
 </ul></div>
 

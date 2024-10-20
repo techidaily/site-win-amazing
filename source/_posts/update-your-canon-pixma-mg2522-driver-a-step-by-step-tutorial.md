@@ -1,7 +1,7 @@
 ---
 title: Update Your Canon PIXMA MG2522 Driver - A Step-by-Step Tutorial
-date: 2024-10-09T17:57:06.112Z
-updated: 2024-10-14T16:00:18.863Z
+date: 2024-10-16T17:09:38.228Z
+updated: 2024-10-20T17:11:04.470Z
 tags:
   - win11
   - win10
@@ -31,10 +31,10 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
  Driver updates often feature some major bug fixes and performance boost, that’s why we recommend you to update your driver.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to download and update your HP Scanjet driver
@@ -53,10 +53,10 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-23-46-1-1200x727.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the row containing your model, click the**rightmost link** to enter the download page.
@@ -64,10 +64,16 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-23-46-1200x727.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) If you aren’t using Windows 10 64-bit,**choose your OS** first.
@@ -76,18 +82,24 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-25-10-1200x752.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Once you’ve downloaded the driver,**double-click** to open the file and follow the on-screen instruction to install.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-32-40-1.jpg)
 
  When you complete the installation process, connect your HP Scanjet to the computer and see if it’s running.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2: Download and update the HP Scanjet driver automatically (Recommended)
 
@@ -128,16 +140,16 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-blending-images-into-a-masterpiece-of-mosaics/"><u>[New] 2024 Approved Blending Images Into a Masterpiece of Mosaics</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-go-green-for-effective-ctas-via-subscription/"><u>[Updated] 2024 Approved Go Green for Effective CTAs via Subscription</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pioneering-virtual-play-samsungs-most-popular-titles/"><u>[Updated] Pioneering Virtual Play Samsung's Most Popular Titles</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-guide-to-downloading-and-installing-logitech-g-pro-drivers-for-windows-users/"><u>Complete Guide to Downloading and Installing Logitech G Pro Drivers for Windows Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722976037702-effortless-update-guide-get-the-latest-lenovo-t450-drivers-installed-today/"><u>Effortless Update Guide - Get the Latest Lenovo T450 Drivers Installed Today!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-resolving-steelseries-arctis-elite-mic-not-working-problems/"><u>Expert Tips for Resolving SteelSeries Arctis Elite Mic Not Working Problems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-free-hp-laserjet-p1006-software-update-and-installation-guide/"><u>Get Your Free HP LaserJet P1006 Software Update & Installation Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-deskjet-inkjet-2700-series-latest-driver-software-free-download/"><u>HP Deskjet Inkjet 2700 Series - Latest Driver Software Free Download</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/losungsansatze-fur-das-sync-problem-von-dropbox-auf-einem-mac-erfolg-garantiert/"><u>Lösungsansätze Für Das Sync-Problem Von Dropbox Auf Einem Mac - Erfolg Garantiert!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-7-free-video-editors-to-replace-windows-movie-maker-in-windows-10-and-11/"><u>Top 7 Free Video Editors to Replace Windows Movie Maker in Windows 10 and 11</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-mix-fold-3-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Mix Fold 3 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-guide-crafting-a-facebook-photo-mosaic/"><u>[New] Quick Guide Crafting a Facebook Photo Mosaic</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-sound-seekers-sanctuary-download-and-listen-to-songs/"><u>[Updated] 2024 Approved Sound Seeker's Sanctuary Download & Listen To Songs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/aif-mov-movavi/"><u>免費線上 AIF 改造 MOV - 憑 Movavi 動手操作</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/as-melhores-tecnologias-de-edicao-para-produzir-videos-multimidia-no-brasil/"><u>As Melhores Tecnologias De Edição Para Produzir Videos Multimídia No Brasil</u></a></li>
+<li><a href="https://solve-info.techidaily.com/comment-transmettre-votre-contenu-en-vue-sur-youtube-sans-compromettre-la-qualite/"><u>Comment Transmettre Votre Contenu en Vue Sur YouTube Sans Compromettre La Qualité ?</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-error-code-0x80300024-from-pc/"><u>Eliminating Error Code: 0X80300024 From PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/facilita-di-realizzare-un-timelapse-con-movavi-video-editor-tutorial-completo/"><u>Facilità Di Realizzare Un TimeLapse Con Movavi Video Editor - Tutorial Completo</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratuito-conversor-online-de-flac-para-ogg-solucao-aprimorada-pela-movavi/"><u>Gratuito Conversor Online De FLAC Para OGG: Solução Aprimorada Pela Movavi</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Tecno Phantom V Fold? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-sony-xperia-1-v-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Sony Xperia 1 V for Free? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/onlinegewoonte-om-tod-videavluchtjes-naar-mp4-vrije-converteerapplicatie-movavi/"><u>Onlinegewoonte Om TOD-Videavluchtjes Naar MP4 Vrije Converteerapplicatie - Movavi</u></a></li>
 </ul></div>
 

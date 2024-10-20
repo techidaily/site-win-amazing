@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Solutions: Fixing Issues with ThinkPad's Thunderbolt 3 Dock Connection"
-date: 2024-10-08T21:01:21.470Z
-updated: 2024-10-14T19:21:02.610Z
+date: 2024-10-16T16:56:55.745Z
+updated: 2024-10-20T18:13:49.939Z
 tags:
   - win11
   - win10
@@ -48,10 +48,10 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-174.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click **Offline Scan** . Then select **Offline Scan (on the computer without Internet access)** and click **Continue** .
@@ -66,13 +66,6 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-177.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7) Open the folder where you’ve saved the offline scan file. Then **save** the file in a USB flash drive and transfer it to another computer with Internet connection.
 
  8) On the computer with Internet connection, (download and) install Driver Easy.
@@ -81,27 +74,26 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-174.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  10) Click **Offline Scan** . Then select **Upload Offline Scan File (on the computer with Internet access)** and click **Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-178.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  11) Click **Browse…**  to locate the offline scan file. Then click **Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-179.png)
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  12) Click the **Download** button next to your network adapter driver.
 
@@ -115,6 +107,13 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Update network adapter driver manually
 
 **Warning** : Downloading the wrong driver or installing it incorrectly can compromise our PC’s stability and even cause the whole system to crash. So please proceed at your own peril.
@@ -127,6 +126,14 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b501322334d1.jpg)
 3. On the computer with Internet, go to the brand manufacturer’s official website and check out the**Support** section for driver downloads.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Search the model of your graphics card, click the right download link for your Windows 7 OS. Usually a few download options will be listed but you might want to click **the first** result for the latest driver version.
 5. Move the downloaded file to the computer without the Internet.
 6. On the computer without the Internet, run the downloaded file (mostly either an exe. file or .inf file) and follow the on-screen instructions to finish the install.
@@ -154,24 +161,24 @@ If you’re looking to **update your Windows 7 network adapter driver** ,  you�
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-macs-best-gif-capture-tools-ranked-and-reviewed/"><u>[New] 2024 Approved Mac's Best GIF Capture Tools Ranked and Reviewed</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-guide-how-to-record-hulu-on-winmacmobile-for-2024/"><u>[New] The Ultimate Guide How To Record Hulu On Win/Mac/Mobile for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-the-potential-of-youtube-shorts-advertising/"><u>[Updated] In 2024, Harnessing the Potential of YouTube Shorts Advertising</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-guide-installing-the-latest-conexant-drivers-on-microsofts-windows-11-update-2004/"><u>Complete Guide: Installing the Latest Conexant Drivers on Microsoft's Windows 11 Update 2004</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-se-2020-how-to-unlock-a-disabled-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>Disabled Apple iPhone SE (2020) How to Unlock a Disabled Apple iPhone SE (2020)? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-top-6-innovative-chatgpt-tools-to-upgrade-your-vs-code-experience/"><u>Discover the Top 6 Innovative ChatGPT Tools to Upgrade Your VS Code Experience</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-newest-generic-bluetooth-adapter-drivers-for-windows-systems/"><u>Download the Newest Generic Bluetooth Adapter Drivers for Windows Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-installer-updated-fingerprint-drivers-for-windows-systems-download-now/"><u>Easy Installer: Updated Fingerprint Drivers for Windows Systems - Download Now</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fix-youtube-playback-sounds-not-working-correctly-on-windows-n/"><u>Fix YouTube Playback Sounds Not Working Correctly on Windows N</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-amd-chipset-updates-now-supports-windows-10-7-8-and-81-systems/"><u>Get Your AMD Chipset Updates Now - Supports Windows 10, 7, 8 & 8.1 Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-the-newest-driver-for-your-epson-l3150-on-windows-10-8-and-7-step-by-step/"><u>How to Get the Newest Driver for Your Epson L3150 on Windows 10, 8 & 7 - Step by Step</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-tp-link-wifi-network-card-drivers-compatible-with-windows-10-8-and-7/"><u>Latest TP-Link WiFi Network Card Drivers | Compatible with Windows 10, 8 & 7</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-through-five-important-aspects-to-assess-before-purchasing-a-fitness-tracker/"><u>Navigating Through: Five Important Aspects to Assess Before Purchasing a Fitness Tracker</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/procuring-growls-and-whispers-audio-packages/"><u>Procuring Growls and Whispers Audio Packages</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/realtek-audio-driver-update-compatible-with-windows-11107-install-now/"><u>Realtek Audio Driver Update: Compatible with Windows 11/10/7 - Install Now!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/speedy-download-of-high-performance-amd-ryzen-5-2400g-video-card-drivers/"><u>Speedy Download of High-Performance AMD Ryzen 5 2400G Video Card Drivers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/top-5-best-ps2-emulator-for-ios/"><u>Top 5 Best PS2 Emulator for Ios</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-resolving-driver-errors-for-the-corsair-h115i-in-recent-windows-versions/"><u>Troubleshooting and Resolving Driver Errors for the Corsair H115i in Recent Windows Versions</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/troubleshooting-guide-for-non-operational-enterprises-essential-tips-to-get-back-on-track/"><u>Troubleshooting Guide for Non-Operational Enterprises: Essential Tips to Get Back on Track</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-synthesize-sounds-and-images-in-ppts-for-2024/"><u>[New] Synthesize Sounds and Images in PPTS for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-definitive-guide-to-film-gear-buying-tips/"><u>[Updated] The Definitive Guide to Film Gear Buying Tips</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-elevate-your-digital-footprint-strategies-for-effective-fb-video-marketing/"><u>2024 Approved Elevate Your Digital Footprint Strategies for Effective FB Video Marketing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-navigating-video-streaming-tools-a-focus-on-obs-youtube-and-twitch/"><u>2024 Approved Navigating Video Streaming Tools A Focus on OBS, YouTube & Twitch</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-ultimate-cheat-sheet-to-gameplay-screencasts-in-overwatch/"><u>2024 Approved The Ultimate Cheat Sheet to Gameplay Screencasts in Overwatch</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-zooms-power-play-top-methods-for-effective-format-shifting/"><u>2024 Approved Zoom's Power Play Top Methods for Effective Format Shifting</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/a-beginners-guide-to-understanding-and-mastering-hdr-photo-techniques-learn-from-expert-strategies/"><u>A Beginner's Guide to Understanding and Mastering HDR Photo Techniques - Learn From Expert Strategies</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-12-proplus-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Realme 12 Pro+ 5G</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/bmp-jpg-online-movavi/"><u>BMP에서 JPG로 무료 이미지 변환 프로세스, Online 사용 가능 - Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/can-128gb-hold-extensive-video-content-in-2024/"><u>Can 128GB Hold Extensive Video Content, In 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-online-conversion-transforming-wav-files-into-au-format-with-movavi/"><u>Free Online Conversion: Transforming WAV Files Into AU Format with Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratis-online-omzetten-van-mp2-naar-mp3-expertise-movavi/"><u>Gratis Online Omzetten Van MP2 Naar MP3 - Expertise Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratuit-konvertisseer-audiobooks-m4b-naar-wma-instant-online-met-movavi/"><u>Gratuit Konvertisseer Audiobooks M4B Naar WMA - Instant Online Met Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-xiaomi-redmi-note-12r-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Xiaomi Redmi Note 12R Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavi-frei-nutzbarer-m4bavi-converter-online-verfugbar/"><u>Movavi Frei Nutzbarer M4B/AVI Converter Online Verfügbar</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-xiaomi-redmi-13c-by-drfone-android/"><u>Top 10 Password Cracking Tools For Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/topo-11-os-melhores-recorders-de-imagens-on-line-e-sem-custo/"><u>Topo 11: Os Melhores Recorders De Imagens On-Line E Sem Custo</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transform-your-cr2-photos-into-jpgs-at-no-cost-using-movavis-web-service/"><u>Transform Your CR2 Photos Into JPGs at No Cost Using Movavi's Web Service</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/vrijwelke-verwerking-van-mxf-in-mpg-format-expertise-onlines-met-movavi-gebruikersvriendelijke-oplichters/"><u>Vrijwelke Verwerking Van MXF in MPG Format - Expertise Onlines Met Movavi Gebruikersvriendelijke Oplichters</u></a></li>
 </ul></div>
 

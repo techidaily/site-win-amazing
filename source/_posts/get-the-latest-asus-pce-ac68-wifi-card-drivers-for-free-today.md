@@ -1,7 +1,7 @@
 ---
 title: Get the Latest ASUS PCE-AC68 WiFi Card Drivers for FREE Today
-date: 2024-10-07T22:15:32.553Z
-updated: 2024-10-15T00:02:59.110Z
+date: 2024-10-14T16:07:15.567Z
+updated: 2024-10-20T17:10:08.381Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 
 [**Method 2 – Automatically:**](https://tools.techidaily.com/drivereasy/download/) This option is **much quicker and easier** . **All**   you need to do is **just a couple of mouse clicks** !
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Download and update the drivers for your Surface Book 2 manually
 
  You can download the updated driver files from the official website of Microsoft. Then install them on your Surface Book 2 on your own. Here is how to do it:
@@ -43,34 +50,20 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap715.png)
 3. Scroll down until you see**Surface Book 2** on the table. Then click its drivers download link to continue.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap716.png)
 4. Click**Download** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap717.png)
 5. To update your Surface Book 2 with the latest drivers and firmware, **select the .msi file name that matches your operating system version** . Then click**Next** to start downloading.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap718.png)  
  For example, if the build of Windows 10 you’ve installed is build 17763, you should select  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **SurfaceBook2\_Win10\_17763\_1805009\_0.msi** . If you’re not sure about the version of Windows 10 you’ve installed, go to**Start** \>**Settings** \>**System** \>**About** to view **the OS Build number** .
@@ -88,14 +81,22 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap720.png)  
  You can do it for free if you like, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
  Please leave your comment below if you have any questions or suggestions!
@@ -118,17 +119,22 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-detailed-instructions-for-embedding-and-displaying-youtube-playlists-online/"><u>[New] In 2024, Detailed Instructions for Embedding and Displaying YouTube Playlists Online</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-pro-tips-for-productive-dialogues-on-google-meet/"><u>[New] In 2024, Pro Tips for Productive Dialogues on Google Meet</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-seamless-editing-experience-built-for-vimeo-videos-for-2024/"><u>[New] Seamless Editing Experience Built for Vimeo Videos for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1-come-digitalizzare-le-tue-migliori-memorie-dai-vhs-al-dvd-in-pochi-e-facili-passaggi/"><u>1. Come Digitalizzare Le Tue Migliori Memorie: Dai VHS Al DVD in Pochi E Facili Passaggi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-latest-hp-laptop-driver-software-for-windows/"><u>Download & Install Latest HP Laptop Driver Software for Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/getting-started-how-to-set-up-brother-dcp-l25nwd-printer-in-windows-using-its-latest-driver-download/"><u>Getting Started: How to Set Up Brother DCP-L25nwd Printer in Windows Using Its Latest Driver Download</u></a></li>
-<li><a href="https://article-files.techidaily.com/high-res-360-views-gear-vs-lgcam-showdown-for-2024/"><u>High-Res 360 Views Gear vs LGCam Showdown for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-the-ultimate-guide-to-free-artistic-software-on-mac/"><u>In 2024, The Ultimate Guide to Free Artistic Software on Mac</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mastering-the-art-of-repairing-issues-with-realtek-high-definition-video-drivers/"><u>Mastering the Art of Repairing Issues With Realtek High Definition Video Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-and-easy-corsair-void-pro-driver-installation-for-windows-users/"><u>Quick & Easy Corsair Void Pro Driver Installation for Windows Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-your-canon-pixma-printer-drivers-with-speed-and-simplicity/"><u>Step-by-Step Guide: Updating Your Canon PIXMA Printer Drivers with Speed and Simplicity</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-a-guide-to-finding-hidden-youtube-treasures/"><u>[New] 2024 Approved A Guide to Finding Hidden YouTube Treasures</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/iniature-marketers-guide-to-video-promos-infographic-for-2024/"><u>[New] Miniature Marketer's Guide to Video Promos (Infographic) for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-securely-store-and-download-linkedin-videos-heres-the-top-6-list/"><u>[New] Securely Store & Download LinkedIn Videos - Here's the Top 6 List</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-crafting-a-blended-media-experience-with-tunes-for-2024/"><u>[Updated] Crafting a Blended Media Experience with Tunes for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/choosing-optimal-video-codecs-avi-vs-mp4-explained/"><u>Choosing Optimal Video Codecs: AVI Vs. MP4 Explained</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/converter-de-video-livre-online-tornar-suas-imagens-do-padrao-mpeg3g2-com-o-software-da-movavi/"><u>Converter De Vídeo Livre Online: Tornar Suas Imagens Do Padrão MPEG/3G2 Com O Software Da Movavi</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/easy-steps-to-extract-instagram-video-files-from-pcmac-for-2024/"><u>Easy Steps to Extract Instagram Video Files From PC/Mac for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-converter-transform-m4v-videos-into-flash-format-swf-movavi/"><u>Free Converter: Transform M4V Videos Into Flash Format (SWF) - Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-online-converter-transforming-pcx-images-into-jpg-format-with-ease/"><u>Free Online Converter: Transforming PCX Images Into JPG Format with Ease</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratuidade-converter-imagens-webp-para-formato-tiff-online-via-movavi/"><u>Gratuidade: Converter Imagens WEBP Para Formato TIFF Online via Movavi</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-tutorial-on-easily-inserting-the-surface-dock-driver/"><u>Hassle-Free Tutorial on Easily Inserting the Surface Dock Driver</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-k11x-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/instagram-frihetigenes-hemliga-handbok-den-3-sidiga-ansatsen-att-komprimera-videor-for-du-inledningsvis-movavi/"><u>Instagram-Frihetigenes Hemliga Handbok: Den 3-Sidiga Ansatsen Att Komprimera Videor För Du - Inledningsvis Movavi</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/keeping-balance-in-the-world-of-immersive-virtuality-for-2024/"><u>Keeping Balance in the World of Immersive Virtuality for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavi-swfgif/"><u>Movaviで無料ですぐに完了! SWFファイルをオンラインでGIFに変換</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-11-sites-para-download-de-subtitulado-en-espanol/"><u>Top 11 Sites Para Download De Subtitulado en Español</u></a></li>
 </ul></div>
 

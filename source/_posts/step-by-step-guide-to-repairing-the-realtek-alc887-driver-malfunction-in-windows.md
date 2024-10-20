@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Repairing the Realtek ALC887 Driver Malfunction in Windows
-date: 2024-10-12T00:14:27.053Z
-updated: 2024-10-14T20:21:07.077Z
+date: 2024-10-14T18:15:33.271Z
+updated: 2024-10-20T18:04:28.763Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 1: Download and update your Ralink RT3290 driver automatically (Recommended)**
@@ -54,28 +54,15 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-121.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Ralink RT3290 driver for now, simply click on the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -85,13 +72,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 **Option 1** can be applied to all versions of Windows. Still, if you opt to download and update your Ralink RT3290 driver manually, please read on and try Option 2 (it only works for Windows 8 and Windows 7).
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 2: Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)**
 
@@ -106,6 +86,13 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
  For example, this is a screenshot of Windows 8.1 Pro (64-bit). And there’s one thing you should know: regarding**System Type** , “x64-based PC” stands for the 64-bit version; in contrast, “x86-based PC” stands for 32-bit.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
 
@@ -124,6 +111,13 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
  9) Make sure you open the right files based on your Windows version. In the end, you’ll see a file as illustrated below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
 
@@ -167,18 +161,24 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-access-short-videos-anywhere-the-top-6-free-and-online-youtube-short-download-apps/"><u>[Updated] In 2024, Access Short Videos Anywhere The Top 6 Free & Online YouTube Short Download Apps</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-transforming-images-into-engaging-animation-projects/"><u>[Updated] In 2024, Transforming Images Into Engaging Animation Projects</u></a></li>
-<li><a href="https://common-error.techidaily.com/display-compatibility-issue-hdcp-free-screen-resolution/"><u>Display Compatibility Issue: HDCP-Free Screen Resolution</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-get-your-acer-wi-fi-drivers-downloaded-today/"><u>Easy Installation Guide: Get Your Acer Wi-Fi Drivers Downloaded Today!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-compatible-drivers-for-realtek-cards-on-windows-10/"><u>Free Download: Compatible Drivers for Realtek Cards on Windows 10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722969656876-get-your-intel-b560-coffee-lake-motherboard-and-chipset-for-free/"><u>Get Your Intel B560 Coffee Lake Motherboard & Chipset for FREE!</u></a></li>
-<li><a href="https://win11.techidaily.com/getting-intel-unison-to-work-again-on-windows-11/"><u>Getting Intel Unison to Work Again on Windows 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-enhanced-wi-fi-network-drivers-for-windows-versions-win11-10-8-and-7-download-here/"><u>Latest Enhanced Wi-Fi Network Drivers for Windows Versions: Win11, 10, 8 & 7 - Download Here</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-a-composers-selection-the-best-10-websites-to-download-and-explore-diverse-montage-music-genres/"><u>New In 2024, A Composers Selection The Best 10 Websites to Download and Explore Diverse Montage Music Genres</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-and-simple-guide-downloading-wacom-drivers/"><u>Quick and Simple Guide: Downloading Wacom Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-installing-updated-intel-graphics-drivers-for-win-10win-11-systems/"><u>Step-by-Step Guide: Installing Updated Intel Graphics Drivers for Win 10/Win 11 Systems</u></a></li>
-<li><a href="https://article-posts.techidaily.com/storage-space-used-daily-extended-video-size/"><u>Storage Space Used Daily Extended Video Size</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/ultimate-guide-securely-auto-backing-up-data-on-an-exfat-drives-with-5-advanced-tips/"><u>Ultimate Guide: Securely Auto-Backing Up Data on an ExFAT Drives with 5 Advanced Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-emulating-old-hollywood-style-in-modern-videos/"><u>[New] 2024 Approved Emulating Old Hollywood Style in Modern Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-comprehensive-look-at-decelerating-youtube-video-speed-50-chars/"><u>[New] A Comprehensive Look at Decelerating YouTube Video Speed (50 Chars)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-hacks-for-hassle-free-podcast-streaming-for-2024/"><u>[New] Hacks for Hassle-Free Podcast Streaming for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-incorporating-speech-recognition-into-slides/"><u>[Updated] 2024 Approved Incorporating Speech Recognition Into Slides</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-lava-yuva-3-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Lava Yuva 3 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1726218835816-movaviflvm4v/"><u>利用Movavi將FLV格式自由更改成M4V -在線服務</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/conversion-gratuite-des-fichiers-wmv-en-format-aiff-en-ligne-solutions-de-movavi/"><u>Conversion Gratuite Des Fichiers WMV en Format AIFF en Ligne - Solutions De Movavi</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-restore-erased-information-on-your-iphone-with-stellars-help/"><u>How to Restore Erased Information on Your iPhone with Stellar's Help</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unraveling-why-imovie-alters-video-borders/"><u>In 2024, Unraveling Why iMovie Alters Video Borders</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-winning-film-tech-comprerantes-top-5-windows-editing-tools/"><u>In 2024, Winning Film Tech Comprerante's Top 5 Windows Editing Tools</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/mastering-diy-projects-with-expert-advice-from-stellar-articles/"><u>Mastering DIY Projects with Expert Advice From Stellar Articles</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-the-conversion-process-turning-mpeg-files-into-dvds-and-back-again/"><u>Mastering the Conversion Process: Turning MPEG Files Into DVDs and Back Again</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mp4movavim2ts/"><u>MP4转换高效技巧：Movavi软件教程，轻松拓展M2TS格式能力</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/os-melhores-software-livres-para-criar-filmes-no-windows-10-8-ou-7/"><u>Os Melhores Software Livres Para Criar Filmes No Windows 10, 8 Ou 7</u></a></li>
+<li><a href="https://extra-information.techidaily.com/quick-guide-to-the-ifunny-meme-application/"><u>Quick Guide to the iFunny Meme Application</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transformacion-gratuita-e-inalambrica-convierte-sus-mp3s-a-flac-sin-costo-usando-la-herramienta-online-facil-de-usar-de-movavi/"><u>Transformación Gratuita E Inalámbrica: Convierte Sus MP3s a FLAC Sin Costo Usando La Herramienta Online Fácil De Usar De Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transformar-arquivos-mkv-em-mp4-rapidamente-com-5-ferramentas-de-codigo-aberto/"><u>Transformar Arquivos MKV Em MP4 Rapidamente Com 5 Ferramentas De Código Aberto</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transformation-raf-en-ligne-gratuite-guide-etape-par-etape-chez-movavi/"><u>Transformation RAF en Ligne Gratuite : Guide Étape Par Étape Chez Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/tutorial-paso-a-paso-realizar-capturas-de-pantalla-avanzadas-con-deslizamiento-bajo-windows-10/"><u>Tutorial Paso a Paso: Realizar Capturas De Pantalla Avanzadas Con Deslizamiento Bajo Windows 10</u></a></li>
 </ul></div>
 
