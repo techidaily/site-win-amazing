@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Resolving HP Officejet Pro 6978 Driver Malfunctions for Optimal Printing
-date: 2024-10-06T21:19:38.879Z
-updated: 2024-10-08T21:22:15.084Z
+date: 2024-10-24T16:37:59.824Z
+updated: 2024-10-26T04:20:12.855Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1 – Update your driver via Device Manager**
 
  Try to update your Validity fingerprint sensor driver from within Device Manager:
@@ -45,27 +52,28 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 1. Click the**Windows Logo key** in the bottom left corner of your computer screen.
 2. After the Start screen shows up, click the**magnifier** icon located in the upper right corner.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-05-41.png)
 3. Type**device** into the search box. Then select**Device Manager** from a list of search results.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1098.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Here comes**Device Manager** . Click the**▷** symbol to the left of**Biometric Devices** to expand its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1073.png)
 5. Right-click on**Validity Sensors (WBF)** to open its context menu. Then select**Update Driver Software…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-11-03.png)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-18-21.png)
@@ -77,10 +85,16 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 2 – Update your driver from official websites**
@@ -90,19 +104,6 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
  For example, if you’re using a Lenovo laptop, you can visit the official site of Lenovo and locate its**Support** section (that is where they usually provide drivers or other software for customers to download). Down there you should select “Drivers & Download” or whatever so that you can enter the download page of drivers. Usually there will a search box for you to type in your device model or the driver name, etc. As long as you give the right name, the website will automatically display a list of drivers that are considered to match your request. Select one from them depending on your Windows version (such as Windows 10 Pro, 64-bit), download it and install it step by step. On completion, please reboot your PC to let the changes take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 3 – Update your driver automatically (Recommended)**
 
@@ -144,16 +145,24 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-fixing-freeze-problems-in-fb-livestreams/"><u>[Updated] In 2024, Fixing Freeze Problems in FB Livestreams</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-comprehensive-guide-accessing-and-enjoying-amazon-kindle-ebooks-on-your-windows-8-pc/"><u>A Comprehensive Guide: Accessing and Enjoying Amazon Kindle Ebooks on Your Windows 8 PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-driver-update-for-synaptics-ps2-touchpad-get-started-now/"><u>Effortless Driver Update for Synaptics PS/2 Touchpad - Get Started Now!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-of-the-latest-easycap-driver-software/"><u>Free Download of the Latest EasyCAP Driver Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-new-nvidia-drivers-instantly-fresh-installation-and-updates-available/"><u>Get New Nvidia Drivers Instantly - Fresh Installation and Updates Available</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-fetch-and-install-updated-nvidia-drivers-seamlessly/"><u>How to Fetch and Install Updated NVIDIA Drivers Seamlessly</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-officejet-pro-8620-how-to-download-and-update-drivers-in-windows/"><u>HP OfficeJet Pro 8620: How to Download & Update Drivers in Windows</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-12-pro-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 12 Pro to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-transition-videos-to-tweets-effortlessly/"><u>In 2024, Transition Videos to Tweets Effortlessly</u></a></li>
-<li><a href="https://win-dash.techidaily.com/resolving-intel-hd-graphics-630-driver-glitches-on-your-pc-tips-and-solutions/"><u>Resolving Intel HD Graphics 630 Driver Glitches on Your PC: Tips & Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-mordhau-game-crash-problem-a-step-by-step-guide/"><u>Resolving the Mordhau Game Crash Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-building-a-brand-building-income-youtube-edition/"><u>[New] In 2024, Building a Brand, Building Income YouTube Edition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-ultimate-mac-screenshot-strategy-revealed/"><u>[Updated] The Ultimate Mac Screenshot Strategy Revealed</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-lava-yuva-2-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Lava Yuva 2 Phone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/asus-atk0110-acpi-bios-update-complimentary-driver-download-links/"><u>ASUS ATK0110 ACPI BIOS Update: Complimentary Driver Download Links</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/best-practices-keeping-your-intel-iris-plus-g7-graphics-card-up-to-date-with-latest-drivers-for-win10-and-win11/"><u>Best Practices: Keeping Your Intel® Iris Plus G7 Graphics Card Up-to-Date with Latest Drivers for Win10 and Win11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/blueprint-producing-purposeful-life-exploration-broadcasts/"><u>Blueprint Producing Purposeful Life Exploration Broadcasts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-the-latest-brother-hl-l2350dw-printer-drivers/"><u>Download & Install the Latest Brother HL-L2350DW Printer Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-your-asus-dvd-players-latest-drivers-now/"><u>Download Your ASUS DVD Player's Latest Drivers Now!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-ways-to-tackle-windows-rpc-errors-effectively/"><u>Easy Ways to Tackle Windows RPC Errors Effectively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/find-and-update-your-amd-radeon-vega-56-drivers-on-windows-expert-tips-revealed/"><u>Find and Update Your AMD Radeon Vega 56 Drivers on Windows: Expert Tips Revealed</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-kyocera-printer-driver-downloads-installation-guide-for-windows-users/"><u>Free KYOCERA Printer Driver Downloads: Installation Guide for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-correctly-address-star-wars-battlefront-ii-error-code-327-issue/"><u>How to Correctly Address Star Wars Battlefront II Error Code: 327 Issue</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-14-pro-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone 14 Pro in the Best Ways</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-process-to-acquire-sound-blaster-z-drivers-for-your-windows-n-pro-device/"><u>Step-by-Step Process to Acquire Sound Blaster Z Drivers for Your Windows N Pro Device</u></a></li>
+<li><a href="https://media-tips.techidaily.com/story-2-the-overreliance-on-chemotherapy-and-immunotherapy-alone/"><u>Story 2: The Overreliance on Chemotherapy and Immunotherapy Alone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/superior-real-time-media-streamers-for-2024/"><u>Superior Real-Time Media Streamers for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/targus-displaylink-driver-update-instructions-for-windows-users-win11-win8-win7/"><u>Targus DisplayLink Driver Update Instructions for Windows Users (Win11, Win8, Win7)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-how-to-guide-for-seamless-lenovo-thinkpad-t520-driver-upgrades/"><u>The Ultimate How-To Guide for Seamless Lenovo ThinkPad T520 Driver Upgrades</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-canon-mg2900-with-new-drivers-quick-guide-to-free-downloads/"><u>Update Your Canon MG2900 with New Drivers - Quick Guide to Free Downloads</u></a></li>
 </ul></div>
 

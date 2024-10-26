@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Installing Canon MX340 Drivers on Windows 11/8/7 Platforms
-date: 2024-10-14T17:47:06.368Z
-updated: 2024-10-20T17:30:19.911Z
+date: 2024-10-19T00:44:41.923Z
+updated: 2024-10-26T12:45:15.753Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ If you’re using Arduino products to create your own work but failed to connect
 
  That’s why most of the problems can be solved by installing/updating drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to download Arduino Nano driver?
 
 There are two ways you can update your Arduino Nano drivers.
@@ -50,37 +57,43 @@ OR
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Select **Browse my computer for driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9725918e348.png)
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
- If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
 
 ### **Option 2 – Automatically update drivers**
 
@@ -97,13 +110,6 @@ OR
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/nano.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -126,24 +132,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/xamining-youtubes-noteworthy-chats/"><u>[New] Examining YouTube's Noteworthy Chats</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-best-collection-sites-for-quick-access-to-youtube-vids/"><u>[New] In 2024, Best Collection Sites for Quick Access to YouTube Vids</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/restored-graphics-support-post-driver-failure/"><u>[Restored] Graphics Support Post-Driver Failure</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-short-length-film-plot-plan/"><u>2024 Approved Short-Length Film Plot Plan</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apples-latest-innovation-iphone-16-now-boasts-similar-image-analysis-capabilities-to-google-lens-explore-the-details/"><u>Apple's Latest Innovation: IPhone 16 Now Boasts Similar Image Analysis Capabilities to Google Lens | Explore the Details</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-official-drivers-for-toshiba-office-equipment-in-windows-environment/"><u>Download Official Drivers for Toshiba Office Equipment in Windows Environment</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-razer-mamba-drivers-instantly-and-enhance-your-gaming-today/"><u>Download Razer Mamba Drivers Instantly & Enhance Your Gaming Today</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-xiaomi-redmi-13c-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Xiaomi Redmi 13C FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-updating-your-surface-dock-device-driver/"><u>Easy Installation Guide: Updating Your Surface Dock Device Driver</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-streaming-options-how-to-enjoy-super-bowl-lv-without-paying-a-penny/"><u>Free Streaming Options: How to Enjoy Super Bowl LV Without Paying a Penny</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-correctly-update-your-synaptic-device-drivers-for-windows-pertinent-issues-in-windows-11/"><u>How to Correctly Update Your Synaptic Device Drivers for Windows Pertinent Issues in Windows 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-install-brother-hl-l2340dw-printer-on-your-windows-device-download-guide/"><u>How to Install Brother HL-L2340DW Printer on Your Windows Device: Download Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unmatched-5-ios-backdrop-change-solutions-iphone-x87/"><u>In 2024, Unmatched 5 iOS Backdrop Change Solutions (iPhone X/8/7)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-hp-zbook-firefly-15-g8-redefining-mobility-excellence/"><u>In-Depth Analysis of the HP ZBook Firefly 15 G8: Redefining Mobility Excellence</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-geforce-rtx-2080-super-graphics-driver-download-for-windows-10-and-11/"><u>Latest GeForce RTX 2080 Super Graphics Driver Download for Windows 10 and 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/samsung-m2070fw-printerscanner-drivers-fast-reliable-download-options/"><u>Samsung M2070FW Printer/Scanner Drivers - Fast, Reliable Download Options</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/seamless-printing-experience-with-hp-officejet-5255-latest-driver-downloads-available-now/"><u>Seamless Printing Experience with HP OfficeJet 5255 - Latest Driver Downloads Available Now</u></a></li>
-<li><a href="https://win-premium.techidaily.com/solving-the-mystery-of-converted-usb-directories-removing-malicious-executable-errors/"><u>Solving the Mystery of Converted USB Directories – Removing Malicious Executable Errors</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722963171667-step-by-step-tutorial-for-downloading-and-updating-synaptics-device-drivers-in-windows/"><u>Step-by-Step Tutorial for Downloading and Updating Synaptics Device Drivers in Windows.</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-inversion-workshop/"><u>[New] Inversion Workshop</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-how-to-master-the-art-moviemaker-movie-uploads-on-vimeo/"><u>2024 Approved How To Master the Art Moviemaker Movie Uploads on Vimeo</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-sparking-your-content-strategy-crafting-a-youtube-channel-from-scratch/"><u>2024 Approved Sparking Your Content Strategy Crafting a YouTube Channel From Scratch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-how-to-for-customizing-windows-11-with-widgets/"><u>A Comprehensive How-To for Customizing Windows 11 with Widgets</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-download-of-iphone-driver-packages-for-seamless-integration-with-windows-10/"><u>Easy Download of iPhone Driver Packages for Seamless Integration with Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-remedies-to-resolve-world-of-warcraft-instability-issues/"><u>Effortless Remedies to Resolve World of Warcraft Instability Issues</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-steps-for-modifying-sata-controller-to-support-ahci-mode/"><u>Effortless Steps for Modifying SATA Controller to Support AHCI Mode</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-11-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 11 Pro in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-acer-aspire-e15-windows-11-driver-downloads/"><u>Latest Acer Aspire E15 Windows 11 Driver Downloads</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/nvidia-quadro-rtx-4000-driver-update-free-download-and-easy-installation-process/"><u>NVIDIA Quadro RTX 4000 Driver Update – Free Download and Easy Installation Process</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-vivo-x-flip-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Vivo X Flip FRP Bypass</u></a></li>
 </ul></div>
 

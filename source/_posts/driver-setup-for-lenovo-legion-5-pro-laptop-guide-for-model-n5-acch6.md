@@ -1,7 +1,7 @@
 ---
 title: "Driver Setup for Lenovo Legion 5 Pro Laptop: Guide for Model N5, ACCH6"
-date: 2024-10-18T18:01:47.626Z
-updated: 2024-10-20T16:17:01.884Z
+date: 2024-10-23T11:44:09.762Z
+updated: 2024-10-26T11:58:39.896Z
 tags:
   - win11
   - win10
@@ -37,16 +37,10 @@ There are two ways you can update your driver:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 1 – Update the driver manually
@@ -55,22 +49,15 @@ There are two ways you can update your driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-162.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file (usually with the EXE extension) and follow the on-screen instructions to install the driver.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Intel NVMe driver
@@ -86,10 +73,17 @@ There are two ways you can update your driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update yourIntel NVMe driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-163.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -124,24 +118,24 @@ There are two ways you can update your driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-digital-alchemy-for-artists-leading-generators-turned-into-nfts-for-2024/"><u>[New] Digital Alchemy for Artists Leading Generators Turned Into NFTs for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-snicker-secrets-of-virtual-realms-making-funny-memes/"><u>[New] In 2024, Snicker Secrets of Virtual Realms Making Funny Memes</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-financial-outcomes-dailymotion-versus-youtube-earning-potential/"><u>[Updated] 2024 Approved Financial Outcomes Dailymotion versus YouTube Earning Potential</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-a-guide-to-finding-hidden-youtube-treasures/"><u>[Updated] In 2024, A Guide to Finding Hidden YouTube Treasures</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-dimming-audio-with-audacity/"><u>2024 Approved Mastering Dimming Audio with Audacity</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-vivo-s17e-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Vivo S17e</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-your-wacom-cintiq-graphics-tablet-drivers-with-this-simple-tutorial/"><u>Download & Update Your Wacom Cintiq Graphics Tablet Drivers with This Simple Tutorial</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-nvidia-quadro-windows-11-graphic-card-drivers-latest-version/"><u>Download Nvidia Quadro Windows 11 Graphic Card Drivers - Latest Version</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-install-ricoh-mp-c3003-printer-drivers-for-optimal-printing-performance/"><u>Easy Install: Ricoh MP C3003 Printer Drivers for Optimal Printing Performance</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/expert-recommended-photo-restoration-services-save-your-precious-images/"><u>Expert-Recommended Photo Restoration Services: Save Your Precious Images</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722977311687-get-your-hands-on-free-hp-photosmart-7520-printer-drivers-start-printing-today/"><u>Get Your Hands on Free HP Photosmart 7520 Printer Drivers – Start Printing Today!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-hp-p1006-drivers-here-full-software-support-and-updates/"><u>Get Your HP P1006 Drivers Here: Full Software Support & Updates</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-safely-backup-your-dvd-library-top-methods-for-converting-dvds-to-mp4-format-without-going-online/"><u>How to Safely Backup Your DVD Library: Top Methods for Converting DVDs to MP4 Format Without Going Online</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-canon-pixma-mg2520mg2522-drivers-for-windows-download-and-installation-guide/"><u>Latest Canon PIXMA MG2520/MG2522 Drivers for Windows: Download & Installation Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-far-cry-6-pc-issues-say-goodbye-to-unexpected-shutdowns/"><u>Resolving Far Cry 6 PC Issues – Say Goodbye to Unexpected Shutdowns</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-safely-download-and-install-your-canon-mg3620-drivers-effortlessly/"><u>Step-by-Step Guide to Safely Download & Install Your Canon MG3620 Drivers Effortlessly</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/techkey-bluetooth-dongle-windows-drivers-present-win-11-7-and-8-downloads/"><u>Techkey Bluetooth Dongle Windows Drivers - Present: Win 11, 7 & 8 Downloads</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-zen-of-zoom-perfecting-your-video-experience/"><u>The Zen of Zoom Perfecting Your Video Experience</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722966636981-ultimate-fix-guide-for-windows-11s-troublesome-bluetooth-pairings-now-working/"><u>Ultimate Fix Guide for Windows 11'S Troublesome Bluetooth Pairings - Now Working</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-pro-monitor-snapshot-software-w10/"><u>[New] In 2024, Pro Monitor Snapshot Software W10</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-how-to-add-music-to-youtubevideo-with-youtube-video-editor/"><u>[Updated] In 2024, How to Add Music to YouTubeVideo with YouTube Video Editor</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-exploration-of-googles-voice-to-text-speech-recognition-tool/"><u>2024 Approved Full Exploration of Google's Voice-to-Text Speech Recognition Tool</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pixelperfect-tools-overview-series/"><u>2024 Approved PixelPerfect Tools Overview Series</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-infinix-note-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-editor-techniques-from-the-experts-at-canva/"><u>Advanced Editor Techniques From the Experts at Canva</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/boost-your-display-the-ultimate-guide-to-installing-new-samsung-graphics-drivers-on-windows-machines/"><u>Boost Your Display: The Ultimate Guide to Installing New Samsung Graphics Drivers on Windows Machines</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-setup-and-enhancement-of-synaptics-drivers-on-your-pc-with-windows-os/"><u>Easy Setup & Enhancement of Synaptics Drivers on Your PC with Windows OS.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/error-code-2e-strategies-for-windows-update-fix/"><u>Error Code 2E: Strategies for Windows Update Fix</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-the-latest-dell-latitude-e6ns-drivers-free-download-and-installation-instructions-for-windows/"><u>Find the Latest Dell Latitude E6n's Drivers - Free Download & Installation Instructions for Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-toshiba-printercopier-drivers-for-windows-systems/"><u>Get the Latest Toshiba Printer/Copier Drivers for Windows Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gratuit-conversion-de-flash-en-webm-service-en-ligne-facile-a-utiliser-avec-movavi/"><u>Gratuit Conversion De FLASH en WEBM - Service en Ligne Facile À Utiliser Avec Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-seamlessly-update-sata-ahci-controller-drivers-with-our-step-by-step-process/"><u>How to Seamlessly Update SATA AHCI Controller Drivers with Our Step-by-Step Process</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-laserjet-p3015-printer-drivers-for-windows-get-the-latest-updates-and-download-now/"><u>HP LaserJet P3015 Printer Drivers for Windows - Get the Latest Updates and Download Now!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/nvidia-quadro-rtx-8000-driver-update-fresh-release-for-windows-systems-vista-7-and-later/"><u>Nvidia Quadro RTX 8000 Driver Update - Fresh Release for Windows Systems (Vista, 7, and Later)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-download-get-your-usb-to-serial-rs232-interface-driver-instantly/"><u>Quick Download: Get Your USB to Serial (RS232) Interface Driver Instantly</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/server-201-ssdhdd/"><u>Server 201# 磁盘移植到 SSD/HDD:详解与步骤指南</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/solution-one-common-method-is-providing-adequate-transverse-reinforcement-stirrups-in-concrete-elements-which-helps-confine-the-core-and-delay-buckling-of-l162/"><u>Solution: One Common Method Is Providing Adequate Transverse Reinforcement (Stirrups) in Concrete Elements, Which Helps Confine the Core and Delay Buckling of Longitudinal Bars, Thus Enhancing Flexural Capacity and Ductility</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-win11s-reversion-of-files-to-read-only/"><u>Tackling Win11's Reversion of Files to Read-Only</u></a></li>
 </ul></div>
 

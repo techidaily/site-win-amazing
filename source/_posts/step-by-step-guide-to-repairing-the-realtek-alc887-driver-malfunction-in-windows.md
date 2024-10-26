@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Repairing the Realtek ALC887 Driver Malfunction in Windows
-date: 2024-10-14T18:15:33.271Z
-updated: 2024-10-20T18:04:28.763Z
+date: 2024-10-23T16:43:47.249Z
+updated: 2024-10-26T12:23:26.987Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 1: Download and update your Ralink RT3290 driver automatically (Recommended)**
@@ -58,13 +58,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -72,6 +65,13 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 **Option 1** can be applied to all versions of Windows. Still, if you opt to download and update your Ralink RT3290 driver manually, please read on and try Option 2 (it only works for Windows 8 and Windows 7).
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Option 2: Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)**
 
@@ -88,10 +88,10 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
@@ -113,10 +113,10 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
@@ -161,24 +161,21 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-emulating-old-hollywood-style-in-modern-videos/"><u>[New] 2024 Approved Emulating Old Hollywood Style in Modern Videos</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-comprehensive-look-at-decelerating-youtube-video-speed-50-chars/"><u>[New] A Comprehensive Look at Decelerating YouTube Video Speed (50 Chars)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-hacks-for-hassle-free-podcast-streaming-for-2024/"><u>[New] Hacks for Hassle-Free Podcast Streaming for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-incorporating-speech-recognition-into-slides/"><u>[Updated] 2024 Approved Incorporating Speech Recognition Into Slides</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-lava-yuva-3-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Lava Yuva 3 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1726218835816-movaviflvm4v/"><u>利用Movavi將FLV格式自由更改成M4V -在線服務</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/conversion-gratuite-des-fichiers-wmv-en-format-aiff-en-ligne-solutions-de-movavi/"><u>Conversion Gratuite Des Fichiers WMV en Format AIFF en Ligne - Solutions De Movavi</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-restore-erased-information-on-your-iphone-with-stellars-help/"><u>How to Restore Erased Information on Your iPhone with Stellar's Help</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unraveling-why-imovie-alters-video-borders/"><u>In 2024, Unraveling Why iMovie Alters Video Borders</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-winning-film-tech-comprerantes-top-5-windows-editing-tools/"><u>In 2024, Winning Film Tech Comprerante's Top 5 Windows Editing Tools</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mastering-diy-projects-with-expert-advice-from-stellar-articles/"><u>Mastering DIY Projects with Expert Advice From Stellar Articles</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mastering-the-conversion-process-turning-mpeg-files-into-dvds-and-back-again/"><u>Mastering the Conversion Process: Turning MPEG Files Into DVDs and Back Again</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mp4movavim2ts/"><u>MP4转换高效技巧：Movavi软件教程，轻松拓展M2TS格式能力</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/os-melhores-software-livres-para-criar-filmes-no-windows-10-8-ou-7/"><u>Os Melhores Software Livres Para Criar Filmes No Windows 10, 8 Ou 7</u></a></li>
-<li><a href="https://extra-information.techidaily.com/quick-guide-to-the-ifunny-meme-application/"><u>Quick Guide to the iFunny Meme Application</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/transformacion-gratuita-e-inalambrica-convierte-sus-mp3s-a-flac-sin-costo-usando-la-herramienta-online-facil-de-usar-de-movavi/"><u>Transformación Gratuita E Inalámbrica: Convierte Sus MP3s a FLAC Sin Costo Usando La Herramienta Online Fácil De Usar De Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/transformar-arquivos-mkv-em-mp4-rapidamente-com-5-ferramentas-de-codigo-aberto/"><u>Transformar Arquivos MKV Em MP4 Rapidamente Com 5 Ferramentas De Código Aberto</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/transformation-raf-en-ligne-gratuite-guide-etape-par-etape-chez-movavi/"><u>Transformation RAF en Ligne Gratuite : Guide Étape Par Étape Chez Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/tutorial-paso-a-paso-realizar-capturas-de-pantalla-avanzadas-con-deslizamiento-bajo-windows-10/"><u>Tutorial Paso a Paso: Realizar Capturas De Pantalla Avanzadas Con Deslizamiento Bajo Windows 10</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-gaming-and-beyond-a-deep-dive-into-the-cg318-4k-from-eizo/"><u>[New] In 2024, Gaming and Beyond A Deep Dive Into the CG318-4K From EIZO</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-conquer-the-social-networking-landscape-and-grow-your-followers/"><u>[Updated] In 2024, Conquer the Social Networking Landscape and Grow Your Followers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-hand-tracking-insights-detailed-exploration/"><u>[Updated] In 2024, Hand Tracking Insights Detailed Exploration</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-revolutionize-post-production-the-best-11-tutorials-on-color-workflow-for-2024/"><u>[Updated] Revolutionize Post-Production The Best 11 Tutorials on Color Workflow for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-captivate-audiences-with-perfectly-tailored-youtube-descriptions/"><u>2024 Approved Captivate Audiences with Perfectly Tailored Youtube Descriptions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-these-non-periscope-video-platforms-for-iphones-and-androids/"><u>2024 Approved Explore These Non-Periscope Video Platforms for iPhones & Androids</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-to-installing-logitech-rx250-drivers-on-windows-7-8-or-10/"><u>Easy Guide to Installing Logitech RX250 Drivers on Windows 7, 8 or 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-tutorial-how-to-obtain-the-latest-epson-driver-software-for-windows-11-systems/"><u>Easy Tutorial: How To Obtain the Latest Epson Driver Software for Windows 11 Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-arduino-projects-with-the-newly-released-windows-compatible-usb-driver-updates/"><u>Enhance Your Arduino Projects with the Newly Released Windows-Compatible USB Driver Updates</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-updated-printer-drivers-for-your-hp-officejet-pro-8600-on-any-windows-device/"><u>Get the Updated Printer Drivers for Your HP Officejet Pro 8600 on Any Windows Device</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-upgrade-how-teamgroups-newly-magnetized-t-force-siren-line-revolutionizes-easy-custom-pc-construction/"><u>Innovative Upgrade: How TeamGroup's Newly Magnetized T-Force Siren Line Revolutionizes Easy Custom PC Construction</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leveraging-azure-ai-for-audio-to-text-translation-for-2024/"><u>Leveraging Azure AI for Audio to Text Translation for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-poco-x6-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Poco X6 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-your-logitech-g-pro-racing-wheel-software-at-no-cost-ideal-for-windows-11-10-8-and-7-users/"><u>Secure Your Logitech G Pro Racing Wheel Software at No Cost – Ideal for Windows 11, 10, 8 & 7 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-quick-download-and-update-of-amds-smbus-drivers/"><u>Step-by-Step: Quick Download and Update of AMD's SMBus Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/winning-formula-the-ultimate-steering-wheel-pc-drivers-for-windows-7-8-and-10-by-logitech/"><u>Winning Formula - The Ultimate Steering Wheel PC Drivers for Windows 7, 8 and 10 by Logitech</u></a></li>
 </ul></div>
 

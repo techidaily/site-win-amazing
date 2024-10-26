@@ -1,7 +1,7 @@
 ---
 title: Installation Tutorial for WD SES External Hard Drives (Versions From 2011)
-date: 2024-10-17T17:47:33.776Z
-updated: 2024-10-20T18:33:28.339Z
+date: 2024-10-20T05:22:41.784Z
+updated: 2024-10-25T18:37:59.582Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
 2. [**Update Brother printer drivers via Device Manager**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update Brother printer drivers with Driver Easy automatically (Recommended)**](https://www.drivereasy.com/knowledge/brother-printer-drivers-download-easily-quickly/#WAY3)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Way 1: Download Brother printer latest drivers from Brother official website
 
  1) Go to[Brother Product Support Center](http://www.brother.com.sg/en/support/products) .  
@@ -38,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
   
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or you can browse your product .  
@@ -49,23 +56,16 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-34.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Downloads** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-15.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Choose your operating system under **Downloads**  dialog. Then click **Search** .  
   
@@ -81,20 +81,13 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-15.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7) When it’s done, double-click the downloaded **.exe**  file and follow the on-screen instructions to install the driver on your computer.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Way 2: Update Brother printer drivers via Device Manager
@@ -135,6 +128,13 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-32.jpg)
   
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:**  Some Brother printers have built-in drivers to support basic functions.  
  How to install the built-in drivers — [Manual to Install Brother Built-in Drivers](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -158,20 +158,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-2023s-prime-divers-top-tier-aquatic-camera-choices/"><u>[New] 2024 Approved 2023'S Prime Divers Top-Tier Aquatic Camera Choices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-artistic-image-alteration-methods/"><u>[New] Artistic Image Alteration Methods</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-beginners-guide-to-stunning-slow-motion-shooting-with-an-android/"><u>[New] In 2024, The Beginner's Guide to Stunning Slow-Motion Shooting with an Android</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-utilize-vlc-to-archive-live-webcam-data/"><u>[Updated] In 2024, Utilize VLC to Archive Live Webcam Data</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1-upload-and-transcode-3gpp-files-into-m4a-format-at-no-cost-online-tool-by-moviescribe/"><u>1. Upload and Transcode 3GPP Files Into M4A Format at No Cost - Online Tool by MovieScribe</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1726223542672-2024-10/"><u>2024 세일: 우리가 도와주는 10가지 제목: 노트북 화면 녹화 기능에 대한 통찰</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1726224718483-wma-vob-movavi/"><u>網路自助無償改制 WMA 成 VOB - Movavi 影片編解碼器</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/assessing-the-pros-and-cons-of-lgs-usb-type-c-monitors-for-2024/"><u>Assessing the Pros and Cons of LG's USB Type-C Monitors for 2024</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/guide-restoring-lost-files-from-an-unassigned-disk-sector/"><u>Guide: Restoring Lost Files From an Unassigned Disk Sector</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-itel-a60-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Itel A60 FRP</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/les-meilleures-logiciels-gratuits-de-webcam-pour-windows-11-notre-top-16-choisir-le-bon-outil-avec-movavi/"><u>Les Meilleures Logiciels Gratuits De Webcam Pour Windows 11: Notre Top 16, Choisir Le Bon Outil Avec Movavi</u></a></li>
-<li><a href="https://extra-support.techidaily.com/reimagined-classrooms-through-vr-technology-for-2024/"><u>Reimagined Classrooms Through VR Technology for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/top-11-visualizzatori-di-televisioni-lcd-gratis-web-la-tua-guida-completa/"><u>Top 11 Visualizzatori Di Televisioni LCD Gratis Web: La Tua Guida Completa</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/top-5-metodi-per-registrare-i-tuoi-file-audio-su-un-pc-con-windows-10/"><u>TOP 5 Metodi Per Registrare I Tuoi File Audio Su Un PC Con Windows 10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/trasforma-i-tuoi-file-nsv-in-mp4-gratuitamente-conversion-tool-di-movavi/"><u>Trasforma I Tuoi File NSV in MP4 Gratuitamente - Conversion Tool Di Movavi</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevating-youtube-productions-with-effective-video-lighting/"><u>[New] 2024 Approved Elevating YouTube Productions with Effective Video Lighting</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-million-visioners-dissecting-the-money-behind-the-numbers/"><u>[Updated] Million Visioners Dissecting the Money Behind the Numbers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-how-to-use-android-phones-in-watching-vr-or-360-videos-2023-update/"><u>2024 Approved How to Use Android Phones in Watching VR or 360 Videos -2023 Update</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-periscopes-full-potential-your-ultimate-guide/"><u>2024 Approved Unveiling Periscope's Full Potential Your Ultimate Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-asus-bt500-bluetooth-50-driver-compatible-with-windows-11-10-and-8/"><u>Download Asus BT500 Bluetooth 5.0 Driver Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/essential-tips-for-flawless-graphics-driver-updates-in-windows-11/"><u>Essential Tips for Flawless Graphics Driver Updates in Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-hp-laserjet-pro-m4n-printer-driver-downloads-and-installation-guide/"><u>Free HP LaserJet Pro M4^N Printer Driver Downloads and Installation Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-insignia-driver-pack-for-windows-swift-installation-steps/"><u>Get Your Insignia Driver Pack for Windows: Swift Installation Steps</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/getting-the-most-recent-epson-printer-drivers-up-and-running-in-windows-10-a-comprehensive-guide/"><u>Getting the Most Recent Epson Printer Drivers Up and Running in Windows 10 - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-successfully-download-and-setup-dell-wd19-printer-drivers/"><u>How to Successfully Download and Setup Dell WD19 Printer Drivers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy M34? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-nvidia-rtx-3080-graphics-driver-for-windows-systems-windows-1087/"><u>Latest NVIDIA RTX 3080 Graphics Driver for Windows Systems (Windows 10/8/7)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/oppo-k11-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Oppo K11 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-gaming-setup-with-msis-advanced-usb-c-connectivity-and-oled-displays/"><u>Revolutionize Your Gaming Setup with MSI's Advanced USB-C Connectivity and OLED Displays</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-installing-hp-laserjet-5200-drivers-on-windows-11-10-and-8/"><u>Step-by-Step Guide to Installing HP LaserJet 5200 Drivers on Windows 11, 10 & 8</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-timed-publishing-for-x-and-twitter-accounts/"><u>The Ultimate Guide to Timed Publishing for X and Twitter Accounts</u></a></li>
 </ul></div>
 

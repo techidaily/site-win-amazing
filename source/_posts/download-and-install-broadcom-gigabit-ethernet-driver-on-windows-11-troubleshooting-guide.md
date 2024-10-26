@@ -1,7 +1,7 @@
 ---
 title: "Download and Install Broadcom Gigabit Ethernet Driver on Windows 11: Troubleshooting Guide"
-date: 2024-10-07T20:58:43.470Z
-updated: 2024-10-08T21:27:07.069Z
+date: 2024-10-25T11:50:16.313Z
+updated: 2024-10-26T09:13:56.263Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ If you’re using an Broadcom wireless adapter on your computer, you should keep
 2. [**Update your driver automatically**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Manually download the driver from your device manufacturer
@@ -49,10 +49,16 @@ If you’re using an Broadcom wireless adapter on your computer, you should keep
 **3)** Open the downloaded file and follow the on-screen instructions to install it on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Update your driver automatically
@@ -70,10 +76,10 @@ If you’re using an Broadcom wireless adapter on your computer, you should keep
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b344dbcb3a78.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Click the **Update**  button next to_your Broadcom wireless adapter_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
@@ -81,10 +87,10 @@ If you’re using an Broadcom wireless adapter on your computer, you should keep
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3b50bbe620f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free, but it’s partly manual.
@@ -109,16 +115,19 @@ If you’re using an Broadcom wireless adapter on your computer, you should keep
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-crafting-your-online-identity-a-facebook-tutorial/"><u>[Updated] Crafting Your Online Identity A Facebook Tutorial</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-open-access-select-free-youtube-design-patterns/"><u>[Updated] In 2024, Open Access Select Free YouTube Design Patterns</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722975203917-easy-installation-of-logitech-drivers-for-windows-pcs-get-them-now/"><u>Easy Installation of Logitech Drivers for Windows PCs – Get Them Now</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-your-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Identify missing your drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-installing-newly-released-hp-deskjet-2540-printing-drivers/"><u>Step-by-Step Guide: Installing Newly Released HP DeskJet 2540 Printing Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-installing-nvme-drivers-in-windows-operating-system/"><u>Step-by-Step Guide: Installing NVMe Drivers in Windows Operating System</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/stop-the-sway-achieve-solidity-in-your-handhraned-gopro-video-for-2024/"><u>Stop The Sway Achieve Solidity in Your Handhraned GoPro Video for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-keyless-entry-trackers/"><u>Top Rated Keyless Entry Trackers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/walkthrough-for-removing-a-personal-identification-number-pin-from-microsofts-latest-os/"><u>Walkthrough for Removing a Personal Identification Number (PIN) From Microsoft's Latest OS</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/windows-11-updates-include-printer-and-scanner-driver-fixes/"><u>Windows 11 Updates Include Printer & Scanner Driver Fixes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-seasons-skate-top-10-2022-review/"><u>[Updated] 2024 Approved Season's Skate Top 10 - 2022 Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-crafting-memorable-dialogues-a-screenwriters-guide/"><u>[Updated] Crafting Memorable Dialogues A Screenwriter's Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-digital-designs-to-emoji-delights-making-the-most-of-your-gifs/"><u>[Updated] From Digital Designs to Emoji Delights Making the Most of Your GIFs</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-huawei-nova-y71-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Huawei Nova Y71? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-epson-et-2750-windows-printer-drivers-download/"><u>Easy Installation Guide: Epson ET-2750 Windows Printer Drivers Download</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-of-updated-mbox-2-drivers-for-windows-systems-complete-solutions/"><u>Effortless Installation of Updated MBox 2 Drivers for Windows Systems - Complete Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-brother-hl-l2370dw-drivers-easy-installation-guide-included/"><u>Get the Newest Brother HL-L2370DW Drivers - Easy Installation Guide Included</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-hp-pagewide-pro-477dw-drivers-update-now-for-windows-11-10-and-8-systems/"><u>Get Your HP PageWide Pro 477DW Drivers: Update Now For Windows 11, 10 and 8 Systems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-pantheon-of-popularity-instagrams-top-25-icons/"><u>In 2024, The Pantheon of Popularity Instagram's Top 25 Icons</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-xiaomi-13t-pro-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Xiaomi 13T Pro</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/residence-refers-to-a-person/"><u>Residence' Refers to a Person</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-solution-to-update-your-hp-laserjet-p2035-driver-on-a-windows-pc/"><u>Step-by-Step Solution to Update Your HP LaserJet P2035 Driver on a Windows PC</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/the-comprehensive-step-by-step-manual-for-easy-screen-capture-techniques-on-dell-computers/"><u>The Comprehensive Step-by-Step Manual for Easy Screen Capture Techniques on Dell Computers</u></a></li>
 </ul></div>
 

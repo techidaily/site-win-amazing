@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Updating Your Canon PIXMA MG2522 with the Newest Printing Software"
-date: 2024-10-16T17:51:21.964Z
-updated: 2024-10-20T18:03:58.844Z
+date: 2024-10-24T00:27:31.354Z
+updated: 2024-10-25T23:31:01.603Z
 tags:
   - win11
   - win10
@@ -33,22 +33,21 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to get the correct driver?
 
  There are two ways you can get the right driver for your Logitech G402 mouse:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 1 – Download and install the driver manually**
@@ -56,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
  Logitech keeps updating the G402 driver. To get the latest driver, you need to go to the **[Logitech official website](https://tools.techidaily.com/drivereasy/download/)**  , find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
 
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2 – Automatically install the Logitech G402 driver
 
@@ -71,24 +77,18 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-19-38.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the **Update**  button next to the Logicool HID-compliant Cordless Mouse to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-51.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -96,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Fix Logitech M402 Mouse not Working Issues?
@@ -138,24 +138,21 @@ Lastly, you may want to try your wireless mouse on metal surfaces.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-help.techidaily.com/a-buyers-ultimate-guide/"><u>: A Buyer's Ultimate Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/omprehensive-guide-to-youtube-video-editing-tools/"><u>[New] Comprehensive Guide to YouTube Video Editing Tools</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-key-strategies-for-professional-video-production-via-nvidia/"><u>[New] In 2024, Key Strategies for Professional Video Production via NVIDIA</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-zoom-the-ultimate-guide-to-audio-recording-for-podcasts/"><u>[Updated] 2024 Approved Mastering Zoom The Ultimate Guide to Audio Recording for Podcasts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-thorough-evaluation-of-frozen-snack-playback-devices-for-2024/"><u>[Updated] Thorough Evaluation of Frozen Snack Playback Devices for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/access-premium-behringer-drives-exclusive-free-download-offer/"><u>Access Premium Behringer Drives: Exclusive Free Download Offer</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722966907422-amd-ryzen-amoled-6937-download-drivers-for-radeon-vega-gpus-get-it-now/"><u>AMD Ryzen Amoled-6937 Download Drivers for Radeon Vega GPUs - Get It Now</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-radeon-hd-7850-drivers-comprehensive-guide-for-windows-11/"><u>Download and Update Radeon HD 7850 Drivers: Comprehensive Guide for Windows 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-step-by-step-download-of-hp-designjet-500-printer-drivers/"><u>Easy Step-by-Step Download of HP DesignJet 500 Printer Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-tutorial-on-refreshing-lenovo-dockstation-software/"><u>Easy Tutorial on Refreshing Lenovo DockStation Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fast-track-to-updated-dell-speaker-drivers-a-step-by-step-guide/"><u>Fast Track to Updated Dell Speaker Drivers - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-can-you-upgrade-your-amd-radeon-gpu-drivers-under-windows/"><u>How Can You Upgrade Your AMD Radeon GPU Drivers Under Windows?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-access-public-phone-number-records-online/"><u>How to Access Public Phone Number Records Online</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-top-rated-tiktok-watermark-remover-tools-online/"><u>In 2024, Top Rated TikTok Watermark Remover Tools Online</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-easy-ways-to-translate-tiktok-videos/"><u>New In 2024, Easy Ways to Translate TikTok Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/revolutionary-virtual-wisdom-for-modern-souls-for-2024/"><u>Revolutionary Virtual Wisdom for Modern Souls for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-finding-and-updating-the-driver-for-hp-officejet-pro-8620-on-a-windows-machine/"><u>Step-by-Step: Finding and Updating the Driver for HP Officejet Pro 8620 on a Windows Machine</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-ultimate-compilation-4-websites-for-ringtone-hunt-for-2024/"><u>The Ultimate Compilation 4 Websites for Ringtone Hunt for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-fixing-hps-beats-sound-drivers-in-windows-1087-solved/"><u>Troubleshooting and Fixing HP's Beats Sound Drivers in Windows 10/8/7 - Solved</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-transforming-footage-into-high-quality-content/"><u>[New] In 2024, Transforming Footage Into High-Quality Content</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tech-blue-screen-fixed-dxgkrnlsys-win-issue/"><u>[Tech] Blue Screen Fixed: dxgkrnl.sys Win Issue</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-prime-zero-dollar-webcam-recorder-app/"><u>[Updated] 2024 Approved Prime Zero-Dollar Webcam Recorder App</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-digital-media-visionaries-comprehensive-top-5-directory/"><u>2024 Approved Digital Media Visionaries Comprehensive Top 5 Directory</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/critical-faux-pas-navigating-around-common-errors-in-generative-ai-use/"><u>Critical Faux Pas: Navigating Around Common Errors in Generative AI Use</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-epson-scansnap-v39-software-compatible-with-windows-7-8-and-10/"><u>Download Epson ScanSnap V39 Software Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722960576693-download-the-newest-drivers-for-nvidia-quadro-rtx-8000-on-windows-1087/"><u>Download the Newest Drivers for Nvidia Quadro RTX 8000 on Windows 10/8/7</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-major-networking-sites-facebook-twitter-instagram-and-youtube/"><u>Exploring Major Networking Sites - Facebook, Twitter, Instagram, and Youtube</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/freshly-updated-zexmte-adapter-driver-software-for-microsoft-windows-platforms/"><u>Freshly Updated Zexmte Adapter Driver Software for Microsoft Windows Platforms</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-broadcom-bluetooth-software-for-microsoft-windows-operating-systems/"><u>Get the Newest Broadcom Bluetooth Software for Microsoft Windows Operating Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-and-install-canon-mf8500c-printer-drivers-on-various-windows-versions/"><u>How to Download and Install Canon MF8500C Printer Drivers on Various Windows Versions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-officejet-pro-8600-driver-installation-guide-for-windows-operating-system/"><u>HP Officejet Pro 8600 Driver Installation Guide - For Windows Operating System</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-best-ways-to-get-high-quality-version-of-pictures-for-free/"><u>In 2024, Best Ways To Get High Quality Version Of Pictures For Free</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-your-epson-wf-2750-printers-software-with-these-simple-steps/"><u>Install Your Epson WF-2750 Printer's Software with These Simple Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/origin-assistance-correcting-game-configuration-problems-for-optimal-performance/"><u>Origin Assistance: Correcting Game Configuration Problems for Optimal Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-max-entertainment-prime-selections-for-your-screen/"><u>The Ultimate Guide to Max Entertainment: Prime Selections for Your Screen</u></a></li>
 </ul></div>
 

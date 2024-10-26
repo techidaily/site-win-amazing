@@ -1,7 +1,7 @@
 ---
 title: HP Officejet Pro 6968 Installable Software & Drivers for PCs
-date: 2024-10-14T17:56:02.328Z
-updated: 2024-10-20T16:43:30.366Z
+date: 2024-10-19T11:54:50.107Z
+updated: 2024-10-26T06:45:19.500Z
 tags:
   - win11
   - win10
@@ -52,21 +52,14 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Select **Browse my computer for driver software** .  
@@ -74,19 +67,19 @@ OR
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update drivers**
@@ -101,6 +94,13 @@ OR
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/mega2560-1.jpg)
@@ -126,22 +126,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-ultimate-top-8-converter-list-for-sub-to-srt/"><u>[New] In 2024, Ultimate Top 8 Converter List for Sub to SRT</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-top-10-best-introduction-editors-apps/"><u>[New] Top 10 Best Introduction Editors (Apps)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-an-in-depth-guide-to-periscope-recording-procedures/"><u>2024 Approved An In-Depth Guide to Periscope Recording Procedures</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-unlocking-image-potential-smart-online-cropping-techniques/"><u>2024 Approved Unlocking Image Potential Smart Online Cropping Techniques</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-motorola-moto-g14-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Motorola Moto G14 Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/movavi-aifcwav/"><u>免費在線Movavi AIFC到WAV音頻轉換解決方案 - 無界限選擇性改變</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/flv-asf/"><u>自由下載的 FLV 到 ASF 無關節流式影片格式切換器 - 移動威瓦</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/como-convertir-archivo-tiff-a-pdf-o-jpg-sin-coste-guia-de-conversion-online-por-movavi/"><u>Cómo Convertir Archivo TIFF a PDF O JPG Sin Coste: Guía De Conversión Online Por Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/discover-the-best-19-gratis-video-landscaping-courses-begin-your-journey-online-and-free/"><u>Discover the Best 19 Gratis Video Landscaping Courses – Begin Your Journey , Online and Free!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/enhance-gameplay-smoothness-tips-for-boosting-fps-on-ring-of-elysium/"><u>Enhance Gameplay Smoothness: Tips for Boosting FPS on Ring of Elysium</u></a></li>
-<li><a href="https://fox-that.techidaily.com/eradicate-typing-mistakes-a-guide-to-6-autocorrection-solutions-for-ios-devices/"><u>Eradicate Typing Mistakes: A Guide to 6 Autocorrection Solutions for iOS Devices</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/explorer-le-coupage-dimages-avec-le-movievi-photo-editor-apprendre-a-utiliser-la-sacoche-dimage/"><u>Explorer Le Coupage D'Images Avec Le Movievi Photo Editor : Apprendre À Utiliser La Sacoche D'Image!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/gratuit-verzamelen-van-flv-naar-m4v-formaat-onlinereisplanningen-voor-converter-moveave/"><u>Gratuit Verzamelen Van FLV Naar M4V-Formaat: Onlinereisplanningen Voor Converter - Moveave</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nokia-c300-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Nokia C300 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/tecnicas-rapidas-y-faciles-de-green-screen-chromakey-en-videos-guia-profesional-por-movavi/"><u>Técnicas Rápidas Y Fáciles De Green Screen Chromakey en Vídeos - Guía Profesional Por Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-complete-guide-to-avi-format-unpacked-plus-easy-steps-to-open-using-the-movavi-video-editor/"><u>The Complete Guide to AVI Format: Unpacked + Easy Steps to Open Using the Movavi Video Editor</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/unleash-your-potential-with-these-free-online-channels-for-fine-artists/"><u>Unleash Your Potential with These Free Online Channels for Fine Artists</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-high-impact-hairstyle-ideas/"><u>[New] High-Impact Hairstyle Ideas</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/8-superior-replacements-for-chatgpt-a-mobile-guide/"><u>8 Superior Replacements for ChatGPT: A Mobile Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bypassing-glitches-a-step-by-step-guide-to-clearing-windows-11-startup-issues/"><u>Bypassing Glitches: A Step-by-Step Guide to Clearing Windows 11 Startup Issues</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-the-hp-officejet-4655-printer-drivers/"><u>Download and Update the HP OfficeJet 4655 Printer Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-obtain-and-install-updated-canon-mg3atur-driver-for-optimal-performance/"><u>How to Obtain & Install Updated Canon MG3atur Driver for Optimal Performance</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-infinix-smart-7-hd-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Infinix Smart 7 HD?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-easy-way-to-get-your-toshibam-printer-up-and-running-with-windows-software/"><u>Quick and Easy Way to Get Your Toshibam Printer Up & Running with Windows Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/restoring-clarity-resolving-iphones-blurry-photos-for-2024/"><u>Restoring Clarity Resolving iPhone's Blurry Photos for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-downloading-and-setting-up-nvidias-3d-vision-on-your-pc/"><u>Step-by-Step: Downloading and Setting Up NVIDIA's 3D Vision on Your PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-tecno-camon-20-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Tecno Camon 20 Phone Network-Ready</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722969478330-win7-wifi-connection-troubles-discover-how-to-repair-your-network-adapter-drivers/"><u>Win7 WiFi Connection Troubles? Discover How to Repair Your Network Adapter Drivers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Obtain and Update Your Canon MX492 Driver Pack for Windows Operating Systems
-date: 2024-10-05T19:59:46.912Z
-updated: 2024-10-08T18:10:19.796Z
+date: 2024-10-20T09:37:54.361Z
+updated: 2024-10-25T22:40:57.304Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 
  Note: the screenshots below come from Windows 10, and the fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Method 1: Download MFC-L2740DW driver manually
 
  You can manually download MFC-L2740DW driver from the Brother website, and install it in your computer.  Before getting started, you should know clearly the operating system running in your computer.  You can Run_**msinfo32.exe**_ and check the_**OS name**_ .
@@ -42,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 3. Click the**driver** in the**Drivers** section to download.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c73e819aa.jpg)
 4. Run the downloaded file and install it in your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This method requires time and computer skills. If it doesn’t work for you, don’t worry. We have other solutions.
 
@@ -65,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’ve tried Driver Easy, but the problem persists, please feel free to contact our support team at**<support@drivereasy.com>** for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
@@ -83,27 +83,27 @@ You can also directly update the  MFC-L2740DW driver via Device Manager, where y
  and **R**  at the same time to invoke the Run box.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cabe00ddb.png)
 3. Find your printer device (it may display as**Unknown device** ), and right click on it then select**Update driver** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ce12a7cab.png)
 4. Choose**Search automatically for updated driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ce3ebb24f.jpg)
 5. Follow the on-screen instructions to finish the update.
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
   So that’s it. Hope this post will help you understand how to update**MFC-L2740DW driver** . If you have any questions, feel free to add a comment and we’ll see what more we can better help.
 
@@ -125,18 +125,24 @@ You can also directly update the  MFC-L2740DW driver via Device Manager, where y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-luminouslabs-top-10-free-and-paid-filters-compare/"><u>2024 Approved LuminousLabs Top 10 Free & Paid Filters Compare</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/a-quick-fix-for-outdated-lenovo-energy-control-drivers/"><u>A Quick Fix for Outdated Lenovo Energy Control Drivers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/choose-your-ideal-html-workspace-the-best-free-tools-for-windows-users/"><u>Choose Your Ideal HTML Workspace: The Best Free Tools for Windows Users</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-building-audience-connection-with-empowerment-vlogs/"><u>In 2024, Building Audience Connection with Empowerment Vlogs</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p55-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Itel P55 Phone Without Password?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-super-camcorders-ranking-15-best-on-the-market/"><u>In 2024, Super Camcorders Ranking #15 Best on the Market</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-your-lexar-usb-drives-fast-direct-downloads-available/"><u>Install Your Lexar USB Drives Fast: Direct Downloads Available</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/installing-the-latest-m-audio-fast-track-drivers-on-microsoft-windows-versions-vista-to-11/"><u>Installing the Latest M-Audio Fast Track Drivers on Microsoft Windows Versions (Vista to 11)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/resolve-intel-optane-drivers-issues-on-windows-quick-download-and-update-tutorial/"><u>Resolve Intel Optane Drivers Issues on Windows: Quick Download and Update Tutorial</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/seamless-compatibility-finding-and-installing-new-toshiba-drivers-for-windows/"><u>Seamless Compatibility: Finding and Installing New Toshiba Drivers for Windows</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/terminating-your-linkedin-membership-an-essential-guide-for-2024/"><u>Terminating Your LinkedIn Membership An Essential Guide for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-most-effective-authentic-promotion-techniques/"><u>The 8 Most Effective, Authentic Promotion Techniques</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-rated-workout-dvds-for-effective-weight-management-and-enhanced-fitness/"><u>Top-Rated Workout DVDs for Effective Weight Management and Enhanced Fitness</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-capturing-seconds-extended-a-comprehensive-review-of-slomo-2024/"><u>[New] Capturing Seconds Extended A Comprehensive Review of SloMo, 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mov-file-saving-techniques-for-windows-11-users/"><u>[New] In 2024, .MOV File Saving Techniques for Windows 11 Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/15-best-cine-luts-for-gopro-action-cam-for-2024/"><u>15 Best Cine LUTs for Gopro Action Cam for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/brother-dcp-l254n-driver-download-for-windows-pcs-complete-instructions/"><u>Brother DCP-L254n Driver Download for Windows PCs - Complete Instructions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/compatible-with-windows-download-the-official-brother-hl-l234e0-dw-laser-printer-software-and-drivers-now/"><u>Compatible With Windows: Download the Official Brother HL-L234e0 DW Laser Printer Software and Drivers Now!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-lenovo-tab-p11-pro-analysis-impressive-specs-and-minor-flaws/"><u>Comprehensive Lenovo Tab P11 Pro Analysis: Impressive Specs and Minor Flaws</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-brother-mfc-7860dw-printer-drivers-for-windows-pcs/"><u>Download & Update Brother MFC-7860DW Printer Drivers for Windows PCs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-newest-tp-link-wifi-driver-80211ac-compatible-with-windows-1187/"><u>Download the Newest TP-Link WiFi Driver (802.11Ac) Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-wacom-intuos-pro-driver-for-windows-11-users/"><u>Easy Installation Guide: Wacom Intuos Pro Driver for Windows 11 Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/embracing-the-change-artificnial-intelligences-role-in-world-transformation/"><u>Embracing the Change: Artificnial Intelligence's Role in World Transformation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-strategies-safeguarding-your-data-with-these-five-techniques/"><u>Essential Strategies: Safeguarding Your Data with These Five Techniques</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-sas-driver-for-windows-tips-for-a-smooth-download-and-installation/"><u>Get the Newest SAS Driver for Windows: Tips for a Smooth Download & Installation</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/gratis-mov-to-mjpeg-converter-online-vervangen-met-moveavi/"><u>Gratis MOV-to-MJPEG Converter Online - Vervangen Met Moveavi</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-step-by-step-crafting-and-uploading-360-vids-for-fb/"><u>In 2024, Step-by-Step Crafting & Uploading 360 Vids for FB</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-update-download-and-install-hps-universal-printer-drivers-on-windows-systems/"><u>Latest Update: Download and Install HP's Universal Printer Drivers on Windows Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-fix-how-to-easily-revamp-lenovos-hardware-drivers/"><u>Quick Fix: How To Easily Revamp Lenovo's Hardware Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-downloading-and-using-the-logitecu-g2-steering-wheel-on-windows-7-8-10-and-11/"><u>Step-by-Step Guide to Downloading and Using the Logitecu G2 Steering Wheel on Windows 7, 8, 10 & 11</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/windows-ppt/"><u>Windows PPT無法儲存緊急修正方法</u></a></li>
 </ul></div>
 
