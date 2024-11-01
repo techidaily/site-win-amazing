@@ -1,7 +1,7 @@
 ---
 title: Update Your Canon PIXMA MG2522 Driver - A Step-by-Step Tutorial
-date: 2024-10-18T17:15:10.943Z
-updated: 2024-10-25T19:34:23.474Z
+date: 2024-10-30T04:59:58.391Z
+updated: 2024-10-31T20:28:30.927Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 
  Driver updates often feature some major bug fixes and performance boost, that’s why we recommend you to update your driver.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to download and update your HP Scanjet driver
 
 Here’re 2 ways you can download and update your HP Scanjet driver:
@@ -46,10 +53,10 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-23-46-1-1200x727.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the row containing your model, click the**rightmost link** to enter the download page.
@@ -62,18 +69,25 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-25-10-1200x752.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Once you’ve downloaded the driver,**double-click** to open the file and follow the on-screen instruction to install.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-32-40-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you complete the installation process, connect your HP Scanjet to the computer and see if it’s running.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Download and update the HP Scanjet driver automatically (Recommended)
 
@@ -85,25 +99,11 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_17-40-32-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the**Pro version** of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
   
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_18-45-37-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -128,16 +128,14 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-from-free-to-profitable-a-video-marketing-masterclass-for-vimeo/"><u>[New] 2024 Approved From Free to Profitable A Video Marketing Masterclass for Vimeo</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-streamlining-your-timeline-leading-tools-to-unfollow-tweets/"><u>[Updated] Streamlining Your Timeline Leading Tools to Unfollow Tweets</u></a></li>
-<li><a href="https://windows11.techidaily.com/applications-and-their-unique-run-notations-explored/"><u>Applications & Their Unique Run Notations Explored</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boost-your-playtime-instantly-address-apex-legends-loading-errors/"><u>Boost Your Playtime: Instantly Address Apex Legends Loading Errors</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-hp-deskjet-2600-printer-driver-software-for-windows-7-8-and-10-get-your-download-now/"><u>Free HP DeskJet 2600 Printer Driver Software for Windows 7, 8 & 10 - Get Your Download Now</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-the-newest-intel-hd-graphics-driver-version-for-enhanced-experience-and-stability/"><u>Install the Newest Intel HD Graphics Driver Version for Enhanced Experience & Stability</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-performance-lag-and-freezes-in-windows-10-operating-systems/"><u>Resolving Performance Lag and Freezes in Windows 10 Operating Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/sound-blaster-z-driver-download-easily-for-windows-11/"><u>Sound Blaster Z Driver Download Easily for Windows 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/successful-resolution-how-to-restart-a-non-responsive-igfxem-unit/"><u>Successful Resolution: How to Restart a Non-Responsive IgfxEM Unit</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/unrivaled-portable-play-gba-on-your-phone/"><u>Unrivaled Portable Play GBA on Your Phone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/x-sonic-recorder-desktop-format/"><u>X-Sonic Recorder Desktop Format</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-exceptional-value-premium-asmr-microphones-at-low-costs/"><u>[Updated] 2024 Approved Exceptional Value Premium ASMR Microphones at Low Costs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-snapping-wonders-how-to-find-optimal-iphone-viewing-points/"><u>[Updated] 2024 Approved Snapping Wonders How to Find Optimal iPhone Viewing Points</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1726222711462-m4a-wma-movavi/"><u>簡単で高速な無料オンライン M4A から WMAへのダウンロード可能なアップコンバーター - Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1726226641800-mkvwav-movavi/"><u>免費線上將MKV格式更改為WAV - 利用Movavi提高音質的方法</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clearing-chroma-key-fuzziness-for-professional-online-videos/"><u>Clearing Chroma Key Fuzziness for Professional Online Videos</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/converti-file-voc-in-formato-mp4-per-libero-uso-gratuito-movavi/"><u>Converti File VOC in Formato MP4 per Libero Uso Gratuito - Movavi</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/global-audiences-local-stories-crafting-engaging-instagramcaptions/"><u>Global Audiences, Local Stories - Crafting Engaging #InstagramCaptions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-allure-of-video-crafting-filmoras-top-edits-explained/"><u>In 2024, The Allure of Video Crafting Filmora’s Top Edits Explained</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/tournez-facilement-votre-fichier-mp4-en-aac-gratuitement-sur-internet-via-le-site-de-movavi-experience-utilisateur-optimisee/"><u>Tournez Facilement Votre Fichier MP4 en AAC Gratuitement Sur Internet via Le Site De Movavi – Expérience Utilisateur Optimisée!</u></a></li>
 </ul></div>
 

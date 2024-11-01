@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Tutorial: Refresh and Revamp Your Epson"
-date: 2024-09-01T07:21:33.826Z
-updated: 2024-09-02T07:21:33.826Z
+date: 2024-10-30T01:44:43.077Z
+updated: 2024-11-01T00:23:05.859Z
 tags:
   - win11
   - win10
@@ -43,36 +43,41 @@ Want to update the driver for your Audio Technica headsets, microphones, or turn
    * For Windows 10: Right-click the**Start** menu, and select**Device Manager** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2021/01/start-menu-device-manager-1.jpg)  
    * For Windows 10, 8.1, 7: Press the **Windows logo key + R**  at the same time, then enter **devmgmt.msc** in the **Run** box and hit **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
    ![devmgmt.msc](https://images.drivereasy.com/wp-content/uploads/2021/01/devmgmt.msc_.jpg)
 2. Expand**Sound, video and game controllers** , and you will find your sound card.
 3. Right-click the sound card, and select**Update driver** .  
 ![update driver](https://images.drivereasy.com/wp-content/uploads/2021/01/Update-driver.jpg)
 4. Click**Search automatically for updated driver software** option and install the specific driver for the USB audio device.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![automatically update driver](https://images.drivereasy.com/wp-content/uploads/2021/01/automatically.jpg)
 5. If this didn’t work, right-click your audio driver   **\> Update driver > Browse my computer for driver software > Let me pick from a list of device drivers on my computer** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![let me pick driver](https://images.drivereasy.com/wp-content/uploads/2021/01/browse.jpg)
 6. Select **High Definition Audio Device,** select **Next,** and follow the instructions to install it.  
 ![high definition card](https://images.drivereasy.com/wp-content/uploads/2021/01/High-definition-Next.jpg)
 7. Restart your computer and Windows will attempt to reinstall the driver.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 
  If this doesn’t fix your problem, you can try updating all your devices automatically below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2 – Automatically
 
  If you don’t have the time, patience, or computer skills to update the Audio Technica-related driver manually, you can **do it automatically** with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -100,15 +105,44 @@ _**Note:** You can do it for free if you like, but it’s partly manual._
 1. Right-click the volume button on the lower right corner (the notification center), and select**Sounds** .  
 ![sounds settings](https://images.drivereasy.com/wp-content/uploads/2021/01/sounds-1.jpg)
 2. Go to the**Playback** tab. (If you’re having problems with microphones, then go to the**Recording** tab.)  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![playback settings](https://images.drivereasy.com/wp-content/uploads/2021/01/playback-settings.jpg)
 3. Make sure the device you want to use is set as default. If not, right-click it and select**Set as default** .  
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![set as default](https://images.drivereasy.com/wp-content/uploads/2021/01/set-as-the-default-device.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -124,8 +158,6 @@ _**Note:** You can do it for free if you like, but it’s partly manual._
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +165,18 @@ _**Note:** You can do it for free if you like, but it’s partly manual._
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-easy-methods-for-dimming-audio-tracks-in-adobe-premiere/"><u>[New] 2024 Approved Easy Methods for Dimming Audio Tracks in Adobe Premiere</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-top-10-network-for-entrepreneurs-how-they-conquered-channels/"><u>[Updated] 2024 Approved Top 10 Network for Entrepreneurs How They Conquered Channels</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-asus-vg248qe-monitor-drivers-for-windows-secure-simple-download-process/"><u>Get the Newest Asus VG248QE Monitor Drivers for Windows - Secure, Simple Download Process</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/improve-your-gameplay-update-nvidia-geforce-gtx-1660-ti-graphics-card-drivers/"><u>Improve Your Gameplay: Update NVIDIA GeForce GTX 1660 Ti Graphics Card Drivers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-15-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 15 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-streamlining-silence-simplified-guide-to-extracting-background-noise-from-music-tracks-using-audacity/"><u>In 2024, Streamlining Silence Simplified Guide to Extracting Background Noise From Music Tracks Using Audacity</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/instant-access-obtain-your-samsung-c460-printing-software-with-one-click/"><u>Instant Access: Obtain Your Samsung C460 Printing Software with One-Click</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/premium-technology-treats-at-unbeatable-prices/"><u>Premium Technology Treats at Unbeatable Prices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/revamp-your-systems-performance-by-updating-cpu-drivers-on-windows-easily/"><u>Revamp Your System's Performance by Updating CPU Drivers on Windows Easily</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-motorola-g54-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Motorola G54 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-unfolding-crisis-of-generative-ai-an-insight-into-8-growing-security-concerns/"><u>The Unfolding Crisis of Generative AI: An Insight Into 8 Growing Security Concerns</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Surface Book 2 Driver Downloads and Updates"
-date: 2024-10-19T01:42:04.907Z
-updated: 2024-10-26T01:33:12.646Z
+date: 2024-10-31T07:52:35.831Z
+updated: 2024-10-31T16:45:39.219Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) –  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 1: Update your Surface Book drivers automatically (Recommended)**
@@ -54,14 +54,21 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bbe94614e.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7cabf4d114.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. **Restart**   your computer for the changes to take effect.
@@ -69,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 2: Update your Surface Book drivers manually**
@@ -85,13 +92,6 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
 2. Scroll down to the Help list, then click**Install and update** \>**Download drivers and firmware for Surface** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7ccdf679a7.jpg)
 3. Select your model from the list of Surface products and follow the on-screen instructions to download the files that you need for driver updates.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Be sure to choose**ONLY** drivers that are compatible with your Windows version.
 4. Restart your computer for the changes to take effect.
@@ -117,22 +117,16 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-captivating-chronicles-youtube-stories-to-follow/"><u>[New] Captivating Chronicles YouTube Stories to Follow</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-from-concept-to-comic-10-must-have-strategies-for-making-gifs/"><u>[New] In 2024, From Concept to Comic 10 Must-Have Strategies for Making GIFs</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-leveraging-social-media-power-optimal-use-of-hash-tags-on-fb/"><u>2024 Approved Leveraging Social Media Power Optimal Use of Hash Tags on FB</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-professional-moving-less-imagery-tips/"><u>2024 Approved Professional Moving-Less Imagery Tips</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-new-drivers-for-canon-mg7125cmg8120-printers-on-windows-1011/"><u>Download & Install New Drivers for Canon MG7125C/MG8120 Printers on Windows 10/11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-guide-to-obtain-and-install-nvidia-3d-vision-drivers-at-no-cost-for-windows-users/"><u>Easy Guide to Obtain and Install Nvidia 3D Vision Drivers at No Cost for Windows Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-enhanced-performance-downloading-and-updating-nvidia-quadro-rtx-4000-drivers/"><u>Get Enhanced Performance: Downloading & Updating NVIDIA Quadro RTX 4000 Drivers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-oppo-a2-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Oppo A2 to Another | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-boosting-video-visibility-by-sending-imovie-content-to-vimeo/"><u>In 2024, Boosting Video Visibility by Sending iMovie Content to Vimeo</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/optimize-your-pc-now-swift-installation-of-updated-intel-iris-540-video-card-drivers/"><u>Optimize Your PC Now: Swift Installation of Updated Intel Iris 540 Video Card Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-fixes-for-when-your-igfxem-module-crashes-unexpectedly/"><u>Quick Fixes for When Your IgfxEM Module Crashes Unexpectedly</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/resolving-windows-10-error-0x87e00196-a-step-by-step-guide/"><u>Resolving Windows 10 Error 0X87E00196: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-and-installing-the-latest-versions-of-xp-pen-device-drivers/"><u>Step-by-Step Guide: Updating and Installing the Latest Versions of XP-Pen Device Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-obtaining-the-latest-driver-update-for-amd-ati-radeon-hd-3450/"><u>Step-by-Step Tutorial: Obtaining the Latest Driver Update for AMD ATI Radeon HD 3450</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-poco-f5-pro-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Poco F5 Pro 5G Phone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/upgrade-to-enhanced-functionality-with-steelseries-keyboard-driver/"><u>Upgrade to Enhanced Functionality with SteelSeries Keyboard Driver</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-htc-u23-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-accelerated-aesthetics-rapid-revamping-of-images-on-windows-photo-editor/"><u>[New] In 2024, Accelerated Aesthetics Rapid Revamping of Images on Windows Photo Editor</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-key-to-more-views-expert-backlink-methods-for-youtubers/"><u>[New] In 2024, The Key to More Views Expert Backlink Methods for YouTubers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unlock-video-mastery-with-these-quick-trimming-tips-for-windows-10/"><u>[Updated] 2024 Approved Unlock Video Mastery with These Quick Trimming Tips for Windows 10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-revolutionizing-gameplay-a-curated-list-of-stardew-valleys-top-7-mods/"><u>[Updated] Revolutionizing Gameplay A Curated List of Stardew Valley's Top 7 Mods</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/convertissez-des-fichiers-video-vob-en-wmv-librement-et-facilement-avec-movavi-online/"><u>Convertissez Des Fichiers Vidéo VOB en WMV Librement Et Facilement Avec Movavi Online</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-audio-transformation-downloadable-and-no-cost-mp3-to-mp4-software-from-movavi-video-converter/"><u>Effortless Audio Transformation: Downloadable and No-Cost MP3-to-MP4 Software From Movavi Video Converter</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719370071964-resolve-wwin-plus-p-non-functionality-in-windows-systems/"><u>Resolve WWin + P Non-Functionality in Windows Systems.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transformando-conteudo-video-do-rmvb-para-mp4-tecnicas-facilitadas-pela-ferramenta-de-conversao-da-movavi/"><u>Transformando Conteúdo Vídeo Do RMVB Para MP4: Técnicas Facilitadas Pela Ferramenta De Conversão Da Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/trasforma-le-tue-immagini-con-facilita-online-converti-foto-jpg-png-e-formati-diversi/"><u>Trasforma Le Tue Immagini Con Facilità Online - Converti Foto JPG, PNG E Formati Diversi</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlock-creative-potential-with-no-cost-green-screen-knowledge-from-top-4-educational-channels-for-2024/"><u>Unlock Creative Potential with No-Cost Green Screen Knowledge From Top 4 Educational Channels for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mp4-mov-avi/"><u>비용 부과 없는 바이네틱 동영상 변환기 - MP4, MOV, AVI 포함한 다양한 형식으로 원본 비디오 전환</u></a></li>
 </ul></div>
 

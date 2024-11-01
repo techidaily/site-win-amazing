@@ -1,7 +1,7 @@
 ---
 title: HP Deskjet 3520 Driver Download
-date: 2024-09-05T08:00:28.629Z
-updated: 2024-09-06T08:00:28.629Z
+date: 2024-10-29T07:00:06.871Z
+updated: 2024-11-01T07:01:33.022Z
 tags:
   - win11
   - win10
@@ -30,19 +30,20 @@ Your Asus DVD drive is not working well after upgrading to Windows 10? It’s pr
 2. Type**devmgmt.msc** and click **OK** . This will start the Device Manager.![](https://images.drivereasy.com/wp-content/uploads/2019/06/dvd1.jpg)
 3. In Device Manager, click**View** and then select**Show hidden devices** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/dvd.jpg)
 4. Expand**DVD/CD-ROM drives** , if you see a yellow mark next to the device name (usually an exclamation or a question mark), there’s a problem with the driver, and you need to update it.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## STEP 2 – Update your dvd drivers
 
 There are three ways you can update your audio drivers:
@@ -53,12 +54,6 @@ There are three ways you can update your audio drivers:
 
 [**Method 3**](https://tools.techidaily.com/drivereasy/download/) **[– Automatically (Recommended)](https://tools.techidaily.com/drivereasy/download/)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1 – Uninstall then reinstall the driver via Device Manager
 
  To fix the ASUS DVD driver issue, you can uninstall the driver first then allow Windows to reinstall it.
@@ -69,35 +64,39 @@ To do so, follow these steps:
 2. Type**devmgmt.msc** and click **OK** . This will start the Windows 10 Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/dvd1.jpg)
 3. Expand**DVD/CD-ROM drives** , right-click the device and select**Uninstall** .
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Restart your computer and open Device Manager.
 5. Right-click on your DVD device and select**Update driver** . Then follow the instructions on the screen.
 6. After installing the latest driver, restart your PC and check to see if the DVD driver problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Method 2 –** **Download and install the driver manually**
 
  You can download ASUS DVD drivers utility from ASUS official website. Go to the[ASUS download center](https://www.asus.com/support/Download-Center/) , find the program that corresponds with your operating system and downloads it manually.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/asus-1024x706.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you’ve downloaded the utility, double-click on the downloaded file and follow the on-screen instructions to install it. Then run this program to manage your ASUS DVD driver.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3 – Automatically update drivers
 
@@ -121,8 +120,6 @@ To do so, follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +127,23 @@ To do so, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-b-roll-builder-kit/"><u>[New] In 2024, B-Roll Builder Kit</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-radiant-faces-mastering-makeup-and-lighting-together/"><u>[Updated] In 2024, Radiant Faces Mastering Makeup and Lighting Together</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-7-best-free-online-youtube-tag-extractors/"><u>2024 Approved 7 Best Free Online YouTube Tag Extractors</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/best-practices-for-downloading-asus-mainboard-driver-packages-windows/"><u>Best Practices for Downloading ASUS Mainboard Driver Packages (Windows)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977641104-corsair-void-pro-drivers-download-and-install-for-windows-easily/"><u>Corsair Void Pro Drivers Download & Install for Windows. EASILY</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ensure-compatibility-free-update-of-insignia-usb-and-ethernet-converters-software/"><u>Ensure Compatibility: Free Update of Insignia USB and Ethernet Converter's Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-sync-errors-in-nvidia-cp-windows-11/"><u>Fixing Sync Errors in NVidia CP Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-nvidia-rtx-3060-ti-driver-enhance-gaming-on-windows-11-systems/"><u>Get Your NVIDIA RTX 3060 Ti Driver - Enhance Gaming on Windows 11 Systems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-boost-engagement-syncing-youtube-and-facebook/"><u>In 2024, Boost Engagement Syncing YouTube and Facebook</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/is-there-a-science-to-youtubes-quick-subscribe-tactic/"><u>Is There a Science to YouTube's Quick Subscribe Tactic?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/new-release-alert-magicard-rio-professional-driver-compatible-with-multiple-windows-versions/"><u>New Release Alert! Magicard Rio Professional Driver - Compatible with Multiple Windows Versions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722957574754-nvidia-1080-drivers-download-for-windows-11-easily/"><u>NVIDIA 1080 Drivers Download for Windows 11. Easily</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/rapid-install-new-geforce-rtx-3080-ti-drivers-available-for-windows-operating-systems-win-10-8-7/"><u>Rapid Install: New GeForce RTX 3080 Ti Drivers Available for Windows Operating Systems (Win 10, 8, 7)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-best-free-mpeg-video-splitters-a-comprehensive-guide-for-2024/"><u>The Best Free MPEG Video Splitters A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-silent-struggle-fb-access-denied/"><u>The Silent Struggle: FB Access Denied</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-amd-detection-error-now-fixed/"><u>Windows 10 AMD: Detection Error, Now Fixed</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Upgrade To a Superior Gaming Session - Update to the Latest ASUS GeForce GTX 970 Pro GPU for Maximum Performance
-date: 2024-10-18T18:48:15.642Z
-updated: 2024-10-25T23:26:02.304Z
+date: 2024-10-26T22:34:21.226Z
+updated: 2024-10-31T18:19:19.598Z
 tags:
   - win11
   - win10
@@ -49,6 +49,19 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ar.jpg)
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
 
@@ -56,10 +69,10 @@ OR
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Select **Browse my computer for driver software** .  
@@ -67,25 +80,25 @@ OR
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update drivers**
@@ -100,13 +113,6 @@ OR
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/nano.jpg)
@@ -132,18 +138,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-evaluating-earnings-from-one-million-youtube-watches/"><u>[New] In 2024, Evaluating Earnings From One Million YouTube Watches</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-navigating-firefoxs-picture-in-picture-capabilities/"><u>[New] Navigating Firefox's Picture-in-Picture Capabilities</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-top-8-affordable-3d-videos-players-on-pcmac/"><u>[Updated] Top 8 Affordable 3D Videos Players on PC/Mac</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-data.techidaily.com/activate-your-imagination-the-ultimate-action-experience-powered-by-intel-realsense-tech/"><u>Activate Your Imagination: The Ultimate Action Experience Powered by Intel RealSense Tech</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-m-audio-fast-track-drivers-for-various-windows-versions-today/"><u>Download & Install M-Audio Fast Track Drivers for Various Windows Versions Today!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-guide-downloading-and-installing-sound-card-drivers-in-windows-aturins-war-and-peace/"><u>Easy Guide: Downloading & Installing Sound Card Drivers in Windows Aturin's War and Peace</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-compatible-hp-officejet-pro-8740-printer-drivers-for-latest-windows-systems/"><u>Free Download: Compatible HP Officejet Pro 8740 Printer Drivers for Latest Windows Systems</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-t2-pro-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Vivo T2 Pro 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-speedy-strategies-for-crafting-a-facebook-visual-narrative/"><u>In 2024, Speedy Strategies for Crafting a Facebook Visual Narrative</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/resolving-drivers-problems-steps-to-repair-logitech-f710-compatibility-with-windows-11-10-8-and-7/"><u>Resolving Drivers Problems: Steps to Repair Logitech F710 Compatibility with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722964681942-secure-and-optimize-your-epson-wf-352t-printer-performance-by-downloading-the-newest-windows-driver-here/"><u>Secure & Optimize Your Epson WF-352t Printer Performance by Downloading the Newest Windows Driver Here!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ultimate-guide-proper-steps-to-refresh-your-dell-camera-driver/"><u>Ultimate Guide: Proper Steps to Refresh Your Dell Camera Driver</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-curving-images-without-complication-a-guide/"><u>2024 Approved Curving Images without Complication A Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/best-in-class-applications-for-mastery-of-languages/"><u>Best-In-Class Applications for Mastery of Languages</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-guide-wacom-intuos-3-drivers-for-windows-os-compatible-with-version-100-free-downloads/"><u>Complete Guide: Wacom Intuos 3 Drivers for Windows OS (Compatible with Version 100%) - Free Downloads</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-canon-mf4500-driver-for-optimal-printing-performance/"><u>Download and Install Canon MF4500 Driver for Optimal Printing Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-acer-aspire-e15-driver-downloads-for-windows-10-systems/"><u>Ensure Optimal Performance: Acer Aspire E15 Driver Downloads for Windows 10 Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-dying-light-game-audio-glitch-in-just-a-few-steps/"><u>Fix Your Dying Light Game Audio Glitch in Just a Few Steps!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-steelseries-game-enhancer-free-download-now/"><u>Get the Latest SteelSeries Game Enhancer - [Free Download Now]</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977256589-get-your-updated-nvidia-graphics-drivers-now-perfect-for-pc-gamers/"><u>Get Your Updated Nvidia Graphics Drivers Now - Perfect for PC Gamers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/improve-your-gamingwork-experience-download-the-latest-intel-iris-xe-drivers-for-windows-systems/"><u>Improve Your Gaming/Work Experience - Download the Latest Intel Iris Xe Drivers for Windows Systems!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-motorola-razr-40-by-drfone-android/"><u>In 2024, How to Bypass FRP from Motorola Razr 40?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-inaugural-recording-evaluation-guide/"><u>In 2024, Inaugural Recording Evaluation Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-repair-of-your-touchscreen-for-windows-10-5-proven-techniques-to-get-back-control/"><u>Mastering the Repair of Your Touchscreen for Windows 10 - 5 Proven Techniques to Get Back Control</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/nvidia-quadro-rtx-4000-drivers-download-and-update/"><u>NVIDIA Quadro RTX 4000 Drivers - Download & Update</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unveiling-best-free-user-friendly-srt-translators-online/"><u>Unveiling Best Free, User-Friendly SRT Translators Online</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "New Graphics Cards Drivers Available Now: Download the Latest RTX 2080 for Windows 10, 7 & 8"
-date: 2024-10-21T01:47:44.976Z
-updated: 2024-10-26T06:23:11.079Z
+date: 2024-10-28T23:44:03.243Z
+updated: 2024-11-01T08:35:02.815Z
 tags:
   - win11
   - win10
@@ -33,16 +33,10 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 [**Method 2** **– Manually:**](https://tools.techidaily.com/drivereasy/download/) You can update your Geforce RTX 2080 driver on your own. This requires some time, patience, and sometimes even computer skills.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Update your Geforce RTX 2080 driver automatically
@@ -57,27 +51,27 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap455.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your **Geforce RTX 2080** graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap454-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Download and install your Geforce RTX 2080 driver manually
 
@@ -89,16 +83,16 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap469.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3\. Click the **DOWNLOAD** button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap461.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4.**Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
@@ -122,20 +116,20 @@ _You can do it for free if you like, but it’s partly manual._
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-amazing.techidaily.com/amd-radeon-pro-w5700-latest-driver-version-available-for-windows-users/"><u>AMD Radeon Pro W5700 - Latest Driver Version Available for Windows Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/cross-platform-rendering-with-opengl/"><u>Cross-Platform Rendering with OpenGL</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-enjoy-seamless-printing-brother-hl-l2340d0-printer-for-your-windows-device/"><u>Download & Enjoy Seamless Printing - Brother HL-L2340D0 Printer for Your Windows Device</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-updated-asus-bt500-driver-for-ultimate-bluetooth-compatibility-on-w11w10w8-platforms/"><u>Download Updated Asus BT500 Driver for Ultimate Bluetooth Compatibility on W11/W10/W8 Platforms</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-installation-of-updated-graphics-drivers-for-your-amd-rx-480-card/"><u>Effortless Installation of Updated Graphics Drivers for Your AMD RX 480 Card</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ensure-smooth-operations-of-lenovo-ideapad-n100-with-updated-drivers-on-windows-11-how-to-download-them/"><u>Ensure Smooth Operations of Lenovo IdeaPad N100 with Updated Drivers on Windows 11 – How to Download Them</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/focusrite-scarlett-2i2-driver-for-pc-free-installation-file-now-downloading/"><u>Focusrite Scarlett 2I2 Driver for PC: Free Installation File Now Downloading!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-enhance-your-digital-viewing-experience-in-hd-with-android/"><u>In 2024, Enhance Your Digital Viewing Experience in Hd with Android</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Nokia C110? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-premier-call-customization-and-editing-software/"><u>In 2024, Premier Call Customization and Editing Software</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-15-proipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 15 Pro/iPad? Solved | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-pc-control-how-to-hard-stop-programs-stuck-on-windows-11-computers/"><u>Mastering PC Control: How to Hard Stop Programs Stuck on Windows 11 Computers</u></a></li>
-<li><a href="https://media-tips.techidaily.com/maximizing-your-smart-home-entertainment-expert-guide-on-using-airplay-with-apple-tv-from-macpc/"><u>Maximizing Your Smart Home Entertainment: Expert Guide on Using AirPlay with Apple TV From Mac/PC</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/navigate-with-ease-a-guide-to-effective-screen-casting-in-meet/"><u>Navigate with Ease A Guide to Effective Screen Casting in Meet</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-tips-for-seamlessly-upgrading-your-amd-video-drivers/"><u>Quick Tips for Seamlessly Upgrading Your AMD Video Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978938347-easy-get-your-xbox-wireless-adapter-drivers-installed-in-minutes/"><u>[EASY] Get Your Xbox Wireless Adapter Drivers Installed in Minutes!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fixed-update-windows-10-version-2004-with-conexant-driver/"><u>[Fixed] Update Windows 10 Version 2004 With Conexant Driver</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-blending-of-voice-and-text-in-powerpoint-decks/"><u>[New] Seamless Blending of Voice and Text in PowerPoint Decks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-top-rated-zero-price-after-effects-samples/"><u>[New] Top-Rated, Zero-Price After Effects Samples</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-your-go-to-4-sites-for-skype-ringtones-for-2024/"><u>[New] Your Go-To 4 Sites for Skype Ringtones for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-maximize-engagement-mastering-sound-editing-for-youtube/"><u>[Updated] 2024 Approved Maximize Engagement Mastering Sound Editing for YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bestowing-wondrous-widgets-onto-context-menu/"><u>Bestowing Wondrous Widgets Onto Context Menu</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-broadcom-bluetooth-drivers-for-windows-10-8-and-7-download-now/"><u>Free Broadcom Bluetooth Drivers for Windows 10, 8 & 7 - Download Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-techkey-bluetooth-drivers-for-your-windows-pcs-win11-win7-win8/"><u>Get the Latest Techkey Bluetooth Drivers for Your Windows PCs (Win11, Win7, Win8)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-obtain-latest-sas-driver-updates-for-windows-operating-systems/"><u>How To Obtain Latest SAS Driver Updates for Windows Operating Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-infinix-hot-40i-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Infinix Hot 40i?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-official-toshiba-copying-machine-drivers-on-your-windows-device/"><u>Install Official Toshiba Copying Machine Drivers on Your Windows Device</u></a></li>
+<li><a href="https://article-files.techidaily.com/professional-prowess-best-webcams-to-upgrade-your-podcasting/"><u>Professional Prowess Best Webcams to Upgrade Your Podcasting</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/recovering-playback-from-error-224003/"><u>Recovering Playback From Error 224003</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-world-of-components-with-toms-hardware-explorations/"><u>The World of Components with Tom's Hardware Explorations</u></a></li>
 </ul></div>
 

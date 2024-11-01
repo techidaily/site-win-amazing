@@ -1,7 +1,7 @@
 ---
 title: Install HP Thunderbolt Dock G2 - Download Suitable Software for Both 120 and 230 Watt Versions
-date: 2024-10-23T02:03:18.686Z
-updated: 2024-10-26T07:18:50.591Z
+date: 2024-10-31T02:18:42.573Z
+updated: 2024-10-31T19:32:27.228Z
 tags:
   - win11
   - win10
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326c
 2. [**Update your Thunderbolt drivers automatically**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Download the Thunderbolt drivers from your device manufacturer website
@@ -45,10 +45,10 @@ You can download your Thunderbolt drivers from your device manufacturer website 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29c6b4ddf40.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Go to the product driver download page, then download the correct and latest Thunderbolt drivers to your computer.
@@ -58,10 +58,10 @@ You can download your Thunderbolt drivers from your device manufacturer website 
 **3)**Open the downloaded file and follow the on-screen instructions to install it on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Update your Thunderbolt drivers automatically
@@ -70,16 +70,16 @@ If you don’t have the time, patience or skills to update the Thunderbolt drive
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a66b4a3dfe.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click the **Update**  button next to your _Thunderbolt device_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29c95e8c019.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’ve updated your driver with Driver Easy but your driver issues persist, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
 
@@ -100,20 +100,22 @@ If you don’t have the time, patience or skills to update the Thunderbolt drive
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/verage-profit-per-million-youtube-viewers/"><u>[New] Average Profit per Million YouTube Viewers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-gopro-hero4-session-vs-hero5-session-for-2024/"><u>[New] GoPro Hero4 Session Vs Hero5 Session for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-premier-uav-choices-for-optimal-gopro-hd-imaging/"><u>[New] Premier UAV Choices for Optimal GoPro HD Imaging</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-swift-solutions-moving-iphone-pictures-and-videos/"><u>[New] Swift Solutions Moving iPhone Pictures & Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-step-by-step-add-vimeo-in-instagram-reels/"><u>[Updated] 2024 Approved Step-by-Step Add Vimeo in Instagram Reels</u></a></li>
-<li><a href="https://article-tips.techidaily.com/amplify-slides-with-melodies-in-ppt/"><u>Amplify Slides with Melodies in PPT</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-guide-and-download-links-for-msi-x470-motherboard-firmware-updates/"><u>Complete Guide and Download Links for MSI X470 Motherboard Firmware Updates</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-guide-to-fresh-installation-of-your-dell-monitors-software/"><u>Effortless Guide to Fresh Installation of Your Dell Monitor's Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-hp-deskjet-3050a-driver-for-free-on-windows-download-now/"><u>Get the Latest HP Deskjet 3050A Driver for Free on Windows - Download Now!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-the-latest-hp-deskjet-2755e-driver-for-windows-systems-download-now/"><u>Get Your Hands on the Latest HP DeskJet 2755E Driver for Windows Systems (Download Now)</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-top-6-voice-changer-software-for-youtube-videos-free-and-paid/"><u>In 2024, Top 6 Voice Changer Software for Youtube Videos [Free & Paid]</u></a></li>
-<li><a href="https://win-web.techidaily.com/quick-fix-finding-and-recovering-lost-downloads-from-your-pc/"><u>Quick Fix: Finding and Recovering Lost Downloads From Your PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-guide-installing-epson-et-4550-drivers-on-windows-pcs-with-ease/"><u>Quick Guide: Installing Epson ET-4550 Drivers on Windows PCs with Ease</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/secure-your-msi-b350-tomahawk-drivers-direct-download-links-for-windows-107-users/"><u>Secure Your MSI B350 Tomahawk Drivers – Direct Download Links for Windows 10/7 Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-installing-logitechs-brio-webcam-software-for-windows-users-windows-1087/"><u>Step-by-Step Guide: Installing Logitech's BRIO Webcam Software for Windows Users (Windows 10/8/7)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-action-camera-accessories-buying-guide-for-2024/"><u>[New] Action Camera Accessories Buying Guide for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-best-16-youtube-intro-makers-to-bring-you-more-views-for-2024/"><u>[Updated] Best 16 YouTube Intro Makers to Bring You More Views for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-masters-list-of-affordable-and-premium-win-art-tools/"><u>2024 Approved Master's List of Affordable & Premium Win Art Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/a-complete-tutorial-on-installing-latest-drivers-for-your-lenovo-docking-station/"><u>A Complete Tutorial on Installing Latest Drivers for Your Lenovo Docking Station</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/closedsubsquery-time-to-reengage-in-dialogue/"><u>ClosedSubsQuery: Time to Reengage in Dialogue?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/direct-access-to-your-epson-ds-30-all-in-one-windows-compatible-drivers-for-wise-users/"><u>Direct Access to Your Epson DS 30 All-in-One: Windows Compatible Drivers for Wise Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ensure-smooth-operation-of-your-razer-naga-with-the-newest-windows-driver-download/"><u>Ensure Smooth Operation of Your Razer Naga with the Newest Windows Driver Download</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722969983456-for-the-abstract-art-assembly-instructions/"><u>For the Abstract Art Assembly Instructions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-effortlessly-solve-your-intel-dptf-driver-install-problem-and-optimize-computer-performance/"><u>How to Effortlessly Solve Your Intel DPTF Driver Install Problem and Optimize Computer Performance</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-new-dell-wifi-or-ethernet-driver-on-windows-7-pcs/"><u>How to Install New Dell WiFi or Ethernet Driver on Windows 7 PCs</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-htc-u23-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve HTC U23 Pro Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-essential-guide-broadcast-360-videos-on-facebook/"><u>In 2024, Essential Guide Broadcast 360 Videos on Facebook</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-z-fold-5-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy Z Fold 5 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-brother-mfc-7860dw-drivers-for-windows-free-downloads-available/"><u>Latest Brother MFC- 7860DW Drivers for Windows - Free Downloads Available!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-dell-webcam-driver-updates-a-comprehensive-tutorial/"><u>Mastering Dell Webcam Driver Updates: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-messenger-kids-sleep-mode-a-step-by-step-guide/"><u>Mastering Messenger Kids' Sleep Mode: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-blue-screen-of-death-error-bsod-stop-code-0x0000003b-explained/"><u>Solving Blue Screen of Death Error (BSOD) - Stop Code 0X0000003B Explained</u></a></li>
 </ul></div>
 

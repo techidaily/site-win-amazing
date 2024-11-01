@@ -1,7 +1,7 @@
 ---
 title: Get Your Focusrite Scarlett Solo Controller on PC – Free Guide Here!
-date: 2024-09-01T07:20:12.625Z
-updated: 2024-09-02T07:20:12.625Z
+date: 2024-10-25T00:25:11.105Z
+updated: 2024-10-31T20:36:45.085Z
 tags:
   - win11
   - win10
@@ -37,14 +37,26 @@ It’s always important to update the driver for your **Focusrite Scarlett** **1
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2019/11/driver-easy-scan.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/11/driver-easy-update-now.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. **Restart** your computer for the changes to take effect.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2: Update **Focusrite Scarlett 18i2** 0 driver manually
 
 **Focusrite** keeps updating drivers. To get them, you need to go to**Focusrite** ‘s official website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -55,13 +67,23 @@ Here is how to update the driver manually:
 
 1. Go to[](https://focusrite.com/) **[Focusrite’s official website](https://focusrite.com/)**  , click**SUPPORT** \>**DOWNLOADS** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/18i20.jpg)
 2. Select your **model type** from the drop-down menus, then in the list of results, select the one for Windows and click**DOWNLOAD** .![](https://images.drivereasy.com/wp-content/uploads/2019/11/18i20-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3. Double-click on the file and follow the wizard to finish the install.
+
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. **Restart** your computer for the changes to take effect.
 
 ---
@@ -76,8 +98,6 @@ Here is how to update the driver manually:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -85,4 +105,19 @@ Here is how to update the driver manually:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-from-novice-to-expert-navigating-windows-11s-movie-maker-easily-for-2024/"><u>[Updated] From Novice to Expert Navigating Windows 11'S Movie Maker Easily for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-trustworthy-source-for-your-easycap-driver-downloads/"><u>Effortless Installation: Trustworthy Source for Your EasyCap Driver Downloads</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210904195-9781088200575-enciende-el-poder-del-fuego-puro-dentro-de-ti-manual-del-bautismo-del-espiritu-santo/"><u>Enciende el poder del fuego puro dentro de ti - Manual del bautismo del Espíritu Santo | Free Book</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-acer-wi-fi-card-up-and-running-with-a-free-driver-update/"><u>Get Your Acer Wi-Fi Card Up and Running with a FREE Driver Update</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-the-newest-brother-scanner-drivers-on-your-windows-machine/"><u>How to Install the Newest Brother Scanner Drivers on Your Windows Machine</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-reno-8t-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo Reno 8T FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-tecno-spark-go-2023-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Tecno Spark Go (2023) Phone that is Locked?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-max-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Max with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-hp-printer-driver-software-update-available-for-windows-10-and-11-operating-systems/"><u>Latest HP Printer Driver Software Update Available for Windows 10 and 11 Operating Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolve-your-intel-video-drives-problems-across-windows-11-8-and-7-platforms-easily/"><u>Resolve Your Intel Video Drives Problems Across Windows 11, 8 and 7 Platforms Easily</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-noctua-nh-d15-g2-reborn-silent-airflow-and-superior-heat-dissipation-with-revamped-design/"><u>The Noctua NH-D15 G2 Reborn: Silent Airflow & Superior Heat Dissipation with Revamped Design</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-10-not-recognizing-my-usb-device-solved/"><u>Windows 10 Not Recognizing My USB Device [Solved]</u></a></li>
+</ul></div>
 
