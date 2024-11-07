@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Updating Your Canon PIXMA MG2522 with the Newest Printing Software"
-date: 2024-10-28T07:41:52.872Z
-updated: 2024-10-31T19:25:40.789Z
+date: 2024-11-02T02:59:28.135Z
+updated: 2024-11-07T00:08:15.808Z
 tags:
   - win11
   - win10
@@ -34,47 +34,21 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to get the correct driver?
 
  There are two ways you can get the right driver for your Logitech G402 mouse:
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Option 1 – Download and install the driver manually**
 
  Logitech keeps updating the G402 driver. To get the latest driver, you need to go to the **[Logitech official website](https://tools.techidaily.com/drivereasy/download/)**  , find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
 
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2 – Automatically install the Logitech G402 driver
 
@@ -90,11 +64,31 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-19-38.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update**  button next to the Logicool HID-compliant Cordless Mouse to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-51.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -102,16 +96,10 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Fix Logitech M402 Mouse not Working Issues?
@@ -150,21 +138,19 @@ Lastly, you may want to try your wireless mouse on metal surfaces.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-kinemasters-ultimate-green-screen-implementation-techniques/"><u>[New] 2024 Approved Kinemaster's Ultimate Green Screen Implementation Techniques</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tailoring-twitter-video-thumbnails-a-step-by-step-guide/"><u>[New] 2024 Approved Tailoring Twitter Video Thumbnails A Step-by-Step Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-livestream-luminaries-clash/"><u>[Updated] 2024 Approved Livestream Luminaries Clash</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevating-views-amplifying-impact-a-youtube-case-study/"><u>[Updated] In 2024, Elevating Views, Amplifying Impact A Youtube Case Study</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oppo-reno-9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/common-fixes-for-samsung-blu-ray-players-that-wont-turn-on-or-read-discs/"><u>Common Fixes for Samsung Blu Ray Players That Won't Turn On or Read Discs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-the-apple-iphone-12-why-its-a-game-changer/"><u>Comprehensive Analysis of the Apple iPhone 12: Why It's a Game-Changer</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-brother-mfc-l2690dw-printer-software-updates/"><u>Download & Install Brother MFC-L2690DW Printer Software Updates</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-steps-to-get-your-corsair-void-pro-drivers-up-and-running-in-windows/"><u>Easy Steps to Get Your Corsair Void Pro Drivers Up and Running in Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-steps-get-the-latest-acer-touchpad-software-for-your-windows-10-device/"><u>Easy Steps: Get the Latest Acer Touchpad Software for Your Windows 10 Device</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722976421711-effortless-installation-of-new-acer-audio-drivers-update-now/"><u>Effortless Installation of New Acer Audio Drivers - Update Now</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-note-30i-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Infinix Note 30i?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-your-content-with-tiktoks-number-manipulation-tricks/"><u>In 2024, Perfect Your Content with TikTok's Number Manipulation Tricks</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/installing-and-updating-razer-graphics-drivers-on-various-windows-versions-11-8-7-xp-and-vista/"><u>Installing and Updating Razer Graphics Drivers on Various Windows Versions (11, 8, 7, XP & Vista)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/successful-guide-installing-the-epson-xp-830-printer-driver-no-more-hassles/"><u>Successful Guide: Installing the Epson XP-830 Printer Driver - No More Hassles!</u></a></li>
-<li><a href="https://win-web.techidaily.com/unseen-kingston-ssds-understanding-and-resolving-non-detection-problems-in-windows/"><u>Unseen Kingston SSDs? Understanding and Resolving Non-Detection Problems in Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-future-with-advanced-vr-finger-tech/"><u>2024 Approved Explore the Future with Advanced VR Finger Tech</u></a></li>
+<li><a href="https://win11.techidaily.com/assisting-users-with-erratic-swipes-on-windows-systems/"><u>Assisting Users with Erratic Swipes on Windows Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/boost-your-graphics-the-ultimate-guide-to-asus-970-gaming-card-upgrades/"><u>Boost Your Graphics: The Ultimate Guide to Asus 970 Gaming Card Upgrades</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-official-dell-wd19-driver-software/"><u>Download & Install Official Dell WD19 Driver Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722965426927-environmental-conditions-such-as-temperature-humidity-and-uv-exposure-affect-the-performance-of-self-healing-mechanisms-in-concrete/"><u>Environmental Conditions Such as Temperature, Humidity, and UV Exposure Affect the Performance of Self-Healing Mechanisms in Concrete.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fixing-your-display-a-step-by-step-guide-for-dealing-with-graphics-driver-problems/"><u>Fixing Your Display: A Step-by-Step Guide for Dealing with Graphics Driver Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/hitchless-guide-to-gaming-consoles-refunds-xbox/"><u>Hitchless Guide to Gaming Consoles Refunds (Xbox)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-speaker-distortion-on-windows-107-a-comprehensive-guide/"><u>How to Fix Speaker Distortion on Windows 10/7 - A Comprehensive Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-innovativescreens-newrecorderx-reviewed-and-rated/"><u>In 2024, InnovativeScreens' NewRecorderX Reviewed & Rated</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-quintessential-radio-narrative-craftsmanship/"><u>In 2024, Quintessential Radio Narrative Craftsmanship</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-the-potential-of-cds-a-wmp-masterclass/"><u>In 2024, Unlocking the Potential of Cds A WMP Masterclass</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/inside-the-upcoming-macbook-pro-m3-detailed-look-at-its-pricing-strategy-and-technical-specifications/"><u>Inside the Upcoming MacBook Pro M3: Detailed Look at Its Pricing Strategy and Technical Specifications</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-logitech-brio-webcam-software-on-your-windows-pc-windows-1187/"><u>Install Logitech Brio Webcam Software on Your Windows PC (Windows 11/8/7)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-or-fresh-install-of-logitech-g602-drivers-for-enhanced-pc-performance-windows/"><u>Update or Fresh Install of Logitech G602 Drivers for Enhanced PC Performance (Windows)</u></a></li>
 </ul></div>
 

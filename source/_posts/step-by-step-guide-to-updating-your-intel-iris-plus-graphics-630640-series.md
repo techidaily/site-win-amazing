@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Updating Your Intel Iris Plus Graphics - 630/640 Series
-date: 2024-09-01T07:10:46.919Z
-updated: 2024-09-02T07:10:46.919Z
+date: 2024-11-04T21:42:51.640Z
+updated: 2024-11-06T22:55:37.037Z
 tags:
   - win11
   - win10
@@ -120,6 +120,13 @@ Wait for the download process to be complete.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 2 – Update the driver manually
 
  Intel keeps updating the Dual Band Wireless-AC 3160 drivers. To get the one you need, you should visit the download center of Intel, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10 of 64 bit) and download the driver manually. Here’re the details (network connectivity is required):
@@ -130,13 +137,46 @@ Wait for the download process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-658-1024x326.png)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) On the next page, pay attention to the left section and find the EXE file corresponding to your Windows version. Once you’ve found the correct one, click the**Download** button below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-661.png)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**I accept the terms in the license agreement** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-662.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) After the file has been downloaded, double-click on it and follow the onscreen instructions to install the driver.
 
@@ -159,8 +199,6 @@ Wait for the download process to be complete.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,8 +206,24 @@ Wait for the download process to be complete.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-livestream-lifelines-combatting-common-interruption-issues-on-fb-for-2024/"><u>[New] Livestream Lifelines Combatting Common Interruption Issues on FB for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-expanding-networks-integrating-youtube-and-facebook-for-2024/"><u>[Updated] Expanding Networks Integrating YouTube and Facebook for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-insiders-guide-to-flawless-skype-call-recordings/"><u>[Updated] The Insider's Guide to Flawless Skype Call Recordings</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/after-updating-drivers-and-restarting-your-system-reconnect-your-iphoneipad-using-an-apple-certified-usb-cable-you-should-now-be-able-to-establish-a-success34/"><u>After Updating Drivers and Restarting Your System, Reconnect Your iPhone/iPad Using an Apple-Certified USB Cable. You Should Now Be Able to Establish a Successful Connection without Receiving Any 'Device Not Found' Error Messages.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-steps-to-get-iphone-support-in-windows-11-system/"><u>Easy Steps to Get iPhone Support in Windows 11 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-the-incessant-boot-loop-solving-windows-11-and-10-startup-problems/"><u>End the Incessant Boot Loop - Solving Windows 11 and 10 Startup Problems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-most-recent-nvidia-quadro-rtx-4000-driver-software-for-optimal-performance/"><u>Get the Most Recent NVIDIA Quadro RTX 4000 Driver Software for Optimal Performance</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-steelseries-mouse-ready-downloads-for-easy-setup/"><u>Get Your SteelSeries Mouse Ready: Downloads for Easy Setup</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-auto-gpt-setup-from-scratch/"><u>Guide: Auto-GPT Setup From Scratch</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-perform-the-latest-firmware-upgrade-on-your-dell-2330d-or-233-0dn-monochrome-laser-printer/"><u>How to Perform the Latest Firmware Upgrade on Your Dell 2330D or 233 0DN Monochrome Laser Printer</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/improve-your-acer-laptop-experience-secure-the-newest-windows-11-touchpad-driver-here/"><u>Improve Your Acer Laptop Experience: Secure the Newest Windows 11 Touchpad Driver Here</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-advanced-techniques-in-zooming-achieving-perfect-audio-quality-for-your-podcast/"><u>In 2024, Advanced Techniques in Zooming Achieving Perfect Audio Quality for Your Podcast</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/smoothening-windows-steam-audio-performance/"><u>Smoothening Windows Steam Audio Performance</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-solutions-for-hp-beats-audio-driver-problems-in-win-1087-an-in-depth-tutorial/"><u>Troubleshooting and Solutions for HP Beats Audio Driver Problems in Win 10/8/7: An In-Depth Tutorial</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-tech-walkthrough-updating-drivers-for-razer-blade-laptop-on-all-windows-versions-from-7-to-11/"><u>Ultimate Tech Walkthrough: Updating Drivers for Razer Blade Laptop on All Windows Versions From 7 to 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlimited-ai-potential-with-no-charge-five-ways-to-use-gpt-4-for-free/"><u>Unlimited AI Potential with No Charge: Five Ways to Use GPT-4 for Free</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Installation Tutorial for WD SES External Hard Drives (Versions From 2011)
-date: 2024-10-24T23:24:04.399Z
-updated: 2024-10-31T19:20:16.497Z
+date: 2024-10-30T18:41:00.484Z
+updated: 2024-11-06T22:12:00.137Z
 tags:
   - win11
   - win10
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or you can browse your product .  
@@ -57,16 +57,24 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-24.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click **Printer Driver**  under **Drivers**  dialog.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-22.jpg)
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Click **Agree to the EULA and Download** .  
@@ -75,37 +83,30 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) When it’s done, double-click the downloaded **.exe**  file and follow the on-screen instructions to install the driver on your computer.  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Way 2: Update Brother printer drivers via Device Manager
   
  1) Press the **Windows logo**  key ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b42dbb955df7.png) \+ **R**  key at the same time to open the Run box.  
   
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type **devmgmt.msc**  in the box and hit **Enter**  to open **Device** **Manager** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/win-10-dev.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Find and expand **Printers**  or **Printer queues**  dialog. Then right-click on your Brother Printer Device to choose   **Update Driver Software…**
   
@@ -159,24 +160,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-synchronize-speech-and-slide-show-the-voiceover-advantage/"><u>[Updated] 2024 Approved Synchronize Speech and Slide Show The Voiceover Advantage</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-ezvid-video-recorder-review/"><u>2024 Approved Ezvid Video Recorder Review</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-first-steps-in-youtube-profitability-starting-a-channel-and-revenue-streams/"><u>2024 Approved First Steps in YouTube Profitability Starting a Channel & Revenue Streams</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-12-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 12 Pro Max to Android | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/diverse-methods-to-kickstart-your-ps5-console/"><u>Diverse Methods to Kickstart Your PS5 Console</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-latest-hp-officejet-pro-6970-drivers-for-windows-free-updates-and-installation-guide/"><u>Download the Latest HP OfficeJet Pro 6970 Drivers for Windows: Free Updates and Installation Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-guide-updating-your-amd-graphics-card-drivers-seamlessly/"><u>Easy Guide: Updating Your AMD Graphics Card Drivers Seamlessly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-vcompdll-errors-in-windows-a-step-by-step-guide-to-resolve-not-detected-or-absent-messages/"><u>Fixing vcomp.dll Errors in Windows: A Step-by-Step Guide to Resolve Not Detected or Absent Messages</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722971926610-get-up-and-running-with-wacom-devices-fast-driver-downloads-inside/"><u>Get Up and Running with Wacom Devices – Fast Driver Downloads Inside!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722976921059-get-your-hands-on-the-official-logitech-k400-plus-keyboard-drivers-download-now/"><u>Get Your Hands on the Official Logitech K400 Plus Keyboard Drivers - Download Now</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/guide-to-downloading-and-installing-canon-scan-drivers-on-a-windows-pc-free-version/"><u>Guide to Downloading and Installing Canon Scan Drivers on a Windows PC (Free Version)</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-s17-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo S17 Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Honor Magic V2? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/logitech-g430-gaming-headset-driver-download/"><u>Logitech G430 Gaming Headset Driver Download</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/premium-edition-of-gpt-your-companion-in-language-study/"><u>Premium Edition of GPT, Your Companion in Language Study</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/simple-steps-to-acquire-and-set-up-essential-hp-drivers/"><u>Simple Steps to Acquire and Set Up Essential HP Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-now-access-the-newest-drivers-for-your-epson-wf-3720-printer-today/"><u>Update Now: Access the Newest Drivers for Your Epson WF 3720 Printer Today!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/updated-and-compatible-realtek-rtl8188cu-wireless-adapter-driver-software-for-windows-107-users/"><u>Updated & Compatible Realtek RTL8188CU Wireless Adapter Driver Software for Windows 10/7 Users</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-young-filmmakers-unleashed-a-kids-guide-to-movie-creation/"><u>Updated 2024 Approved Young Filmmakers Unleashed A Kids Guide to Movie Creation</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-transforming-ideas-into-visual-stories-on-facebook-reels/"><u>[New] In 2024, Transforming Ideas Into Visual Stories on Facebook Reels</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-decreasing-decibits-gradually-for-calm-soundscapes-in-lumafusion/"><u>[Updated] 2024 Approved Decreasing Decibits Gradually for Calm Soundscapes in Lumafusion</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-polarr-photo-editor-demystified-in-depth-analysis/"><u>[Updated] 2024 Approved Polarr Photo Editor Demystified In-Depth Analysis</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-selecting-the-ultimate-gear-for-stellar-4k-production-for-2024/"><u>[Updated] Selecting the Ultimate Gear for Stellar 4K Production for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/como-migrar-de-windows-server-201/"><u>Cómo Migrar De Windows Server 201</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-audio-driver-setup-for-windows-7-users-get-downloads-here/"><u>Complete Audio Driver Setup for Windows 7 Users – Get Downloads Here</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-ultimate-guide-to-dell-wd19-driver-setup/"><u>Download & Install: Ultimate Guide to Dell WD19 Driver Setup</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-sound-experience-secure-microsofts-latest-audio-drivers-here-windows-compatible/"><u>Enhance Your Sound Experience: Secure Microsoft's Latest Audio Drivers Here (Windows Compatible)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-rtx-2060-graphics-card-driver-for-all-windows-versions-including-11-10-8-and-eboot/"><u>Get the Newest RTX 2060 Graphics Card Driver for All Windows Versions Including 11, 10, 8 & Eboot</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-the-latest-logitech-c920-webcam-software-on-windows-11-10-and-8/"><u>How to Install the Latest Logitech C920 Webcam Software on Windows 11, 10 & 8</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-successfully-update-your-windows-based-dell-latitude-e6430-a-comprehensive-guide-problem-solved/"><u>How to Successfully Update Your Windows-Based Dell Latitude E6430 - A Comprehensive Guide (Problem Solved)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-analyzing-audio-editing-tools-in-magix-producer-suite/"><u>In 2024, Analyzing Audio Editing Tools in Magix Producer Suite</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-youtubes-highest-pay-per-view-pioneers/"><u>In 2024, YouTube's Highest Pay Per View Pioneers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/realme-11-proplus-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Realme 11 Pro+ Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/solved-how-to-correctly-install-asus-pce-ac56-wifi-drivers-in-microsofts-latest-operating-systems/"><u>Solved: How to Correctly Install ASUS PCE-AC56 WiFi Drivers in Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-asus-rog-phone-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-windows-10-fixing-common-bluetooth-connectivity-problems/"><u>Troubleshooting Windows 10: Fixing Common Bluetooth Connectivity Problems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/winning-the-battle-against-intels-dynamic-platform-and-thermal-framework-driver-issues/"><u>Winning the Battle Against Intel's Dynamic Platform & Thermal Framework Driver Issues</u></a></li>
 </ul></div>
 

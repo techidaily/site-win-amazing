@@ -1,7 +1,7 @@
 ---
 title: Install HP Thunderbolt Dock G2 - Download Suitable Software for Both 120 and 230 Watt Versions
-date: 2024-10-31T02:18:42.573Z
-updated: 2024-10-31T19:32:27.228Z
+date: 2024-10-31T19:20:06.219Z
+updated: 2024-11-06T22:37:09.005Z
 tags:
   - win11
   - win10
@@ -32,10 +32,16 @@ thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326c
 2. [**Update your Thunderbolt drivers automatically**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Download the Thunderbolt drivers from your device manufacturer website
@@ -45,10 +51,16 @@ You can download your Thunderbolt drivers from your device manufacturer website 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29c6b4ddf40.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Go to the product driver download page, then download the correct and latest Thunderbolt drivers to your computer.
@@ -57,28 +69,28 @@ You can download your Thunderbolt drivers from your device manufacturer website 
 
 **3)**Open the downloaded file and follow the on-screen instructions to install it on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Update your Thunderbolt drivers automatically
 
 If you don’t have the time, patience or skills to update the Thunderbolt drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . **Driver Easy**  will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.  You can download and install your drivers by using either Free or **Pro**  version of Driver Easy. But with the Pro version it takes only **2**  clicks (and you get **full support** and a **30-day money back guarantee** ): **1)** [**Download**](https://tools.techidaily.com/drivereasy/download/) and install **Driver Easy** . **2)** Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a66b4a3dfe.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click the **Update**  button next to your _Thunderbolt device_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29c95e8c019.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’ve updated your driver with Driver Easy but your driver issues persist, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
@@ -100,22 +112,22 @@ If you don’t have the time, patience or skills to update the Thunderbolt drive
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-action-camera-accessories-buying-guide-for-2024/"><u>[New] Action Camera Accessories Buying Guide for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-best-16-youtube-intro-makers-to-bring-you-more-views-for-2024/"><u>[Updated] Best 16 YouTube Intro Makers to Bring You More Views for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-masters-list-of-affordable-and-premium-win-art-tools/"><u>2024 Approved Master's List of Affordable & Premium Win Art Tools</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/a-complete-tutorial-on-installing-latest-drivers-for-your-lenovo-docking-station/"><u>A Complete Tutorial on Installing Latest Drivers for Your Lenovo Docking Station</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/closedsubsquery-time-to-reengage-in-dialogue/"><u>ClosedSubsQuery: Time to Reengage in Dialogue?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/direct-access-to-your-epson-ds-30-all-in-one-windows-compatible-drivers-for-wise-users/"><u>Direct Access to Your Epson DS 30 All-in-One: Windows Compatible Drivers for Wise Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ensure-smooth-operation-of-your-razer-naga-with-the-newest-windows-driver-download/"><u>Ensure Smooth Operation of Your Razer Naga with the Newest Windows Driver Download</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722969983456-for-the-abstract-art-assembly-instructions/"><u>For the Abstract Art Assembly Instructions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-effortlessly-solve-your-intel-dptf-driver-install-problem-and-optimize-computer-performance/"><u>How to Effortlessly Solve Your Intel DPTF Driver Install Problem and Optimize Computer Performance</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-install-new-dell-wifi-or-ethernet-driver-on-windows-7-pcs/"><u>How to Install New Dell WiFi or Ethernet Driver on Windows 7 PCs</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-htc-u23-pro-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve HTC U23 Pro Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-essential-guide-broadcast-360-videos-on-facebook/"><u>In 2024, Essential Guide Broadcast 360 Videos on Facebook</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-z-fold-5-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy Z Fold 5 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-brother-mfc-7860dw-drivers-for-windows-free-downloads-available/"><u>Latest Brother MFC- 7860DW Drivers for Windows - Free Downloads Available!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mastering-dell-webcam-driver-updates-a-comprehensive-tutorial/"><u>Mastering Dell Webcam Driver Updates: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://facebook.techidaily.com/mastering-messenger-kids-sleep-mode-a-step-by-step-guide/"><u>Mastering Messenger Kids' Sleep Mode: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-blue-screen-of-death-error-bsod-stop-code-0x0000003b-explained/"><u>Solving Blue Screen of Death Error (BSOD) - Stop Code 0X0000003B Explained</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-geforce-rtx-3080-driver-for-windows-10-8-7/"><u>[Download] GeForce RTX 3080 Driver | For Windows 10 / 8 / 7</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-quickcastpro-a-step-by-step-guide-for-flawless-podcast-streaming/"><u>[New] 2024 Approved QuickCastPro A Step-by-Step Guide for Flawless Podcast Streaming</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-boost-your-images-advanced-online-photoshop-cropping-tips/"><u>[New] Boost Your Images Advanced Online Photoshop Cropping Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-overcome-youtube-tweet-buffer-in-chromebook/"><u>[New] Overcome YouTube Tweet Buffer in Chromebook</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-enhancing-presentations-with-powerpoints-speech-recognition-tool/"><u>[Updated] 2024 Approved Enhancing Presentations with PowerPoint's Speech Recognition Tool</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unveiling-advantages-comprehen/"><u>[Updated] In 2024, Unveiling Advantages Comprehen</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/brother-hl-l2380dw-printer-essential-software-and-drivers-download-guide-for-windows-pcs/"><u>Brother HL-L2380DW Printer: Essential Software & Drivers Download Guide for Windows PCs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/diy-guide-to-successfully-download-and-configure-epson-xp-410-drivers-in-windows-environments/"><u>DIY Guide to Successfully Download and Configure Epson XP-410 Drivers in Windows Environments</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-your-hp-stream-drives-with-one-click/"><u>Download & Update Your HP Stream Drives with One Click!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-essential-drivers-for-your-hp-envy-5055-printer/"><u>Download the Essential Drivers for Your HP ENVY 5055 Printer</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-updated-nvidia-rtx-3080-graphics-drivers-for-windows-users-v10-v8-v7/"><u>Download Updated NVIDIA RTX 3080 Graphics Drivers for Windows Users (v10, v8, V7)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-p55plus-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel P55+ to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-retrieving-secret-snaps-tips-for-snapchats-private-photos/"><u>In 2024, Retrieving Secret Snaps Tips for Snapchat's Private Photos</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/nvidia-driver-update-for-windows-11-made-easy-find-install-and-enjoy/"><u>NVIDIA Driver Update for Windows 11 Made Easy: Find, Install, and Enjoy!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/revealing-rays-of-light-the-ultimate-guide-for-choosing-a-premium-4k-screen-for-2024/"><u>Revealing Rays of Light The Ultimate Guide for Choosing a Premium 4K Screen for 2024</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/scopri-le-ultime-soluzioni-senza-costo-top-3-lettori-dvd-per-windows-nella-versione-11-e-la-guida-alla-riproduzione-universale/"><u>Scopri Le Ultime Soluzioni Senza Costo! Top 3 Lettori DVD per Windows Nella Versione 11 E La Guida Alla Riproduzione Universale.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-installing-kyocera-printer-drivers-in-windows/"><u>Step-by-Step Guide: Installing KYOCERA Printer Drivers in Windows</u></a></li>
 </ul></div>
 

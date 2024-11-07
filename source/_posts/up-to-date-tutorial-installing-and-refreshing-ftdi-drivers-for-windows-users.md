@@ -1,7 +1,7 @@
 ---
 title: "Up-to-Date Tutorial: Installing and Refreshing FTDI Drivers for Windows Users"
-date: 2024-09-01T07:11:52.188Z
-updated: 2024-09-02T07:11:52.188Z
+date: 2024-11-03T18:53:38.347Z
+updated: 2024-11-06T23:20:42.052Z
 tags:
   - win11
   - win10
@@ -35,9 +35,6 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-download-and-install-arduino-nano-driver-in-windows-solved/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Option 1 –** **Download and install the driver manually**
 
  The screenshots below are from Windows 10, but the steps are also valid for other Windows system.
@@ -46,28 +43,39 @@ OR
 2. Click **Windows Installer, for Windows XP and up** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ar.jpg)
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
  Select **Browse my computer for driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9725918e348.png)
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Option 2 – Automatically update drivers**
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -80,9 +88,14 @@ OR
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/nano.jpg)
 
@@ -98,8 +111,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +118,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-cut-to-the-chase-8-simple-youtube-thumbnail-builders/"><u>[New] 2024 Approved Cut-to-the-Chase 8 Simple YouTube Thumbnail Builders</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-introducing-top-tier-facebook-update-insights-for-2024/"><u>[New] Introducing Top-Tier Facebook Update Insights for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-guide-to-screen-and-video-recording-for-2024/"><u>[Updated] The Ultimate Guide to Screen and Video Recording for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-touch-of-class-in-tech-how-the-skagen-falster-2-gloriously-challenges-apples-dominance/"><u>A Touch of Class in Tech: How the Skagen Falster 2 Gloriously Challenges Apple's Dominance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-unleashed-5-revolutionary-ways-to-harness-the-power-of-personalized-instructions/"><u>ChatGPT Unleashed: 5 Revolutionary Ways to Harness the Power of Personalized Instructions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-system-upgraded-download-corsair-icue-software-for-windows-11-and-10/"><u>Get Your System Upgraded: Download Corsair iCUE Software for Windows 11 & 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-fetch-the-latest-mpow-bluetooth-driver-software-and-updates-for-windows-1087-computers/"><u>How to Fetch the Latest MPOW Bluetooth Driver Software & Updates for Windows 10/8/7 Computers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-laserjet-m506-driver-download-and-update/"><u>HP LaserJet M506 Driver Download & Update</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-engaging-story-starter-toolkit/"><u>In 2024, Engaging Story Starter Toolkit</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/solution-the-primary-cause-of-arc-blow-in-welding-processes-is-magnetic-fields-that-deflect-the-arc-away-from-its-intended-path/"><u>Solution: The Primary Cause of Arc Blow in Welding Processes Is Magnetic Fields that Deflect the Arc Away From Its Intended Path</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-trouble-with-your-corsair-gaming-headset-now-working/"><u>Solved! Trouble with Your Corsair Gaming Headset - Now Working</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-fixing-hp-beats-audio-issues-in-windows-versions/"><u>Troubleshooting and Fixing HP Beats Audio Issues in Windows Versions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-computer-free-samsung-960-evo-solid-state-drive-drivers-for-windows-systems/"><u>Update Your Computer: Free Samsung 960 EVO Solid State Drive Drivers for Windows Systems</u></a></li>
+</ul></div>
 

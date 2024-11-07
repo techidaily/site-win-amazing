@@ -1,7 +1,7 @@
 ---
 title: "Easy Step-by-Step Tutorial: Downloading & Installing Ricoh Printer Drivers on Windows"
-date: 2024-09-01T07:16:29.200Z
-updated: 2024-09-02T07:16:29.200Z
+date: 2024-10-30T21:55:25.735Z
+updated: 2024-11-07T02:51:15.486Z
 tags:
   - win11
   - win10
@@ -45,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/01714150012339f1efdced7e1f734d013877746c1
 
  If Windows Device Manager fails to find a new driver for you, you need to source the driver directly from the device manufacturer or use a tool like ours, called **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  , to do it automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Automatically update all your device drivers
 
  One of the most common causes of sound issues is an outdated or faulty sound driver. Your SteelSeries Artis 5 is no exception.
@@ -58,22 +55,13 @@ thumbnail: https://thmb.techidaily.com/01714150012339f1efdced7e1f734d013877746c1
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the**Update** button next to your sound device or your Arctis 5 to download the latest and correct driver for it.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/audio-drivers.jpg)  
  Or you can also click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will have full tech support and a 30-day money-back guarantee.)
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Still have audio issues?
 
  In rare cases, updating your drivers won’t get your problem solved. If unfortunately, updating the SteelSeries Actis 5 drivers didn’t help, you can try the following troubleshooting steps:
@@ -82,17 +70,35 @@ thumbnail: https://thmb.techidaily.com/01714150012339f1efdced7e1f734d013877746c1
 
  Make sure you have set your SteelSeries Arctis 5 as the default output/input device. Also, select**Set as Default Communications** **Device** .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Make sure you’ve set it up correctly
 
  Follow[**SteelSeries Actis 5 setup guide**](https://support.steelseries.com/hc/en-us/articles/115000022031-Setup-Arctis-5) to make sure you’ve done it right. Using the rear ports directly on your motherboard instead of any HUB ports or external hubs will ensure your drivers load correctly, and that the device receives adequate power.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Have the latest version of SteelSeries Engine installed
 
  In-app updates are supported so you will be prompted to update directly through the Engine. But if this doesn’t do the trick, you can uninstall the SteelSeries Engine, and download[**the latest SteelSeries Engine**](https://steelseries.com/engine) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Disable audio enhancements
 
 1. In the bottom right corner, right-click the Volume icon, and select**Sounds** .
@@ -100,8 +106,12 @@ thumbnail: https://thmb.techidaily.com/01714150012339f1efdced7e1f734d013877746c1
 3. Switch to the**Enhancements** tab, check the**Disable all enhancements** option, and click**OK** to apply.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Select different formats
 
  If you’re still unable to get anything, try selecting a different input/output format in the**Properties** \>**Advanced** window (use the headset steps above).
@@ -121,8 +131,6 @@ thumbnail: https://thmb.techidaily.com/01714150012339f1efdced7e1f734d013877746c1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +138,20 @@ thumbnail: https://thmb.techidaily.com/01714150012339f1efdced7e1f734d013877746c1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-social-network-savants-secret-for-downloading-chats-for-2024/"><u>[Updated] The Social Network Savant’s Secret for Downloading Chats for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-guide-and-free-downloads-for-epson-et-2750-drivers-on-windows-devices/"><u>Complete Guide and Free Downloads for Epson ET-2750 Drivers on Windows Devices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-user-friendly-tutorial-update-your-microsoft-drivers-for-windows-operating-systems-windows-1087/"><u>Complete User-Friendly Tutorial: Update Your Microsoft Drivers for Windows Operating Systems (Windows 10/8/7)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722971982461-easy-guide-to-downloading-logitech-k400-plus-peripheral-drivers-for-optimal-performance/"><u>Easy Guide to Downloading Logitech K400 Plus Peripheral Drivers for Optimal Performance.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-methods-for-fresh-webcam-driver-installation-in-windows-11/"><u>Easy Methods for Fresh Webcam Driver Installation in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-repairing-your-steelseries-arctis-5-headsets-broken-microphone-no-more-sorry/"><u>Expert Tips for Repairing Your SteelSeries Arctis 5 Headset's Broken Microphone (NO MORE SORRY)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/freshly-updated-gigabyte-ethernet-driver-pack-available-for-download/"><u>Freshly Updated Gigabyte Ethernet Driver Pack Available for Download</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-nvidia-rtx-1080-display-drivers-on-windows-11-download-instructions/"><u>Get Your NVIDIA RTX 1080 Display Drivers on Windows 11 – Download Instructions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/immaculate-image-freezing-your-desktop-view/"><u>Immaculate Image Freezing Your Desktop View</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-y100i-power-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo Y100i Power 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/ultimate-strategy-batch-convert-heic-files-to-jpeg-in-windows-11/"><u>Ultimate Strategy: Batch Convert HEIC Files to JPEG in Windows 11</u></a></li>
+</ul></div>
 

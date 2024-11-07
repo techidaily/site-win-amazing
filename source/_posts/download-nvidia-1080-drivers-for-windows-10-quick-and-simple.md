@@ -1,7 +1,7 @@
 ---
 title: Download NVIDIA 1080 Drivers for Windows 10 - Quick & Simple
-date: 2024-09-01T07:11:58.757Z
-updated: 2024-09-02T07:11:58.757Z
+date: 2024-11-06T00:47:54.089Z
+updated: 2024-11-06T17:54:43.466Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ OR
 
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Option 2 – Automatically update your network adapter driver
 
  If you don’t have the time, patience or computer skills to update your driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. Driver Easy handles it all.
@@ -39,7 +46,22 @@ OR
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bff59d2428c6.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bff59dfc13fd.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
@@ -52,8 +74,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -61,8 +81,17 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-ultimate-devices-for-home-and-office-for-2024/"><u>[New] Ultimate Devices for Home and Office for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-captivatescreen-scrutiny-platform/"><u>[Updated] In 2024, CaptivateScreen Scrutiny Platform</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-crafting-the-perfect-pitch-inviting-listeners-to-join-us/"><u>[Updated] In 2024, Crafting the Perfect Pitch Inviting Listeners to Join Us</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722965788854-detailed-arbitration-clauses-in-international-contracts-can-prevent-disputes-over-procedural-matters-such-as-governing-law-language-and-seat-selection/"><u>Detailed Arbitration Clauses in International Contracts Can Prevent Disputes over Procedural Matters, Such as Governing Law, Language, and Seat Selection.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expand-your-watchlist-with-easy-remote-access-setup-for-samsung-smart-tvs/"><u>Expand Your Watchlist with Easy Remote Access Setup for Samsung Smart TVs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-logitech-k350-keyboard-drivers-free-download/"><u>Get the Latest Logitech K350 Keyboard Drivers - Free Download</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-hands-on-the-latest-sound-blaster-audigy-graphics-card-drivers/"><u>Get Your Hands on the Latest Sound Blaster Audigy Graphics Card Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-hp-laserjet-amoji-5200-drivers-compatible-with-windows-11108-start-printing-today/"><u>Get Your HP LaserJet Amoji 5200 Drivers: Compatible with Windows 11/10/8 – Start Printing Today!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-leading-dialogue-composers-circle/"><u>In 2024, Leading Dialogue Composer's Circle</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-to-stop-assassins-creed-odyssey-from-crashing-on-pc-easily/"><u>Troubleshooting Tips to Stop Assassin's Creed Odyssey From Crashing on PC Easily</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->

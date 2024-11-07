@@ -1,7 +1,7 @@
 ---
 title: Download Brother MFC-9130CW Printer Drivers - Get Started Today
-date: 2024-10-28T07:38:22.126Z
-updated: 2024-11-01T06:21:09.609Z
+date: 2024-11-03T01:31:46.781Z
+updated: 2024-11-07T02:02:49.753Z
 tags:
   - win11
   - win10
@@ -41,10 +41,10 @@ You can also download your MFC-9130CW printer driver from Brother and then insta
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1dedc8b41f6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Select your**operating system version**, then click**Search**.
@@ -57,13 +57,6 @@ You can also download your MFC-9130CW printer driver from Brother and then insta
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1defbcaf0a3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Open the downloaded file and follow the on-screen instructions to install it on your computer.
 
 ### Method 2: Update your printer driver with Device Manager
@@ -72,20 +65,27 @@ You can also use Device Manager to update your printer driver. To do so:**1)**Pr
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0912dd92d53.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**Double click**Print queues**. Right click**Brother MFC-9130CW**, then click**Update driver**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df1ea3a5db.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**Click**Search automatically for updated driver software**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df347cb7e8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Wait for your system to update the driver for you.
 
@@ -95,16 +95,16 @@ If you don’t have the time, patience or skills to update your driver manually,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a66b4a3dfe.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click the **Update**  button next to_Brother MFC-9130CW_ to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df338bb01c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’ve updated your driver with Driver Easy but your driver issues persist, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
 
@@ -126,19 +126,21 @@ If you don’t have the time, patience or skills to update your driver manually,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-perfect-timeline-control-with-top-20-tweet-management-apps/"><u>[Updated] 2024 Approved Perfect Timeline Control with Top 20 Tweet Management Apps</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigate-the-vlogiverse-6-curated-questionnaires-for-discerning-viewers/"><u>2024 Approved Navigate the Vlogiverse 6 Curated Questionnaires for Discerning Viewers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-photoshop-color-adjustments-for-beginners/"><u>2024 Approved Photoshop Color Adjustments for Beginners</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-upgrade-canon-eos-dslr-camera-software/"><u>Download and Upgrade Canon EOS DSLR Camera Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-and-easy-guide-to-installing-intel-82579v-drivers-start-today/"><u>Free & Easy Guide to Installing Intel 82579V Drivers – Start Today</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-startech-vga-drivers-compatible-with-usb/"><u>Free Download: StarTech VGA Drivers Compatible with USB</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-infinix-note-30-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Infinix Note 30 5G Location | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-office-policies-understanding-the-consequences-of-chatgpt-usage-in-the-workplace/"><u>Navigating Office Policies: Understanding the Consequences of ChatGPT Usage in the Workplace</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-step-by-step-process-for-extracting-rhythmic-grooves-from-tracks/"><u>New 2024 Approved Step-by-Step Process for Extracting Rhythmic Grooves From Tracks</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-start-fetching-usb-webcam-drivers-for-hassle-free-use/"><u>Quick-Start: Fetching USB Webcam Drivers for Hassle-Free Use</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-restoring-functionality-to-a-broken-windows-store-cache-fixed/"><u>Step-by-Step Tutorial: Restoring Functionality to a Broken Windows Store Cache [FIXED]</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-17-inch-laptops-the-ultimate-guide/"><u>Top Rated 17-Inch Laptops : The Ultimate Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/usb-recognition-issues-solved-effective-tips-for-windows-10-users/"><u>USB Recognition Issues Solved: Effective Tips for Windows 10 Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-does-output-impedance-mean-for-your-audio-equipment/"><u>What Does Output Impedance Mean for Your Audio Equipment?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-5-ways-to-record-facetime-calls/"><u>[Updated] 2024 Approved 5 Ways to Record FaceTime Calls</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-premier-roundup-2023s-top-free-video-editing-apps/"><u>[Updated] 2024 Approved Premier Roundup 2023'S Top Free Video Editing Apps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unveiling-the-top-rated-srt-translators-for-zero-cost-for-2024/"><u>[Updated] Unveiling the Top-Rated SRT Translators for Zero Cost for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-intel-iris-plus-gvt-655-graphics-driver-compatible-with-windows-10-and-11/"><u>Download Intel Iris Plus GVT 655 Graphics Driver - Compatible with Windows 10 and 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ensuring-top-displayed-calculator-on-pcs/"><u>Ensuring Top-Displayed Calculator on PCs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-easily-install-and-upgrade-to-the-newest-nvidia-rtx-3070-driver-for-windows-users/"><u>How to Easily Install & Upgrade to the Newest NVIDIA RTX 3070 Driver for Windows Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-leave-a-life360-group-on-xiaomi-redmi-12-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Xiaomi Redmi 12 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977599551-intel-ac3160-wifi-card-latest-stable-drivers-installed-fast/"><u>Intel AC3160 WiFi Card - Latest Stable Drivers Installed Fast</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-intel-usb-30-drivers-available-now-for-windows-10-systems-free-downloads/"><u>Latest Intel USB 3.0 Drivers Available Now for Windows 10 Systems - Free Downloads!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/official-downloads-install-logitech-steering-wheel-g29-pro-drivers-for-windows-xp-vista-7810/"><u>Official Downloads: Install Logitech Steering Wheel (G29 Pro) Drivers for Windows XP, Vista, 7/8/10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-guide-download-and-update-dell-d3100-graphics-card-software/"><u>Quick Guide: Download and Update DELL D3100 Graphics Card Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-installing-new-surface-book-2-device-drivers-without-hassle/"><u>Step-by-Step Tutorial: Installing New Surface Book 2 Device Drivers Without Hassle</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-wsl-experience-improves-a-closer-look-at-user-friendly-updates-in-windows-subsystem-for-linux/"><u>The WSL Experience Improves: A Closer Look at User-Friendly Updates in Windows Subsystem for Linux</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/turning-snapchat-videos-inside-out-easily/"><u>Turning Snapchat Videos Inside Out Easily</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-generative-artificial-intelligence-the-future-of-machine-based-innovation/"><u>Unveiling Generative Artificial Intelligence: The Future of Machine-Based Innovation</u></a></li>
 </ul></div>
 

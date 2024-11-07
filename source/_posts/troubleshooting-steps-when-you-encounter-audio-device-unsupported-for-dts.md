@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps When You Encounter 'Audio Device Unsupported for DTS'
-date: 2024-09-01T07:12:09.671Z
-updated: 2024-09-02T07:12:09.671Z
+date: 2024-11-02T00:55:25.678Z
+updated: 2024-11-06T16:46:25.794Z
 tags:
   - win11
   - win10
@@ -50,8 +50,12 @@ Here are 3 ways you can update your Bluetooth driver in Windows 10:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2: Update Bluetooth driver via Device Manager
 
  Device Manager is surely a quick way to update our Bluetooth driver since our Windows system automatically detects what Bluetooth driver we’re using and helps us find one available. But there’s one niggle: it doesn’t necessarily have the latest version available. Still, let’s give it a go:
@@ -59,31 +63,42 @@ Here are 3 ways you can update your Bluetooth driver in Windows 10:
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Locate and double-click on**Bluetooth** . And you can see the manufacturer from the name of your**Bluetooth** (in my case, Bluetooth).  
+
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e4e11950c1.jpg)
 3. Right-click on**the** **Bluetooth** and click**Update driver** .  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e4eb0d5139.jpg)
 4. Click **Search automatically for updated driver software** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e502f3ef41.jpg)
 5. Your Windows will try its best to find the latest **Bluetooth** driver available for your computer. Then wait a bit and see if you’re provided with a driver update:  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    * If yes, follow the on-screen instructions, skip step 6 and restart your computer to finish the update process.  
    * If no, proceed with step**6)** .
 6. You see the following result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e50b3b2304.jpg)  
  The message isn’t always true since Windows can be slow in keeping up with manufacturer’s driver releases. You might have to check out other methods to have the latest driver installed.
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 3: Update Bluetooth driver manually
 
@@ -94,9 +109,6 @@ Here are 3 ways you can update your Bluetooth driver in Windows 10:
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Locate and double-click on**Bluetooth** and you can see the manufacturer from the name of your**Bluetooth** (in my case, Bluetooth).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e4e11950c1.jpg)
 3. Go to the manufacturer’s website, check out the **Support** section for **driver downloads** .
 4. Find out and click the right download link for **your variant of Windows operating system**  . Usually a few download options will be listed but you might want to click   **the first**  result for the latest driver version.
@@ -115,8 +127,6 @@ That’s it  – 3 methods to update your **Windows 10 Bluetooth** driver. Hope 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +134,22 @@ That’s it  – 3 methods to update your **Windows 10 Bluetooth** driver. Hope 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-seamless-google-meet-integration-for-youtube-enthusiasts/"><u>[New] Seamless Google Meet Integration for YouTube Enthusiasts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-diy-iphone-audio-memos-step-by-step/"><u>[Updated] DIY iPhone Audio Memos Step by Step</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-expertise-in-action-mastering-iphone-silhouette-art/"><u>[Updated] Expertise in Action Mastering iPhone Silhouette Art</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-20-best-video-editors-compatible-with-dji-videos/"><u>2024 Approved 20 Best Video Editors Compatible with DJi Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-captivating-creations-utilizing-motion-blur-effects-in-ai/"><u>2024 Approved Captivating Creations Utilizing Motion Blur Effects in AI</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-simplify-your-digital-life-5-essential-recording-strategies-web/"><u>2024 Approved Simplify Your Digital Life 5 Essential Recording Strategies Web</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-unveiling-the-metaverse-and-multimetase-core-disparities-explored/"><u>2024 Approved Unveiling the Metaverse & MultiMetase Core Disparities Explored</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/acer-predator-xb271hu-driver-download-fast-and-simple-installation-guide/"><u>Acer Predator XB271HU Driver Download: Fast and Simple Installation Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amp-up-your-home-studio-secure-official-focusrite-scarlett-2i2-driver-for-pc-windows/"><u>Amp Up Your Home Studio: Secure Official Focusrite Scarlett 2I2 Driver for PC (Windows)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722976770786-download-and-install-nexiq-usb-link-2-drivers-step-by-step-guide/"><u>Download and Install Nexiq USB Link 2 Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-vivo-v27-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Vivo V27 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-upgrade-to-windows-10-may-2020-update-with-enhanced-audio-drivers/"><u>How to Upgrade to Windows 10 May 2020 Update with Enhanced Audio Drivers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-itel-a60-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Itel A60</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722958616577-step-by-step-guide-updating-your-acer-nitro-5-graphics-and-chipset-drivers/"><u>Step-by-Step Guide: Updating Your Acer Nitro 5 Graphics & Chipset Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/toshiba-dynabook-driver-updates-and-downloads-for-windows-operating-systems/"><u>Toshiba DynaBook Driver Updates & Downloads for Windows Operating Systems</u></a></li>
+</ul></div>
 

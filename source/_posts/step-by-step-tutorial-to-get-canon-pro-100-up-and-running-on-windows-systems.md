@@ -1,7 +1,7 @@
 ---
 title: Step by Step Tutorial to Get Canon PRO 100 Up and Running on Windows Systems
-date: 2024-10-28T05:42:20.491Z
-updated: 2024-10-31T21:40:05.815Z
+date: 2024-11-04T23:49:40.154Z
+updated: 2024-11-07T01:35:19.471Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 1: Update your fingerprint driver automatically (Recommended)
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-48.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
@@ -65,20 +65,20 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-49.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.  
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Update fingerprint driver manually
@@ -110,16 +110,19 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-advanced-techniques-in-zoom-sessions-capture/"><u>[New] In 2024, Advanced Techniques in Zoom Sessions Capture</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-top-2-directors-cut-downloads-for-2024/"><u>[Updated] Top 2 Director's Cut Downloads for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-upgrading-made-easy-your-guide-to-smooth-tech-transitions/"><u>2024 Approved Upgrading Made Easy Your Guide to Smooth Tech Transitions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-epson-wf-2630-driver-for-a-smooth-printing-experience-on-win7win81win10/"><u>Get Your Epson WF 2630 Driver for a Smooth Printing Experience on Win7/Win8.1/Win10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-updated-corsair-h80i-v2-sata-and-nvme-drive-drivers-today/"><u>Install Updated Corsair H80i V2 SATA & NVMe Drive Drivers Today!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-canon-pixma-ts3322-printer-drivers-ready-for-download-and-installation/"><u>Latest Canon PIXMA TS3322 Printer Drivers Ready for Download & Installation</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ity-check-taking-screencasts-of-youtube-videos-for-2024/"><u>Legality Check Taking Screencasts of YouTube Videos for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/navigating-the-digital-dating-scene-savvy-advice-for-both-genders-using-massmail-techniques/"><u>Navigating the Digital Dating Scene: Savvy Advice for Both Genders Using MassMail Techniques</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/poco-c51-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco C51 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-s17e-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo S17e and Browser | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722975358225-step-by-step-download-of-latest-drivers-for-your-nvidia-quadro-rtx-8000-on-win-10-8-or-7/"><u>Step-by-Step Download of Latest Drivers for Your Nvidia Quadro RTX 8000 on Win 10, 8 or 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-files-downloaded-now-ultimate-guide-to-killer-e2500-gigabit-ethernet-driver-software/"><u>[Get Your Files Downloaded Now] Ultimate Guide to Killer E2500 Gigabit Ethernet Driver Software</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-exceptional-aspects-of-inexpensive-asmr-microphones/"><u>[New] In 2024, Exceptional Aspects of Inexpensive ASMR Microphones</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-top-tier-applications-for-animation-and-modeling-craft/"><u>[New] Top-Tier Applications for Animation & Modeling Craft</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-beam-breakthroughs-lighting-know-how-for-video-success/"><u>[Updated] In 2024, Beam Breakthroughs Lighting Know-How for Video Success</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-intels-thunderbolt-usb-c-card-driver-with-ease-and-speed/"><u>Download Intel's Thunderbolt USB-C Card Driver with Ease and Speed</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-driver-update-for-dell-latitude-e6420-swift-download-options-inside/"><u>Effortless Driver Update for Dell Latitude E6420 – Swift Download Options Inside</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-of-logitech-m705-drivers-for-optimal-performance/"><u>Effortless Installation of Logitech M705 Drivers for Optimal Performance</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elite-playlists-fitness-challenges/"><u>Elite Playlists Fitness Challenges</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-gameplay-with-the-latest-geforce-rtx-2080-ti-graphics-card-drivers/"><u>Enhance Your Gameplay with the Latest GeForce RTX 2080 Ti Graphics Card Drivers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004192507-fixing-valheims-pc-performance-stop-freezing-and-stuttering-issues/"><u>Fixing Valheim's PC Performance: Stop Freezing & Stuttering Issues!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-or-install-amd-display-drivers-on-a-windows-machine/"><u>How to Update or Install AMD Display Drivers on a Windows Machine</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-maximize-your-youtube-impact-with-perfect-aspect-ratios/"><u>In 2024, Maximize Your YouTube Impact with Perfect Aspect Ratios</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-mpow-bluetooth-driver-updates-for-windows-11-8-and-7-users/"><u>Latest MPOW Bluetooth Driver Updates for Windows 11, 8 and 7 Users</u></a></li>
 </ul></div>
 

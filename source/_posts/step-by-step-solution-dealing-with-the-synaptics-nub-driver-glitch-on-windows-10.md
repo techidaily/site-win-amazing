@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Dealing with the Synaptics Nub Driver Glitch on Windows 10"
-date: 2024-10-27T02:32:43.790Z
-updated: 2024-11-01T00:23:56.793Z
+date: 2024-11-02T00:19:33.025Z
+updated: 2024-11-06T21:48:41.026Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
 [**Method 2 – Automatically:**](https://tools.techidaily.com/drivereasy/download/) This option is **much quicker and easier** . **All**   you need to do is **just a couple of mouse clicks** !
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Download and update the drivers for your Lenovo X1 Carbon manually
 
  You can download the updated driver files from the official website of Lenovo. Then install them on your X1 Carbon on your own. Here is how to do it:
@@ -43,15 +50,21 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap668.png)
 3. In the search bar, type**X1 Carbon** . Then locate**your generation** of X1 Carbon in the list of search results and click **Downloads** under it. Then you’ll be redirected to the drivers download page of your generation of X1 Carbon.  
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap669.png)
 4. Click **Operating systems**  to select the OS you’re currently using. Click **Expand Details**  to view the details of each device.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap670.png)
 5. Click **the downward triangle**  to view the details of that driver. Then you can click **the download button**  to download that driver. If you want to download multiple drivers, you can also click **the plus button**  to add it to your downloads list first.  
@@ -63,20 +76,6 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap673.png)
 8. After all the driver files are downloaded on your X1 Carbon, double-click the driver files one by one and follow the on-screen instructions to install the updated driver files on your X1 Carbon.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Download and update the drivers for your Lenovo X1 Carbon automatically
 
@@ -90,14 +89,21 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap675.png)  
  You can do it for free if you like, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -122,21 +128,20 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-farming-fiesta-fun-pack-the-ultimate-agritainment-guide/"><u>[New] 2024 Approved Farming Fiesta Fun-Pack The Ultimate Agritainment Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-9plus-essential-guides-to-mastering-the-art-of-online-cricket-viewership-for-2024/"><u>[New] 9+ Essential Guides to Mastering the Art of Online Cricket Viewership for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unleash-creativity-premium-editors-for-mobile-and-desktop-oses/"><u>[Updated] In 2024, Unleash Creativity Premium Editors for Mobile & Desktop OSes</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-prime-captures-of-apples-hd-video-screenshots-under-156-chars-for-2024/"><u>[Updated] Prime Captures of Apple's HD Video Screenshots (Under 156 Chars) for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-unveiling-the-trick-how-to-store-instagram-content-on-pc-and-macos/"><u>[Updated] Unveiling the Trick How to Store Instagram Content on PC and macOS</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/creep-tests-are-performed-to-predict-the-lifespan-of-materials-under-high-temperature-constant-load-conditions/"><u>Creep Tests Are Performed to Predict the Lifespan of Materials Under High-Temperature, Constant Load Conditions.</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/dell-optiplex-7010-drivers-download-and-update/"><u>Dell OptiPlex 7010 Drivers Download & Update</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-guide-keeping-your-windows-sata-drivers-up-to-date-and-functional/"><u>Effortless Guide: Keeping Your Windows' SATA Drivers Up-to-Date and Functional</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-install-hp-universal-printing-software-for-windows-systems/"><u>How to Install HP Universal Printing Software for Windows Systems</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-smart-8-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/movavis-no-cost-video-transcoding-convert-mov-to-em-3g2-files-on-the-web/"><u>Movavi's No-Cost Video Transcoding - Convert MOV to EM 3G2 Files on the Web</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-setup-guide-for-hp-officejet-5740-drivers-download-now/"><u>Quick Setup Guide for HP OfficeJet ˈ5740 Drivers - Download Now!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-msvcrtdll-file-missing-issues-on-your-pc-a-step-by-step-guide/"><u>Resolving MSVCRT.DLL File Missing Issues on Your PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/restart-reset-reconnect-fix-windows-11-printing-problems/"><u>Restart, Reset, Reconnect: Fix Windows 11 Printing Problems</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/1715701116348-silent-blades-and-righteous-honor-your-next-game-adventure-awaits/"><u>Silent Blades & Righteous Honor Your Next Game Adventure Awaits!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshoot-and-repair-restoring-sound-to-your-logitech-g433-microphone/"><u>Troubleshoot and Repair: Restoring Sound to Your Logitech G433 Microphone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-leverage-social-blades-platform-for-in-depth-video-analytics-for-2024/"><u>[Updated] Leverage Social Blade's Platform for In-Depth Video Analytics for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-step-up-your-instagram-game-with-these-highest-rated-grid-makers/"><u>[Updated] Step Up Your Instagram Game with These Highest-Rated Grid Makers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-updating-your-epson-xp-245-printer-on-various-windows-versions-7-8-and-10/"><u>Easy Guide: Updating Your Epson XP 245 Printer on Various Windows Versions (7, 8 & 10)</u></a></li>
+<li><a href="https://facebook.techidaily.com/exploring-metaverse-uncovering-facebooks-role/"><u>Exploring Metaverse: Uncovering Facebook's Role</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-your-asus-dvd-drives-with-official-drivers-free-downloads/"><u>How to Update Your ASUS DVD Drives with Official Drivers - FREE Downloads</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-infinix-hot-40-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Infinix Hot 40</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-video-on-ios-top-10-applications-to-watch/"><u>In 2024, Mastering Video on iOS Top 10 Applications to Watch</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-professional-tips-rotate-and-flip-iphone-imagery/"><u>In 2024, Professional Tips Rotate and Flip iPhone Imagery</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-official-amd-ryzen-chipset-software-today/"><u>Install Official AMD Ryzen Chipset Software Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-simple-update-guide-for-microsoft-sculpt-keyboard-drivers/"><u>Quick and Simple Update Guide for Microsoft Sculpt Keyboard Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-start-essential-hp-photosmart-7520-printing-drivers-free-downloads/"><u>Quick Start: Essential HP Photosmart 7520 Printing Drivers - Free Downloads</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-quality-at-low-price-cheetahs-dual-arm-showcase/"><u>Top Quality at Low Price: Cheetah's Dual Arm Showcase</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Which Pokémon can Evolve with a Moon Stone For Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/winning-strategies-download-and-install-mouse-drivers-for-smooth-performance-in-windows-7/"><u>Winning Strategies: Download And Install Mouse Drivers For Smooth Performance In Windows 7</u></a></li>
 </ul></div>
 
