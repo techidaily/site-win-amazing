@@ -1,7 +1,7 @@
 ---
 title: Update Your HP OfficeJet 4655 with Newest Driver Version
-date: 2024-11-01T22:21:50.017Z
-updated: 2024-11-06T20:08:57.384Z
+date: 2024-11-11T20:27:27.688Z
+updated: 2024-11-17T08:18:35.173Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) –  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1: Update your Surface Book drivers automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/) .**
@@ -48,20 +55,20 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7cabf4d114.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. **Restart**   your computer for the changes to take effect.
@@ -69,10 +76,16 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 2: Update your Surface Book drivers manually**
@@ -85,13 +98,6 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
 2. Scroll down to the Help list, then click**Install and update** \>**Download drivers and firmware for Surface** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7ccdf679a7.jpg)
 3. Select your model from the list of Surface products and follow the on-screen instructions to download the files that you need for driver updates.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Be sure to choose**ONLY** drivers that are compatible with your Windows version.
 4. Restart your computer for the changes to take effect.
@@ -117,24 +123,19 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-from-ideas-to-influence-an-insider-look-at-strategic-instagram-videos/"><u>[New] From Ideas to Influence An Insider Look at Strategic Instagram Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-places-to-access-westeros-themed-phone-sounds/"><u>[New] Top Places to Access Westeros-Themed Phone Sounds</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-unlocking-the-secrets-of-instagrams-music-rights-management-for-2024/"><u>[Updated] Unlocking the Secrets of Instagram's Music Rights Management for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-13-pro-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 13 Pro in Lost Mode</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/comprehensive-guide-to-updating-lg-display-drivers-for-windows-operating-systems-10-7-and-groovy/"><u>Comprehensive Guide to Updating LG Display Drivers for Windows Operating Systems (10, 7 & Groovy)</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/confident-data-retrieval-for-iphones-a-safe-path-to-recovering-lost-memories/"><u>Confident Data Retrieval for iPhones: A Safe Path to Recovering Lost Memories</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-download-and-setup-of-the-epson-xp-400-printers-latest-driver-version/"><u>Easy Download & Setup of the Epson XP-400 Printer's Latest Driver Version</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-focusrite-scarlett-solo-ultimate-audio-interface-for-windows-users/"><u>Free Download: Focusrite Scarlett Solo - Ultimate Audio Interface for Windows Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-canon-mg2520-drivers-for-windows-to-enhance-printing-functionality/"><u>Get the Newest Canon MG2520 Drivers for Windows to Enhance Printing Functionality</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-effortlessly-update-your-rndis-drivers-on-a-windows-pc-complete-solution/"><u>How to Effortlessly Update Your RNDIS Drivers on a Windows PC - Complete Solution</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-infinix-smart-7-hd-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Infinix Smart 7 HD For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://fox-making.techidaily.com/leading-video-advertisement-makers-web-and-app-solutions/"><u>Leading Video Advertisement Makers: Web & App Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/recover-your-loststolen-phone-with-find-my-a-step-by-step-guide/"><u>Recover Your Lost/Stolen Phone with Find My - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722967420474-step-by-step-guide-secure-your-latest-amd-ryzen-pertinent-to-the-ryzen-5-series-drivers-now/"><u>Step-by-Step Guide: Secure Your Latest AMD Ryzen Pertinent to the Ryzen 5 Series Drivers Now</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/steps-to-upgrade-your-intel-hd-graphics-5500-drivers/"><u>Steps to Upgrade Your Intel HD Graphics 5500 Drivers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/surpassing-expectations-in-ruggedness-and-customizability-a-deep-dive-into-the-laptop-that-stands-out-from-getacs-zdnet/"><u>Surpassing Expectations in Ruggedness & Customizability: A Deep Dive Into the Laptop That Stands Out From Getacs | ZDNet</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-f34-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy F34 5G FRP</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/tutorial-fresh-driver-installation-on-your-epson-wf-7620-printer-running-windows-os/"><u>Tutorial: Fresh Driver Installation on Your Epson WF-#7620 Printer Running Windows OS</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722968293029-unlock-full-graphics-power-fresh-install-of-the-newest-amd-vega-64-drivers-for-windows-systems/"><u>Unlock Full Graphics Power: Fresh Install of the Newest AMD Vega 64 Drivers for Windows Systems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-evaluating-visual-dynamics-the-power-of-luminances-hdr/"><u>[New] 2024 Approved Evaluating Visual Dynamics The Power of Luminance's HDR</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-a-filmmakers-handbook-building-effective-luts/"><u>[Updated] 2024 Approved A Filmmaker's Handbook Building Effective LUTs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversione-gratuita-di-file-video-mp4-in-mov-online-con-e-movavi/"><u>Conversione Gratuita Di File Video MP4 in MOV Online Con E-Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convert-raw-images-to-tiff-for-free-with-movavis-web-tool/"><u>Convert RAW Images to TIFF for Free with Movavi's Web Tool</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-steelseries-engine-driver-for-your-steelseries-keyboard/"><u>Get the Latest SteelSeries Engine Driver for Your SteelSeries Keyboard</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ssing-online-platforms-beyond-youtube-to-30plus-communities-for-2024/"><u>Harnessing Online Platforms Beyond YouTube to 30+ Communities for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-narzo-60-pro-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme Narzo 60 Pro 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-beyond-the-numbers-narrative-the-impact-of-fake-likes/"><u>In 2024, Beyond the Numbers Narrative The Impact of Fake Likes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/revolutionize-your-gameplay-with-this-gratuitous-voice-alterer-for-2024/"><u>Revolutionize Your Gameplay with This Gratuitous Voice Alterer for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-your-zebra-gk420d-drivers-swift-and-simple-download-steps/"><u>Secure Your Zebra GK420D Drivers – Swift & Simple Download Steps</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/steelseries-arctis-5-driver-software-free-download-and-step-by-step-guide/"><u>SteelSeries Arctis 5 Driver Software - Free Download and Step-by-Step Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2519327--the-life-of-a-warrior/"><u>The Life of a Warrior | Free Book</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-or-download-drivers-and-tools-improve-your-hp-deskjet-pert-productivity-with-new-releases/"><u>Update or Download Drivers & Tools: Improve Your HP DeskJet Pert Productivity with New Releases</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975934932-windows-vehicle-get-iphone-driver-software-installed-easily/"><u>Windows Vehicle: Get iPhone Driver Software Installed Easily!</u></a></li>
 </ul></div>
 

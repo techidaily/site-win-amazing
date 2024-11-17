@@ -1,7 +1,7 @@
 ---
 title: "New Graphics Cards Drivers Available Now: Download the Latest RTX 2080 for Windows 10, 7 & 8"
-date: 2024-11-06T01:12:18.718Z
-updated: 2024-11-06T23:23:28.180Z
+date: 2024-11-12T17:16:35.440Z
+updated: 2024-11-17T02:48:36.937Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 [**Method 2** **– Manually:**](https://tools.techidaily.com/drivereasy/download/) You can update your Geforce RTX 2080 driver on your own. This requires some time, patience, and sometimes even computer skills.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Update your Geforce RTX 2080 driver automatically
@@ -51,22 +51,21 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap455.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3\. Click **Update** next to your **Geforce RTX 2080** graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap454-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _You can do it for free if you like, but it’s partly manual._
@@ -74,10 +73,10 @@ _You can do it for free if you like, but it’s partly manual._
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Download and install your Geforce RTX 2080 driver manually
@@ -89,6 +88,13 @@ _You can do it for free if you like, but it’s partly manual._
  2\. Under **Option 1** , for “Product Type”, select **GeForce** ; for “Product Series”, select **GeForce RTX 20 Series** ; for “Product”, select **Geforce RTX 2080** . Then select the Operating System according to the Windows operating system you’re currently using (If you don’t know which Windows OS you’re using, see [ How to check Windows version \[Easily\]](https://tools.techidaily.com/drivereasy/download/) ). Then select your language and click **SEARCH** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap469.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3\. Click the **DOWNLOAD** button to download the driver file.
 
@@ -116,24 +122,20 @@ _You can do it for free if you like, but it’s partly manual._
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-xbox-fanatics-manual-perfect-your-screenshot-skills/"><u>[Updated] Xbox Fanatics' Manual Perfect Your Screenshot Skills</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/achieving-smooth-audio-segmentation-with-premier-for-2024/"><u>Achieving Smooth Audio Segmentation with Premier for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-motorola-edgepluss-struggle-for-elite-status/"><u>Comprehensive Review: Motorola Edge+'s Struggle for Elite Status</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-setup-epson-wf-2750-printing-software/"><u>Download & Setup: Epson WF-2750 Printing Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722966541003-easy-download-guide-to-updating-your-pc-with-the-latest-dolby-audio-driver-for-windows-versions-111081/"><u>Easy Download Guide to Updating Your PC with the Latest Dolby Audio Driver for Windows (Versions 11/10/8.1)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/essential-tips-for-successfully-installing-the-thunderbolt-3-dock-driver-on-thinkpads/"><u>Essential Tips for Successfully Installing the Thunderbolt 3 Dock Driver on ThinkPads</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-epson-v700-driver-update-for-seamless-printing-in-windows-os-versions-78110/"><u>Get the Newest Epson V700 Driver Update for Seamless Printing in Windows OS Versions - 7/8.1/10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guiding-users-through-fixing-missing-windows-1011-search-data/"><u>Guiding Users Through Fixing Missing Window's 10/11 Search Data</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-update-the-drivers-of-your-dell-233amonochrome-laser-printers/"><u>How to Update the Drivers of Your Dell 233Amonochrome Laser Printers</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-the-key-to-mastering-tiktok-a-user-friendly-manual-for-applewindows-computers/"><u>In 2024, The Key to Mastering TikTok A User-Friendly Manual for Apple/Windows Computers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-celerity-gigabit-nic-driver-pack-boosting-transfer-speeds-and-stability/"><u>Install Celerity Gigabit NIC Driver Pack - Boosting Transfer Speeds and Stability</u></a></li>
-<li><a href="https://fox-http.techidaily.com/novices-navigate-for-speedy-snapchat-videos-for-2024/"><u>Novice's Navigate for Speedy Snapchat Videos for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-and-simple-guide-to-downloadingupdating-your-synaptics-touchpad-drivers/"><u>Quick and Simple Guide to Downloading/Updating Your Synaptics Touchpad Drivers!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/resolving-the-wwe-2k22-crashing-dilemma-in-windows-a-comprehensive-guide/"><u>Resolving the WWE 2K22 Crashing Dilemma in Windows - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-special.techidaily.com/strategies-efficaces-de-sauvegarde-recurrente-pour-les-entreprises/"><u>Stratégies Efficaces De Sauvegarde Récurrente Pour Les Entreprises</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-xs-max-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone XS Max</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722975150636-update-your-computer-with-new-geforce-gtx-1eback-to-back-winners-but-he-is-not-a-household-name-like-joe-montana-and-brett-favre-are-in-the-united-states/"><u>Update Your Computer with New GeForce GTX 1Eback-to-Back Winners, but He Is Not a Household Name Like Joe Montana and Brett Favre Are in the United States</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11s-underrated-features-what-you-need-to-know/"><u>Windows 11'S Underrated Features: What You Need to Know</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-hue-harmony-translating-theory-into-artistry/"><u>[New] 2024 Approved Hue Harmony Translating Theory Into Artistry</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-exclusive-review-of-showmore-authoritative-screen-capture-software-for-2024/"><u>[Updated] Exclusive Review of ShowMore’ Authoritative Screen Capture Software for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-halovision-highlights-critique/"><u>[Updated] HaloVision Highlights Critique</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-achieve-10-free-tools-for-thumbnail-extraction/"><u>[Updated] In 2024, Achieve 10 Free Tools for Thumbnail Extraction</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-premier-hashtags-monitoring-on-facebook-twitter-and-instagram/"><u>[Updated] Premier Hashtags Monitoring on Facebook, Twitter & Instagram</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-smooth-transitions-with-illustrators-blur-effects/"><u>[Updated] Smooth Transitions with Illustrator's Blur Effects</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/dell-device-maintenance-upgrading-the-sm-bus-controller-software/"><u>Dell Device Maintenance: Upgrading the SM Bus Controller Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-easy-update-surface-drivers-made-simple/"><u>Download & Easy Update: Surface Drivers Made Simple</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-explore-top-quality-behringer-audio-drivers/"><u>Free Download: Explore Top-Quality Behringer Audio Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-logitech-t630-installation-software-for-windows-users-windows-7810/"><u>Free Logitech T630 Installation Software for Windows Users (Windows 7/8/10)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/from-script-to-screen-youtube-tutorial-and-alternative-pathways/"><u>From Script to Screen YouTube Tutorial & Alternative Pathways</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-which-video-editor-should-you-choose-sony-vegas-vs-adobe-premiere-pro-for-2024/"><u>New Which Video Editor Should You Choose? Sony Vegas vs Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/successfully-dealing-with-asus-pce-ac56-drivers-a-step-by-step-fix-for-windows-users-1187/"><u>Successfully Dealing with ASUS PCE-AC56 Drivers: A Step-by-Step Fix for Windows Users (11/8/7)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/variety/"><u>Variety</u></a></li>
 </ul></div>
 

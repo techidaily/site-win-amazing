@@ -1,7 +1,7 @@
 ---
 title: Essential HP OfficeJet 5255 Software Update - Free Download and Installation Instructions
-date: 2024-11-05T18:56:47.122Z
-updated: 2024-11-06T23:00:10.556Z
+date: 2024-11-12T08:58:17.559Z
+updated: 2024-11-17T01:34:05.601Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1 – Update your driver via Device Manager**
 
  Try to update your Validity fingerprint sensor driver from within Device Manager:
@@ -46,16 +53,23 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 2. After the Start screen shows up, click the**magnifier** icon located in the upper right corner.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-05-41.png)
 3. Type**device** into the search box. Then select**Device Manager** from a list of search results.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1098.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Here comes**Device Manager** . Click the**▷** symbol to the left of**Biometric Devices** to expand its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1073.png)
 
 5. Right-click on**Validity Sensors (WBF)** to open its context menu. Then select**Update Driver Software…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-11-03.png)
 6. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-18-21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Wait till the download and installation process finishes.
@@ -73,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Option 3 – Update your driver automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update your**Validity fingerprint sensor driver** manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -93,23 +100,10 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Validity fingerprint sensor driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-36-48-1.png)
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -140,17 +134,17 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-simplified-processes-for-adobe-presenter-video-saves-for-2024/"><u>[New] Simplified Processes for Adobe Presenter Video Saves for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-behind-the-scenes-creating-successful-youtube-shorts-videos-for-2024/"><u>[Updated] Behind the Scenes Creating Successful YouTube Shorts Videos for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-love-the-cut-filmoras-top-10-edits-unveiled/"><u>[Updated] Love the Cut Filmora's Top 10 Edits Unveiled</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/convergent-boundaries-often-lead-to-regional-metamorphism-and-mountain-building/"><u>Convergent Boundaries Often Lead to Regional Metamorphism and Mountain Building.</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/experience-professional-sound-mixing-with-the-complimentary-m-audio-ultratrack-software/"><u>Experience Professional Sound Mixing with the Complimentary M-Audio UltraTrack Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fast-track-obtaining-current-drivers-and-firmware-for-netgear-network-adapters/"><u>Fast Track: Obtaining Current Drivers and Firmware for NETGEAR Network Adapters</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-viral-potential-with-ai-driven-video-titles/"><u>In 2024, Unlocking Viral Potential with AI-Driven Video Titles</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/intel-nuc-driver-update-made-simple-a-speedy-guide/"><u>Intel NUC Driver Update Made Simple: A Speedy Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/leading-edge-techniques-for-video-based-seminars/"><u>Leading Edge Techniques for Video-Based Seminars</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-twitter-chats-with-these-essential-4-tools-to-keep-up-with-hashtags/"><u>Mastering Twitter Chats with These Essential 4 Tools to Keep Up With Hashtags</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/simple-steps-transforming-wlmp-files-into-mp4-avi-mov-and-more-with-ease/"><u>Simple Steps: Transforming WLMP Files Into MP4, AVI, MOV & More with Ease</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/speedy-troubleshooting-eliminate-your-audiobox-usb-driver-issues-in-no-time/"><u>Speedy Troubleshooting: Eliminate Your AudioBox USB Driver Issues in No Time!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-examine-recorded-conversation-for-2024/"><u>[New] Examine Recorded Conversation for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-filming-for-tweet-sharing-content-without-retweeting/"><u>[Updated] In 2024, Filming for Tweet Sharing Content without Retweeting</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-social-image-saver-stealing-and-storing-gif-images-from-twitter-for-2024/"><u>[Updated] The Social Image Saver Stealing and Storing GIF Images From Twitter for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-unleash-your-pcs-hidden-treasures-with-new-windows-10-games/"><u>2024 Approved Unleash Your PC’s Hidden Treasures with New Windows 10 Games</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/converta-seu-filme-em-mp4-sem-custo-ferramenta-on-line-livre/"><u>Converta Seu Filme Em MP4 Sem Custo - Ferramenta On-Line Livre</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-online-converter-change-wmv-files-into-flash-format-swf-easily-with-movavi/"><u>Free Online Converter: Change WMV Files Into Flash Format (SWF) Easily with Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratuit-mpg-fichier-vers-wma-en-ligne-guide-complet-convertisseur-gratuit-de-movavi/"><u>Gratuit MPG-Fichier Vers WMA en Ligne : Guide Complet - Convertisseur Gratuit De Movavi</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/how-to-move-your-digital-books-from-an-ebook-reader-to-a-pc-using-calibre/"><u>How to Move Your Digital Books From an eBook Reader to a PC Using Calibre</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/onlinelastige-methode-om-flv-video-in-mp4-zu-veranderen-movavi/"><u>Onlinelastige Methode Om FLV-Video in MP4 Zu Veranderen - Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-5-characteristics-of-high-performance-game-mice/"><u>The Ultimate 5 Characteristics of High-Performance Game Mice</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-10-platforms-similar-to-tiktok-a-comprehensive-guide/"><u>Top 10 Platforms Similar to TikTok: A Comprehensive Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unleash-graphics-potential-windows-10-now-features-nvidia-210/"><u>Unleash Graphics Potential: Windows 10 Now Features Nvidia 210</u></a></li>
 </ul></div>
 

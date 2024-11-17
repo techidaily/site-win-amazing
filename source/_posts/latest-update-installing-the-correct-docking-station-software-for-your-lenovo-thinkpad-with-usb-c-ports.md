@@ -1,7 +1,7 @@
 ---
 title: "Latest Update: Installing the Correct Docking Station Software for Your Lenovo ThinkPad with USB-C Ports"
-date: 2024-10-31T23:48:50.953Z
-updated: 2024-11-06T17:56:44.142Z
+date: 2024-11-15T17:19:32.108Z
+updated: 2024-11-16T20:30:09.802Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 2. [**Update my Synaptics drivers automatically (Recommended)**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Method 1: Update my Synaptics drivers manually**
@@ -53,10 +53,16 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Method 2: Update my Synaptics drivers automatically (Recommended)**
@@ -73,20 +79,20 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5bf49744f0.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. **Restart**   your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you have any problems while using **Driver Easy** , feel free to contact our support team at **<support@drivereasy.com>** . Be sure to attach **the URL of this article** if needed for more expedient and efficient guidance.
@@ -112,20 +118,24 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-step-into-the-future-elevate-your-gameplay-with-fbx-recorder/"><u>[New] Step Into the Future Elevate Your Gameplay with FBX Recorder</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/complete-guide-retrieving-data-from-your-iphone-post-factory-reset/"><u>Complete Guide: Retrieving Data From Your iPhone Post-Factory Reset</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-setup-guide-download-the-latest-hp-officejet-3830-driver-for-windows-users/"><u>Easy Setup Guide - Download the Latest HP OfficeJet 3830 Driver for Windows Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-step-by-step-update-or-get-the-latest-epson-wf-3520-drivers-for-windows-pcs/"><u>Easy Step-by-Step: Update or Get the Latest Epson WF 3520 Drivers for Windows PCs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/expertly-selected-6-premier-tools-to-refine-your-images-online/"><u>Expertly Selected 6 Premier Tools to Refine Your Images Online</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-behringer-usb-interface-driver-installation-guide-and-download/"><u>Free Behringer USB Interface Driver - Installation Guide and Download</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722962583998-guarantee-perfect-operation-of-wacom-intuos-on-your-window-device-by-downloading-upgraded-drivers-now/"><u>Guarantee Perfect Operation of Wacom Intuos on Your Window Device by Downloading Upgraded Drivers Now</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-6-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 6 without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-logitech-brio-webcam-drivers-on-windows-1187-get-the-latest-version-today/"><u>Install Logitech BRIO Webcam Drivers on Windows 11/8/7: Get the Latest Version Today</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-updated-realtek-bluetooth-software-on-windows-11-and-10-fresh-release-now-available/"><u>Install Updated Realtek Bluetooth Software on Windows 11 & 10 – Fresh Release Now Available</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/live-link-lore-when-does-gear-give-way-to-grids-in-2024/"><u>Live Link Lore When Does Gear Give Way to Grids, In 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/maximum-clarity-video-transformer-windowsmac-for-2024/"><u>Maximum Clarity Video Transformer (Windows/Mac) for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-the-fix-for-failed-teredo-network-support/"><u>Understanding the Fix for Failed Teredo Network Support</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upcoming-iphone-17-insights-anticipated-cost-availability-dates-and-latest-tech-revelations/"><u>Upcoming iPhone 17 Insights: Anticipated Cost, Availability Dates & Latest Tech Revelations</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-strategies-for-smooth-samsung-phone-connectivity-via-usb/"><u>Update Strategies for Smooth Samsung Phone Connectivity via USB</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-comprehensive-explanation-of-googles-automatic-transcription-technology/"><u>[New] 2024 Approved Comprehensive Explanation of Google's Automatic Transcription Technology</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-photographic-precision-optimal-websites-and-tools-for-frame-upgrades/"><u>[New] 2024 Approved Photographic Precision Optimal Websites and Tools for Frame Upgrades</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-infusing-life-into-virtual-scenes-with-spark-ar-and-personalized-lookups-for-2024/"><u>[New] Infusing Life Into Virtual Scenes with Spark AR and Personalized Lookups for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-techniques-for-capturing-ps3-gaming-moments-for-2024/"><u>[New] Top Techniques for Capturing PS3 Gaming Moments for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-fun-and-flight-5-best-drone-options-for-children/"><u>2024 Approved Fun and Flight 5 Best Drone Options for Children</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722966907422-amd-ryzen-amoled-6937-download-drivers-for-radeon-vega-gpus-get-it-now/"><u>AMD Ryzen Amoled-6937 Download Drivers for Radeon Vega GPUs - Get It Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-guide-intel-wi-fi-ax200-ac-9560-network-adapter-drivers/"><u>Download and Update Guide: Intel Wi-Fi AX200 (AC 9560) Network Adapter Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-step-by-step-download-of-hp-designjet-500-printer-drivers/"><u>Easy Step-by-Step Download of HP DesignJet 500 Printer Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-official-printer-drivers-for-canon-mf8200c-on-windows-operating-systems-including-71081/"><u>Get Official Printer Drivers for Canon MF8200C on Windows Operating Systems Including 7/10/8.1</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-started-on-instagram-a-compreh/"><u>Get Started on Instagram: A Compreh</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722964975728-get-your-m-audio-fast-track-driver-here-for-windows-11-7881/"><u>Get Your M-Audio Fast Track Driver Here for Windows 11, 7/8/8.1</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-oppo-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Oppo .</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-xperia-1-v-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Xperia 1 V.</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-iphone-11-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your iPhone 11 and iPad?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/incredible-tip-for-outlook-users-reinstating-unintentionally-removed-emails/"><u>Incredible Tip for Outlook Users: Reinstating Unintentionally Removed Emails</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/intel-xe-graphics-driver-update-enhance-your-pc-on-windows-10-or-11/"><u>Intel Xe Graphics Driver Update: Enhance Your PC on Windows 10 or 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-finding-and-updating-the-driver-for-hp-officejet-pro-8620-on-a-windows-machine/"><u>Step-by-Step: Finding and Updating the Driver for HP Officejet Pro 8620 on a Windows Machine</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-fixing-hps-beats-sound-drivers-in-windows-1087-solved/"><u>Troubleshooting and Fixing HP's Beats Sound Drivers in Windows 10/8/7 - Solved</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-to-new-scansnap-s1300i-drivers-now-simple-download-and-installation-steps-inside/"><u>Upgrade to New ScanSnap S1300i Drivers Now – Simple Download & Installation Steps Inside!</u></a></li>
 </ul></div>
 

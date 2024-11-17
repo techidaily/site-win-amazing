@@ -1,7 +1,7 @@
 ---
 title: Step by Step Tutorial to Get Canon PRO 100 Up and Running on Windows Systems
-date: 2024-11-04T23:49:40.154Z
-updated: 2024-11-07T01:35:19.471Z
+date: 2024-11-13T18:53:25.534Z
+updated: 2024-11-17T05:32:32.711Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 1: Update your fingerprint driver automatically (Recommended)
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-48.png)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
@@ -65,20 +65,20 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-49.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.  
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Update fingerprint driver manually
@@ -110,19 +110,21 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-amazing.techidaily.com/get-your-files-downloaded-now-ultimate-guide-to-killer-e2500-gigabit-ethernet-driver-software/"><u>[Get Your Files Downloaded Now] Ultimate Guide to Killer E2500 Gigabit Ethernet Driver Software</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-exceptional-aspects-of-inexpensive-asmr-microphones/"><u>[New] In 2024, Exceptional Aspects of Inexpensive ASMR Microphones</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-top-tier-applications-for-animation-and-modeling-craft/"><u>[New] Top-Tier Applications for Animation & Modeling Craft</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-beam-breakthroughs-lighting-know-how-for-video-success/"><u>[Updated] In 2024, Beam Breakthroughs Lighting Know-How for Video Success</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-intels-thunderbolt-usb-c-card-driver-with-ease-and-speed/"><u>Download Intel's Thunderbolt USB-C Card Driver with Ease and Speed</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-driver-update-for-dell-latitude-e6420-swift-download-options-inside/"><u>Effortless Driver Update for Dell Latitude E6420 – Swift Download Options Inside</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-installation-of-logitech-m705-drivers-for-optimal-performance/"><u>Effortless Installation of Logitech M705 Drivers for Optimal Performance</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/elite-playlists-fitness-challenges/"><u>Elite Playlists Fitness Challenges</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-gameplay-with-the-latest-geforce-rtx-2080-ti-graphics-card-drivers/"><u>Enhance Your Gameplay with the Latest GeForce RTX 2080 Ti Graphics Card Drivers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723004192507-fixing-valheims-pc-performance-stop-freezing-and-stuttering-issues/"><u>Fixing Valheim's PC Performance: Stop Freezing & Stuttering Issues!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-update-or-install-amd-display-drivers-on-a-windows-machine/"><u>How to Update or Install AMD Display Drivers on a Windows Machine</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo Y56 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-maximize-your-youtube-impact-with-perfect-aspect-ratios/"><u>In 2024, Maximize Your YouTube Impact with Perfect Aspect Ratios</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-mpow-bluetooth-driver-updates-for-windows-11-8-and-7-users/"><u>Latest MPOW Bluetooth Driver Updates for Windows 11, 8 and 7 Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-satiresnapshots-jokeframe-world/"><u>[New] 2024 Approved SatireSnapshots JokeFrame World</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-make-your-youtube-comments-more-interesting-with-emojis/"><u>2024 Approved Make Your Youtube Comments More Interesting with Emojis</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guia-easy-transforma-opus-a-mp3-sin-coste-adicional-en-tu-computadora-personal/"><u>Guía Easy: Transforma Opus a MP3 Sin Coste Adicional en Tu Computadora Personal</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-amplify-your-videos-the-best-text-effects-guide/"><u>In 2024, Amplify Your Videos The Best Text Effects Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-discovering-the-top-10-video-calls-for-mobile-users-worldwide/"><u>In 2024, Discovering the Top 10 Video Calls for Mobile Users Worldwide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/kostenloze-ogg-wma-converter-online-movavi/"><u>Kostenloze OGG-WMA Converter Online - Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavirawpng-png/"><u>MOVAVI軟體RAW到PNG自由上線 - PNG格式轉換器</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/revolutionary-tips-to-upgrade-your-webinar-recordings/"><u>Revolutionary Tips to Upgrade Your Webinar Recordings</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/scambia-ram-con-file-wma-online-senza-costi-convertitori-di-gratuita-da-movavi/"><u>Scambia RAM Con File WMA OnLine Senza Costi - Convertitori Di Gratuità Da Movavi</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-windows-7-blue-screen-error-code-0x0000007e/"><u>Step-by-Step Solution for Windows 7 Blue Screen Error (Code: 0X0000007E)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/storage-capacity-64gb-vs-128gb-for-video-files-for-2024/"><u>Storage Capacity 64GB vs 128GB for Video Files for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-activating-bluetooth-features-on-your-windows-10-device/"><u>Successfully Activating Bluetooth Features on Your Windows 10 Device</u></a></li>
+<li><a href="https://fox-info.techidaily.com/todays-vr-an-inside-look/"><u>Today’s VR An Inside Look</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-apps-para-uniao-de-videos-aprenda-a-combina-los-com-facilidade/"><u>Top Apps Para União De Vídeos: Aprenda a Combiná-Los Com Facilidade</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transforma-tus-archivos-avi-a-formato-flv-sin-costo-alguno-en-linea-facilmente-usando-el-potente-convertidor-movavi/"><u>Transforma Tus Archivos AVI a Formato FLV Sin Costo Alguno en Línea Fácilmente Usando El Potente Convertidor Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1726226894145-5/"><u>다음해 위태로운 풍선 사진 콜라를 만드는 것을 위한 편리한 5가지 방법: 도움말</u></a></li>
 </ul></div>
 

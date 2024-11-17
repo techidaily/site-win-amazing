@@ -1,7 +1,7 @@
 ---
 title: "Complete Driver Installation Guide: Lenovo Laptop T4eb30 - Supporting Windows Operating Systems 11, 8 & 7"
-date: 2024-08-28T04:47:34.020Z
-updated: 2024-08-29T04:47:34.020Z
+date: 2024-11-12T06:04:25.147Z
+updated: 2024-11-16T19:07:43.404Z
 tags:
   - win11
   - win10
@@ -42,9 +42,23 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-121.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Ralink RT3290 driver for now, simply click on the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -55,8 +69,12 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Option 2: Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)**
 
  Ralink Technology, Corp. was acquired by MediaTek in 2011, so you can no longer find the official website of Ralink. But luckily, the driver can still be found in **[mediatek.com](https://www.mediatek.com/) .**
@@ -72,8 +90,12 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
 
  4) There’s a search bar at the top of the website. Type**RT3290** , and then hit**Enter** on your keyboard.
@@ -92,9 +114,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
 
  10) Click**Browse…** to select a destination and check the**Show extracted files when complete** box. On completion, click**Extract** .
@@ -128,8 +147,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +154,22 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-simple-screen-capture-techniques-to-grab-youtube-soundtracks/"><u>[New] 2024 Approved Simple Screen-Capture Techniques to Grab YouTube Soundtracks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-audioalert-essentials-downloading-and-editing-tamil-melodies-for-2024/"><u>[New] AudioAlert Essentials Downloading & Editing Tamil Melodies for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-insta-style-the-essential-guide-to-instagram-story-magnification/"><u>[Updated] In 2024, Insta Style The Essential Guide to Instagram Story Magnification</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-unlocking-nearby-nuggets-your-essential-locale-lens-for-a-smoother-journey/"><u>[Updated] In 2024, Unlocking Nearby Nuggets Your Essential Locale Lens for a Smoother Journey</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-speed-kings-and-queens-key-moments-from-the-short-track-games/"><u>[Updated] Speed Kings and Queens Key Moments From the Short Track Games</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/animators-artistry-archives-for-2024/"><u>Animator's Artistry Archives for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-hp-laserjet-p3015-printer-drivers-on-windows-step-by-step-guide/"><u>Download & Install HP LaserJet P3015 Printer Drivers on Windows: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-downloading-your-evo-bluetooth-adapters-drivers/"><u>Easy Installation: Downloading Your Evo Bluetooth Adapter's Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-microsoft-drivers-downloads-and-updates-for-windows-11-8-7/"><u>Easy Microsoft Drivers Downloads and Updates for Windows 11, 8, 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-guide-to-revamping-synaptics-touchpad-ps2-controller-drivers/"><u>Effortless Guide to Revamping Synaptics TouchPad PS/2 Controller Drivers</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-microsoft-surface-go-a-budget-friendly-tablet-grappling-with-its-role/"><u>Exploring the Microsoft Surface Go: A Budget-Friendly Tablet Grappling with Its Role</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-official-hp-deskjet-2600-printer-drivers-on-windows-7-8-or-10/"><u>How to Install Official HP DeskJet 2600 Printer Drivers on Windows 7, 8 or 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/intel-raid-controller-software-update-enhance-stability-for-windows-users-across-all-supported-oses/"><u>Intel RAID Controller Software Update - Enhance Stability for Windows Users Across All Supported OSes</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-art-of-video-enhancement-expert-guidance/"><u>New 2024 Approved The Art of Video Enhancement Expert Guidance</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-non-appearing-ssd-hardware-problems-a-data-preservation-strategy/"><u>Troubleshooting Non-Appearing SSD Hardware Problems - A Data Preservation Strategy</u></a></li>
+</ul></div>
 

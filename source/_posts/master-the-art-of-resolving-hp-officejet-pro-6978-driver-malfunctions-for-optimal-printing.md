@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Resolving HP Officejet Pro 6978 Driver Malfunctions for Optimal Printing
-date: 2024-11-04T20:56:15.552Z
-updated: 2024-11-07T01:07:46.294Z
+date: 2024-11-12T07:13:16.881Z
+updated: 2024-11-17T06:13:21.236Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1 – Update your driver via Device Manager**
 
  Try to update your Validity fingerprint sensor driver from within Device Manager:
@@ -46,37 +53,36 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 2. After the Start screen shows up, click the**magnifier** icon located in the upper right corner.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-05-41.png)
 3. Type**device** into the search box. Then select**Device Manager** from a list of search results.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1098.png)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Here comes**Device Manager** . Click the**▷** symbol to the left of**Biometric Devices** to expand its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1073.png)
 5. Right-click on**Validity Sensors (WBF)** to open its context menu. Then select**Update Driver Software…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-11-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-18-21.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Wait till the download and installation process finishes.
 8. Click **Close** when it’s all done.
 9. Now your driver has been updated by Windows successfully. Don’t forget to**restart** your computer for the changes to take effect even if you’re not asked to.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 2 – Update your driver from official websites**
 
@@ -85,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
  For example, if you’re using a Lenovo laptop, you can visit the official site of Lenovo and locate its**Support** section (that is where they usually provide drivers or other software for customers to download). Down there you should select “Drivers & Download” or whatever so that you can enter the download page of drivers. Usually there will a search box for you to type in your device model or the driver name, etc. As long as you give the right name, the website will automatically display a list of drivers that are considered to match your request. Select one from them depending on your Windows version (such as Windows 10 Pro, 64-bit), download it and install it step by step. On completion, please reboot your PC to let the changes take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 3 – Update your driver automatically (Recommended)**
 
@@ -104,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-38-22-2.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Validity fingerprint sensor driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-36-48-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -133,17 +139,18 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-convert-fb-videos-to-mp4-no-cost-high-definition-available-for-2024/"><u>[New] Convert FB Videos to MP4 - No Cost, High Definition Available for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-title-tag-and-description-mastery-for-youtube-success/"><u>[New] In 2024, Title, Tag & Description Mastery for YouTube Success</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-graphic-gaze-decoding-youtubes-factful-17-narrative/"><u>[New] The Graphic Gaze Decoding YouTube's Factful '17 Narrative</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-eyecatcher-ultimate-screen-capture-guide-for-2024/"><u>[Updated] EyeCatcher Ultimate Screen Capture Guide for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/direct-injection-di-injects-fuel-directly-into-the-combustion-chamber-allowing-for-precise-control-over-timing-and-quantity-of-fuel-delivery/"><u>Direct Injection (DI) Injects Fuel Directly Into the Combustion Chamber, Allowing for Precise Control over Timing and Quantity of Fuel Delivery.</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-free-logitech-g29-steering-wheel-drivers-for-win-10-8-and-7/"><u>Get Your Free Logitech G29 Steering Wheel Drivers for Win 10, 8 & 7</u></a></li>
-<li><a href="https://win-help.techidaily.com/quick-fix-accelerate-shutdown-of-frozen-programs-with-a-hidden-windows-11-feature-pcworld/"><u>Quick Fix: Accelerate Shutdown of Frozen Programs with a Hidden Windows 11 Feature | PCWorld</u></a></li>
-<li><a href="https://win-blog.techidaily.com/transformation-gratuite-de-videos-mp4-en-m4a-en-ligne-avec-movavi-tutorials-et-conseils/"><u>Transformation Gratuite De Vidéos MP4 en M4A en Ligne Avec Movavi - Tutorials Et Conseils</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/ultimate-list-of-youtube-entrance-software/"><u>Ultimate List of YouTube Entrance Software</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/understanding-the-role-and-impact-of-b-roll-in-editing-for-2024/"><u>Understanding the Role and Impact of B Roll in Editing for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-intel-hd-graphics-4400-card-with-new-drivers-free-downloads-available/"><u>Update Your Intel HD Graphics 4400 Card with New Drivers – Free Downloads Available</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/updated-canon-pixma-mg490-driver-installation-manual-for-windows-users/"><u>Updated Canon PIXMA MG490 Driver Installation Manual for Windows Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-analysis-of-the-netgear-nighthawk-rax80-a-dazzling-wi-fi-6-experience/"><u>Comprehensive Analysis of the Netgear Nighthawk RAX80 – A Dazzling Wi-Fi 6 Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/demystifying-apple-watch-face-id-customization-learn-how-to-swap-looks-with-ease/"><u>Demystifying Apple Watch Face ID Customization: Learn How to Swap Looks with Ease!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/full-disclosure-on-the-t5-cameras-action-features/"><u>Full Disclosure on the T5 Camera's Action Features</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-device-running-smoothly-download-for-free-qualcomm-atheros-ar938x-drivers-today/"><u>Get Your Device Running Smoothly - [Download for Free] Qualcomm Atheros AR938X Drivers Today!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-samsung-galaxy-s23-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Samsung Galaxy S23 Phones? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6 to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-se-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone SE Without Passcode Easily</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-canon-pixma-ts3322-printer-drivers-ready-for-download-and-installation/"><u>Latest Canon PIXMA TS3322 Printer Drivers Ready for Download & Installation</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-guide-to-linksys-wrt1900ac-driver-download-for-smooth-operation/"><u>Quick Guide to Linksys WRT1900AC Driver Download for Smooth Operation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975358225-step-by-step-download-of-latest-drivers-for-your-nvidia-quadro-rtx-8000-on-win-10-8-or-7/"><u>Step-by-Step Download of Latest Drivers for Your Nvidia Quadro RTX 8000 on Win 10, 8 or 7</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722971628036-unleash-full-potential-of-your-logitech-racing-wheels-secure-the-latest-drivers-for-windows-users/"><u>Unleash Full Potential of Your Logitech Racing Wheels - Secure the Latest Drivers for WIndows Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722964571394-update-your-pc-with-free-intel-82579v-drivers-quick-setup-steps-inside/"><u>Update Your PC with Free Intel 82579V Drivers - Quick Setup Steps Inside</u></a></li>
 </ul></div>
 
