@@ -1,7 +1,7 @@
 ---
 title: Step by Step Tutorial to Get Canon PRO 100 Up and Running on Windows Systems
-date: 2024-11-13T18:53:25.534Z
-updated: 2024-11-17T05:32:32.711Z
+date: 2024-11-19T19:58:41.842Z
+updated: 2024-11-26T16:12:26.644Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## To update your fingerprint driver in Windows
 
 **[Option 1 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/fingerprint-driver-download-update-for-windows/#O1)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -33,10 +37,7 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Update your fingerprint driver automatically (Recommended)
@@ -54,10 +55,7 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-48.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
@@ -65,20 +63,14 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-49.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.  
   
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Update fingerprint driver manually
@@ -110,21 +102,17 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-satiresnapshots-jokeframe-world/"><u>[New] 2024 Approved SatireSnapshots JokeFrame World</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-make-your-youtube-comments-more-interesting-with-emojis/"><u>2024 Approved Make Your Youtube Comments More Interesting with Emojis</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/guia-easy-transforma-opus-a-mp3-sin-coste-adicional-en-tu-computadora-personal/"><u>Guía Easy: Transforma Opus a MP3 Sin Coste Adicional en Tu Computadora Personal</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-amplify-your-videos-the-best-text-effects-guide/"><u>In 2024, Amplify Your Videos The Best Text Effects Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-discovering-the-top-10-video-calls-for-mobile-users-worldwide/"><u>In 2024, Discovering the Top 10 Video Calls for Mobile Users Worldwide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/kostenloze-ogg-wma-converter-online-movavi/"><u>Kostenloze OGG-WMA Converter Online - Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/movavirawpng-png/"><u>MOVAVI軟體RAW到PNG自由上線 - PNG格式轉換器</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/revolutionary-tips-to-upgrade-your-webinar-recordings/"><u>Revolutionary Tips to Upgrade Your Webinar Recordings</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/scambia-ram-con-file-wma-online-senza-costi-convertitori-di-gratuita-da-movavi/"><u>Scambia RAM Con File WMA OnLine Senza Costi - Convertitori Di Gratuità Da Movavi</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-solution-for-windows-7-blue-screen-error-code-0x0000007e/"><u>Step-by-Step Solution for Windows 7 Blue Screen Error (Code: 0X0000007E)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/storage-capacity-64gb-vs-128gb-for-video-files-for-2024/"><u>Storage Capacity 64GB vs 128GB for Video Files for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successfully-activating-bluetooth-features-on-your-windows-10-device/"><u>Successfully Activating Bluetooth Features on Your Windows 10 Device</u></a></li>
-<li><a href="https://fox-info.techidaily.com/todays-vr-an-inside-look/"><u>Today’s VR An Inside Look</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/top-apps-para-uniao-de-videos-aprenda-a-combina-los-com-facilidade/"><u>Top Apps Para União De Vídeos: Aprenda a Combiná-Los Com Facilidade</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/transforma-tus-archivos-avi-a-formato-flv-sin-costo-alguno-en-linea-facilmente-usando-el-potente-convertidor-movavi/"><u>Transforma Tus Archivos AVI a Formato FLV Sin Costo Alguno en Línea Fácilmente Usando El Potente Convertidor Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1726226894145-5/"><u>다음해 위태로운 풍선 사진 콜라를 만드는 것을 위한 편리한 5가지 방법: 도움말</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-unleashing-sound-in-social-video-sharing-platforms/"><u>[New] 2024 Approved Unleashing Sound in Social Video Sharing Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-host-smart-and-cheap-your-guide-to-youtube-seminars/"><u>[Updated] 2024 Approved Host Smart and Cheap Your Guide to Youtube Seminars</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-video-landscape-vimeo-and-youtube-distinguished/"><u>[Updated] Navigating Video Landscape Vimeo and YouTube Distinguished</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/error-800-on-vpn-effective-solutions-for-client-and-server-connection-woes/"><u>Error 800 on VPN: Effective Solutions for Client and Server Connection Woes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fast-track-access-your-guide-to-downloading-hp-stream-driver-software/"><u>Fast Track Access: Your Guide to Downloading HP Stream Driver Software</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-drive-more-viewers-to-your-videos-top-growth-hacks/"><u>In 2024, Drive More Viewers to Your Videos Top Growth Hacks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-getting-started-with-pro-level-youtube-tech/"><u>In 2024, Getting Started with Pro-Level YouTube Tech</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/interactive-learning-on-utilizing-openais-api-capabilities/"><u>Interactive Learning on Utilizing OpenAI's API Capabilities</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-version-of-epson-l3-grower-driver-compatible-with-windows-11-and-earlier-versions/"><u>Latest Version of Epson L3 Grower Driver Compatible with Windows 11 and Earlier Versions</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996380803-pc-gamers-destiny-2-fixed-and-fully-operational-now/"><u>PC Gamers: Destiny 2 Fixed and Fully Operational Now!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-guide-updating-your-nvidia-quadro-graphic-card-with-windows-11-drivers/"><u>Quick Guide: Updating Your NVIDIA Quadro Graphic Card with Windows 11 Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-lenovo-thinkpad-driver-downloads-and-updates-guaranteed-safety/"><u>Secure Lenovo ThinkPad Driver Downloads and Updates – Guaranteed Safety</u></a></li>
 </ul></div>
 

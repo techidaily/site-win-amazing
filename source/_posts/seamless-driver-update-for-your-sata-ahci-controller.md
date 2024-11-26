@@ -1,7 +1,7 @@
 ---
 title: Seamless Driver Update for Your SATA AHCI Controller
-date: 2024-11-16T01:42:38.188Z
-updated: 2024-11-16T17:31:27.997Z
+date: 2024-11-22T17:53:09.064Z
+updated: 2024-11-26T21:21:35.006Z
 tags:
   - win11
   - win10
@@ -34,18 +34,15 @@ There are two ways to download iCUE.
 1. [Download and install iCUE through the homepage](https://tools.techidaily.com/drivereasy/download/)
 2. [Download iCUE from the product page](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Download and install iCUE through the homepage
 
 1. Go to the[iCUE homepage](https://www.corsair.com/uk/en/icue) .
 2. Click**DOWNLOAD NOW** . Follow the on-screen instructions to finish the installation.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Download iCUE from the product page
 
@@ -56,26 +53,13 @@ There are two ways to download iCUE.
 3. Scroll down and click**DOWNLOADS** . Then click the link to download iCUE.![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Double-click on the downloaded file and follow the on-screen instructions to install the software.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What to do if your mouse still has issues?
@@ -92,11 +76,19 @@ There are two ways to download iCUE.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-84.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the devices to automatically download the correct version of their drivers, then you can manually install the drivers (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-91.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -121,21 +113,24 @@ There are two ways to download iCUE.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-a-glimpse-at-the-best-curating-a-list-of-5-exceptional-book-tts/"><u>[New] 2024 Approved A Glimpse at the Best Curating a List of 5 Exceptional Book TTs</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-how-to-create-a-google-meet-account/"><u>[New] How to Create a Google Meet Account</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/a-deep-dive-into-ideal-instagram-post-times-for-2024/"><u>A Deep Dive Into Ideal Instagram Post Times for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/comparatif-des-images-matricielles-vs-vecteur-comprendre-les-distinctions-cles/"><u>Comparatif Des Images Matricielles vs Vecteur: Comprendre Les Distinctions Clés</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/conversao-gratuita-on-line-de-arquivos-webm-para-vob-com-a-ferramenta-do-movavi/"><u>Conversão Gratuita On-Line: De Arquivos WEBM Para VOB Com a Ferramenta Do Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/convert-avi-videos-free-of-charge-with-movavis-web-based-asf-tool/"><u>Convert AVI Videos Free of Charge with Movavi's Web-Based ASF Tool</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-immersive-realms-top-10-youtubes-most-captivating-vr-videos/"><u>Enter Immersive Realms Top 10 YouTube's Most Captivating VR Videos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/expert-tips-for-photo-hdr-mastery-in-photoshop-for-2024/"><u>Expert Tips for Photo-HDR Mastery in Photoshop for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-online-mkv-to-wma-converter-movavi/"><u>Free Online MKV to WMA Converter - Movavi</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-itel-a05s-is-unlocked-by-drfone-android/"><u>How To Check if Your Itel A05s Is Unlocked</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-luminance-hd-evaluation-the-ultimate-decision/"><u>In 2024, Luminance-HD Evaluation The Ultimate Decision?</u></a></li>
-<li><a href="https://win11.techidaily.com/leading-7-tools-and-services-for-masterful-youtube-clips-desktop-apps-vs-web-based-options/"><u>Leading 7 Tools and Services for Masterful YouTube Clips: Desktop Apps Vs. Web-Based Options</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/movavis-online-guide-transforming-videos-from-mp4mpeg2-ts-to-vob-format-at-no-cost/"><u>Movavi's Online Guide: Transforming Videos From MP4/MPEG2 TS to VOB Format at No Cost</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/transforma-i-file-wav-in-formato-flv-gratuitamente-con-movavi/"><u>Transforma I File WAV in Formato FLV Gratuitamente Con Movavi</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/unumganglich-professionelles-ssd-datendestruktion-keine-chance-auf-rekonstruktion/"><u>Unumgänglich: Professionelles SSD Datendestruktion - Keine Chance Auf Rekonstruktion</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1726226884742-m4aogg-movavi/"><u>オンラインで無料M4AとOGGフォーマットの直接変換ツール - Movavi</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-easy-to-use-zoom-camera-for-instant-sharing-for-2024/"><u>[Updated] Easy-to-Use Zoom Camera for Instant Sharing for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-forge-funny-online-content-on-the-fly/"><u>[Updated] Forge Funny Online Content on the Fly</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-video-creation-for-all-ages-crafting-your-first-10-youtube-videos/"><u>[Updated] Video Creation for All Ages Crafting Your First 10 YouTube Videos</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/brother-hl-n3170cdw-fast-installation-of-printing-drivers/"><u>Brother HL-N3170CDW - Fast Installation of Printing Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-official-epson-gt-s50-drivers-for-windows-os-version-7-8-and-10/"><u>Download and Install Official Epson GT-S50 Drivers for Windows OS (Version 7, 8 & 10)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-amd-rx-6700-xt-driver-for-windows-11-10-7/"><u>Download the Latest AMD RX 6700 XT Driver for Windows 11/ 10/ 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-steps-to-download-and-update-hp-officejet-pro-8620-drivers-on-a-windows-machine/"><u>Easy Steps to Download and Update HP OfficeJet Pro 8620 Drivers on a Windows Machine</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-tips-for-successfully-refreshing-your-samsung-televisions-software/"><u>Easy Tips for Successfully Refreshing Your Samsung Television's Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-graphics-upgrade-with-free-intel-82579v-driver-software/"><u>Effortless Graphics Upgrade with Free Intel 82579V Driver Software</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-protective-power-and-performance-pace-of-the-cat-s42-smartphone/"><u>Evaluating the Protective Power and Performance Pace of the CAT S42 Smartphone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-and-install-logitech-brio-webcam-driver-on-windows-1087/"><u>How to Get and Install Logitech Brio Webcam Driver on Windows 10/8/7</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-prime-screen-capture-tools-no-lag-just-clarity/"><u>In 2024, Prime Screen Capture Tools - No Lag, Just Clarity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-screen-experience-with-hp-envy-27-display/"><u>In 2024, The Ultimate Screen Experience with HP Envy 27 Display</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-hp-deskjet-2652-driver-update-compatible-with-windows-11-10-8-and-7-free-download-now/"><u>Latest HP Deskjet 2652 Driver Update: Compatible with Windows 11, 10, 8 & 7 - Free Download Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-easy-steps-to-download-wacom-intuos-pro-for-windows-10-users/"><u>Quick & Easy Steps to Download Wacom Intuos Pro for Windows 10 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/samsung-m2020-driver-software-secure-download-options-available/"><u>Samsung M2020 Driver Software - Secure Download Options Available</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-split-your-screen-for-free-top-online-and-offline-video-editors-for-2024/"><u>Updated Split Your Screen for Free Top Online and Offline Video Editors for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725285539911-winx-dvd/"><u>WinXダウンロードマスター - DVDの高画質抽出と変換を手っ取り早く！無料</u></a></li>
 </ul></div>
 

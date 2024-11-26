@@ -1,7 +1,7 @@
 ---
 title: "How to Get the Latest Lenovo T420 Drivers: A Simple Guide for Windows Users"
-date: 2024-08-28T04:46:17.372Z
-updated: 2024-08-29T04:46:17.372Z
+date: 2024-11-19T16:28:20.493Z
+updated: 2024-11-26T16:54:32.631Z
 tags:
   - win11
   - win10
@@ -34,11 +34,21 @@ OR
 1. Visit the[driver download page](https://www.nvidia.com/Download/index.aspx) of the NVIDIA website. Then search for your video card.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2080-super-manually.jpg)
 2. At the search result page, click**DOWNLOAD** to download the installer. Then launch it and follow the on-screen instructions.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2080-super-manually-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2: Install the RTX 2080 SUPER driver automatically (Recommended)
 
  If you’re not comfortable playing with device drivers, we recommend using **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It will automatically recognize your system and find the correct drivers for your exact graphics card, and your Windows version, and it will download and install them correctly:
@@ -47,16 +57,18 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2080-super.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve installed the latest graphics driver, restart your PC and test the improvement in-game.
@@ -73,8 +85,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -82,4 +92,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-clearing-the-path-to-account-deactivation-on-linkedin/"><u>[New] Clearing the Path to Account Deactivation on LinkedIn</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-screen-grab-specialists-top-apps-for-windows-10-users-for-2024/"><u>[Updated] Screen Grab Specialists Top Apps for Windows 10 Users for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-transform-your-broadcasts-streamlabs-with-obs-on-mac/"><u>2024 Approved Transform Your Broadcasts Streamlabs with OBS on Mac</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-touchpad-driver-update-streamlined-process-for-windows-10-users/"><u>ASUS Touchpad Driver Update: Streamlined Process for Windows 10 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/expert-advice-keeping-your-toshiba-devices-running-smoothly-on-windows-with-driver-updates/"><u>Expert Advice: Keeping Your Toshiba Devices Running Smoothly on Windows with Driver Updates</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fast-track-setup-downloading-and-applying-the-surface-dock-driver-without-delays/"><u>Fast-Track Setup: Downloading and Applying the Surface Dock Driver Without Delays</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-download-and-set-up-logitech-k400-plus-keyboardtrackpad-drivers-now/"><u>Find, Download & Set Up Logitech K400 Plus Keyboard/Trackpad Drivers Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975997180-get-your-insignia-usb-to-vga-adapter-running-with-ease/"><u>Get Your Insignia USB to VGA Adapter Running with Ease</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-pioneers-in-post-production-top-tools-for-instagram-content-creators/"><u>In 2024, Pioneers in Post-Production Top Tools for Instagram Content Creators</u></a></li>
+</ul></div>
 

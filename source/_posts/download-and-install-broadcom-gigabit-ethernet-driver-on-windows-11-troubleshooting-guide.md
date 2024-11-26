@@ -1,7 +1,7 @@
 ---
 title: "Download and Install Broadcom Gigabit Ethernet Driver on Windows 11: Troubleshooting Guide"
-date: 2024-11-09T22:51:03.669Z
-updated: 2024-11-17T00:29:27.482Z
+date: 2024-11-22T17:06:05.495Z
+updated: 2024-11-26T20:55:39.711Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ If you’re using an Broadcom wireless adapter on your computer, you should keep
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## To update your Broadcom WiFi driver
 
  The following are two methods to update your Broadcom wireless adapter driver
@@ -30,10 +34,7 @@ If you’re using an Broadcom wireless adapter on your computer, you should keep
 2. [**Update your driver automatically**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Manually download the driver from your device manufacturer
@@ -49,10 +50,7 @@ If you’re using an Broadcom wireless adapter on your computer, you should keep
 **3)** Open the downloaded file and follow the on-screen instructions to install it on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update your driver automatically
@@ -70,10 +68,7 @@ If you’re using an Broadcom wireless adapter on your computer, you should keep
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b344dbcb3a78.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click the **Update**  button next to_your Broadcom wireless adapter_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
@@ -81,10 +76,7 @@ If you’re using an Broadcom wireless adapter on your computer, you should keep
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3b50bbe620f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free, but it’s partly manual.
@@ -109,17 +101,22 @@ If you’re using an Broadcom wireless adapter on your computer, you should keep
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-capturing-moments-seamlessly-with-snap-and-meet-for-2024/"><u>[New] Capturing Moments Seamlessly with Snap and Meet for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instas-tunes-ownership-and-legalities/"><u>[New] In 2024, Insta's Tunes Ownership & Legalities</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-vocal-variance-for-visuals-dynamic-voiceover-strategies-on-slides-for-2024/"><u>[New] Vocal Variance for Visuals Dynamic Voiceover Strategies on Slides for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-out-the-vibes-of-your-channel-top-10-online-artists-unite-for-2024/"><u>Bring Out the Vibes of Your Channel Top 10 Online Artists Unite for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-latest-epson-wf-2630-driver-for-win-78110-fast-and-reliable-installation-guide/"><u>Download Latest Epson WF-2630 Driver for Win 7/8.1/10 - Fast and Reliable Installation Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/expert-advice-installing-latest-drivers-for-corsair-headsets-on-windows-systems/"><u>Expert Advice: Installing Latest Drivers for Corsair Headsets on Windows Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-best-out-of-your-pc-with-updated-msi-b35-tomahawk-driver-pack-compatible-with-both-windows-10-and-7/"><u>Get the Best Out of Your PC with Updated MSI B35# Tomahawk Driver Pack: Compatible with Both Windows 10 & 7</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-honor-100-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor 100 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-solutions-fixing-issues-with-thinkpads-thunderbolt-3-dock-connection/"><u>Troubleshooting and Solutions: Fixing Issues with ThinkPad's Thunderbolt 3 Dock Connection</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-help-overcoming-the-perpetual-loading-screen-in-football-manager-2021/"><u>Troubleshooting Help - Overcoming the Perpetual Loading Screen in Football Manager 2021</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ultimate-guide-downloading-logitech-t63am-t630-drivers-for-windows-7810/"><u>Ultimate Guide: Downloading Logitech T63am T630 Drivers for Windows 7/8/10</u></a></li>
-<li><a href="https://win-blog.techidaily.com/war-thunder-crash-no-more-expert-tips-to-overcome-game-issues/"><u>War Thunder Crash No More! Expert Tips to Overcome Game Issues</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-roadmap-to-thriving-in-twitter-live-broadcasts/"><u>[Updated] In 2024, The Roadmap to Thriving in Twitter Live Broadcasts</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-guide-top-20-cost-free-video-editing-websites/"><u>2024 Approved Ultimate Guide Top 20 Cost-Free Video Editing Websites</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-f54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ensure-compatibility-and-optimize-your-pc-download-the-newest-nvidia-quadro-graphics-drivers-for-windows-10/"><u>Ensure Compatibility and Optimize Your PC: Download the Newest NVIDIA Quadro Graphics Drivers for Windows 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/experience-professional-sound-mixing-with-the-complimentary-m-audio-ultratrack-software/"><u>Experience Professional Sound Mixing with the Complimentary M-Audio UltraTrack Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/game-on-tips-for-excellent-video-game-clips-for-2024/"><u>Game On! Tips for Excellent Video Game Clips for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722973451027-geforce-rtx-3070-ti-download-official-graphics-cards-drivers-for-win-10-8-and-7-now/"><u>GeForce RTX 3070 Ti - Download Official Graphics Cards Drivers for Win 10, 8 & 7 Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-seamlessly-refresh-battery-drivers-on-a-pc-or-laptop-with-windows-os/"><u>How to Seamlessly Refresh Battery Drivers on a PC or Laptop with Windows OS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Infinix Smart 7? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/intel-nuc-driver-update-made-simple-a-speedy-guide/"><u>Intel NUC Driver Update Made Simple: A Speedy Guide</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-how-to-make-memoji-talk-make-memoji-video-on-your-own/"><u>New 2024 Approved How to Make Memoji Talk-Make Memoji Video On Your Own</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/speedy-troubleshooting-eliminate-your-audiobox-usb-driver-issues-in-no-time/"><u>Speedy Troubleshooting: Eliminate Your AudioBox USB Driver Issues in No Time!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-updating-and-downloading-sas-drivers-on-your-pc-with-windows-operating-system/"><u>Step-by-Step Tutorial: Updating and Downloading SAS Drivers on Your PC with Windows Operating System</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rt-of-digital-library-step-by-step-guide-for-your-youtube-saved-playlist/"><u>The Art of Digital Library Step-by-Step Guide for Your YouTube Saved Playlist</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/tiktok-transformation-hacks-best-filter-strategies-uncovered/"><u>TikTok Transformation Hacks Best Filter Strategies Uncovered</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-infinix-hot-30-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Infinix Hot 30 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updating-your-computers-mouse-drivers-ensuring-hid-compliance/"><u>Updating Your Computer's Mouse Drivers: Ensuring HID Compliance</u></a></li>
 </ul></div>
 

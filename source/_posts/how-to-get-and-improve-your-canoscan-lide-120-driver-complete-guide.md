@@ -1,7 +1,7 @@
 ---
 title: How to Get and Improve Your CanoScan LiDE 120 Driver – Complete Guide
-date: 2024-08-28T04:46:12.524Z
-updated: 2024-08-29T04:46:12.524Z
+date: 2024-11-21T19:09:09.234Z
+updated: 2024-11-26T16:40:26.640Z
 tags:
   - win11
   - win10
@@ -38,15 +38,26 @@ It’s essential to keep the drivers for your Canon products up to date so as to
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa3c58d6f96.jpg)
 3. Click **Update All** to automatically download and install the correct version of **_ALL_**  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa45fe434fd.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Option 2: Update your Canon driver manually**
 
  Canon keeps updating drivers. To get them, you need to go to Canon’s official website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
@@ -60,19 +71,20 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
 3. Type**the name** of your Canon product and click**Go** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa46ed741fe.jpg)
 4. Click**DRIVERS & DOWNLOADS** under your model name. (Here I take PIXMA PRO-10 as an example.)  
+
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa47aad220c.jpg)
 5. Make sure **the detected Windows version is the right variant of your Windows OS** and click**SELECT** in**the first** result to make sure to download the latest driver release.  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa4841af5d5.jpg)
 6. Click**DOWNLOAD** .
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 7. Run the downloaded file and follow the on-screen instructions to finish the install. You might want to consult the download & install manual executable file if needed.
 8. Restart your computer for the changes to take effect.
 
@@ -88,8 +100,6 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,4 +107,26 @@ Before heading to download the latest driver package from **Canon**  ‘s offici
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-relaxation-reigns-top-pc-titles/"><u>[Updated] 2024 Approved Relaxation Reigns Top PC Titles</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-comprehensive-capture-and-review-with-az-for-2024/"><u>[Updated] Comprehensive Capture & Review with AZ for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-guide-to-3d-text-effects-in-photos/"><u>2024 Approved Step-by-Step Guide to 3D Text Effects in PHOTOS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-expectations-the-birth-of-gpt-4/"><u>Beyond Expectations: The Birth of GPT-4</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comment-convertir-des-fichiers-wtv-en-videos-mpeg-sans-cout-gratuit-avec-movavi/"><u>Comment Convertir Des Fichiers WTV en Vidéos MPEG Sans Coût - Gratuit Avec Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/compatible-startech-usb-vga-driver-software-for-easy-installation/"><u>Compatible StarTech USB VGA Driver Software for Easy Installation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-toshiba-office-equipment-experience-with-newly-released-windows-compatible-drivers-download-here/"><u>Enhance Your Toshiba Office Equipment Experience with Newly Released Windows Compatible Drivers – Download Here</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-displays-out-of-sync-in-windows/"><u>Fixing Displays Out of Sync in Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-logitech-g602-mouse-drivers-for-windows-pcs-download-now/"><u>Free Logitech G602 Mouse Drivers for Windows PCs - Download Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-sm-bus-controller-driver-now-supports-all-windows-editions-11-10-8-and-7/"><u>Get Your SM Bus Controller Driver Now! Supports All Windows Editions: 11, 10, 8 & 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/improve-your-pc-download-updated-lenovo-drivers-for-windows-11/"><u>Improve Your PC - Download Updated Lenovo Drivers for Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x100-pro-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo X100 Pro Bootloader Easily</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/investigating-changes-over-time-in-windows-movie-maker-for-2024/"><u>Investigating Changes Over Time in Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/msi-x47n-gaming-plus-get-latest-bios-and-chipset-updates-download-here/"><u>MSI X47n GAMING PLUS - Get Latest BIOS & Chipset Updates | Download Here</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/officially-updated-nvidia-graphics-card-drivers-for-windows-operating-systems-windows-11-7-and-8/"><u>Officially Updated Nvidia Graphics Card Drivers for Windows Operating Systems: Windows 11, 7 & 8</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/radeon-hd-7850-graphics-driver-download-and-update-on-windows-10/"><u>Radeon HD 7850 Graphics Driver Download & Update on Windows 10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/start-using-nexiqs-usb-interface-driver-quick-download-and-tutorial/"><u>Start Using Nexiq's USB Interface Driver - Quick Download & Tutorial</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-enhancing-ubisoft-connects-download-velocity/"><u>Ultimate Guide to Enhancing Ubisoft Connect's Download Velocity</u></a></li>
+</ul></div>
 

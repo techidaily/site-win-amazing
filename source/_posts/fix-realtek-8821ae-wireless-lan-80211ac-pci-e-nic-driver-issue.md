@@ -1,7 +1,7 @@
 ---
 title: Fix Realtek 8821AE Wireless LAN 802.11Ac PCI-E NIC Driver Issue
-date: 2024-08-28T04:43:38.078Z
-updated: 2024-08-29T04:43:38.078Z
+date: 2024-11-19T17:35:49.551Z
+updated: 2024-11-26T17:56:17.215Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ OR
 **[Option 2 – Manually](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your driver this way, because you need to find exactly the right driver online, download it and install it step by step.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 1 – Automatically update the driver
 
@@ -70,6 +74,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-658.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Offline Scan** . On the right panel, select**Offline Scan (on the computer without Internet access)** and click the**Continue** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-528.png)
@@ -86,11 +94,19 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-534.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy on that computer (the one with Internet access).
 
  9) Run Driver Easy and click**Tools** in the left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-659.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  10) In the left pane, click**Offline Scan** . Then on the right panel, select **Upload Offline Scan File (on the computer with Internet access)** and click the**Continue** button.
 
@@ -100,9 +116,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-540.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  12) Click the**Download** button next to**Intel(R) 82579V Gigabit Network Connection** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-82.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  13) Choose where you’d like to save the downloaded driver, and click**OK** .
 
@@ -135,6 +159,10 @@ Wait for the download process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-85-1024x346.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This is an example of Windows 10.
 
  4) Under**Available Downloads** , you can see a number of drivers for different Windows versions. Find the one compatible with your Windows version and click**Download** .
@@ -164,8 +192,6 @@ This is an example of Windows 10.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,9 +199,17 @@ This is an example of Windows 10.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/assessment-of-vlc-screen-recording/"><u>Assessment of VLC Screen Recording</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/deciding-on-phone-upgrades-how-often-is-too-often/"><u>Deciding on Phone Upgrades: How Often Is Too Often?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-installation-guide-for-canon-mg3022-drivers-updated-version-available-now/"><u>Download & Installation Guide for Canon MG3022 Drivers - Updated Version Available Now</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-for-overcoming-windows-10-wont-install-challenges-your-ultimate-fix-guide/"><u>Expert Tips for Overcoming 'Windows 10 Won't Install' Challenges - Your Ultimate Fix Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonious-audio-pathway-guidebook-for-2024/"><u>Harmonious Audio Pathway Guidebook for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-simple-guide-epson-et-4550-printer-driver-setup-for-windows/"><u>Quick and Simple Guide: Epson ET-4550 Printer Driver Setup for Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977226440-seamless-mediatek-vcom-driver-integration-download-options-inside/"><u>Seamless MediaTek VCOM Driver Integration: Download Options Inside</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-on-updating-to-the-newest-steelseries-graphics-drivers-for-windows-users/"><u>Step-by-Step Tutorial on Updating to the Newest SteelSeries Graphics Drivers for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-updater-code-0x8019-hurdle/"><u>Tackling Updater Code 0X8019 Hurdle</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-secret-sauce-for-stellar-telegram-campaigns-for-2024/"><u>The Secret Sauce for Stellar Telegram Campaigns for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->

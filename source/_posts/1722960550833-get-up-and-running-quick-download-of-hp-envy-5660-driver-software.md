@@ -1,7 +1,7 @@
 ---
 title: "Get Up & Running: Quick Download of HP Envy 5660 Driver Software!"
-date: 2024-11-14T08:17:59.638Z
-updated: 2024-11-17T02:49:30.684Z
+date: 2024-11-24T20:59:06.218Z
+updated: 2024-11-26T19:47:34.823Z
 tags:
   - win11
   - win10
@@ -22,12 +22,20 @@ thumbnail: https://thmb.techidaily.com/2b0be1d254da9a28eb7fb0462b3c66de235332cf8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 options to update **HP ENVY 5660 drivers**
 
  Both methods below work in**Windows 10** ,**8.1**  and**7** . And as the method list suggests, you don’t have to try both. Just decide if you want to do it manually or automatically and take your pick:
 
 1. **[Update HP ENVY 5660 driver automatically(Recommended)](https://www.drivereasy.com/knowledge/hp-envy-5660-driver-download-install-easily/#O1)**
 2. **[Update HP ENVY 5660 driver manually](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Update **HP ENVY 5660**  driver automatically (Recommended)
 
@@ -38,17 +46,7 @@ If you’re not confident playing around with drivers manually, you can do it au
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e00c0171da.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -63,20 +61,14 @@ If you’re not confident playing around with drivers manually, you can do it au
 2. Type**HP ENVY 5660** into the box and click**Submit** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1762cc8910c.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Make sure the selected operating system is **the right version for your Windows OS** (Windows 10, 64-bit in my example) and click**Download** in**the first result** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b176382863d2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Double-click on the downloaded file and follow the onscreen instructions to finish the install.
 
@@ -103,16 +95,17 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-pro-tips-effortless-capture-of-hulu-videos-across-windowsmaciphone-for-2024/"><u>[New] Pro Tips Effortless Capture of Hulu Videos Across Windows/Mac/iPhone for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-dive-into-history-the-definitive-list-of-student-friendly-channels-1-10/"><u>[Updated] 2024 Approved A Dive Into History The Definitive List of Student-Friendly Channels #1-10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/convert-your-tga-images-to-high-quality-tiff-format-for-free-with-our-simple-online-tool/"><u>Convert Your TGA Images to High-Quality TIFF Format for Free with Our Simple Online Tool</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-file-transformation-by-movavi-change-asf-and-em-to-mp3-for-free/"><u>Effortless File Transformation by Movavi: Change ASF & EM to MP3 for Free!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-fixes-restoring-functionality-to-a-broken-iphone-email-application/"><u>Essential Fixes: Restoring Functionality to a Broken iPhone Email Application</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-did-ubuntu-surreptitiously-become-the-default-os-in-elite-dell-laptops-discovering-project-sputnik-zdnet-exclusive/"><u>How Did Ubuntu Surreptitiously Become the Default OS in Elite Dell Laptops? Discovering 'Project Sputnik' | ZDNET Exclusive</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-x-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone X</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-almost-ideal-home-security-solution-evaluating-the-arlo-pro-secureyourhome-with-us/"><u>The Almost Ideal Home Security Solution - Evaluating the Arlo Pro #SECUREyourhome with Us!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-honor-play-7t-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Honor Play 7T for Streaming | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/top-10-ways-to-convert-mkv-to-mp4-without-losing-quality/"><u>Top 10 Ways to Convert MKV to MP4 Without Losing Quality</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/trasformare-file-mod-in-formati-multimediali-compatibili-gratuitamente-con-movavi/"><u>Trasformare File .MOD in Formati Multimediali Compatibili Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-one-side-output-in-windows-10-headphones/"><u>Addressing One Side Output in Windows 10 Headphones</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-step-by-step-tutorial-downloading-and-updating-your-zebra-zp45n-driver/"><u>Complete Step-by-Step Tutorial: Downloading and Updating Your Zebra ZP45n Driver</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-to-install-no-cost-hp-speakermicrophone-driver-downloads/"><u>Easy-To-Install, No Cost HP Speaker/Microphone Driver Downloads</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722972294045-get-the-latest-nvidia-geforce-rtx-1080-driver-update-for-windows-11-systems-download-now/"><u>Get the Latest Nvidia GeForce RTX 1080 Driver Update for Windows 11 Systems – Download Now!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-hp-deskjet-2652-drivers-now-supports-windows-111087-devices/"><u>Get Your HP DeskJet 2652 Drivers Now - Supports Windows 11/10/8/7 Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-step-into-virtual-entertainment-and-gain-notoriety-for-2024/"><u>How to Step Into Virtual Entertainment and Gain Notoriety for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-narrowing-focus-mac-techniques-for-snapchat-videos/"><u>In 2024, Narrowing Focus Mac Techniques for Snapchat Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leveraging-returning-veterans-of-business-a-strategic-move-against-current-talent-droughts-zdnet/"><u>Leveraging Returning Veterans of Business: A Strategic Move Against Current Talent Droughts - ZDNet</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/restore-vanished-contact-information-from-your-android-phone-with-these-tips/"><u>Restore Vanished Contact Information From Your Android Phone with These Tips</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/top-3-asian-linguistic-titans-unveiled/"><u>Top 3 Asian Linguistic Titans Unveiled</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>What Pokémon Evolve with A Dawn Stone For Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/whats-new-in-logitechs-latest-update-for-extreme-3d-pro-controller-driver/"><u>What's New in Logitech's Latest Update for Extreme 3D Pro Controller Driver?</u></a></li>
 </ul></div>
 

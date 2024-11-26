@@ -1,7 +1,7 @@
 ---
 title: Canon TR4520 Multifunction Printer Drivers - Compatible with Microsoft Windows Systems
-date: 2024-08-28T04:40:03.730Z
-updated: 2024-08-29T04:40:03.730Z
+date: 2024-11-24T17:44:12.869Z
+updated: 2024-11-26T21:20:25.141Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/7a5da68125bc45bc63708f2f580be8038605e22ab
 
  Updating device drivers in your Toshiba laptop can help enhance your hardware performance and provide better experience. So it’s recommended to**keep your Toshiba laptop drivers up to date** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to download or update  
 
  Toshiba laptop drivers
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/7a5da68125bc45bc63708f2f580be8038605e22ab
  Note: the screenshots below come from Windows 10, and the fixes also work on Windows 8 and Windows 7.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Download Toshiba laptop drivers manually
 
@@ -53,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/7a5da68125bc45bc63708f2f580be8038605e22ab
 
 This requires time and computer skills.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Update Toshiba laptop drivers via Device Manager
 
  You can also update the device driver via Device Manager from Windows. Device Manager enables you to view and manage the hardware device and driver software in your Windows laptop.
@@ -64,28 +69,24 @@ This requires time and computer skills.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b50312502b51.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  2) Find the device that you want to update, and right click on it to select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17a789b323b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Choose**Search automatically from updated driver software** . Then follow the on-screen instructions to finish.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b42dc1c9e9af.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Still no luck? Okay, there’s one more thing to do.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Update Toshiba laptop drivers automatically
 
  If you don’t have time or patience, you can also update Toshiba laptop drivers automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -100,14 +101,15 @@ This requires time and computer skills.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5031aa03b57.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged devic  es to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5031d68e4bb.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer to take effect.
 
@@ -122,8 +124,6 @@ This requires time and computer skills.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +131,22 @@ This requires time and computer skills.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/astering-the-art-of-youtube-to-webm-conversion/"><u>[New] Mastering the Art of YouTube-to-WebM Conversion</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-guide-for-keeping-your-windows-11-webcam-functionality-current/"><u>Comprehensive Guide for Keeping Your Windows 11 Webcam Functionality Current</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-how-to-download-behringers-usb-audio-device-drivers/"><u>Easy Installation: How to Download Behringer's USB Audio Device Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-amd-radeon-pro-w5700-drivers-now-compatible-with-windows-11107/"><u>Get the Newest AMD Radeon Pro W5700 Drivers Now: Compatible with Windows 11/10/7</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/get-your-free-copy-of-kmplayer-for-all-windows-versions-1087-in-64-and-32-bit-options/"><u>Get Your Free Copy of KMPlayer for All Windows Versions (10/8/7) in 64 and 32 Bit Options</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-honor-x9a-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Honor X9a in Minutes | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/insignia-usb-to-ethernet-converter-free-download-of-latest-drivers/"><u>Insignia USB to Ethernet Converter - Free Download of Latest Drivers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/joke-junction-ultimate-free-comic-templates-for-2024/"><u>Joke Junction Ultimate Free Comic Templates for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-canon-mx340-software-and-drivers-for-windows-11-8-and-7-systems/"><u>Latest Canon MX340 Software and Drivers for Windows 11, 8, and 7 Systems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-nokia-150-2023-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Nokia 150 (2023) to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-updating-logitech-c92-webcam-software-for-windows-users/"><u>Step-by-Step Guide to Updating Logitech C92# Webcam Software for Windows Users</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210341417-9781735624433-stillness-touch/"><u>Stillness Touch | Free Book</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-art-of-deformed-text-display/"><u>The Art of Deformed Text Display</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-7-ai-powered-presentation-assistants/"><u>Top 7 AI-Powered Presentation Assistants</u></a></li>
+<li><a href="https://win-unique.techidaily.com/upgrade-your-text-editing-with-new-improvements-in-emeditor-version-154-beta-release/"><u>Upgrade Your Text Editing with New Improvements in EmEditor Version 15.4 Beta Release</u></a></li>
+</ul></div>
 

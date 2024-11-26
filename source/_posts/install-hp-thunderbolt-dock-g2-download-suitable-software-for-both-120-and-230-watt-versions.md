@@ -1,7 +1,7 @@
 ---
 title: Install HP Thunderbolt Dock G2 - Download Suitable Software for Both 120 and 230 Watt Versions
-date: 2024-11-14T08:27:58.221Z
-updated: 2024-11-17T02:19:17.211Z
+date: 2024-11-21T16:12:17.232Z
+updated: 2024-11-26T17:07:30.416Z
 tags:
   - win11
   - win10
@@ -26,16 +26,17 @@ thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## To update your Thunderbolt drivers
 
 1. [**Download the Thunderbolt drivers from your device manufacturer website**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Update your Thunderbolt drivers automatically**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Download the Thunderbolt drivers from your device manufacturer website
@@ -45,10 +46,7 @@ You can download your Thunderbolt drivers from your device manufacturer website 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29c6b4ddf40.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Go to the product driver download page, then download the correct and latest Thunderbolt drivers to your computer.
@@ -57,28 +55,22 @@ You can download your Thunderbolt drivers from your device manufacturer website 
 
 **3)**Open the downloaded file and follow the on-screen instructions to install it on your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Update your Thunderbolt drivers automatically
 
 If you don’t have the time, patience or skills to update the Thunderbolt drivers manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . **Driver Easy**  will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.  You can download and install your drivers by using either Free or **Pro**  version of Driver Easy. But with the Pro version it takes only **2**  clicks (and you get **full support** and a **30-day money back guarantee** ): **1)** [**Download**](https://tools.techidaily.com/drivereasy/download/) and install **Driver Easy** . **2)** Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a66b4a3dfe.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click the **Update**  button next to your _Thunderbolt device_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29c95e8c019.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’ve updated your driver with Driver Easy but your driver issues persist, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
@@ -100,19 +92,22 @@ If you don’t have the time, patience or skills to update the Thunderbolt drive
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-a-step-by-step-approach-to-mastering-360-video-edits-in-premiere-pro/"><u>[New] A Step-by-Step Approach to Mastering 360° Video Edits in Premiere Pro</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-essential-guide-to-twitter-videos-and-aspect-ratios-for-2024/"><u>[New] Essential Guide to Twitter Videos and Aspect Ratios for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-key-steps-for-applying-fades-in-digital-audio-editing/"><u>[New] Key Steps for Applying Fades in Digital Audio Editing</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-tutorial-for-sharing-photos-from-phone-memory-for-2024/"><u>[New] The Ultimate Tutorial for Sharing Photos From Phone Memory for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-step-by-step-guide-to-exceptional-instagram-stories/"><u>[Updated] 2024 Approved Step-by-Step Guide to Exceptional Instagram Stories</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-best-screen-replayer-for-high-impact-youtubing-experience/"><u>[Updated] In 2024, Best Screen Replayer for High-Impact YouTubing Experience</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1-all-of-movavis-features-explore-the-full-potential-with-movavi-video-editor/"><u>1. All of Movavi's Features - Explore the Full Potential with Movavi Video Editor</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-creating-impactful-ae-titles/"><u>2024 Approved The Art of Creating Impactful AE Titles</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mkamp3-movavi/"><u>免費網站 MKA到MP3 無間斷變更 - 使用 Movavi 音頻轉換工具</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/conversion-sans-frais-changer-un-fichier-webm-en-format-flac-directement-en-ligne-avec-laide-de-movavi/"><u>Conversion Sans Frais: Changer Un Fichier Webm en Format Flac Directement en Ligne - Avec L'Aide De Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/discover-the-leading-10-adobe-after-effects-replacements-both-cost-free-and-commercial-solutions/"><u>Discover the Leading 10 Adobe After Effects Replacements, Both Cost-Free & Commercial Solutions</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-craft-your-own-story-the-top-5-instagram-tips-for-aspiring-social-stars/"><u>In 2024, Craft Your Own Story The Top 5 Instagram Tips for Aspiring Social Stars</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/online-mp4-m4a-movavi/"><u>Online 무료 성공적인 MP4 바이너리 파일을 M4A로 쉽게 전환: Movavi 소개</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/trasformare-video-flv-in-formato-ogg-gratuitamente-online-conversione-rapida-e-facile-con-movavi/"><u>Trasformare Video FLV in Formato OGG Gratuitamente Online - Conversione Rapida E Facile Con Movavi</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-nextgen-video-havens-step-away-from-youtube/"><u>[New] In 2024, NextGen Video Havens - Step Away From YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-perfect-pitch-in-words-crafting-captivating-podcast-episodes/"><u>[New] Perfect Pitch in Words Crafting Captivating Podcast Episodes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-splitcam-review-does-it-reign-supreme-in-video-tech-for-2024/"><u>[New] SplitCam Review Does It Reign Supreme in Video Tech for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-audio-alchemy-instagram-video-to-mp3-a-compreayers-guide/"><u>[Updated] In 2024, Audio Alchemy Instagram Video to Mp3 - A Compreayer's Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-virtual-horizons-inspirational-metaverse-insights-arvr-for-2024/"><u>[Updated] Virtual Horizons Inspirational Metaverse Insights [AR/VR] for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/delving-into-new-technological-breakthroughs-on-toms-hardware/"><u>Delving Into New Technological Breakthroughs on Tom's Hardware</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/downloading-the-latest-version-of-magicard-rio-pro-driver-now-supports-win10-8-and-7/"><u>Downloading the Latest Version of Magicard Rio Pro Driver – Now Supports Win10, 8 & 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fix-hp-monitor-driver-issues-on-windows-1087/"><u>Fix HP Monitor Driver Issues on Windows 10/8/7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-infinix-note-30-vip-racing-edition-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Infinix Note 30 VIP Racing Edition To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installing-hp-deskjet-2600-printer-drivers-on-windows-os-versions-7-8-and-10/"><u>Installing HP Deskjet 2600 Printer Drivers on Windows OS Versions: 7, 8, and 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/instant-setup-microsoft-wireless-mouse-5000-download-and-install-drivers-today/"><u>Instant Setup: Microsoft Wireless Mouse 5000 – Download & Install Drivers Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-sas-software-installation-manual-for-windows-users-win10-win8-win7/"><u>Latest SAS Software Installation Manual for Windows Users (Win10, Win8, Win7)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mac-users-rejoice-how-to-refresh-your-dns-records-easily/"><u>Mac Users Rejoice: How To Refresh Your DNS Records Easily</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/solution-an-elevated-white-blood-cell-count-leukocytosis-can-be-seen-due-to-the-inflammatory-response-to-the-viral-infection/"><u>Solution: An Elevated White Blood Cell Count (Leukocytosis) Can Be Seen Due to the Inflammatory Response to the Viral Infection.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-on-secure-downloading-of-amd-ryzen-drivers-with-easy-upgrades/"><u>Step-by-Step Tutorial on Secure Downloading of AMD Ryzen Drivers with Easy Upgrades</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-arbitration-process-can-be-tailored-to-fit-the-needs-of-the-parties-involved-allowing-for-flexibility-in-scheduling-and-procedural-rules/"><u>The Arbitration Process Can Be Tailored to Fit the Needs of the Parties Involved, Allowing for Flexibility in Scheduling and Procedural Rules.</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-complimentary-digital-assets-for-creative-makers-updated-list-massmail/"><u>Top Complimentary Digital Assets for Creative Makers - Updated List | MassMail</u></a></li>
 </ul></div>
 

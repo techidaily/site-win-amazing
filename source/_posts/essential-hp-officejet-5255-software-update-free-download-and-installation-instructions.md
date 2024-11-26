@@ -1,7 +1,7 @@
 ---
 title: Essential HP OfficeJet 5255 Software Update - Free Download and Installation Instructions
-date: 2024-11-12T08:58:17.559Z
-updated: 2024-11-17T01:34:05.601Z
+date: 2024-11-22T18:28:46.764Z
+updated: 2024-11-26T22:19:55.542Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update Validity fingerprint sensor drivers
 
  There’re mainly 3 ways for you to update the Validity fingerprint sensor drivers. Each of them has different features so you may pick the one you like most and see whether that answers your demand.
@@ -37,10 +41,7 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 1 – Update your driver via Device Manager**
@@ -53,23 +54,13 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 2. After the Start screen shows up, click the**magnifier** icon located in the upper right corner.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-05-41.png)
 3. Type**device** into the search box. Then select**Device Manager** from a list of search results.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1098.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Here comes**Device Manager** . Click the**▷** symbol to the left of**Biometric Devices** to expand its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1073.png)
 
 5. Right-click on**Validity Sensors (WBF)** to open its context menu. Then select**Update Driver Software…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-11-03.png)
 6. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-18-21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Wait till the download and installation process finishes.
@@ -78,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 9. Now your driver has been updated by Windows successfully. Don’t forget to**restart** your computer for the changes to take effect even if you’re not asked to.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 2 – Update your driver from official websites**
 
@@ -100,10 +95,7 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Validity fingerprint sensor driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-36-48-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -134,17 +126,20 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-examine-recorded-conversation-for-2024/"><u>[New] Examine Recorded Conversation for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-filming-for-tweet-sharing-content-without-retweeting/"><u>[Updated] In 2024, Filming for Tweet Sharing Content without Retweeting</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-social-image-saver-stealing-and-storing-gif-images-from-twitter-for-2024/"><u>[Updated] The Social Image Saver Stealing and Storing GIF Images From Twitter for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-unleash-your-pcs-hidden-treasures-with-new-windows-10-games/"><u>2024 Approved Unleash Your PC’s Hidden Treasures with New Windows 10 Games</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/converta-seu-filme-em-mp4-sem-custo-ferramenta-on-line-livre/"><u>Converta Seu Filme Em MP4 Sem Custo - Ferramenta On-Line Livre</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-online-converter-change-wmv-files-into-flash-format-swf-easily-with-movavi/"><u>Free Online Converter: Change WMV Files Into Flash Format (SWF) Easily with Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/gratuit-mpg-fichier-vers-wma-en-ligne-guide-complet-convertisseur-gratuit-de-movavi/"><u>Gratuit MPG-Fichier Vers WMA en Ligne : Guide Complet - Convertisseur Gratuit De Movavi</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-move-your-digital-books-from-an-ebook-reader-to-a-pc-using-calibre/"><u>How to Move Your Digital Books From an eBook Reader to a PC Using Calibre</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/onlinelastige-methode-om-flv-video-in-mp4-zu-veranderen-movavi/"><u>Onlinelastige Methode Om FLV-Video in MP4 Zu Veranderen - Movavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-5-characteristics-of-high-performance-game-mice/"><u>The Ultimate 5 Characteristics of High-Performance Game Mice</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/top-10-platforms-similar-to-tiktok-a-comprehensive-guide/"><u>Top 10 Platforms Similar to TikTok: A Comprehensive Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unleash-graphics-potential-windows-10-now-features-nvidia-210/"><u>Unleash Graphics Potential: Windows 10 Now Features Nvidia 210</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-proper-placement-of-external-webpages-in-insta-content-for-2024/"><u>[Updated] Proper Placement of External Webpages in Insta Content for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-latest-updates-for-epson-xp-440-printer-drivers/"><u>Download & Install: Latest Updates for Epson XP-440 Printer Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-to-downloading-and-installing-amd-ryzen-5-2600-graphics-card-drivers/"><u>Easy Guide to Downloading and Installing AMD Ryzen 5 2600 Graphics Card Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-updating-your-amd-radeon-rx-590-graphics-card-for-windows-computers/"><u>Easy Guide: Updating Your AMD Radeon RX 590 Graphics Card for Windows Computers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/efficient-printing-with-epson-wf-7710-secure-driver-downloads-for-windows-10-81-etc/"><u>Efficient Printing with Epson WF-7710 - Secure Driver Downloads for Windows 10, 8.1, Etc.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-logitech-momo-steering-wheel-driver-software-downloads-pc-driving-simulator/"><u>Free Logitech MOMO Steering Wheel Driver Software Downloads | PC Driving Simulator</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-ideas-to-action-how-to-transform-photos-into-engaging-mobile-videos-for-2024/"><u>From Ideas to Action How to Transform Photos Into Engaging Mobile Videos for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-and-setup-epson-wf-7710-driver-ensure-compatibility-with-windows-118187/"><u>How to Download and Setup Epson WF-7710 Driver: Ensure Compatibility with Windows 11/8.1/8/7</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-free-iphone-6-imei-checker-by-drfone-ios/"><u>In 2024, Best Free iPhone 6 IMEI Checker</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/make-a-splash-on-social-media-adding-animated-text-to-instagram-stories-for-2024/"><u>Make a Splash on Social Media Adding Animated Text to Instagram Stories for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-honor-play-40c-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Honor Play 40C? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-solution-for-hp-monitor-driver-glitches-in-windows-11-and-earlier-versions/"><u>Step-by-Step Solution for HP Monitor Driver Glitches in Windows 11 and Earlier Versions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-samsung-galaxy-s23-tactical-edition-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Samsung Galaxy S23 Tactical Edition Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://extra-information.techidaily.com/voice-change-mastery-for-sony-game-systems/"><u>Voice Change Mastery for Sony Game Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-xiaomi-14-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Xiaomi 14 Phones</u></a></li>
 </ul></div>
 

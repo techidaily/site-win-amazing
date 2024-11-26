@@ -1,7 +1,7 @@
 ---
 title: "[How-To] Update Lenovo T520 Drivers | Quick & Easy"
-date: 2024-08-28T04:46:19.767Z
-updated: 2024-08-29T04:46:19.767Z
+date: 2024-11-19T18:09:22.135Z
+updated: 2024-11-26T18:15:24.704Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/1c9229fb0800113350dfae57f612d2aef9036646b
 
 It’s always important to **have the latest drivers for your scanner**  to keep it in tiptop shape and improve the overall computer performance. In this post, we’re showing you 2 easy ways to get the latest **ScanSnap drivers** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 options to update **ScanSnap drivers**
 
 [**Option 1 – Manually**](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -26,6 +30,10 @@ It’s always important to **have the latest drivers for your scanner**  to keep
 **OR**
 
 [**Option 2 – Automatically (Recommended)**](https://www.drivereasy.com/knowledge/scansnap-driver-download-update-easily/#O2) – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 1 – Update your ScanSnap driver manually**
 
@@ -36,8 +44,9 @@ It’s always important to **have the latest drivers for your scanner**  to keep
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Update your ScanSnap driver automatically (Recommended)
 
  If you’re not confident playing around with drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -50,13 +59,16 @@ It’s always important to **have the latest drivers for your scanner**  to keep
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea92aeadc8d.jpg)
 3. You can upgrade to the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) and click   **Update All**  to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea936032f20.jpg) You can also click**Update** to do it for free if you like, but it’s partly manual
 4. Restart your computer for the changes to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -72,8 +84,6 @@ It’s always important to **have the latest drivers for your scanner**  to keep
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -81,4 +91,18 @@ It’s always important to **have the latest drivers for your scanner**  to keep
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-everlasting-deactivation-tactics-against-youtubes-sneaky-snack/"><u>[New] In 2024, Everlasting Deactivation Tactics Against YouTube's Sneaky Snack</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-zenith-prodigy-workshop-scrutiny/"><u>[New] In 2024, Zenith Prodigy Workshop Scrutiny</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-enhancing-iphone-videography-essential-tips-for-professional-results-for-2024/"><u>[Updated] Enhancing iPhone Videography Essential Tips for Professional Results for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-essential-tips-for-flv-file-fusion-on-youtube/"><u>[Updated] Essential Tips for FLV File Fusion on YouTube</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/atheros-drivers-download-and-install-for-windows/"><u>Atheros Drivers Download & Install for Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-techkey-bluetooth-adapter-drivers-for-enhanced-compatibility-with-win-1078/"><u>Download and Install Techkey Bluetooth Adapter Drivers for Enhanced Compatibility with Win 10/7/8</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/effortless-conversion-guide-transforming-wmv-files-into-mov-format/"><u>Effortless Conversion Guide: Transforming WMV Files Into MOV Format</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/expert-tips-implement-borders-on-instagram-media-for-2024/"><u>Expert Tips Implement Borders on Instagram Media for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-most-recent-intel-uhd-graphics-software-update-on-windows-11/"><u>Get the Most Recent Intel UHD Graphics Software Update on Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/microsofts-comprehensive-guide-to-downloading-audio-drivers-for-windows-users/"><u>Microsoft's Comprehensive Guide to Downloading Audio Drivers for Windows Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-instructions-how-to-get-a-driver-for-an-xbox-360-gamepad/"><u>Step-by-Step Instructions: How to Get a Driver for an Xbox 360 Gamepad</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Effortless Update of Lenovo Energy Consumption Settings"
-date: 2024-08-28T04:41:59.164Z
-updated: 2024-08-29T04:41:59.164Z
+date: 2024-11-25T22:19:10.256Z
+updated: 2024-11-26T21:41:20.836Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ Are you trying to update drivers for your Nahimic audio software? If so, then th
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1 – Download & install the drivers from manufacturers
 
  Usually you can get the sound card drivers from the manufacturer of your motherboard. To do this, simply visit its official website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 10, 64 bit) and download the drivers manually. If you’re using the Realtek HD Audio Driver, you can also download the driver from **[Realtek](https://www.realtek.com/en/downloads)**  .
@@ -43,30 +47,32 @@ Are you trying to update drivers for your Nahimic audio software? If so, then th
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ### Option 2 – Update the driver via Device Manager
 
  To update your audio driver via Device Manager, here’s the procedure:
 
 1. On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5ae0331bc08e4.png) and**R** at the same time to invoke the Run dialog box. Then, type**devmgmt.msc** and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-06-17_14-24-52.png)
 2. In the Device Manager window, double-click**Sound, video and game controllers** to expand its drop-down list. Then right-click on your sound card and select **Update driver** .![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-11_11-03-17.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Click **Search automatically for updated driver software** . Then follow the onscreen instructions to update your driver.![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-11_11-06-20-1.jpg)
 4. If you’re presented with the notification that reads “The best driver software for your device is already installed,” that means your audio driver has probably been up-to-date. But if you’re not sure about that, please turn to **[option 1](https://tools.techidaily.com/drivereasy/download/)**  or **[option 3](https://tools.techidaily.com/drivereasy/download/)**  to look for the latest version of your audio driver.![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-11_11-07-39-1.jpg)
-5. Reboot your PC for the changes to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Reboot your PC for the changes to take effect.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 3 – Update the driver automatically (recommended)
 
  Some people may find it hard to locate the correct driver online. And even if you successfully find it, it’s still time-consuming and error-prone to install the driver. So if you don’t have the time, patience or computer skills to update your audio drivers manually,**you can do it automatically with** **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -78,13 +84,11 @@ Are you trying to update drivers for your Nahimic audio software? If so, then th
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-07-15_14-27-17.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your sound card driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-7.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  Driver Easy uses only genuine drivers, straight from your hardware manufacturer. And they’re all tested and certified – either by Microsoft or by itself. Or both.
@@ -104,8 +108,6 @@ Are you trying to update drivers for your Nahimic audio software? If so, then th
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +115,20 @@ Are you trying to update drivers for your Nahimic audio software? If so, then th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-revolutionize-your-gaming-by-recording-on-win10/"><u>[New] In 2024, Revolutionize Your Gaming by Recording on Win10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-mac-os-unveiled-comprehensive-review-of-screenflow-v4/"><u>[New] Mac OS Unveiled Comprehensive Review of ScreenFlow V4</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-easy-ways-to-get-free-views-on-youtube-alternative-methods/"><u>[Updated] In 2024, Easy Ways To Get Free Views on YouTube! Alternative Methods</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-no-cost-all-benefits-with-fcp-downloads/"><u>2024 Approved No Cost, All Benefits with FCP Downloads</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beat-the-rush-discover-apples-affordable-799-m2-macbook-air-pre-prime-day-special-tech-insights-at-zdnet/"><u>Beat the Rush! Discover Apple's Affordable $799 M2 MacBook Air Pre-Prime Day Special | Tech Insights at ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-high-quality-behringer-audio-drives/"><u>Free Download: High-Quality Behringer Audio Drives</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-asus-ac68-wireless-network-card-up-and-running-with-this-driver-update/"><u>Get Your ASUS AC68 Wireless Network Card Up and Running with This Driver Update</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-comprehensive-guide-to-top-tier-skype-recorder-tech/"><u>In 2024, Comprehensive Guide to Top-Tier Skype Recorder Tech</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722965397676-install-fresh-amd-ryzen-3-2200g-graphics-card-drivers-today/"><u>Install Fresh AMD Ryzen 3 2200G Graphics Card Drivers Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-easy-download-and-set-up-your-rs23n-usb-drivers-today/"><u>Quick & Easy: Download and Set Up Your RS23n USB Drivers Today!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-setup-how-to-download-targus-docking-station-drivers-with-ease/"><u>Quick Setup: How to Download Targus Docking Station Drivers with Ease</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-desktop-companion-exploring-the-performance-and-features-of-the-raspberry-pi-400-keyboard-pc/"><u>The Ultimate Desktop Companion: Exploring the Performance and Features of the Raspberry Pi 400 Keyboard PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-hp-officejet-pro-6970-driver-to-enhance-printing-efficiency-in-windows-os/"><u>Update Your HP Officejet Pro 6970 Driver to Enhance Printing Efficiency in Windows OS</u></a></li>
+</ul></div>
 

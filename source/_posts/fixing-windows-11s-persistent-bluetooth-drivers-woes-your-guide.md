@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows 11'S Persistent Bluetooth Drivers Woes - Your Guide
-date: 2024-08-28T04:43:20.262Z
-updated: 2024-08-29T04:43:20.262Z
+date: 2024-11-20T20:01:14.839Z
+updated: 2024-11-26T18:34:27.211Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 
  Besides, always using the latest graphics driver offers more than just a performance boost. It also keeps your GPU in good condition.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 ways to install/update your RTX 3080 driver
 
 **[Option 1: Automatically (Recommended)](https://www.drivereasy.com/knowledge/geforce-rtx-3080-driver-latest-download-for-windows-10-8-7/#option1)**  – Download, install and update drivers with just a few clicks
@@ -37,15 +41,21 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Once you’ve installed/updated your graphics driver, restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 2: Install/Update your RTX 3080 driver manually
 
  If you’re familiar with computer hardware, you can install or update your RTX 3080 driver manually.
@@ -57,14 +67,17 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
  For**Download Type** , choose**Game Ready Driver (GRD)** for gaming purposes; or choose**Studio Driver (SD)** for graphic design.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-3080-driver-official-dl.jpg)
 3. Click**Download** . Then run the install wizard to install the graphics driver.  
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3080-driver-dl.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
  So these are the ways you can get the latest driver for your RTX 3080\. If you have any questions or suggestions, don’t hesitate to drop a comment down below.
@@ -75,8 +88,6 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,4 +95,18 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-quick-tips-screen-record-and-camera-integration-on-android/"><u>[New] 2024 Approved Quick Tips Screen Record & Camera Integration on Android</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-fusion-functionality-combining-watch-mac-access/"><u>[New] In 2024, Fusion Functionality Combining Watch, Mac Access</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/urbocharge-youtube-videos-efficient-rendering-fast-transfer-for-2024/"><u>[New] Turbocharge YouTube Videos Efficient Rendering, Fast Transfer for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-top-10plus-instagram-content-downloaders-reviewed/"><u>[Updated] 2024 Approved Top 10+ Instagram Content Downloaders Reviewed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-xbox-gamers-guide-4-proven-screen-recording-methods/"><u>[Updated] In 2024, Xbox Gamers' Guide 4 Proven Screen Recording Methods</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-version-of-logitech-extreme-mouse-and-extreme-pro-driver/"><u>Download the Latest Version of Logitech Extreme Mouse and Extreme Pro Driver</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guidance-on-resolving-windows-software-initiation-flaw-error/"><u>Guidance on Resolving Windows Software Initiation Flaw (Error)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-your-windows-pcs-usb-30-gigabit-ethernet-controller-driver/"><u>How to Update Your Windows PC's USB 3.0 Gigabit Ethernet Controller Driver</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/samsung-m2020-official-drivers-secure-and-free-downloads-available-now/"><u>Samsung M2020 Official Drivers - Secure and Free Downloads Available Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-your-sound-comprehensive-list-of-free-msi-driver-downloads-for-optimal-pc-audio-performance/"><u>Secure Your Sound: Comprehensive List of Free MSI Driver Downloads for Optimal PC Audio Performance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-to-synchronizing-lightworks-videos-and-audio-post-import/"><u>Ultimate Guide to Synchronizing Lightworks Videos & Audio Post-Import</u></a></li>
+</ul></div>
 

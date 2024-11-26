@@ -1,7 +1,7 @@
 ---
 title: HP Officejet Pro 6968 Installable Software & Drivers for PCs
-date: 2024-11-14T23:00:00.530Z
-updated: 2024-11-17T02:12:04.671Z
+date: 2024-11-21T20:55:12.613Z
+updated: 2024-11-26T20:53:42.252Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ If you’re using Arduino products to create your own work but failed to connect
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why you need Arduino Mega 2560 driver?
 
  As we know, Arduino is an open-source electronics platform let users design and create their own work. But when you need to connect it with a Windows computer, you’ll need a correct and appropriate driver.
@@ -41,10 +45,7 @@ OR
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/download-driver-for-arduino-mega-2560-easily-quickly/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 1 –** **Download and install the driver manually**
@@ -60,33 +61,25 @@ OR
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select **Browse my computer for driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9725918e348.png)
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update drivers**
 
@@ -103,19 +96,6 @@ OR
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/mega2560-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -138,22 +118,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-elite-echo-engineer-for-podcasting-excellence/"><u>[New] Elite Echo Engineer for Podcasting Excellence</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-sustained-sky-exploration-the-best-drones-for-distance/"><u>[New] In 2024, Sustained Sky Exploration The Best Drones for Distance</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonic-starting-points-10-song-picks-for-engaging-podcast-openers/"><u>2024 Approved Harmonic Starting Points 10 Song Picks for Engaging Podcast Openers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/5bplusr6ycf5zyy57wq54wn54mh77ya5lia6acf57ch5pio5pwz5a246kqy56il77ym5aac5l2v5zyo5lin6laz5pmc6zat5ywn6lyv6ayg5pw05zci5asa5by15b2x5yop/"><u>快速團結照片：一項簡明教學課程，如何在不足時間內輕鬆整合多張影像</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/avi-m4v-movavi/"><u>自由下載 AVI 到 M4V: 利用 Movavi 優化影片格式 - 在線無限制</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/beat-your-limits-with-best-of-2024-workouts/"><u>Beat Your Limits with Best of 2024 Workouts</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/comparing-audio-formats-understanding-the-key-differences-between-mp3-and-mp4/"><u>Comparing Audio Formats: Understanding the Key Differences Between MP3 and MP4</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/conversione-e-streaming-di-mp3-senza-costi-con-movavi-guida-completa/"><u>Conversione E Streaming Di MP3 Senza Costi Con Movavi - Guida Completa</u></a></li>
-<li><a href="https://techtrends.techidaily.com/creating-and-managing-dual-or-multi-monitor-configurations-on-your-windows-10-pc/"><u>Creating and Managing Dual or Multi-Monitor Configurations on Your Windows 10 PC</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-huawei-p60-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Huawei P60</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/exploring-usage-restrictions-in-movavis-free-trial-offers/"><u>Exploring Usage Restrictions in Movavi's Free Trial Offers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/gratis-converter-online-para-archivos-asf-a-mp4-con-movavi-transformaciones-sin-costo/"><u>Gratis Converter Online Para Archivos ASF a MP4 Con Movavi: Transformaciones Sin Costo</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-cricket-ultimate-guide-to-live-streaming-selection/"><u>In 2024, Top Cricket Ultimate Guide to Live Streaming Selection</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-zdnet-the-rigorous-process-of-assessing-modern-tablets/"><u>Inside ZDNet: The Rigorous Process of Assessing Modern Tablets</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/microsoft-teams-outage-determining-if-the-issue-stands-with-service-or-connection/"><u>Microsoft Teams Outage: Determining If the Issue Stands with Service or Connection</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/movavi-vob-mp3-online-guide/"><u>Movavi의 단거나 비용 없이 VOB 파일을 MP3로 전환하기: 스프링 - Online Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/transformez-vos-images-nef-en-bmp-sans-frais-via-le-service-en-ligne-de-movavi/"><u>Transformez Vos Images NEF en BMP Sans Frais via Le Service en Ligne De Movavi</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-mastering-metaverse-marketing-techniques/"><u>[New] 2024 Approved Mastering Metaverse Marketing Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-beyondsharex-evaluating-the-best-options/"><u>[New] BeyondShareX - Evaluating the Best Options</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-fundamentals-of-navigating-youtube-regulations/"><u>[New] In 2024, The Fundamentals of Navigating YouTube Regulations</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-edit-your-video-with-youtube-studio-editor/"><u>2024 Approved How to Edit Your Video with YouTube Studio Editor</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-latest-version-of-corsair-k55-keyboard-drivers/"><u>Download & Latest Version of Corsair K55 Keyboard Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-download-and-installation-instructions-for-the-wacom-intuos-pro-driver-on-windows-10-system/"><u>Easy Download & Installation Instructions for the Wacom Intuos Pro Driver on Windows 10 System</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-step-by-step-tutorial-for-your-epson-xp-410-driver-setup-in-windows-environments/"><u>Easy Step-by-Step Tutorial for Your Epson XP-410 Driver Setup in Windows Environments</u></a></li>
+<li><a href="https://article-helps.techidaily.com/effortless-entry-to-entertainment-the-ifunny-app-experience/"><u>Effortless Entry to Entertainment The iFunny App Experience</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ensuring-peak-performance-acquire-and-update-your-epson-wf-352n-printers-windows-driver-software-now/"><u>Ensuring Peak Performance: Acquire and Update Your Epson WF 352N Printer's Windows Driver Software Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/expert-advice-on-securely-setting-up-your-sandisk-solid-state-drive/"><u>Expert Advice on Securely Setting Up Your SanDisk Solid State Drive</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hassle-free-setup-latest-epson-scanner-software-and-driver-collection/"><u>Hassle-Free Setup: Latest Epson Scanner Software & Driver Collection</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-efficiently-organize-and-resolve-issues-with-your-iphone-photography-collection/"><u>How to Efficiently Organize and Resolve Issues with Your iPhone Photography Collection</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-find-and-install-updated-bluetooth-drivers-from-microsoft-for-various-windows-os-windows-10-11-8-7/"><u>How to Find and Install Updated Bluetooth Drivers From Microsoft for Various Windows OS (Windows 10, 11, 8, ^7)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-fix-samsung-printer-connection-problems-on-windows-solutions-included/"><u>How to Fix Samsung Printer Connection Problems on Windows - Solutions Included</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-obtain-and-install-fresh-drivers-for-your-intel-wireless-ac-9560-network-adapter/"><u>How to Obtain & Install Fresh Drivers for Your Intel Wireless AC 9560 Network Adapter</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/perfecting-your-purses-expertise-in-haul-videography/"><u>Perfecting Your Purses Expertise in Haul Videography</u></a></li>
 </ul></div>
 

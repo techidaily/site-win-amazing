@@ -1,7 +1,7 @@
 ---
 title: Shear Failures Involve Sliding Along a Plane Due to Horizontal Forces Acting on the Structure During an Earthquake
-date: 2024-08-28T04:40:35.687Z
-updated: 2024-08-29T04:40:35.687Z
+date: 2024-11-25T17:56:47.013Z
+updated: 2024-11-26T19:56:13.976Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ OR
 
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Option 1 – Update GTX 1660 Ti drivers automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update your GTX 1660 Ti driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -48,8 +52,9 @@ OR
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2 – Update GTX 1660 Ti drivers manually
 
  Here’s your guide to updating your **GTX 1660 Ti** driver manually:
@@ -73,22 +78,25 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-323-1024x393.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**DOWNLOAD** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-326.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Click DOWNLOAD again to start the download.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-327.png)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Double-click on the downloaded file and follow the on-screen instructions to finish the install.
 
  6) Restart your computer for the changes to take effect even if you’re not asked to.
@@ -107,8 +115,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +122,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-keyboard-warriors-guide-games-similar-to-gta-v/"><u>[New] In 2024, Keyboard Warriors' Guide Games Similar to GTA V</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-16-youtube-starting-points-to-enhance-view-count/"><u>[New] Top 16 YouTube Starting Points to Enhance View Count</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/solved-samsung-blu-ray-player-not-working/"><u>[Solved] Samsung Blu Ray Player Not Working</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-ensuring-long-term-youtube-success-with-creative-commons-mainteninas/"><u>[Updated] In 2024, Ensuring Long-Term YouTube Success with Creative Commons Mainteninas</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-what-is-the-youtube-creator-studio-in-2024/"><u>[Updated] What Is the YouTube Creator Studio, In 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-latest-asus-laptop-driver-updates/"><u>Download and Install Latest ASUS Laptop Driver Updates</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722954437979-get-the-newest-zebra-driver-and-printer-utilities-for-your-pc-install-now/"><u>Get the Newest Zebra Driver & Printer Utilities for Your PC - Install Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-zebra-printer-driver-software-for-your-windows-pc-here/"><u>Get the Newest Zebra Printer Driver Software for Your Windows PC Here</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-x100-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo X100</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/improve-your-pcs-audio-output-with-easy-usb-driver-updates-on-windows/"><u>Improve Your PC's Audio Output with Easy USB Driver Updates on Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-xiaomi-14-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Xiaomi 14 Face Lock?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/nighttime-narratives-in-pixels/"><u>Nighttime Narratives in Pixels</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-download-essential-keyboard-drivers-compatible-with-windows-7/"><u>Quick Download: Essential Keyboard Drivers Compatible with Windows 7</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/snap-and-tag-your-audio-favorite-to-share-for-2024/"><u>Snap & Tag Your Audio Favorite to Share for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/streamline-your-setup-with-microsoft-ergonomic-keyboard-4000-driver-download-quick-tips/"><u>Streamline Your Setup with Microsoft Ergonomic Keyboard 4000 Driver Download – Quick Tips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-windows-7-network-connection-woes-complete-resolution-guide/"><u>Troubleshooting Windows 7 Network Connection Woes - Complete Resolution Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-vivo-g2-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Vivo G2 to Gmail | Dr.fone</u></a></li>
+</ul></div>
 

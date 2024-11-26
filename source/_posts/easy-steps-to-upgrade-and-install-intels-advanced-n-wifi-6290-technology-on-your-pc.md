@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Upgrade and Install Intel's Advanced-N WiFi 6290 Technology on Your PC
-date: 2024-08-28T04:44:10.495Z
-updated: 2024-08-29T04:44:10.495Z
+date: 2024-11-25T21:40:15.478Z
+updated: 2024-11-26T21:24:26.994Z
 tags:
   - win11
   - win10
@@ -19,9 +19,17 @@ thumbnail: https://thmb.techidaily.com/1f521609b1c133bd14e0ec883446171896f3c613d
 
  Looking to update your Intel Iris Plus Graphics 640 driver but not sure where to get the latest download? If yes, then you’ve come to the right place. In this post, you’ll have two ways to download and install the driver efficiently.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why should I update the Intel Iris Plus Graphics 640 driver
 
  Updating drivers is beneficial to the stability of your hardware devices, whether it is a printer, video card, or audio output device. By rolling out new drivers, original equipment manufacturers (OEM) improve the functionality of their products and correct technical issues reported by users. Therefore, if you ever encounter any problems relating to your graphics card (such as game crashing), try to update the corresponding driver and see whether that gets you out of trouble. Or if you want to make the most of your GPU, keeping the drivers up to date is also important.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to update the Intel Iris Plus Graphics 640 driver
 
@@ -36,8 +44,9 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1 – Automatically update the driver
 
  If you don’t have the time, patience or computer skills to update your Intel Iris Plus Graphics 640 driver manually,**you can do it automatically with** **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -49,22 +58,17 @@ OR
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update Intel Iris Plus Graphics 640 driver, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-24_12-24-30.jpg)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at**<support@drivereasy.com>** . We are always here to help.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2 – Update the driver manually
 
 If you opt for updating the driver manually, here’s the procedure:
@@ -72,14 +76,13 @@ If you opt for updating the driver manually, here’s the procedure:
 1. Click **[here](https://downloadcenter.intel.com/product/98911/Intel-Iris-Plus-Graphics-640)**  to visit the download page of Intel Iris Plus Graphics 640 driver.
 2. Click**Intel® Graphics – Windows® 10 DCH Drivers** .![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-24_12-31-07.jpg)
 3. Pay attention to the left section and click the**download** button below the**EXE** file available for download. (You can otherwise download the ZIP file. Note that it’s compressed so you’ll need to extract it before installing the driver on PC.)  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Also, if you want to download a certain version of drivers, you can click the desired one beneath**Other Versions** .![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-24_12-33-59.jpg)
 4. Once you’ve downloaded the correct file, double-click on it and follow the onscreen instructions to install the driver.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. **Reboot** your PC for the changes to take effect.
 
 ---
@@ -96,8 +99,6 @@ If you opt for updating the driver manually, here’s the procedure:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +106,21 @@ If you opt for updating the driver manually, here’s the procedure:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-dynamic-action-photography-on-your-iphone-for-2024/"><u>[New] Dynamic Action Photography on Your iPhone for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dciman32dll-mishaps-comprehensive-solutions-to-not-foundmissing-issues/"><u>dciman32.dll Mishaps: Comprehensive Solutions to Not Found/Missing Issues</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-of-hewlett-packard-audio-software-at-no-cost/"><u>Easy Installation of Hewlett-Packard Audio Software at No Cost</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-pc-upgraded-download-the-latest-nvidia-gaming-drivers-for-windows/"><u>Get Your PC Upgraded: Download the Latest NVIDIA Gaming Drivers for Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/guidelines-for-renaming-yourself-in-online-meetings/"><u>Guidelines for Renaming Yourself in Online Meetings</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location without Jailbreak On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-successfully-download-the-newest-broadcom-network-card-driver-on-your-windows-10-system-fixed/"><u>How to Successfully Download the Newest Broadcom Network Card Driver on Your Windows 10 System [FIXED]</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/keeping-your-pcs-network-in-top-shape-update-the-usb-30-ethernet-controller-driver-on-windows-systems/"><u>Keeping Your PC's Network in Top Shape: Update the USB 3.0 Ethernet Controller Driver on Windows Systems</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-top-10-free-video-stabilization-tools-online-a-comprehensive-review/"><u>New 2024 Approved Top 10 Free Video Stabilization Tools Online A Comprehensive Review</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaim-invisible-5ghz-networks-on-windows-11-guide-herein/"><u>Reclaim Invisible 5GHz Networks on Windows 11: Guide Herein</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/setting-up-pip-mode-in-the-youtube-app-for-ios-devices-for-2024/"><u>Setting up PIP Mode in the YouTube App for iOS Devices for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/steelseries-arctis-5-drivers-download-and-install/"><u>SteelSeries Arctis 5 Drivers | Download & Install</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-fix-for-windows-error-0x80071a90/"><u>Step-by-Step Fix for Windows Error 0X80071A90</u></a></li>
+</ul></div>
 

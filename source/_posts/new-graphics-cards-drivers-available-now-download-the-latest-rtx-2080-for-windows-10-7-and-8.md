@@ -1,7 +1,7 @@
 ---
 title: "New Graphics Cards Drivers Available Now: Download the Latest RTX 2080 for Windows 10, 7 & 8"
-date: 2024-11-12T17:16:35.440Z
-updated: 2024-11-17T02:48:36.937Z
+date: 2024-11-24T20:54:05.245Z
+updated: 2024-11-26T19:52:49.711Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **There are two methods to update your Geforce RTX 2080 driver:**
 
 [**Method 1** **– Automatically (Recommended):**](https://www.drivereasy.com/knowledge/geforce-rtx-2080-driver-download-for-windows/#b) This option is **much quicker and easier** . **All** you need to do is **just a couple of mouse clicks** !
@@ -33,10 +37,7 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 [**Method 2** **– Manually:**](https://tools.techidaily.com/drivereasy/download/) You can update your Geforce RTX 2080 driver on your own. This requires some time, patience, and sometimes even computer skills.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Update your Geforce RTX 2080 driver automatically
@@ -51,33 +52,21 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap455.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your **Geforce RTX 2080** graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap454-1.png)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Download and install your Geforce RTX 2080 driver manually
 
@@ -89,16 +78,13 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap469.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3\. Click the **DOWNLOAD** button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap461.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4.**Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
@@ -122,20 +108,18 @@ _You can do it for free if you like, but it’s partly manual._
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-hue-harmony-translating-theory-into-artistry/"><u>[New] 2024 Approved Hue Harmony Translating Theory Into Artistry</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-exclusive-review-of-showmore-authoritative-screen-capture-software-for-2024/"><u>[Updated] Exclusive Review of ShowMore’ Authoritative Screen Capture Software for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-halovision-highlights-critique/"><u>[Updated] HaloVision Highlights Critique</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-achieve-10-free-tools-for-thumbnail-extraction/"><u>[Updated] In 2024, Achieve 10 Free Tools for Thumbnail Extraction</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-premier-hashtags-monitoring-on-facebook-twitter-and-instagram/"><u>[Updated] Premier Hashtags Monitoring on Facebook, Twitter & Instagram</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-smooth-transitions-with-illustrators-blur-effects/"><u>[Updated] Smooth Transitions with Illustrator's Blur Effects</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/dell-device-maintenance-upgrading-the-sm-bus-controller-software/"><u>Dell Device Maintenance: Upgrading the SM Bus Controller Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-easy-update-surface-drivers-made-simple/"><u>Download & Easy Update: Surface Drivers Made Simple</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-explore-top-quality-behringer-audio-drivers/"><u>Free Download: Explore Top-Quality Behringer Audio Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-logitech-t630-installation-software-for-windows-users-windows-7810/"><u>Free Logitech T630 Installation Software for Windows Users (Windows 7/8/10)</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/from-script-to-screen-youtube-tutorial-and-alternative-pathways/"><u>From Script to Screen YouTube Tutorial & Alternative Pathways</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-which-video-editor-should-you-choose-sony-vegas-vs-adobe-premiere-pro-for-2024/"><u>New Which Video Editor Should You Choose? Sony Vegas vs Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/successfully-dealing-with-asus-pce-ac56-drivers-a-step-by-step-fix-for-windows-users-1187/"><u>Successfully Dealing with ASUS PCE-AC56 Drivers: A Step-by-Step Fix for Windows Users (11/8/7)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/variety/"><u>Variety</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-imagination-to-shares-mastering-metaverse-memes/"><u>[New] From Imagination to Shares Mastering Metaverse Memes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-farm-team-time-top-10-agricultural-games-to-share-and-compete/"><u>[New] In 2024, Farm Team Time Top 10 Agricultural Games to Share & Compete</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-host-smart-and-cheap-your-guide-to-youtube-seminars/"><u>[New] In 2024, Host Smart and Cheap Your Guide to Youtube Seminars</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-why-integrate-hdr-into-your-film-and-video-workflow/"><u>[Updated] In 2024, Why Integrate HDR Into Your Film and Video Workflow</u></a></li>
+<li><a href="https://fox-http.techidaily.com/best-ever-5-mobile-photo-editing-tools-background-shifters/"><u>Best-Ever 5 Mobile Photo Editing Tools Background Shifters</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/compensated-analysis-the-vlog-perspective-on-goods/"><u>Compensated Analysis The Vlog Perspective on Goods?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-crackling-audio-output-a-step-by-step-guide-for-windows-users/"><u>Dealing with Crackling Audio Output: A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/direct-link-to-xbox-360-controllers-compatible-driver-software/"><u>Direct Link to Xbox 360 Controllers' Compatible Driver Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-steelseries-mouse-ready-downloads-for-easy-setup/"><u>Get Your SteelSeries Mouse Ready: Downloads for Easy Setup</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-perform-the-latest-firmware-upgrade-on-your-dell-2330d-or-233-0dn-monochrome-laser-printer/"><u>How to Perform the Latest Firmware Upgrade on Your Dell 2330D or 233 0DN Monochrome Laser Printer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-vivo-y28-5g-by-drfone-android-unlock-android-unlock/"><u>How to unlock Vivo Y28 5G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Infinix Note 30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/up-to-date-nvidia-drivers-available-here-geforce-rtx-3080-for-windows-users/"><u>Up-to-Date NVIDIA Drivers Available Here: GeForce RTX 3#080 for Windows Users</u></a></li>
 </ul></div>
 

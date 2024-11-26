@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Downloading & Installing Brother MFC-L2740DW Software for Windows 10/8.x"
-date: 2024-08-28T04:38:36.039Z
-updated: 2024-08-29T04:38:36.039Z
+date: 2024-11-24T22:28:00.206Z
+updated: 2024-11-26T18:22:51.695Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 
  Driver updates often feature some major bug fixes and performance boost, that’s why we recommend you to update your driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to download and update your HP Scanjet driver
 
 Here’re 2 ways you can download and update your HP Scanjet driver:
@@ -40,16 +44,10 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-23-46-1-1200x727.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  2) In the row containing your model, click the**rightmost link** to enter the download page.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-23-46-1200x727.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) If you aren’t using Windows 10 64-bit,**choose your OS** first.
 
  We recommend downloading**HP ScanJet Pro 3000 s3 Full Feature Software and Driver** , just so you’ll enable all the features of your scanner.
@@ -57,17 +55,23 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-25-10-1200x752.jpg)
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Once you’ve downloaded the driver,**double-click** to open the file and follow the on-screen instruction to install.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-32-40-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you complete the installation process, connect your HP Scanjet to the computer and see if it’s running.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Download and update the HP Scanjet driver automatically (Recommended)
 
  1)**Connect** HP Scanjet to your computer.
@@ -79,18 +83,15 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_17-40-32-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the**Pro version** of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
   
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_18-45-37-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -105,8 +106,6 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +113,21 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exploring-youtubes-functionality-following-uploaded-videos/"><u>[Updated] 2024 Approved Exploring YouTube’s Functionality Following Uploaded Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-windowsnap-tool-for-straightforward-recording/"><u>[Updated] 2024 Approved WindowSnap Tool for Straightforward Recording</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-beijings-glacial-gala-the-olympics-of-winter-2022/"><u>[Updated] In 2024, Beijing's Glacial Gala The Olympics of Winter, 2022</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-xstudio-complete-video-setup-analysis/"><u>[Updated] Mastering XStudio Complete Video Setup Analysis</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-masters-in-virtual-enclosure-devices-for-2024/"><u>[Updated] Masters in Virtual Enclosure Devices for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-set-up-your-wacom-intuos-pro-with-windows-10/"><u>Easy Installation Guide: Set Up Your Wacom Intuos Pro with Windows 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722965463946-get-your-free-eveo-bluetooth-receiver-drivers-now/"><u>Get Your Free Eveo Bluetooth Receiver Drivers Now!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-the-official-hp-thunderbolt-portable-dock-g2-drivers-for-optimal-performance-120w230w-supported/"><u>How to Download the Official HP Thunderbolt Portable Dock G2 Drivers for Optimal Performance – 120W/230W Supported</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-zte-blade-a73-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from ZTE Blade A73 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-windows-sharing-dilemmas-immediately/"><u>Resolve Windows Sharing Dilemmas Immediately</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-corsair-liquid-cpu-cooler-drivers-for-windows-81011-a-comprehensive-guide/"><u>Troubleshooting Corsair Liquid CPU Cooler Drivers for Windows 8/10/11: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/turn-your-twitter-videos-into-listenable-mp3s/"><u>Turn Your Twitter Videos Into Listenable MP3s</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-hp-scanjet-software-for-windows-new-version-available/"><u>Update Your HP Scanjet Software for Windows - New Version Available</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/xilinx-driver-alerted-corrected-for-continued-use/"><u>XILINX Driver Alerted, Corrected for Continued Use</u></a></li>
+</ul></div>
 

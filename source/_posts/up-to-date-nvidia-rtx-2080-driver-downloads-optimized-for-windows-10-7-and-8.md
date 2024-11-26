@@ -1,7 +1,7 @@
 ---
 title: "Up-to-Date NVIDIA RTX 2080 Driver Downloads: Optimized for Windows 10, 7 & 8"
-date: 2024-11-10T16:03:35.237Z
-updated: 2024-11-17T00:48:24.946Z
+date: 2024-11-23T20:39:28.382Z
+updated: 2024-11-26T19:15:44.379Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 ways to install/update your RTX 3080 driver
 
 **[Option 1: Automatically (Recommended)](https://www.drivereasy.com/knowledge/geforce-rtx-3080-driver-latest-download-for-windows-10-8-7/#option1)**  – Download, install and update drivers with just a few clicks
@@ -33,10 +37,7 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 **[Option 2: Manually](https://tools.techidaily.com/drivereasy/download/)**  – Some computer skills are required.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Install/Update your RTX 3080 driver automatically (Recommended)
@@ -50,24 +51,18 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Once you’ve installed/updated your graphics driver, restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Install/Update your RTX 3080 driver manually
@@ -83,10 +78,7 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 3. Click**Download** . Then run the install wizard to install the graphics driver.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3080-driver-dl.jpg)
@@ -110,16 +102,22 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-amplify-visual-content-embedding-audio-on-instagram-reels/"><u>[New] Amplify Visual Content Embedding Audio on Instagram Reels</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-mastering-tiktok-a-template-based-guide-to-outstanding-video-creation-for-2024/"><u>[New] Mastering TikTok A Template-Based Guide to Outstanding Video Creation for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leading-edge-wireless-cameras-the-hottest-18-on-the-market/"><u>[Updated] Leading-Edge Wireless Cameras The Hottest 18 On The Market</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-your-wacom-cintiq-graphics-tablet-drivers-with-this-simple-tutorial/"><u>Download & Update Your Wacom Cintiq Graphics Tablet Drivers with This Simple Tutorial</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-hp-p1006-drivers-here-full-software-support-and-updates/"><u>Get Your HP P1006 Drivers Here: Full Software Support & Updates</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-a-dot-file-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a .dot file document online</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-safely-download-and-install-your-canon-mg3620-drivers-effortlessly/"><u>Step-by-Step Guide to Safely Download & Install Your Canon MG3620 Drivers Effortlessly</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-dealing-with-constant-usb-connection-issues-effectively/"><u>Step-by-Step Solution: Dealing with Constant USB Connection Issues Effectively</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/techkey-bluetooth-dongle-windows-drivers-present-win-11-7-and-8-downloads/"><u>Techkey Bluetooth Dongle Windows Drivers - Present: Win 11, 7 & 8 Downloads</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722966636981-ultimate-fix-guide-for-windows-11s-troublesome-bluetooth-pairings-now-working/"><u>Ultimate Fix Guide for Windows 11'S Troublesome Bluetooth Pairings - Now Working</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unveiling-false-numbers-the-risks-of-manipulated-youtube-viewership-for-2024/"><u>Unveiling False Numbers The Risks of Manipulated YouTube Viewership for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-bypass-samsungs-vr-camera-here-are-your-top-alternatives/"><u>[Updated] Bypass Samsung’s VR Camera - Here Are Your Top Alternatives</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-enhance-photos-android-and-iphones-cutting-edge-free-overlays/"><u>2024 Approved Enhance Photos Android & iPhone's Cutting-Edge, FREE Overlays</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/wdssd/"><u>如何使用WD硬碟映像軟件進行SSD組建一項四步指南</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amd-rx-6800-graphics-card-driver-download-for-various-windows-versions/"><u>AMD RX 6800 Graphics Card Driver Download for Various Windows Versions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-microsoft-windows-compatible-bluetooth-drivers-supported-for-win-10-11-8-and-7/"><u>Download & Update Microsoft Windows Compatible Bluetooth Drivers: Supported for Win 10, 11, 8, and 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/epson-et-3760-driver-download-and-update-guide-for-windows/"><u>Epson ET-3760 Driver Download & Update Guide for Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-best-screen-quality-for-less-with-our-latest-lightweight-laptop-deal-now-on-sale-zdnet/"><u>Get the Best Screen Quality for Less with Our Latest Lightweight Laptop Deal - Now On Sale | ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-or-freshly-install-hp-laserjet-p10n7-printing-drivers-step-by-step-tutorial/"><u>How to Update or Freshly Install HP LaserJet P10n7 Printing Drivers – Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hps-thunderbolt-station-g2-find-the-right-driver-for-120w-and-230w-models-here/"><u>HP's Thunderbolt Station G2: Find the Right Driver for 120W & 230W Models Here</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-13-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 13 to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-analysis-of-the-orbi-tri-band-whole-home-mesh-network-with-wi-fi-6/"><u>In-Depth Analysis of the Orbi Tri-Band Whole Home Mesh Network with Wi-Fi 6</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/instant-access-to-razer-mamba-drivers-a-quick-download-process/"><u>Instant Access to Razer Mamba Drivers – A Quick Download Process</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-hp-scanjet-software-upgrade-for-windows-1187-free-download/"><u>Latest HP Scanjet Software Upgrade for Windows 11/8/7 - Free Download</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-manipulating-fax-cover-pages-on-win11/"><u>Step-by-Step Guide to Manipulating Fax Cover Pages on Win11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-cybersecurity-quandary-of-rapidly-advancing-ai/"><u>The Cybersecurity Quandary of Rapidly Advancing AI</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-or-download-samsung-850-evo-ssd-driving-software-today/"><u>Update or Download Samsung 850 EVO SSD Driving Software Today</u></a></li>
 </ul></div>
 

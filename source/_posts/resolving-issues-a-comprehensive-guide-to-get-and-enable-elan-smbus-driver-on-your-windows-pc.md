@@ -1,7 +1,7 @@
 ---
 title: "Resolving Issues: A Comprehensive Guide to Get & Enable ELAN SMBus Driver on Your Windows PC"
-date: 2024-08-28T04:45:37.585Z
-updated: 2024-08-29T04:45:37.585Z
+date: 2024-11-24T17:31:07.847Z
+updated: 2024-11-26T19:20:09.185Z
 tags:
   - win11
   - win10
@@ -43,9 +43,17 @@ thumbnail: https://thmb.techidaily.com/a0bc606d13bf5b4bb98db38e302e2de3fccfa94f7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-277.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Xbox adapter driver for now, simply click the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-273.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -54,8 +62,9 @@ thumbnail: https://thmb.techidaily.com/a0bc606d13bf5b4bb98db38e302e2de3fccfa94f7
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2 – Update your XBOX ACC driver manually
 
  To update your XBOX ACC driver manually, please complete the following procedure:
@@ -67,8 +76,9 @@ thumbnail: https://thmb.techidaily.com/a0bc606d13bf5b4bb98db38e302e2de3fccfa94f7
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-280.png)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) On the next page, you’ll be presented with a list of Xbox wireless adapter drivers. Scroll through the list until you find the one compatible with your Windows version. Then click the**Download**  button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-282.png)
@@ -85,28 +95,20 @@ thumbnail: https://thmb.techidaily.com/a0bc606d13bf5b4bb98db38e302e2de3fccfa94f7
 
 ![This image has an empty alt attribute; its file name is image-301.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-301.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-298.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  8) In the next window, select**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-299.png)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
  9) Click**Browse…** to select the folder where you’ve extracted the driver file. Then click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-300.png)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  10) Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
 
 ---
@@ -122,8 +124,6 @@ thumbnail: https://thmb.techidaily.com/a0bc606d13bf5b4bb98db38e302e2de3fccfa94f7
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +131,24 @@ thumbnail: https://thmb.techidaily.com/a0bc606d13bf5b4bb98db38e302e2de3fccfa94f7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-expert-asmrists-praised-by-insomniacs/"><u>[New] Expert ASMRists Praised by Insomniacs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-lenovos-4-top-recording-methods-made-simple/"><u>[New] Lenovo's 4 Top Recording Methods Made Simple</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-handbook-for-swapping-music-libraries-for-2024/"><u>[New] The Ultimate Handbook for Swapping Music Libraries for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-essential-android-tools-for-video-recording/"><u>[Updated] 2024 Approved Essential Android Tools for Video Recording</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-guide-wacom-intuos-3-drivers-for-windows-os-compatible-with-version-100-free-downloads/"><u>Complete Guide: Wacom Intuos 3 Drivers for Windows OS (Compatible with Version 100%) - Free Downloads</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/diy-tutorial-how-to-transform-your-dvd-into-a-high-quality-mp4-file-using-windows-1011-tools/"><u>DIY Tutorial: How to Transform Your DVD Into a High-Quality MP4 File Using Windows 10/11 Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-canon-mf4500-driver-for-optimal-printing-performance/"><u>Download and Install Canon MF4500 Driver for Optimal Printing Performance</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-steelseries-game-enhancer-free-download-now/"><u>Get the Latest SteelSeries Game Enhancer - [Free Download Now]</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977256589-get-your-updated-nvidia-graphics-drivers-now-perfect-for-pc-gamers/"><u>Get Your Updated Nvidia Graphics Drivers Now - Perfect for PC Gamers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/improve-your-gamingwork-experience-download-the-latest-intel-iris-xe-drivers-for-windows-systems/"><u>Improve Your Gaming/Work Experience - Download the Latest Intel Iris Xe Drivers for Windows Systems!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-free-yourself-from-video-edges-on-youtube/"><u>In 2024, Free Yourself From Video Edges on YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-8-upgrades-for-webcam-video-quality/"><u>In 2024, Innovative 8 Upgrades for Webcam Video Quality</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/instant-access-to-intels-official-usb-30-drivers-for-windows-10-users/"><u>Instant Access to Intel's Official USB 3.0 Drivers for Windows 10 Users</u></a></li>
+<li><a href="https://win-help.techidaily.com/letztes-wort-bei-der-datenrettung-schritte-zur-wiederherstellung-von-zuvor-geloschten-ordnern/"><u>Letztes Wort Bei Der Datenrettung: Schritte Zur Wiederherstellung Von Zuvor Gelöschten Ordnern</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/nvidia-quadro-rtx-4000-drivers-download-and-update/"><u>NVIDIA Quadro RTX 4000 Drivers - Download & Update</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-solving-asus-pce-ac56-driver-challenges-for-windows-1187-systems/"><u>Troubleshooting and Solving ASUS PCE-AC56 Driver Challenges for Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solving-hyperx-cloud-alphas-non-functional-mic-problem/"><u>Troubleshooting and Solving HyperX Cloud Alpha's Non-Functional Mic Problem</u></a></li>
+</ul></div>
 

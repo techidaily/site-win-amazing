@@ -1,7 +1,7 @@
 ---
 title: "NVIDIA 1080 Driver Update for Windows 10: Fast & Easy Tutorial"
-date: 2024-11-16T05:07:10.586Z
-updated: 2024-11-17T01:59:33.841Z
+date: 2024-11-20T17:33:16.229Z
+updated: 2024-11-26T18:36:59.287Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How to Download the Drivers from NVIDIA Manually**
 
  Ensure that you download the correct version, as incorrect version of the driver would cause incompatibility issue. Following steps are for your reference.
@@ -38,19 +42,24 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_581410198d290.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click on**SEARCH** button. Then you will be directed to the download page.
 
  4\. Click on**DOWNLOAD** button then follow the on-screen instructions to download the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_581412f0a2c64.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Searching and Downloading drivers manually can take forever. And it is possible to download the incompatible drivers. So instead of downloading Windows 10 drivers for Geforce GTX 1080 manually, you can use[Driver Easy](https://tools.techidaily.com/drivereasy/download/) to help you automatically. With Driver Easy, you can expect that much time and energy will be saved on updating drivers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Download Drivers with just 2 Clicks**
@@ -61,22 +70,12 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58eca1022f7b7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2\. Click**Update** button to download the driver that you wish to install.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58eca27c67b42.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With Free version, after download completes, you are required to install the driver manually. If you want to have the driver installed automatically, you can consider upgrading to the Paid version. The Paid version will provide you with higher download speed and full features. Moreover, you will enjoy free technical support. You can[contact our professional support team](https://tools.techidaily.com/drivereasy/download/) for further assistance regarding any driver issue you’ve met. And you will have 30-day money back guarantee. Just feel free to ask for a full refund if you are not satisfied with the product.
@@ -96,20 +95,17 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-begin-webcam-footage-recording-with-vlc-for-2024/"><u>[New] Begin Webcam Footage Recording with VLC for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-step-by-step-guide-to-changing-photo-genders-from-theory-to-practice/"><u>[New] In 2024, Step-by-Step Guide to Changing Photo Genders From Theory to Practice</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-quickened-cinema-of-corporate-presentations/"><u>[New] Quickened Cinema of Corporate Presentations</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-list-7-indispensable-devices-in-the-metaverse/"><u>[New] The Ultimate List 7 Indispensable Devices in the Metaverse</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-master-your-audio-recordings-5-expert-methods-online/"><u>2024 Approved Master Your Audio Recordings 5 Expert Methods Online</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/como-tirar-fotos-perfeitas-no-google-maps-usando-taticas-depois-por-movavi-estrategias-facilmente-acessiveis-e-otimas-para-novatos/"><u>Como Tirar Fotos Perfeitas No Google Maps Usando Táticas Depois Por Movavi – Estratégias Facilmente Acessíveis E Ótimas Para Novatos</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/convertidor-de-archivo-webm-a-mp3-sin-coste-guia-completa-en-movavi/"><u>Convertidor De Archivo WebM a MP3 Sin Coste: Guía Completa en Movavi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhance-counter-strike-2-experience-a-guide-for-smooth-and-higher-fps-on-pc/"><u>Enhance Counter Strike 2 Experience: A Guide for Smooth and Higher FPS on PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/gratis-online-converteren-van-videe-aan-mkv-wijzenmovavis/"><u>Gratis Online Converteren Van VIDEE Aan MKV - WijzenMOVavis</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-adding-folders-without-delays-in-windows-onedrive/"><u>Mastering the Art of Adding Folders without Delays in Windows OneDrive</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/online-free-video-editor-convert-mp4-from-mpg-with-movavi-effortless-format-switching/"><u>Online Free Video Editor: Convert MP4 From MPG with Movavi - Effortless Format Switching</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/risparmia-tempo-e-converti-direttamente-il-tuo-audiovideo-flac-in-avi-gratuito-utilizzando-movavi/"><u>Risparmia Tempo E Converti Direttamente Il Tuo Audio/Video FLAC in AVI Gratuito Utilizzando Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/top-12-free-note-taking-apps-compatible-with-windows-11-boost-your-productivity/"><u>Top 12 Free Note-Taking Apps Compatible with Windows 11 - Boost Your Productivity!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/trasforma-video-m4v-in-wav-gratuito-online-con-movavi-guida-rapida-e-facile/"><u>Trasforma Video M4V in WAV Gratuito Online Con Movavi - Guida Rapida E Facile</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-list-of-the-most-effective-signal-enhancer-gadgets-for-your-mobile-device/"><u>Ultimate List of the Most Effective Signal Enhancer Gadgets for Your Mobile Device</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-structure-your-storytelling-with-chapter-tags-in-vimeo-videos/"><u>[New] 2024 Approved Structure Your Storytelling with Chapter Tags in Vimeo Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-quick-fix-for-paused-facebook-livestreams-2023s-tips-and-tricks/"><u>[Updated] 2024 Approved Quick Fix for Paused Facebook Livestreams, 2023'S Tips & Tricks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-transforming-tech-talks-the-ezvide-screen-recording-guide/"><u>[Updated] 2024 Approved Transforming Tech Talks The Ezvide Screen Recording Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-demystifying-digital-dreamscapes-a-vr-primer-for-2024/"><u>[Updated] Demystifying Digital Dreamscapes A VR Primer for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-closer-look-ffmpeg-for-pristine-audio-extraction-for-2024/"><u>A Closer Look FFmpeg for Pristine Audio Extraction for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amd-radeon-rx-580-driver-downloads-and-updates-get-them-fast-and-simple/"><u>AMD Radeon RX 580 Driver Downloads & Updates - Get Them Fast and Simple</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-dell-latitude-e6420-device-drivers-instantly/"><u>Download Dell Latitude E6420 Device Drivers Instantly</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-epson-workforce-ds-30-printer-software-for-windows-systems-windows-10-8-and-cuu/"><u>Easy Installation Guide: Epson WorkForce DS-30 Printer Software for Windows Systems (Windows 10, 8, and Cuu)</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-dealing-with-applicationexe-has-halted-execution-errors-effectively/"><u>Expert Advice: Dealing with 'Application.exe Has Halted Execution' Errors Effectively</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-huawei-p60-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Huawei P60 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/israel-is-widely-believed-to-possess-nuclear-weapons-but-has-not-declared-them-publicly-nor-joined-the-npt-as-a-nuclear-weapon-state/"><u>Israel Is Widely Believed to Possess Nuclear Weapons but Has Not Declared Them Publicly nor Joined the NPT as a Nuclear-Weapon State</u></a></li>
+<li><a href="https://windows11.techidaily.com/outshine-your-connection-exiting-the-windows-100mbps-constraint/"><u>Outshine Your Connection: Exiting the Windows 100Mbps Constraint</u></a></li>
 </ul></div>
 

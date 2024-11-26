@@ -1,7 +1,7 @@
 ---
 title: "Resolved: PCI Cryptographic Module Driver Compatibility Problems"
-date: 2024-10-19T01:05:45.536Z
-updated: 2024-10-26T05:18:16.710Z
+date: 2024-11-20T21:10:57.899Z
+updated: 2024-11-26T20:02:16.957Z
 tags:
   - win11
   - win10
@@ -35,10 +35,7 @@ thumbnail: https://thmb.techidaily.com/8f0f7ad73a0fa3da9b0369f5be30ef87f2772c066
 [**Method 2 – Manually:**](https://tools.techidaily.com/drivereasy/download/)  You can download and update the drivers for your Surface by yourself. This requires some time, patience, and sometimes even computer skills.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Download and update the drivers for your Surface automatically
@@ -53,15 +50,16 @@ thumbnail: https://thmb.techidaily.com/8f0f7ad73a0fa3da9b0369f5be30ef87f2772c066
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap726.png)  
  You can do it for free if you like, but it’s partly manual.  
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Download and update the drivers for your Surface manually
 
@@ -81,24 +79,18 @@ thumbnail: https://thmb.techidaily.com/8f0f7ad73a0fa3da9b0369f5be30ef87f2772c066
 5. Scroll down until you see the model of your Surface  . Then click its drivers download link to continue. You’ll be redirected to the Download Center details page for your Surface.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap731.png)
 6. Click **Download**  .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap732.png)
 7. To update your Surface with the latest drivers and firmware,   **select the .msi file name that matches your operating system version** . Then click **Next**  to start downloading.  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap733.png)  
  For example, if you’re using Surface Book 2 and the build of Windows 10 you’ve installed is build 17763, you should select**SurfaceBook2\_Win10\_17763\_1805009\_0.msi** . If you’re not sure about the version of Windows 10 you’ve installed, go to**Start** \>**Settings** \>**System** \>**About** to view**the OS Build number** .
@@ -124,24 +116,24 @@ Please leave your comment below if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-newcomers-journey-to-prosperity-via-periscope/"><u>[New] Newcomer's Journey to Prosperity via Periscope</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-best-practices-for-youtube-outro-design/"><u>[Updated] Best Practices for YouTube Outro Design</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-live-youtube-streaming-unlocked-beginners-obs-tutorial/"><u>[Updated] Live Youtube Streaming Unlocked Beginner's OBS Tutorial</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-asus-atk0110-bios-and-acpi-drivers-at-no-cost-for-optimal-functionality/"><u>Download ASUS ATK0110 BIOS & ACPI Drivers at No Cost for Optimal Functionality</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-installation-of-lenovo-x1-carbon-drivers-on-windows-11-and-7-systems/"><u>Easy Installation of Lenovo X1 Carbon Drivers on Windows 11 & 7 Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/enhanced-performance-with-updated-nvidia-geforce-210-drivers-on-windows-10/"><u>Enhanced Performance with Updated NVIDIA GeForce 210 Drivers on Windows 10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-windows-compatible-audio-card-driver-installation-packages/"><u>Free Windows-Compatible Audio Card Driver Installation Packages</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722973516866-get-the-latest-lenovo-ideapad-vehicle-your-ultimate-guide-to-driver-updates-on-windows-10/"><u>Get the Latest Lenovo IdeaPad Vehicle, Your Ultimate Guide to Driver Updates on Windows 10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-canon-printing-machine-ready-dr-c225-driver-downloads-for-modern-windows-os/"><u>Get Your Canon Printing Machine Ready: DR-C225 Driver Downloads for Modern Windows OS</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-nokia-g22-phone-by-drfone-android/"><u>How to Unlock a Network Locked Nokia G22 Phone?</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-14-ultra-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi 14 Ultra to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-the-key-to-online-success-mastering-backlink-construction/"><u>In 2024, The Key to Online Success Mastering Backlink Construction</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-uncover-the-power-of-sound-no-cost-voice-effects-at-your-fingertips/"><u>In 2024, Uncover the Power of Sound No-Cost Voice Effects at Your Fingertips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigate-through-fantastic-alternatives-to-chatgpt-and-elevate-your-ai-game/"><u>Navigate Through Fantastic Alternatives to ChatGPT and Elevate Your AI Game</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-fix-for-your-intel-dual-band-wi-fi-latest-3160-driver-edition/"><u>Quick Fix for Your Intel Dual Band Wi-Fi: Latest 3160 Driver Edition</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/successful-guide-installing-the-epson-xp-830-printer-driver-faqs-answered/"><u>Successful Guide: Installing the Epson XP-830 Printer Driver - FAQs Answered</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/taylor-swift-movie-lineup-a-step-by-step-viewing-guide/"><u>Taylor Swift Movie Lineup: A Step-by-Step Viewing Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-hp-deskjet-2600-printer-get-the-newest-windows-compatible-drivers-for-7810-systems/"><u>Update Your HP DeskJet 2600 Printer - Get the Newest Windows Compatible Drivers for 7/8/10 Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-achieving-studio-quality-with-audacity/"><u>[New] Achieving Studio Quality with Audacity</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-chromatic-ingenuity-from-concept-to-creation-for-2024/"><u>[Updated] Chromatic Ingenuity From Concept to Creation for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-breaking-into-the-tiktok-livestream-realm/"><u>2024 Approved Breaking Into the TikTok Livestream Realm</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-decrease-environmental-noise-in-video-recordings/"><u>2024 Approved Decrease Environmental Noise in Video Recordings</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/brother-hl-l2370dw-printer-drivers-free-download-and-latest-update/"><u>Brother HL-L2370DW Printer Drivers: Free Download and Latest Update</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-enhance-a-step-by-step-tutorial-for-dell-screen-drivers/"><u>Download and Enhance: A Step-by-Step Tutorial for Dell Screen Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-nvidia-1080-graphics-card-drivers-compatible-with-windows-11-quick-and-simple/"><u>Download Nvidia 1080 Graphics Card Drivers Compatible with Windows 11 - Quick & Simple</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-integration-secure-your-perfect-keyboard-driver-for-windows-7-today/"><u>Effortless Integration: Secure Your Perfect Keyboard Driver for Windows 7 Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-logitech-g29-racing-wheel-setup-and-driver-software-guide-for-win7-win8-and-win10/"><u>Free Logitech G29 Racing Wheel Setup & Driver Software Guide for Win7, Win8, and Win10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-wireless-chip-set-drivers-instantly-step-by-step-download-tutorials/"><u>Get the Latest Wireless Chip Set Drivers Instantly – Step by Step Download Tutorials</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-most-recent-drivers-for-your-amd-radeon-rx-6700-xt-on-windows-11-10-and-7/"><u>Get the Most Recent Drivers for Your AMD Radeon RX 6700 XT on Windows 11, 10 & 7</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-photography-tips-for-seamless-instagram-posting/"><u>In 2024, Photography Tips for Seamless Instagram Posting</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/intel-iris-plus-graphics-g7-655-drivers-for-windows-10-and-11-download-latest-version/"><u>Intel® Iris Plus Graphics G7 655 Drivers for Windows 10 & 11 – Download Latest Version</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210339962-9781722526085-living-free/"><u>Living Free | Free Book</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/logitech-rx250-supported-by-windows-7-8-and-10-free-driver-downloads-available/"><u>Logitech RX250 Supported by Windows 7, 8, and 10 - Free Driver Downloads Available</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/mastery-over-instagram-video-playback-pace/"><u>Mastery Over Instagram Video Playback Pace</u></a></li>
+<li><a href="https://win-docs.techidaily.com/maximizing-productivity-effective-strategies-for-social-media-managers-with-massmail-tools/"><u>Maximizing Productivity: Effective Strategies for Social Media Managers with MassMail Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/pioneering-hardware-critiques-from-toms-authority-hub/"><u>Pioneering Hardware Critiques From Tom's Authority Hub</u></a></li>
 </ul></div>
 

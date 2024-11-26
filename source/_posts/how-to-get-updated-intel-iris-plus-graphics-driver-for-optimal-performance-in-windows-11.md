@@ -1,7 +1,7 @@
 ---
 title: How to Get Updated Intel Iris Plus Graphics Driver for Optimal Performance in Windows 11
-date: 2024-08-28T04:39:43.250Z
-updated: 2024-08-29T04:39:43.250Z
+date: 2024-11-22T19:14:30.996Z
+updated: 2024-11-26T17:23:28.983Z
 tags:
   - win11
   - win10
@@ -48,13 +48,11 @@ OR
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap40.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the Targus DisplayLink driver for now, hit the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-361.png)
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at**<support@drivereasy.com>** .
@@ -62,8 +60,9 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Manually update your Targus DisplayLink driver
 
  If you feel like updating your Targus DisplayLink driver manually, here’s the simple and useful guide for you.
@@ -71,28 +70,36 @@ OR
 1. Find your way to the official website of[Targus](https://us.targus.com/) .
 2. In the top right of this web page, click**Support** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-365.png)
 3. Select**Drivers & Manuals** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-367.png)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Type the**model name** or**serial number** of your Targus product into the search box to locate the corresponding drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-368.png) Alternatively, you may select**Category** and then**Product** to look for the drivers of your product.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-370.png)
 5. After locating the corresponding driver for your product, click on the**Download** button below.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-372.png)
-6. Right-click on the file (with a ZIP extension) you’ve just downloaded to open the context menu. Then click**Extract All…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-375.png)
-7. In the pop-up window, click**Browse…** and choose a destination folder where you want to decompress the file. Then, click**Extract** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-376.png)
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Right-click on the file (with a ZIP extension) you’ve just downloaded to open the context menu. Then click**Extract All…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-375.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+7. In the pop-up window, click**Browse…** and choose a destination folder where you want to decompress the file. Then, click**Extract** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-376.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Wait till the decompression process finishes. Then**copy** the full path of the destination folder. (The path will be different depending on your choice in the last step. )![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-20_15-47-31.png)
 9. On your keyboard, press the **Windows Logo Key** and **R**  at the same time to open the**Run**  box. Type **devmgmt.msc** and click **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap13-2.png)
 10. In the**Device Manager** window, locate your Targus device and then right-click on it to open the context menu. Select**Update driver** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap14-1.png)
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 11. If prompted, click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-384.png)
 12. **Paste** the full path copied in**Step 8** onto the address bar. Remember to check the **Include subfolders** box. Then hit the **Next** button.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-387.png)
-13. Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
+
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+13. Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
 
  You may also look for drivers in the official website of[**DisplayLink**](https://www.displaylink.com/downloads/windows) .
 
@@ -109,8 +116,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +123,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-windows-11-pro-prime-video-cameras-for-pcs-for-2024/"><u>[New] Windows 11 Pro Prime Video Cameras for PCs for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-install-dymo-labelwriter-450-software-upgrade/"><u>Easy Install: Dymo LabelWriter 450 Software Upgrade</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-and-downloads-for-toshiba-bluetooth-connectivity/"><u>Easy Installation Guide and Downloads for Toshiba Bluetooth Connectivity</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/effortless-scanning-and-conversion-transform-documents-into-pdfjpg-using-finereader-on-ios/"><u>Effortless Scanning & Conversion: Transform Documents Into PDF/JPG Using FineReader on iOS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-resolving-speaker-issues-within-the-latest-windows-operating-system/"><u>Expert Advice on Resolving Speaker Issues Within the Latest Windows Operating System</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-downloads-compatible-drivers-for-your-epson-scanner/"><u>Free Downloads: Compatible Drivers for Your Epson Scanner</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-prevent-adobe-premiere-pro-from-crashing-on-modern-windows-os-versions/"><u>How to Prevent Adobe Premiere Pro From Crashing on Modern Windows OS Versions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-xiaomi-redmi-note-13-proplus-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Xiaomi Redmi Note 13 Pro+ 5G Phone?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-or-download-the-driver-for-your-canon-pixma-mg2522-printer/"><u>How to Update or Download the Driver for Your Canon PIXMA MG2522 Printer</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-lenovo-legion-similar-problem/"><u>Install Lenovo Legion # Similar Problem</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-updated-dell-network-driver-improve-your-wi-fi-speed/"><u>Install Updated Dell Network Driver - Improve Your Wi-Fi Speed</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-pci-hardware-drivers-available-for-download-supports-win11win10win8win7-systems/"><u>Latest PCI Hardware Drivers Available for Download: Supports Win11/Win10/Win8/Win7 Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-device-list-for-seamless-trips/"><u>The Ultimate Device List for Seamless Trips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-tecno-spark-20-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Tecno Spark 20 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978570691-windows-10-and-11-compatible-download-updated-nvidia-rtx-2060-super-drivers-now/"><u>Windows 10 & 11 Compatible | Download Updated NVIDIA RTX 2060 Super Drivers Now!</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1728463559192-windows-10/"><u>Windows 10の起動設定ファイルを探す方法</u></a></li>
+</ul></div>
 

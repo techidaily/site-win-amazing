@@ -1,7 +1,7 @@
 ---
 title: Get the Newest Version of CanoScan LiDE 220 Drivers Installed Easily
-date: 2024-08-28T04:38:06.523Z
-updated: 2024-08-29T04:38:06.523Z
+date: 2024-11-25T18:51:46.534Z
+updated: 2024-11-26T16:54:46.760Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaa83e682e2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Scroll down and find**Canon PIXMA MG2520 Windows Driver** , and click**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afaa88da4ca7.jpg)
@@ -47,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
  This is time consuming. If this method doesn’t work for you, don’t worry. We have other solutions for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update printer driver automatically
 
  Manually downloading and installing the Canon MG2520 driver requires time and computer skills. If you don’t have patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -74,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 
 This is rather easy to update your Canon MG2520 printer driver, right?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 3: Update printer driver in Device Manager
 
  You can also update the Canon MG2520 driver via Device Manager on your computer.
@@ -90,32 +88,33 @@ This is rather easy to update your Canon MG2520 printer driver, right?
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af53ac9c34f3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Double click**Printers** to expand it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26e71b4a11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Right click on your**Printer** (it can be displayed as**Unknown device** ), and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26ed419e84.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Choose**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5af26efde74b2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  6) Then Windows will start to help search the new driver for your printer.
 
  7) After updating, restart your computer.
@@ -131,8 +130,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +137,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-ultimate-tutorial-simplifying-youtube-subscriptions/"><u>[New] 2024 Approved Ultimate Tutorial Simplifying YouTube Subscriptions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-cloud-mastery-the-best-of-unlimited-space/"><u>[Updated] In 2024, Cloud Mastery The Best of Unlimited Space</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-professional-insights-on-selecting-top-vhs-artistic-upgrades/"><u>[Updated] Professional Insights on Selecting Top VHS Artistic Upgrades</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/asus-dvd-drivers-download-get-the-latest-version-now/"><u>ASUS DVD Drivers Download: Get the Latest Version Now!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/become-a-confident-speaker-in-hindi-discover-the-top-8-reasons-to-learn-via-mondly-online/"><u>Become a Confident Speaker in Hindi: Discover the Top 8 Reasons to Learn via Mondly Online!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harnessing-the-power-of-fisheye-photography-for-2024/"><u>Harnessing the Power of Fisheye Photography for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-essential-dell-networking-hardware-drivers-for-win7-systems/"><u>Install Essential Dell Networking Hardware Drivers for Win7 Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/leading-choices-in-voice-calls-cordless-phone-picks-for-2amoongth/"><u>Leading Choices in Voice Calls: Cordless Phone Picks for 2Amoongth</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/m-audio-fast-track-usb-audio-drivers-latest-downloads-for-win11-win7-win8-and-win81/"><u>M-Audio Fast Track USB Audio Drivers - Latest Downloads for Win11, Win7, Win8 & Win8.1</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-fix-revamping-the-performance-of-your-asus-maximus-x-hero-with-latest-drivers/"><u>Quick Fix: Revamping the Performance of Your ASUS Maximus X Hero with Latest Drivers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915310879-revamp-your-pcs-performance-update-windows-10-hardware-drivers-swiftly/"><u>Revamp Your PC's Performance: Update Windows 10 Hardware Drivers Swiftly</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722976087323-streamlined-process-for-securing-new-amd-video-drives-update-today/"><u>Streamlined Process for Securing New AMD Video Drives – Update Today!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Resolving HP Officejet Pro 6978 Driver Malfunctions for Optimal Printing
-date: 2024-11-12T07:13:16.881Z
-updated: 2024-11-17T06:13:21.236Z
+date: 2024-11-20T21:54:42.832Z
+updated: 2024-11-26T16:13:35.396Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Option 1 – Update your driver via Device Manager**
 
  Try to update your Validity fingerprint sensor driver from within Device Manager:
@@ -54,35 +47,35 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 3. Type**device** into the search box. Then select**Device Manager** from a list of search results.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1098.png)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Here comes**Device Manager** . Click the**▷** symbol to the left of**Biometric Devices** to expand its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1073.png)
 5. Right-click on**Validity Sensors (WBF)** to open its context menu. Then select**Update Driver Software…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-11-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-18-21.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Wait till the download and installation process finishes.
 8. Click **Close** when it’s all done.
 9. Now your driver has been updated by Windows successfully. Don’t forget to**restart** your computer for the changes to take effect even if you’re not asked to.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 2 – Update your driver from official websites**
 
@@ -103,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-38-22-2.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Validity fingerprint sensor driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-36-48-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -139,18 +125,20 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-amazing.techidaily.com/comprehensive-analysis-of-the-netgear-nighthawk-rax80-a-dazzling-wi-fi-6-experience/"><u>Comprehensive Analysis of the Netgear Nighthawk RAX80 – A Dazzling Wi-Fi 6 Experience</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/demystifying-apple-watch-face-id-customization-learn-how-to-swap-looks-with-ease/"><u>Demystifying Apple Watch Face ID Customization: Learn How to Swap Looks with Ease!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/full-disclosure-on-the-t5-cameras-action-features/"><u>Full Disclosure on the T5 Camera's Action Features</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-device-running-smoothly-download-for-free-qualcomm-atheros-ar938x-drivers-today/"><u>Get Your Device Running Smoothly - [Download for Free] Qualcomm Atheros AR938X Drivers Today!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-samsung-galaxy-s23-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Samsung Galaxy S23 Phones? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6 to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-se-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone SE Without Passcode Easily</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-canon-pixma-ts3322-printer-drivers-ready-for-download-and-installation/"><u>Latest Canon PIXMA TS3322 Printer Drivers Ready for Download & Installation</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-guide-to-linksys-wrt1900ac-driver-download-for-smooth-operation/"><u>Quick Guide to Linksys WRT1900AC Driver Download for Smooth Operation</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722975358225-step-by-step-download-of-latest-drivers-for-your-nvidia-quadro-rtx-8000-on-win-10-8-or-7/"><u>Step-by-Step Download of Latest Drivers for Your Nvidia Quadro RTX 8000 on Win 10, 8 or 7</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722971628036-unleash-full-potential-of-your-logitech-racing-wheels-secure-the-latest-drivers-for-windows-users/"><u>Unleash Full Potential of Your Logitech Racing Wheels - Secure the Latest Drivers for WIndows Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722964571394-update-your-pc-with-free-intel-82579v-drivers-quick-setup-steps-inside/"><u>Update Your PC with Free Intel 82579V Drivers - Quick Setup Steps Inside</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-guide-to-skype-call-audio-and-video-capture-windowsos-x/"><u>[New] Guide to Skype Call Audio & Video Capture Windows/OS X</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-securing-brand-deals-with-youtube-personalities/"><u>[Updated] In 2024, Securing Brand Deals with YouTube Personalities</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722974692306-compatible-drivers-for-gigabyte-gc-wb867d-inputoutput-hub-get-them-here/"><u>Compatible Drivers for Gigabyte GC-WB867D Input/Output Hub - Get Them Here!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-update-your-windows-bluetooth-dongle-drivers-a-complete-walkthrough/"><u>Find & Update Your Windows Bluetooth Dongle Drivers - A Complete Walkthrough</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-version-of-qualcomm-atheros-ar3011-bluetooth-30-driver-here/"><u>Get the Latest Version of Qualcomm Atheros AR3011 Bluetooth 3.0 Driver Here!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/global-warming-or-just-hot-summers-climate-clarity/"><u>Global Warming or Just Hot Summers? Climate Clarity</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-honor-x50iplus-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Honor X50i+ FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sj4000-owners-guide-to-stylish-and-practical-gear/"><u>In 2024, SJ4000 Owners' Guide to Stylish & Practical Gear</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installing-canon-pixma-mp280-printer-driver-on-windows-1087-step-by-step-guide/"><u>Installing Canon PIXMA MP280 Printer Driver on Windows 10/8/7 - Step by Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/netgear-wna3100-driver-updates-quick-and-easy-download-tips/"><u>Netgear WNA3100 Driver Updates - Quick & Easy Download Tips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/revamp-your-pc-vision-a-how-to-update-webcam-drivers-on-windows-1nk/"><u>Revamp Your PC Vision: A How-To Update Webcam Drivers on Windows 1Nk</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/seamless-storytelling-with-on-screen-annotations-and-timestamps/"><u>Seamless Storytelling with On-Screen Annotations & Timestamps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-myth-of-ai-perceptions-how-to-spot-false-images-generated-by-intelligent-systems/"><u>Unveiling the Myth of AI Perceptions: How to Spot False Images Generated by Intelligent Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-targus-displaylink-drivers-now-compatible-with-windows-1187/"><u>Update Your Targus DisplayLink Drivers Now: Compatible with Windows 11/8/7</u></a></li>
 </ul></div>
 

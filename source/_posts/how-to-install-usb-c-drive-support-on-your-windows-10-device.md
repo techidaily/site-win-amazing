@@ -1,7 +1,7 @@
 ---
 title: How to Install USB-C Drive Support on Your Windows 10 Device
-date: 2024-11-12T04:03:28.044Z
-updated: 2024-11-17T04:59:46.045Z
+date: 2024-11-19T17:27:49.579Z
+updated: 2024-11-26T18:00:11.477Z
 tags:
   - win11
   - win10
@@ -42,9 +42,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-108.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type your printer model in the search box and click**Go** . In my case I type PIXMA PRO 100, and click**Go** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-109.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) On the product page, click the**Drivers & Downloads** tab.
 
@@ -54,13 +62,14 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-111-1024x299.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) After downloading, double click the downloaded file to run and follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the driver
@@ -78,22 +87,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-112.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-113.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Note: you can do it for free if you like, but it’s partly manual.
 
@@ -120,19 +119,20 @@ Note: you can do it for free if you like, but it’s partly manual.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-expert-tips-harnessing-full-capabilities-of-aiseesoft-screen-tech/"><u>[New] 2024 Approved Expert Tips Harnessing Full Capabilities of Aiseesoft Screen Tech</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-fraps-revolutionizing-gamers-screen-recording-for-2024/"><u>[Updated] Fraps Revolutionizing Gamer's Screen Recording for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-premier-platforms-to-rework-classic-ps3-titles/"><u>[Updated] In 2024, Premier Platforms to Rework Classic PS3 Titles</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782458-9781591438137-breaking-the-mirror-of-heaven/"><u>Breaking the Mirror of Heaven | Free Book</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/convertissez-des-fichiers-video-vob-en-wmv-librement-et-facilement-avec-movavi-online/"><u>Convertissez Des Fichiers Vidéo VOB en WMV Librement Et Facilement Avec Movavi Online</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/covertly-documenting-your-zoom-calls-with-movavi-the-unnoticed-approach/"><u>Covertly Documenting Your Zoom Calls with Movavi: The Unnoticed Approach</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-machine-intellect-understanding-29-important-concepts-in-ai/"><u>Decoding Machine Intellect: Understanding 29 Important Concepts in AI</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-converter-online-free-mp4-to-3gp-transformation-by-movavi/"><u>Download Converter Online: Free MP4 to 3GP Transformation by Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/movavi-converter-gratuito-em-gif-a-partir-do-formato-tiff-na-internet/"><u>Movavi: Converter Gratuito Em GIF a Partir Do Formato TIFF Na Internet</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/prime-video-editors-for-excellent-webcam-videos-for-2024/"><u>Prime Video Editors for Excellent Webcam Videos for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/seamless-use-of-codegpt-within-vs-code/"><u>Seamless Use of CodeGPT Within VS Code</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/the-complete-tiktok-element-encyclopedia-2023-for-2024/"><u>The Complete TikTok Element Encyclopedia, 2023 for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/transformando-conteudo-video-do-rmvb-para-mp4-tecnicas-facilitadas-pela-ferramenta-de-conversao-da-movavi/"><u>Transformando Conteúdo Vídeo Do RMVB Para MP4: Técnicas Facilitadas Pela Ferramenta De Conversão Da Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/trasforma-le-tue-immagini-con-facilita-online-converti-foto-jpg-png-e-formati-diversi/"><u>Trasforma Le Tue Immagini Con Facilità Online - Converti Foto JPG, PNG E Formati Diversi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-realtek-card-reader-driver-for-windows-11/"><u>[Download] Realtek Card Reader Driver for Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-background-elimination-on-logitech-cameras/"><u>[New] 2024 Approved Mastering Background Elimination on Logitech Cameras</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-mastering-uploading-movie-maker-videos-on-vimeo/"><u>[New] 2024 Approved Mastering Uploading Movie Maker Videos on Vimeo</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-creating-professional-podcasts-at-home/"><u>[New] Creating Professional Podcasts at Home</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-cutting-edge-tips-for-professional-youtube-content-creation/"><u>[New] Cutting-Edge Tips for Professional YouTube Content Creation</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/automatic-download-get-your-latest-amd-graphics-drivers-instantly/"><u>Automatic Download: Get Your Latest AMD Graphics Drivers Instantly</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-the-latest-usb-c-drivers-for-your-windows-10-pc-today/"><u>Download & Install the Latest USB-C Drivers for Your Windows 10 PC Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-newest-hp-laserjet-1320-driver-version-complete-step-by-step-tutorial-for-windows-users/"><u>Download the Newest HP LaserJet 1320 Driver Version: Complete Step-by-Step Tutorial for Windows Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/easy-to-use-onboard-shake-reduction-gadget/"><u>Easy-to-Use Onboard Shake Reduction Gadget</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/elevate-your-audio-experience-with-gigabytes-free-driver-download-now/"><u>Elevate Your Audio Experience with Gigabyte's Free Driver Download Now</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/guide-to-restoring-erased-data-using-the-autopsy-forensic-tool/"><u>Guide to Restoring Erased Data Using the Autopsy Forensic Tool</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-efficient-printing-software-for-your-hp-color-laserjet-pro-mfp-m477-today/"><u>Install Efficient Printing Software for Your HP Color LaserJet Pro MFP M477 Today!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/petcube-play-review-the-best-value-pet-camera/"><u>Petcube Play Review: The Best Value Pet Camera</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/updated-linksys-standard-login-credentials-for-july-2024-complete-list/"><u>Updated Linksys Standard Login Credentials for July 2024 - Complete List</u></a></li>
 </ul></div>
 

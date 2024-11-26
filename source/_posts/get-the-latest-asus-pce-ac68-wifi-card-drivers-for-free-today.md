@@ -1,7 +1,7 @@
 ---
 title: Get the Latest ASUS PCE-AC68 WiFi Card Drivers for FREE Today
-date: 2024-11-15T18:33:48.006Z
-updated: 2024-11-17T08:06:43.773Z
+date: 2024-11-23T16:28:26.553Z
+updated: 2024-11-26T16:24:58.755Z
 tags:
   - win11
   - win10
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap715.png)
 3. Scroll down until you see**Surface Book 2** on the table. Then click its drivers download link to continue.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap716.png)
 4. Click**Download** .  
 
@@ -57,23 +50,21 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 5. To update your Surface Book 2 with the latest drivers and firmware, **select the .msi file name that matches your operating system version** . Then click**Next** to start downloading.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap718.png)  
  For example, if the build of Windows 10 you’ve installed is build 17763, you should select  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **SurfaceBook2\_Win10\_17763\_1805009\_0.msi** . If you’re not sure about the version of Windows 10 you’ve installed, go to**Start** \>**Settings** \>**System** \>**About** to view **the OS Build number** .
 6. Double-click the downloaded file and follow the on-screen instructions to install its drivers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Download and update the drivers for your Surface Book 2 automatically
@@ -88,14 +79,15 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap720.png)  
  You can do it for free if you like, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -119,16 +111,18 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-social-media-metrics-the-igtv-hashtag-connection/"><u>[Updated] 2024 Approved Mastering Social Media Metrics The IGTV Hashtag Connection</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-channel-conversion-guide-yt-to-igtv-strategies-for-2024/"><u>[Updated] Channel Conversion Guide YT to IGTV Strategies for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-overcoming-obscured-viewing-fix-for-youtube/"><u>[Updated] Overcoming Obscured Viewing Fix for Youtube</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-pioneering-youtube-visibility-through-strategic-thumbnails-for-2024/"><u>[Updated] Pioneering YouTube Visibility Through Strategic Thumbnails for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/dynamic-video-enhancer-infuse-captivating-effects-into-your-videos/"><u>Dynamic Video Enhancer: Infuse Captivating Effects Into Your Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-for-correcting-and-preventing-windows-error-0xc00000xe9-a-detailed-guide/"><u>Expert Tips for Correcting and Preventing Windows Error 0xC00000^XE9 – A Detailed Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mpe-wav-movavi/"><u>MPE-WAV를 무료로 바꾸기: Movavi의 웹 인터페이스에서 광범위한 오디오 변환</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/simple-guide-mastering-the-art-of-seamless-xcopy-mirror-synchronization/"><u>Simple Guide: Mastering the Art of Seamless Xcopy Mirror Synchronization</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/titres-seo-premium-meilleures-logiciels-libres-pour-capturer-et-graver-lecran-de-votre-ordinateur/"><u>Titres SEO Premium : Meilleures Logiciels Libres Pour Capturer Et Graver L'écran De Votre Ordinateur</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/topplista-av-aktivitetsregisterorjing-program-for-windows-7-gratismedel-i-2024/"><u>Topplista Av Aktivitetsregisterörjing Program För Windows 7 - Gratismedel I 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/uber-vs-taxi-which-one-offers-better-value/"><u>Uber vs Taxi: Which One Offers Better Value?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-camera-buying-simplified-a-starters-guide-23-updates/"><u>[New] In 2024, Camera Buying Simplified – A Starter’s Guide '23 Updates</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-walking-dead-top-picks-for-horror-gamers-for-2024/"><u>[New] Walking Dead Top Picks for Horror Gamers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-incorporate-subtitles-for-improved-viewing-wmp-guide/"><u>2024 Approved Incorporate Subtitles for Improved Viewing WMP Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/corsairs-liquid-cpu-cooler-model-h80i-v2-download-drivers-here/"><u>Corsair's Liquid CPU Cooler Model H80I-V2: Download Drivers Here</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-asus-atk0110-acpi-drivers-for-free-start-now/"><u>Download the ASUS ATK0110 ACPI Drivers for Free - Start Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-fixes-to-stop-palworld-from-crashing-on-pc-expert-tips-and-tricks/"><u>Effective Fixes to Stop Palworld From Crashing on PC: Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/epson-xp-420-printer-software-free-installation-and-latest-updates/"><u>Epson XP-420 Printer Software: Free Installation and Latest Updates</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-drivers-for-your-acer-screen-now/"><u>Get the Newest Drivers for Your Acer Screen Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-latest-hid-standard-mouse-controller-software/"><u>Install Latest HID-Standard Mouse Controller Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optimizing-zoom-videos-essential-3-part-methodology-for-2024/"><u>Optimizing Zoom Videos Essential 3-Part Methodology for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-steps-to-determine-your-nvidia-graphics-cards-current-driver-software/"><u>Simple Steps to Determine Your NVIDIA Graphics Card's Current Driver Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-how-to-get-the-latest-nvidia-geforce-gtx-460-drivers-on-your-windows-system/"><u>Step-by-Step: How to Get the Latest NVIDIA GeForce GTX #460 Drivers on Your Windows System</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-honor-play-7t-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Honor Play 7T for Parents | Dr.fone</u></a></li>
 </ul></div>
 
