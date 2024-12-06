@@ -1,7 +1,7 @@
 ---
 title: "1. Mastering Mobile Excel Table Management: A User-Friendly Guide"
-date: 2024-08-28T04:34:56.554Z
-updated: 2024-08-29T04:34:56.554Z
+date: 2024-11-29T12:39:28.544Z
+updated: 2024-12-06T13:16:45.105Z
 tags:
   - excel
 categories:
@@ -42,6 +42,14 @@ Related: [How to Insert a Total Row in a Table in Microsoft Excel](https://howto
 
 ![Table column to a card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/ColumnToCard-ExcelMobileTableCardsView.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Edit Table Data
 
  To edit the existing data in the table, select the card containing the data you want to change. Tap the data, make your change, and select "Done" on the keyboard.
@@ -54,9 +62,6 @@ Related: [How to Insert a Total Row in a Table in Microsoft Excel](https://howto
 
  Tap the arrow on the top left to return to the main Cards View screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Add a Card
 
  You can add a card, which is [another row](https://fox-glue.techidaily.com/2024-approved-the-ultimate-guide-to-top-online-tools-for-perfecting-your-video-subtitles/), to your table easily. To simply add a row to the end of your table and list in Cards View, tap the plus sign at the bottom.
@@ -70,18 +75,24 @@ Related: [How to Insert a Total Row in a Table in Microsoft Excel](https://howto
 ![Insert a card, row, above or below](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/InsertCardAboveBelow-ExcelMobileTableCardsView.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  Delete a Card
 
  To remove a card, tap the three dots on the top right in Cards View or the card's detail screen, pick "Delete," and confirm by tapping "Yes."
 
 ![Delete a card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/DeleteCard-ExcelMobileTableCardsView.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Keep in mind that removing a card [deletes that row](https://facebook-video-recording.techidaily.com/how-to-maximize-revenue-the-secret-of-fb-animation-campaigns/) from your table.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Share a Card
 
@@ -89,9 +100,6 @@ Related: [How to Insert a Total Row in a Table in Microsoft Excel](https://howto
 
 ![Shared Card image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/SharedCardImage-ExcelMobileTableCardsView.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  Do one of the following to open the Share Card option:
 
 * On the Cards View screen, tap the three dots on the card and pick "Share Card."
@@ -102,9 +110,6 @@ Related: [How to Insert a Total Row in a Table in Microsoft Excel](https://howto
 
 ![Share a card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/ShareCard-ExcelMobileTableCardsView.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Edit the Table Structure 
 
  In addition to editing your existing data or adding more as described above, you can change the current table fields (columns) and formatting.
@@ -116,26 +121,25 @@ Related: [How to Use the Accounting Number Format in Microsoft Excel](https://an
 ![Table Settings icon to access the data fields](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/TableFields-ExcelMobileTableCardsView.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Tap a Field Label to change the text or the Format icon to change the format.
 
 ![Edit a field or its format](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/EditFormatField-ExcelMobileTableCardsView.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To add a field, either tap the plus sign at the bottom and enter the Field Label or choose a specific field type like general, text, or [number](https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-redmi-12-5g-without-them-knowing-drfone-by-drfone-virtual-android/) using the Add Field section at the bottom.
 
 ![Add a field, column, to a card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/AddField-ExcelMobileTableCardsView.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To remove a field from the table, tap the Delete icon (trash can) on the top right. Select the Delete icon to the right of the field you want to remove and then tap "Yes" to confirm the action.
 
 ![Delete a field, column](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/DeleteField-ExcelMobileTableCardsView.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  Keep in mind that removing a field deletes that column in your table.
 
  While [working in Microsoft Excel](https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-vivo-s17e-drfone-by-drfone-virtual-android/) can be easier on your computer, there may be a time when you have to use the mobile app. In these situations, keep Cards View for tables in mind.
@@ -148,8 +152,6 @@ Related: [How to Use the Accounting Number Format in Microsoft Excel](https://an
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +159,22 @@ Related: [How to Use the Accounting Number Format in Microsoft Excel](https://an
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-choosing-prime-audio-editors-for-youtube-creators/"><u>[New] 2024 Approved Choosing Prime Audio Editors for YouTube Creators</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-enhance-your-iphone-hd-video-clarity-in-premiere-pro-effortlessly/"><u>[New] 2024 Approved Enhance Your iPhone HD Video Clarity in Premiere Pro Effortlessly</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-top-student-vids-essential-histories-channel-list/"><u>[Updated] 2024 Approved Top Student Vids Essential Histories Channel List</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-empowering-learning-through-educational-videos-on-youtube/"><u>2024 Approved Empowering Learning Through Educational Videos on YouTube</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-transform-your-digital-portfolio-with-onscreen-cropping/"><u>2024 Approved Transform Your Digital Portfolio with Onscreen Cropping</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-bcm20702a0-driver-setup-for-windows-quick-download-tutorial/"><u>Easy BCM20702A0 Driver Setup for Windows - Quick Download Tutorial</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/epson-wf-7720-printer-driver-update-on-windows/"><u>Epson WF-7720 Printer Driver Update on Windows</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-basics-the-essential-guide-to-the-2019-amazon-kindle-for-savvy-shoppers/"><u>Exploring the Basics: The Essential Guide to the 2019 Amazon Kindle for Savvy Shoppers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hassle-free-download-of-samsung-c460-printer-drivers-start-now/"><u>Hassle-Free Download of Samsung C460 Printer Drivers - Start Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-logitech-g35-sound-card-drivers-for-windows-users-windows-7-to-1n0/"><u>Latest Logitech G35 Sound Card Drivers for Windows Users: Windows 7 to 1N0</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/speedy-and-straightforward-download-of-amds-rx-580-drivers-enhance-your-visual-experience/"><u>Speedy and Straightforward Download of AMD's RX 580 Drivers - Enhance Your Visual Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-hardware-ultimate-guide-to-computer-components/"><u>Tom's Hardware: Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-guide-to-downloading-hp-deskjet-2755e-driver-for-microsoft-windows-devices/"><u>Ultimate Guide to Downloading HP Deskjet 2755E Driver for Microsoft Windows Devices</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-unlocking-free-speech-transcription-a-triad-of-simple-approaches/"><u>Updated Unlocking Free Speech Transcription - A Triad of Simple Approaches</u></a></li>
+</ul></div>
 

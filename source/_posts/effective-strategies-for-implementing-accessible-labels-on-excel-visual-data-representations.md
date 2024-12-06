@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Implementing Accessible Labels on Excel Visual Data Representations
-date: 2024-08-28T04:35:10.667Z
-updated: 2024-08-29T04:35:10.667Z
+date: 2024-12-03T23:05:09.732Z
+updated: 2024-12-06T07:33:15.910Z
 tags:
   - excel
 categories:
@@ -44,8 +44,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ![Calculate the maximum value](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/max-value-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  We can then use a formula in cell D3 with the [INDEX and MATCH combination](https://support.office.com/en-gb/article/look-up-values-with-vlookup-index-or-match-68297403-7c3c-4150-9e3c-4d348188976b) to return the name of that product.
 
 =INDEX(A2:A7,MATCH(D2,B2:B7,0))
@@ -53,13 +54,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ![INDEX and MATCH to return product name](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/index-match.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In cell D4, we can make a creative caption from these calculated values.
 
 =D3&" is the top product with "&D2&" sales."
 
 ![Creative text for a caption](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/creative-text.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Add Captions to an Excel Graph
 
@@ -69,29 +75,28 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Resize the plot area](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/resize-plot-area.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We will include the caption by inserting a text box. Click Insert > Text Box and then select the chart to insert it.
 
 ![Insert a text box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/text-box.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, click in the Formula Bar, type "=" and then select cell D4 (the cell containing the caption text).
 
 ![Refer to the caption text cell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/cell-link.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Press the Enter key.
 
  The caption text is shown in the text box and can be moved and resized into an appropriate position on the chart.
 
 ![Caption on an Excel chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/inserted-caption.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
  To finish the caption, format it to a light grey so that it is not as impactful as the chart title. Click Home, the list arrow for "Font Color," then select a light grey.
 
 ![Formatting with a light grey font colour](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/light-grey.png) 
@@ -100,16 +105,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Completed Excel chart with caption](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/finished-chart.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -118,4 +118,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-superior-tools-for-capturing-moments-with-harmony/"><u>[New] In 2024, Superior Tools for Capturing Moments with Harmony</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/erfecting-audio-rates-in-youtube-playback-for-2024/"><u>[New] Perfecting Audio Rates in YouTube Playback for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-unlocking-your-content-with-vimeo-links-for-2024/"><u>[Updated] Unlocking Your Content with Vimeo Links for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-asus-bt500-bluetooth-50-driver-for-windows-11-10-and-8/"><u>Download Asus BT500 Bluetooth 5.0 Driver for Windows 11, 10 & 8</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-most-recent-nvidia-drivers-to-optimize-your-graphics-experience/"><u>Get the Most Recent NVIDIA Drivers to Optimize Your Graphics Experience</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-epson-wf-3620-printer-driver-software-on-windows-11windows-8windows-7-download-here/"><u>Get the Newest Epson WF-3620 Printer Driver Software on Windows 11/Windows 8/Windows 7 - Download Here!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/o-go-viral-on-youtube-with-minimal-effort/"><u>How to Go Viral on YouTube with Minimal Effort</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-essential-video-concepts-fueling-creativity-in-youtube-channels/"><u>In 2024, Essential Video Concepts Fueling Creativity in YouTube Channels</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-no-permission-to-access-fortnite-gameplay-issue/"><u>Resolving 'No Permission to Access Fortnite Gameplay' Issue</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unlock-higher-engagement-the-power-of-precise-timestamping/"><u>Unlock Higher Engagement The Power of Precise Timestamping</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updated-hp-scanjet-printer-drivers-for-windows-1087-free-download-now/"><u>Updated HP Scanjet Printer Drivers for Windows 10/8/7: Free Download Now</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/visionary-directors-cinematic-peeks-for-2024/"><u>Visionary Director's Cinematic Peeks for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/winning-strategies-with-fifa-19-why-its-a-leader-in-sports-gaming/"><u>Winning Strategies with FIFA 19: Why It's a Leader in Sports Gaming</u></a></li>
+</ul></div>
 

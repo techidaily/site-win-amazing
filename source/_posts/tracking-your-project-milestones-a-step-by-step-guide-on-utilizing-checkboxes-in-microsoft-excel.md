@@ -1,7 +1,7 @@
 ---
 title: "Tracking Your Project Milestones: A Step-by-Step Guide on Utilizing Checkboxes in Microsoft Excel"
-date: 2024-08-28T04:35:45.844Z
-updated: 2024-08-29T04:35:45.844Z
+date: 2024-11-30T22:57:16.270Z
+updated: 2024-12-06T07:18:00.436Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 ---
 
 ## Tracking Your Project Milestones: A Step-by-Step Guide on Utilizing Checkboxes in Microsoft Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 
 ![An Excel sheet with Customize The Ribbon selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/an-excel-sheet-with-customize-the-ribbon-selected.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, in the Choose Commands From field, click "Main Tabs."
 
 ![The Customize The Ribbon tab in Excel Options, with the Choose Commands From option changed to Main Tabs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-customize-the-ribbon-tab-in-excel-options-with-the-choose-commands-from-option-changed-to-main-tabs-1.png) 
@@ -44,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 
 ![An Excel sheet with the Checkbox option within the Controls group on the Insert tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/an-excel-sheet-with-the-checkbox-option-within-the-controls-group-on-the-insert-tab.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What the Spacebar and Delete Keys Do to Checkboxes
 
  Before you get to know the different ways you can use checkboxes, it's worth knowing how they're affected by different keys.
@@ -52,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 
  To delete a checkbox from your sheet, select the cell where the checkbox is located, and press Delete. If your checkbox is checked, pressing Delete will first uncheck the checkbox, and pressing it again will remove the checkbox altogether.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Use Checkboxes With IF
 
  The first step in getting used to using checkboxes with Excel's functions is to try it with the [IF function](https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-huawei-phone-by-drfone-android/) alone.
@@ -83,15 +92,16 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 
 ![An Excel table with checkboxes in column 2, and the word Incomplete in column 3 based on the IF function added to those cells.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/an-excel-table-with-checkboxes-in-column-2-and-the-word-incomplete-in-column-3-based-on-the-if-function-added-to-those-cells.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, check some of the checkboxes to see the outcomes in column C change.
 
 ![An Excel table with values in column C changing depending on whether the checkboxes in column B are checked.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/an-excel-table-with-values-in-column-c-changing-depending-on-whether-the-checkboxes-in-column-b-are-checked.png) 
 
  If you click and drag the table handle (in the bottom-right corner of the formatted table) downwards, the new row will automatically contain the checkbox and the status formula you added.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ##  How to Use Checkboxes With AND or OR
 
  We're now ready to use the checkboxes to check the progress of tasks containing more than one stage.
@@ -103,8 +113,9 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 ![An Excel table containing five tasks, each with three phases (the status of each indicated by a checkbox), and an empty Status column in the final column.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/an-excel-table-containing-five-tasks-each-with-three-phases-the-status-of-each-indicated-by-a-checkbox-and-an-empty-status-column-in-the-final-column.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This is why we need to use the [AND function](https://extra-skills.techidaily.com/in-2024-spark-engagement-the-ultimate-list-of-video-text-effects/) alongside the IF function—the AND tells Excel we're evaluating several criteria at the same time.
 
  Here's the syntax:
@@ -122,8 +133,13 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 ![An Excel table containing a status column that reads Complete or Incomplete depending on whether all the checkboxes in that row are checked.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/an-excel-table-containing-a-status-column-that-reads-complete-or-incomplete-depending-on-whether-all-the-checkboxes-in-that-row-are-checked.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Using Checkboxes With OR
 
  You can also follow the same principle with the OR function:
@@ -139,8 +155,9 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 ![An Excel table with Actioned or Pending in the final column, depending on whether any of the checkboxes in that row are checked.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/an-excel-table-with-actioned-or-pending-in-the-final-column-depending-on-whether-any-of-the-checkboxes-in-that-row-are-checked.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Apply Conditional Formatting on Checkboxes
 
  To make it even easier to visualize your data and track task progress, you can use [Conditional Formatting](https://ai-live-streaming.techidaily.com/simple-tricks-avoiding-hassle-while-uninstalling-nvidia-geforce-experience/) to apply colors to the checkboxes or the cells where they're located.
@@ -151,10 +168,6 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 
 ![An Excel table with cells containing checkboxes, and the Conditional Formatting drop-down opened with New Rule selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/an-excel-table-with-cells-containing-checkboxes-and-the-conditional-formatting-drop-down-opened-with-new-rule-selected.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
  In the New Formatting Rule dialog box, follow these steps:
 
 ![Excel's New Formatting Rule dialog box, with the cell fill set to green when the cell values equal TRUE.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/excel-s-new-formatting-rule-dialog-box-with-the-cell-fill-set-to-green-when-the-cell-values-equal-true.png) 
@@ -168,17 +181,9 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 ![An Excel table containing checkboxes with their cells filled with green when checked.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/an-excel-table-containing-checkboxes-with-their-cells-filled-with-green-when-checked.png) 
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Apply Conditional Formatting in Other Cells Based on the Checkboxes
 
  The final option is to format the whole row if all its checkboxes are checked. In our case, we want to clearly show that tasks 3 and 5 are complete.
@@ -191,9 +196,6 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 
 ![Excel's New Formatting Rule dialog box, with the cell fill set to yellow when the conditions are met.-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/excel-s-new-formatting-rule-dialog-box-with-the-cell-fill-set-to-yellow-when-the-conditions-are-met-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Click "Use A Formula To Determine Which Cells To Format."
 2. In the empty field box, type **\=AND($B2:$D2,"TRUE")**, where _$B2:$D2_ are the cells containing the checkbox on the first row of the table, and _"TRUE"_ tells Excel to apply the formatting when all the checkboxes are checked. Make sure you [add the dollar symbol before the column references](https://some-knowledge.techidaily.com/2024-approved-expert-techniques-for-enhanced-minecraft-zooms/) ($B2 and $D2)—this tells Excel that we want to apply the Conditional Formatting rule to all rows within those fixed columns.
 3. Click "Formatting" to determine what happens when the condition you've set is met. In our case, we're choosing a yellow fill.
@@ -201,9 +203,6 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 
 ![An Excel table with full rows formatted based on all checkboxes in that row being checked.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/an-excel-table-with-full-rows-formatted-based-on-all-checkboxes-in-that-row-being-checked.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
  Checkboxes aren't the only way to track your task progress. Indeed, you can [create a whole dashboard of data in Excel](https://vp-tips.techidaily.com/updated-hone-your-iphone-skills-with-shortened-and-customized-vids/) to monitor your workflow at a glance.
@@ -214,8 +213,6 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -223,4 +220,20 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-amazing.techidaily.com/download-available-now-effortless-installation-of-the-latest-fingerprint-sensor-driver/"><u>[DOWNLOAD] Available Now! Effortless Installation of the Latest Fingerprint Sensor Driver</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-geforce-rtx-3060-ti-driver-for-windows-1111/"><u>[Download] GeForce RTX 3060 Ti Driver for Windows 11/11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-ultimate-selection-top-hdr-camera-picks/"><u>[New] 2024 Approved Ultimate Selection Top HDR Camera Picks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-digital-audio-wizardry-turning-fb-videos-into-mp3-for-2024/"><u>[New] Digital Audio Wizardry Turning FB Videos Into MP3 for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-art-of-captivating-valorant-video-thumbnails-on-youtube-for-2024/"><u>[New] The Art of Captivating Valorant Video Thumbnails on YouTube for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-masterful-mac-microphone-software-ranking-the-excellent-five/"><u>[Updated] Masterful Mac Microphone Software Ranking the Excellent Five</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722973587221-download-m-audio-fast-track-drivers-compatible-with-windows-107881/"><u>Download M-Audio Fast Track Drivers - Compatible with Windows 10/7/8/8.1</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-to-downloading-and-updating-your-canon-mx492-drivers-in-windows/"><u>Easy Guide to Downloading & Updating Your Canon MX492 Drivers in Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-and-install-canon-mg2520-printer-drivers-on-windows-machines/"><u>How to Download and Install Canon MG2520 Printer Drivers on Windows Machines</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-reconnect-loop-issue-in-league-of-legends-latest-fixes-and-patch-notes/"><u>How to Overcome the Reconnect Loop Issue in League of Legends - Latest Fixes and Patch Notes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/must-comply-with-all-applicable-state-laws-across-various-jurisdictions-within-the-united-states-ensuring-documents-are-tailored-to-meet-specific-regional-r131/"><u>Must Comply with All Applicable State Laws Across Various Jurisdictions Within the United States, Ensuring Documents Are Tailored to Meet Specific Regional Requirements While Maintaining a General Usability for Clients Nationwide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-pc-recovery-setbacks-expert-strategies-unveiled/"><u>Overcoming PC Recovery Setbacks - Expert Strategies Unveiled</u></a></li>
+<li><a href="https://fox-links.techidaily.com/visionboost-converter-windows-mac-online-version/"><u>VisionBoost Converter – Windows, Mac, Online Version</u></a></li>
+</ul></div>
 

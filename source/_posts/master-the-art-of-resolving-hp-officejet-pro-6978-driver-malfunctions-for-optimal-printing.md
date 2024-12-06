@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Resolving HP Officejet Pro 6978 Driver Malfunctions for Optimal Printing
-date: 2024-11-20T21:54:42.832Z
-updated: 2024-11-26T16:13:35.396Z
+date: 2024-11-29T03:34:36.435Z
+updated: 2024-12-06T09:14:30.984Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Option 1 – Update your driver via Device Manager**
 
  Try to update your Validity fingerprint sensor driver from within Device Manager:
@@ -47,25 +51,17 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 3. Type**device** into the search box. Then select**Device Manager** from a list of search results.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1098.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Here comes**Device Manager** . Click the**▷** symbol to the left of**Biometric Devices** to expand its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1073.png)
 5. Right-click on**Validity Sensors (WBF)** to open its context menu. Then select**Update Driver Software…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-11-03.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-18-21.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Wait till the download and installation process finishes.
 8. Click **Close** when it’s all done.
@@ -74,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 2 – Update your driver from official websites**
@@ -96,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-38-22-2.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Validity fingerprint sensor driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-36-48-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -125,20 +125,18 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-guide-to-skype-call-audio-and-video-capture-windowsos-x/"><u>[New] Guide to Skype Call Audio & Video Capture Windows/OS X</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-securing-brand-deals-with-youtube-personalities/"><u>[Updated] In 2024, Securing Brand Deals with YouTube Personalities</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722974692306-compatible-drivers-for-gigabyte-gc-wb867d-inputoutput-hub-get-them-here/"><u>Compatible Drivers for Gigabyte GC-WB867D Input/Output Hub - Get Them Here!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/find-and-update-your-windows-bluetooth-dongle-drivers-a-complete-walkthrough/"><u>Find & Update Your Windows Bluetooth Dongle Drivers - A Complete Walkthrough</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-version-of-qualcomm-atheros-ar3011-bluetooth-30-driver-here/"><u>Get the Latest Version of Qualcomm Atheros AR3011 Bluetooth 3.0 Driver Here!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/global-warming-or-just-hot-summers-climate-clarity/"><u>Global Warming or Just Hot Summers? Climate Clarity</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-honor-x50iplus-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Honor X50i+ FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-sj4000-owners-guide-to-stylish-and-practical-gear/"><u>In 2024, SJ4000 Owners' Guide to Stylish & Practical Gear</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/installing-canon-pixma-mp280-printer-driver-on-windows-1087-step-by-step-guide/"><u>Installing Canon PIXMA MP280 Printer Driver on Windows 10/8/7 - Step by Step Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/netgear-wna3100-driver-updates-quick-and-easy-download-tips/"><u>Netgear WNA3100 Driver Updates - Quick & Easy Download Tips</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/revamp-your-pc-vision-a-how-to-update-webcam-drivers-on-windows-1nk/"><u>Revamp Your PC Vision: A How-To Update Webcam Drivers on Windows 1Nk</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/seamless-storytelling-with-on-screen-annotations-and-timestamps/"><u>Seamless Storytelling with On-Screen Annotations & Timestamps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-myth-of-ai-perceptions-how-to-spot-false-images-generated-by-intelligent-systems/"><u>Unveiling the Myth of AI Perceptions: How to Spot False Images Generated by Intelligent Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-targus-displaylink-drivers-now-compatible-with-windows-1187/"><u>Update Your Targus DisplayLink Drivers Now: Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-sound-enhance-videos-with-windows-11-audio-integration/"><u>2024 Approved Mastering Sound Enhance Videos with Windows 11 Audio Integration</u></a></li>
+<li><a href="https://games-able.techidaily.com/9-fixes-for-the-steam-library-folder-not-writable-error-on-windows-11/"><u>9 Fixes for the “Steam Library Folder Not Writable” Error on Windows 11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/digital-diaries-of-daily-displays-fb-live-downloads/"><u>Digital Diaries of Daily Displays FB Live Downloads</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fast-track-to-enhanced-performance-with-new-amd-smbus-drivers/"><u>Fast Track to Enhanced Performance with New AMD SMBus Drivers!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/from-box-to-board-how-to-implement-logitech-mx-master-on-your-pc/"><u>From Box to Board: How to Implement Logitech MX Master on Your PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-official-canon-mf4800-drivers-for-your-impressionable-printing-needs/"><u>Get the Official Canon MF4800 Drivers for Your Impressionable Printing Needs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-msi-bluetooth-driver-update-here-perfect-for-windows-11-and-windows-10-devices/"><u>Get Your MSI Bluetooth Driver Update Here, Perfect for Windows 11 & Windows 10 Devices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-find-and-update-your-dell-latitude-e6430-device-drivers-a-comprehensive-guide/"><u>How to Find & Update Your Dell Latitude E6430 Device Drivers: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78plus-t1-edition-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-zero-price-strategies-for-solo-frame-analysis-in-videos/"><u>In 2024, Zero-Price Strategies for Solo Frame Analysis in Videos</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/schrittweise-anleitung-zur-wiederherstellung-verlorener-dokumente-und-verzeichnisse-auf-ihrem-computer/"><u>Schrittweise Anleitung Zur Wiederherstellung Verlorener Dokumente Und Verzeichnisse Auf Ihrem Computer</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/the-ultimate-guide-to-exceptional-tiktok-intro-videos-mac/"><u>The Ultimate Guide to Exceptional TikTok Intro Videos (Mac)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-guide-downloading-and-installing-the-latest-drivers-for-your-lenovo-ideapad-100-on-windows-11/"><u>Ultimate Guide: Downloading & Installing the Latest Drivers for Your Lenovo IdeaPad 100 on Windows 11</u></a></li>
 </ul></div>
 

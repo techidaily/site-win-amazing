@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Cloud-Based Excel Functionality: A Guide to Improving Web Application Formulas and Data Analysis"
-date: 2024-08-28T04:35:30.003Z
-updated: 2024-08-29T04:35:30.003Z
+date: 2024-11-30T14:47:09.989Z
+updated: 2024-12-06T06:31:05.467Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/a3895cce3360de5913e31306b1dac3362ecfc87f8
 ---
 
 ## Maximizing Cloud-Based Excel Functionality: A Guide to Improving Web Application Formulas and Data Analysis
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/a3895cce3360de5913e31306b1dac3362ecfc87f8
 
  As of September 2022, the feature is available to [Microsoft 365](https://games-able.techidaily.com/ultimate-console-content-psplus-or-xbox-game-pass/) subscribers using Excel for the web.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Check the Performance of an Excel Workbook
 
  Visit [Excel on the web](https://www.office.com/launch/excel), sign in, and open the workbook you want to review. You may see a message in yellow at the top encouraging you to try out the feature by providing a link. But you can access it manually too.
@@ -34,13 +42,18 @@ thumbnail: https://thmb.techidaily.com/a3895cce3360de5913e31306b1dac3362ecfc87f8
 
 ![Check Performance on the Excel Review tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ReviewCheckPerformance-ExcelWebOptimizePerformance.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  At the top of the sidebar, you'll see how many cells are used and the number of cells to optimize in the workbook.
 
 ![Cells used and to optimize in Excel for the web](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/WorkbookPerformanceSidebar-ExcelWebOptimizePerformance.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll then see a list of the sheets containing empty cells that can be optimized. Hover your cursor over the information icon (small letter "i") next to Review by Sheet to see the total.
 
 ![Total sheets to optimize in Excel for the web](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/TotalSheetsToOptimize-ExcelWebOptimizePerformance.png) 
@@ -54,22 +67,24 @@ thumbnail: https://thmb.techidaily.com/a3895cce3360de5913e31306b1dac3362ecfc87f8
 ![Cells highlighted for performance](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/CellsToOptimize-ExcelWebOptimizePerformance.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Optimize the Cells in a Workbook
 
  You have a few ways to optimize the sheets and cells you see in the sidebar. Microsoft allows you to control how you [remove the formatting](https://remote-screen-capture.techidaily.com/new-2024-approved-capture-video-perfection-in-minutes/) (if you want to).
 
 Related: [How to Clear Formatting in Microsoft Excel](https://remote-screen-capture.techidaily.com/new-2024-approved-capture-video-perfection-in-minutes/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Optimize the Workbook
 
  If you want to optimize the entire workbook in one fell swoop, this is the simplest option. With the Workbook Performance sidebar open, click "Optimize All" at the bottom.
 
 ![Optimize All button for a workbook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/OptimizeAll-ExcelWebOptimizePerformance.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Optimize the Sheet
 
@@ -77,12 +92,6 @@ Related: [How to Clear Formatting in Microsoft Excel](https://remote-screen-capt
 
 ![Optimize Sheet for a sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/OptimizeSheet-ExcelWebOptimizePerformance.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Manually Change the Cells
 
  One final option is to [manually remove the formatting](https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-8-plus-with-7-methods-by-drfone-ios/) from the empty cells. Start by selecting a sheet in the Workbook Performance sidebar. Then, click the cell reference or range in the box to highlight the cell(s) in the sheet.
@@ -95,19 +104,12 @@ Related: [How to Remove Table Formatting in Microsoft Excel](https://ios-unlock.
 
 ![Clear Formats in the More Options menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ClearFormats-ExcelWebOptimizePerformance.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
  You can, of course, use your own method to remove the formatting if you prefer.
 
  As you optimize the workbook, sheets, or cells and make changes to your workbook, the Workbook Performance tool updates. So, you may see a message in the sidebar to recheck the workbook. Click "Check Again" to run the performance test after you make changes.
 
 ![Check Again after the workbook changed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/CheckAgain-ExcelWebOptimizePerformance.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  When the file size of your workbook grows over time, it can take longer to load in Excel. Being able to see what improvements you can make to optimize the workbook is a handy feature to keep in mind.
 
  Be on the lookout for this [Check Performance feature](https://techcommunity.microsoft.com/t5/excel-blog/do-you-have-slow-workbooks-due-to-size-bloat-give-us-a-try-at/ba-p/3574198) to arrive in Excel for Windows and Mac in the future.
@@ -118,8 +120,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +127,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-visual-vault-verifier/"><u>[Updated] 2024 Approved Visual Vault Verifier</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-troubleshooting-common-issues-in-skype-and-obs-collaboration/"><u>[Updated] In 2024, Troubleshooting Common Issues in Skype & OBS Collaboration</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-stepwise-tutorial-adding-professional-edges-to-ig-content-for-2024/"><u>[Updated] Stepwise Tutorial Adding Professional Edges to IG Content for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exceptional-upgrades-for-gopro-captures/"><u>2024 Approved Exceptional Upgrades for GoPro Captures</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/asus-wavemaster-precision-touchpad-drivers-download-and-compatibility-for-windows-users/"><u>ASUS WaveMaster Precision TouchPad Drivers: Download and Compatibility for Windows Users</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/chortlecraft-funny-visuals-for-social-engagement/"><u>ChortleCraft Funny Visuals for Social Engagement</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-updated-drivers-for-hp-deskjet-2700-all-in-one-ink-printers-latest-version/"><u>Download & Install Updated Drivers for HP Deskjet 2700 All-in-One Ink Printers (Latest Version)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/dymo-labelwriter-4xl-label-printer-driver-download-and-update/"><u>DYMO LabelWriter 4XL Label Printer Driver Download and Update</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guide-successfully-installing-toshiba-printer-drivers-on-windows-systems/"><u>Guide: Successfully Installing Toshiba Printer Drivers on Windows Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-vivo-t2x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-refresh-or-reinstall-the-drivers-for-your-usb-serial-converter-in-windows/"><u>How to Refresh or Reinstall the Drivers for Your USB Serial Converter in Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/network-free-driver-installation-techniques-for-your-pc-running-windows/"><u>Network-Free Driver Installation Techniques for Your PC Running Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optimal-routines-to-alter-track-tempoplay-in-spotify-for-2024/"><u>Optimal Routines to Alter Track Tempoplay in Spotify for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479806597-the-challenges-of-sending-gifts-from-your-iphone-or-ipad-discover-the-top-5-hurdles/"><u>The Challenges of Sending Gifts From Your iPhone or iPad - Discover the Top 5 Hurdles!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-manor-lords-pc-stability-problems-a-guide/"><u>Troubleshooting Manor Lords PC Stability Problems: A Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "NVIDIA GeForce RTX 3#080 Driver: Compatible Software Update for Win11/Win8/Win7"
-date: 2024-11-25T21:07:37.106Z
-updated: 2024-11-26T17:16:00.075Z
+date: 2024-11-30T00:51:29.374Z
+updated: 2024-12-06T09:38:00.162Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/9fb33bd6bba9695ce8ba1da0e2a2f8b35a76e62cf
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **There are two methods to update your graphics driver:**
 
 [**Method 1** **– Automatically (Recommended):**](https://www.drivereasy.com/knowledge/latest-geforce-rtx-3080-ti-driver-download-for-win-10-8-7/#m1) This option is **much quicker and easier than method 2** . **All** you need to do is **just a couple of mouse clicks** !
@@ -41,7 +37,7 @@ Or
 [**Method 2** **– Manually:**](https://tools.techidaily.com/drivereasy/download/) You can update your Geforce RTX 3080 Ti driver on your own. This requires some time, patience, and sometimes even computer skills.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Update your Geforce RTX 3080 Ti driver automatically
@@ -56,21 +52,17 @@ Or
 3. Click **Update** next to your **Geforce RTX 3080 Ti** graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Download & Update NVIDIA GeForce RTX 3080 Ti driver](https://images.drivereasy.com/wp-content/uploads/2021/06/Download-Update-NVIDIA-GeForce-RTX-3080-Ti-driver.jpg)
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Download and install your Geforce RTX 3080 Ti driver manually
 
@@ -81,8 +73,16 @@ Or
 ![Download & Update NVIDIA GeForce RTX 3080 Ti driver manually](https://images.drivereasy.com/wp-content/uploads/2021/06/Download-Update-NVIDIA-GeForce-RTX-3080-Ti-driver-manually.jpg)
 3. Click the **DOWNLOAD** button to download the driver file.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Download & Update NVIDIA GeForce RTX 3080 Ti driver manually 1](https://images.drivereasy.com/wp-content/uploads/2021/06/Download-Update-NVIDIA-GeForce-RTX-3080-Ti-driver-manually-1.jpg)
 4. **Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Restart your computer for the changes to take effect.
 
@@ -107,24 +107,16 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-a-step-by-step-approach-to-saving-your-screen-while-streaming/"><u>[New] 2024 Approved A Step-by-Step Approach to Saving Your Screen While Streaming</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-exclusive-list-affordable-mac-video-editing-on-tiktok/"><u>[New] Exclusive List Affordable Mac Video Editing on TikTok</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-speed-up-techniques-locating-deleted-reddit-posts/"><u>[Updated] 2024 Approved Speed-Up Techniques Locating Deleted Reddit Posts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-art-of-instagram-video-craftsmanship/"><u>[Updated] 2024 Approved The Art of Instagram Video Craftsmanship</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-tips-for-capturing-clear-quality-sound-in-your-windows-11-pc/"><u>2024 Approved Top Tips for Capturing Clear, Quality Sound in Your Windows 11 PC</u></a></li>
-<li><a href="https://solve-news.techidaily.com/discover-the-ultimate-selection-of-free-video-downloader-apps-for-202n-ranked-and-reviewed/"><u>Discover the Ultimate Selection of Free Video Downloader Apps for 202N, Ranked and Reviewed!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-guide-to-downloading-and-updating-mpows-windows-bluetooth-drivers/"><u>Easy Guide to Downloading & Updating MPOW's Windows Bluetooth Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/find-and-install-the-most-recent-drivers-for-your-toshiba-satellite-on-windows/"><u>Find & Install the Most Recent Drivers for Your Toshiba Satellite on Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-user-friendly-easycap-driver-software/"><u>Free Download: User-Friendly EasyCAP Driver Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/freshly-updated-epson-xp-640-driver-compatible-with-windows-1087/"><u>Freshly Updated Epson XP-640 Driver Compatible with Windows 10/8/7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-install-the-latest-targus-displaylink-drivers-on-your-windows-11-8-and-7-pc/"><u>How to Install the Latest Targus DisplayLink Drivers on Your Windows 11, 8 & 7 PC</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-fixing-the-no-thumbnail-issue-in-youtubes-shorts-videos/"><u>In 2024, Fixing the No-Thumbnail Issue in YouTubes Shorts Videos</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-6-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 6 When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-xiaomi-redmi-13c-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Xiaomi Redmi 13C 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-journey-to-social-media-supremacy-top-9-secrets-to-becoming-an-instagram-star/"><u>In 2024, Journey to Social Media Supremacy Top 9 Secrets to Becoming an Instagram Star</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/netgear-a6210-free-download-update-and-guide-for-drivers-on-windows-8-and-7-machines/"><u>Netgear A6210 - Free Download, Update, and Guide for Drivers on Windows 8 & 7 Machines</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722978265923-secure-and-fast-fetching-the-ultimate-guide-to-downloading-ft232r-drivers/"><u>Secure and Fast Fetching: The Ultimate Guide to Downloading FT232R Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-on-acquiring-the-drivers-for-your-hp-officejet-4500-printer/"><u>Step-by-Step Tutorial on Acquiring the Drivers for Your HP Officejet 4500 Printer</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/upgrading-your-epson-wf-7720-finding-and-installing-the-latest-windows-drivers/"><u>Upgrading Your Epson WF-7720: Finding and Installing the Latest Windows Drivers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-a-guide-to-homemade-film-crafting-youtube-and-beyond/"><u>[Updated] In 2024, A Guide to Homemade Film Crafting, YouTube & Beyond</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-subscribe-like-a-pro-true-or-false/"><u>2024 Approved Subscribe Like a Pro True or False?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-nvidia-graphics-card-drivers-compatible-downloads-for-windows-7-to-10/"><u>Free NVIDIA Graphics Card Drivers: Compatible Downloads for Windows 7 to 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-hp-officejet-pro-cu8720-driver-software-compatible-with-windows-pcs/"><u>Get the Newest HP OfficeJet Pro Cu8720 Driver Software Compatible with Windows PCs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-insignia-usb-ethernet-adaptor-up-and-running-with-this-driver-download/"><u>Get Your Insignia USB-Ethernet Adaptor Up and Running with This Driver Download</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gigabyte-z370p-d3-download-current-bios-and-driver-updates-now/"><u>Gigabyte Z370p-D3: Download Current BIOS and Driver Updates Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-find-and-apply-the-latest-updates-or-downloads-of-hp-officejet-pro-8720-windows-drivers/"><u>How to Find and Apply the Latest Updates or Downloads of HP OfficeJet Pro 8720 Windows Drivers</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-poco-m6-pro-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Poco M6 Pro 4G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/quick-easy-fun-4-steps-to-showcasing-your-favorite-gifs-on-instagram-for-2024/"><u>Quick, Easy, Fun 4 Steps to Showcasing Your Favorite GIFs on Instagram for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-gamers-choice-redefined-with-razers-v4-innovation/"><u>The Gamer’s Choice Redefined with Razer's V4 Innovation</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-sharpness-made-simple/"><u>Windows Sharpness Made Simple</u></a></li>
 </ul></div>
 

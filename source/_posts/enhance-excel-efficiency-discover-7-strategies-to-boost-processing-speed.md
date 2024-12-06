@@ -1,7 +1,7 @@
 ---
 title: "Enhance Excel Efficiency: Discover 7 Strategies to Boost Processing Speed"
-date: 2024-08-28T04:35:16.475Z
-updated: 2024-08-29T04:35:16.475Z
+date: 2024-11-29T02:23:34.349Z
+updated: 2024-12-06T13:48:28.070Z
 tags:
   - excel
 categories:
@@ -33,11 +33,19 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
 ![An Excel worksheet with the 'Clear Formats' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/clear-format.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, if you would prefer to keep certain formatting but remove other elements, after pressing Ctrl+A, work through the Font group in the Home tab to choose which formatting you want to remove.
 
 ![An Excel worksheet with the Font formatting group in the Home tab highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/formatting.png) 
 
  Finally, you might have hidden formatting in the form of conditional formatting. Reducing the use of conditional formatting in your spreadsheet by [managing the conditional formatting rules](https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/) will help you to reduce the slugishness of your file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  2\. Compress (and Limit) Your Images
 
@@ -48,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 ![An Excel worksheet with an image inserted and the Compress Pictures dialog box open. In the dialog box, 'Apply Only To This Picture' is checked and the 'Email (96 ppi)' option is highlighted. Finally, the 'OK' button is selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/compress-image-excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  3\. Simplify Your Formulas
 
  It's inevitable that you'll have formulas within your Excel workbook—after all, one of Excel's biggest strengths is being able to perform dynamic calculations. However, complex formulas with lots of cell references and nested functions can be a huge contributor to a sluggish worksheet.
@@ -69,8 +78,9 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
  Finally, instead of using complicated, nested IF formulas, you could use alternative functions. Depending on what you want to calculate, you could try using the [VLOOKUP](https://extra-tips.techidaily.com/integrate-sound-and-sight-web-studio/), CHOOSE, or LET functions, which require fewer arguments.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  4\. Avoid Blank Rows and Columns
 
  Instead of having blank rows and columns to separate your data, use borders and colors. Having blank rows and columns increases your workbook's file size and can delay Excel's calculation processes. This will not significantly impact smaller workbooks, but having many blank rows and columns in between larger sets of data will. Along with the other tips in this article, [removing blank rows and columns](https://desktop-recording.techidaily.com/2024-approved-vdg-screen-snatcher-synopsis-full-breakdown/) will definitely help to tidy up your Excel workbook and improve its performance.
@@ -87,23 +97,25 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
 ![Seven columns and five rows of random numbers between 1 and 10 in Excel, calculated using the RANDBETWEEN function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/randbetween-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Then, select the top-left cell of the random array. In the Home tab on the ribbon, click the paste drop-down arrow, and choose the "Values" icon.
 
 ![A set of numbers in Excel, generated by the RANDBETWEEN function, and the 'Values' option under the Paste icon is selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/paste-values.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  You will see that the numbers change within your parameters one more time (as they were still volatile right up to the point when you pasted their values), but they are now in your spreadsheet as true numbers and will not change when Excel recalculates.
 
  Another way to prevent volatile functions from slowing down your spreadsheet is to turn off automatic calculations. In the Calculation group of the Formulas tab on the ribbon, click "Calculation Options" and check "Manual" to tell Excel not to update volatile functions automatically. Then, when you're ready for your volatile functions to update, click "Calculate Sheet."
 
 ![An Excel worksheet with the Calculation Options drop-down open, 'Manual' highlighted as step 1, and 'Calculate Sheet' highlighted as step 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/autocalculate.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This means that they will only potentially slow down your spreadsheet when you're prepared for this to happen, rather than with every change you make.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Clear Up Named Items
 
@@ -113,12 +125,6 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
 ![An Excel workbook with the Name Manager open and the 'New,' 'Edit,' and 'Delete' buttons highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/name-manager-clean-up.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  7\. Check Performance
 
  If you have exhausted all the tips above and find that your workbook is still under-performing, you can force Excel to run through a check-up on your file. Originally introduced to Excel for the web in 2022 and extended to the Windows Excel app in 2024, Excel's Check Performance tool looks for excess formatting, unneeded metadata, unused styles, and other issues that might affect the speed of your workbook.
@@ -139,8 +145,6 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +152,22 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/updated-10-best-luts-for-adobe-lightroom/"><u>[Updated] 10 Best LUTs for Adobe LightRoom</u></a></li>
+<li><a href="https://win-answers.techidaily.com/44cm44k544k44oh44kj44oz44kw5yuv55s744oa44km44oz44ot44o844oj5oml6acg44ks44kk44oj44cn/"><u>「スタディング動画ダウンロード手順ガイド」</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-elevating-brand-presence-in-virtual-worlds/"><u>2024 Approved Elevating Brand Presence in Virtual Worlds</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-comprehensive-guide-to-crafting-an-authentic-online-persona-on-facebook/"><u>2024 Approved The Comprehensive Guide to Crafting an Authentic Online Persona on Facebook</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/brother-hl-l2380dw-printer-download-for-windows/"><u>Brother HL-L2380DW Printer Download for Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-asus-bt500-bluetooth-50-adapter-driver-for-windows-11-10-and-8-compatible-with-latest-os-versions/"><u>Download Asus BT500 Bluetooth 5.0 Adapter Driver for Windows 11, 10 & 8: Compatible with Latest OS Versions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-strategies-for-finding-fabulous-and-free-images-on-pexels/"><u>Essential Strategies for Finding Fabulous and Free Images on Pexels</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fixing-the-issue-how-to-restore-functionality-of-your-igfxem-module/"><u>Fixing the Issue: How to Restore Functionality of Your igfxEM Module</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-camera-driver-software-on-your-pc-windows-11-to-7-installation-tutorial/"><u>Get the Latest Camera Driver Software on Your PC - Windows 11 to 7 Installation Tutorial</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-lava-blaze-curve-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Lava Blaze Curve 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-13-pro-with-imei-code-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro with IMEI Code?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/improve-your-device-download-the-latest-surface-dock-driver-today/"><u>Improve Your Device: Download the Latest Surface Dock Driver Today</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-magic-5-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor Magic 5 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installing-usb-c-compatibility-with-windows-10-free-driver-downloads/"><u>Installing USB-C Compatibility with Windows 10 - FREE Driver Downloads</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-your-windows-pcs-processor-drivers/"><u>Step-by-Step Guide: Updating Your Windows PC's Processor Drivers</u></a></li>
+</ul></div>
 

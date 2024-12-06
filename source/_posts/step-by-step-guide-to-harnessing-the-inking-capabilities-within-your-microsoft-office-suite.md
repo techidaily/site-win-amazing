@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Harnessing the Inking Capabilities Within Your Microsoft Office Suite
-date: 2024-08-28T04:35:41.797Z
-updated: 2024-08-29T04:35:41.797Z
+date: 2024-11-30T23:53:35.916Z
+updated: 2024-12-05T18:56:06.790Z
 tags:
   - excel
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  Another handy ink feature is Ink Replay. With it, you can replay the drawings from start to finish. This is convenient for documents, spreadsheets, or slides full of handwritten [markups](https://media-tips.techidaily.com/a-comprehensive-guide-on-the-inner-workings-of-3d-sound-and-trusted-platforms-for-downloads/) that you want to decipher.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Microsoft Office's Ink Features
 
  You can use Ink to Shape, Ink to Math, and Ink Replay in Microsoft Word, Excel, and PowerPoint. PowerPoint also offers an extra tool called Ink to Text. Each feature works slightly differently than another and differently in PowerPoint versus Word and Excel.
@@ -35,9 +39,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
 Related: [How to Enable (or Disable) and Use Touch Mode in Word](https://youtube-help.techidaily.com/2024-approved-simplified-guide-to-google-meet-on-youtube-broadcasting/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ###  Word and Excel
 
  Head to your document or spreadsheet and go to the Draw tab. Select "Ink to Shape" in the Convert section of the ribbon.
@@ -56,23 +57,6 @@ Related: [How to Enable (or Disable) and Use Touch Mode in Word](https://youtube
 
 ![Ink to Shape for the selected shape in PowerPoint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/SelectShapePowerPoint-OfficeInk.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  If your converted shape doesn't look quite right, select the three dots that display after you convert it. You can then choose a different shape.
 
 ![Suggestions for a converted shape in PowerPoint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/ShapeSuggestionsPowerPoint-OfficeInk.png) 
@@ -89,19 +73,18 @@ Related: [How to Use the Ink Equation Feature in Office 2016 to Write Equations]
 
 ![Ink to Math on the Draw tab in Word](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/DrawInkToMathWord-OfficeInk.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If everything looks correct, click "Insert" to pop the equation into your document or spreadsheet. If you need to make corrections before inserting it, use the Erase or Select and Correct tools in the window.
 
 ![Ink Equation Editor in Word](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/InkToMathWord-OfficeInk.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  PowerPoint
 
  In PowerPoint, you can use the same equation editor described above or draw your equation right on the side and then convert it.
@@ -110,22 +93,24 @@ Related: [How to Use the Ink Equation Feature in Office 2016 to Write Equations]
 
 ![Open Ink Equation Editor in the Ink to Math dropdown in PowerPoint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/OpenEditorPowerPoint-OfficeInk.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To convert your equation instead, use a drawing tool to draw it on the slide. Then, pick either the Select or Lasso tool to select the equation.
 
  Click the Ink to Math button in the ribbon or the icon on the top right of the equation to convert it.
 
 ![Ink to Math for the selected equation in PowerPoint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/DrawInkToMathPowerPoint-OfficeInk.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Like the above Ink to Shape feature, select the three dots on the top right of the equation if it appears incorrectly and you'd like to see the suggestions.
 
 ![Suggestions for a converted equation in PowerPoint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/MathSuggestionsPowerPoint-OfficeInk.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Use Ink to Text
 
  As mentioned, the Ink to Text feature is currently only available in PowerPoint. And it works similarly to the other ink features.
@@ -145,8 +130,13 @@ Related: [How to Highlight Text in Your PowerPoint Presentation](https://twitter
 ![Suggestions for converted text in PowerPoint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/TextSuggestionsPowerPoint-OfficeInk.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use Ink Replay
 
  Ink Replay is one of those features you'll appreciate if you have a document, spreadsheet, or slide containing a lot of [markups like circles](https://some-guidance.techidaily.com/updated-syncing-sound-and-visuals-a-movie-maker-technique/), arrows, and text. You simply click the button and watch as each drawing appears as it was originally drawn.
@@ -157,9 +147,6 @@ Related: [How to Highlight Text in Your PowerPoint Presentation](https://twitter
 
 ![Ink Replay on the Draw tab in PowerPoint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/DrawInkReplayPowerPoint-OfficeInk.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You do not have to select anything first. The feature then plays all drawings like a video for you to watch.
 
  \[video width="650" height="406" mp4="https://www.howtogeek.com/wp-content/uploads/2022/08/InkReplayPowerPoint-OfficeInk.mp4" loop="true" autoplay="true"\]
@@ -169,8 +156,9 @@ Related: [How to Highlight Text in Your PowerPoint Presentation](https://twitter
 ![Use the Ink Replay slider to slow the replay](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/InkReplayPowerPoint-OfficeInk.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You cannot use Ink Replay as a presentation [video in PowerPoint](https://hardware-tips.techidaily.com/navigating-the-world-of-pc-components-with-toms-expert-insights/). It's only available in the editing mode you use to create your slideshow. However, as a work-around, you could [record your screen](https://win-howtos.techidaily.com/quick-solutions-resolving-sluggish-keyboard-reactions-instantly/) while in editing mode and then insert the video in the presentation.
 
  If you like to [draw shapes](https://remote-screen-capture.techidaily.com/updated-in-2024-seamlessly-screen-record-the-mi-11-user-manual/), scribble equations, or jot down text, you can easily convert these items so that they appear nicely in your Office documents using the ink features. Give them a try!
@@ -181,8 +169,6 @@ Related: [How to Highlight Text in Your PowerPoint Presentation](https://twitter
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +176,20 @@ Related: [How to Highlight Text in Your PowerPoint Presentation](https://twitter
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-disrupt-bot-patterns-for-natural-viewer-increase/"><u>[New] 2024 Approved Disrupt Bot Patterns for Natural Viewer Increase</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-prime-desktop-systems-for-quality-use/"><u>[New] 2024 Approved Prime Desktop Systems for Quality Use</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-adaptability-and-agility-key-attributes-for-thriving-in-a-changing-market-landscape-for-2024/"><u>[Updated] Adaptability & Agility Key Attributes for Thriving in a Changing Market Landscape for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-stabilization-of-video-on-personal-tech-devices/"><u>2024 Approved Mastering Stabilization of Video on Personal Tech Devices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/at-least-4-and-no-more-than-8-public-interest-representatives-who-do-not-participate-in-organic-agricultural-or-trade/"><u>At Least 4 and No More than 8 Public Interest Representatives (Who Do Not Participate in Organic Agricultural or Trade)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-driver-installer-for-hp-zbook-fury-15-g8-with-intel-core-processors-windows-compatible/"><u>Complete Driver Installer for HP ZBook Fury 15 G8 with Intel Core Processors (Windows Compatible)</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/cutting-edge-computers-optimal-machines-for-media-creation/"><u>Cutting-Edge Computers Optimal Machines for Media Creation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fast-setup-essential-steps-for-your-validity-fingerprint-sensor-drivers-free-download/"><u>Fast Setup: Essential Steps for Your Validity Fingerprint Sensor Drivers - Free Download!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-sapphire-video-card-drivers-for-your-pc-compatible-with-windows-os/"><u>Get the Newest Sapphire Video Card Drivers for Your PC – Compatible with Windows OS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guide-installing-hp-laserjet-pro-m4e-series-drivers-for-seamless-printing-on-windows-systems/"><u>Guide: Installing HP LaserJet Pro M4e Series Drivers for Seamless Printing on Windows Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/kodak-printing-solutions-seamless-driver-downloads-and-automatic-updates-available-now/"><u>Kodak Printing Solutions – Seamless Driver Downloads & Automatic Updates Available Now</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unleash-potential-creating-a-youtube-channel-that-shines-in-games-for-2024/"><u>Unleash Potential Creating a YouTube Channel that Shines in Games for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-pc-games-win-over-consoles-the-ten-points/"><u>Why PC Games Win Over Consoles: The Ten Points</u></a></li>
+</ul></div>
 

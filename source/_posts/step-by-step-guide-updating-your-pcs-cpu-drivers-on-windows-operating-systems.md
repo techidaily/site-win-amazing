@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Updating Your PC's CPU Drivers on Windows Operating Systems"
-date: 2024-08-27T20:01:47.812Z
-updated: 2024-08-28T20:01:47.812Z
+date: 2024-11-28T19:57:25.914Z
+updated: 2024-12-06T08:25:59.366Z
 tags:
   - win11
   - win10
@@ -41,16 +41,32 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
 4. Click **Operating systems**  to select the OS you’re currently using. Click **Expand Details**  to view the details of each device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap670.png)
 5. Click **the downward triangle**  to view the details of that driver. Then you can click **the download button**  to download that driver. If you want to download multiple drivers, you can also click **the plus button**  to add it to your downloads list first.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap671.png)
 6. Click **My downloads list**  to view all the drivers you want to download.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap672.png)
 7. Click **the Download button**  . Then follow the on-screen instruction to download these driver files.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap673.png)
 8. After all the driver files are downloaded on your X1 Carbon, double-click the driver files one by one and follow the on-screen instructions to install the updated driver files on your X1 Carbon.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Download and update the drivers for your Lenovo X1 Carbon automatically
 
  If you don’t have the time, patience or computer skills to download and update the drivers for your Lenovo X1 Carbon manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .  You don’t need to know exactly what system your X1 Carbon is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all** .
@@ -61,14 +77,13 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
 2. Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap674.png)
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap675.png)  
  You can do it for free if you like, but it’s partly manual.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Please leave your comment below if you have any questions or suggestions!
@@ -83,8 +98,6 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +105,20 @@ thumbnail: https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-high-end-online-locations-for-metallic-3d-lettering/"><u>[New] 2024 Approved High-End Online Locations for Metallic 3D Lettering</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-strategies-to-successfully-broadcast-facespace-lives-on-tv-for-2024/"><u>[Updated] Strategies to Successfully Broadcast Facespace Lives on TV for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/m4bmp3-movavi/"><u>「気軽に変換! M4BファイルをMP3無料ダウンロード - Movavi」</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavi-raf/"><u>「Movaviで使いやすい無料ウェブ-RAFファイルリニューアルコンバータ」</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-youtube-video-archiving-made-simple/"><u>2024 Approved YouTube Video Archiving Made Simple</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratuites-templates-de-collages-decouvrez-les-sites-incontournables/"><u>Gratuites Templates De Collages : Découvrez Les Sites Incontournables</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/i-migliori-siti-gratuito-online-per-trasformare-i-video-di-youtube-in-file-mp3-le-prime-7-opzioni/"><u>I Migliori Siti Gratuito Online per Trasformare I Video Di YouTube in File MP3 - Le Prime 7 Opzioni</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-the-convenient-way-to-mute-youtube-channels-on-pcmobile/"><u>In 2024, The Convenient Way to Mute Youtube Channels on PC/Mobile</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-value-capture-affordable-cam-options/"><u>In 2024, Value Capture Affordable Cam Options</u></a></li>
+<li><a href="https://os-tips.techidaily.com/iphone-guide-steps-to-extract-and-share-videos-without-sound/"><u>IPhone Guide: Steps to Extract and Share Videos without Sound</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/los-mejores-10-transformadores-de-video-libres-en-pc-un-ranking-definitivo/"><u>Los Mejores 10 Transformadores De Video Libres en PC: Un Ranking Definitivo</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1726221636197-movavi/"><u>무전제 기능이 있는 안전하고 안정적인 멀티미디어 사운드 파일 보꺼리 - Movavi</u></a></li>
+</ul></div>
 

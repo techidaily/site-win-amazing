@@ -1,7 +1,7 @@
 ---
 title: "Seamless Integration: Get Your Canon PRO 100 Up and Running on Windows in Just One Step!"
-date: 2024-08-28T04:37:17.485Z
-updated: 2024-08-29T04:37:17.485Z
+date: 2024-12-01T08:09:03.722Z
+updated: 2024-12-05T17:05:03.530Z
 tags:
   - win11
   - win10
@@ -17,9 +17,17 @@ thumbnail: https://thmb.techidaily.com/d1f3ab1e0f303254b5da0d1c46b4cd5df7801fb77
 
 As you may have noticed, since Microsoft October 2018 Update, Windows 10 no longer includes**basic printer and scanner drivers** in Windows installation media, which is one of the big changes with Windows 10 version 1809 update. But don’t panic! You can get the right drivers for your printers and scanners with the solutions in this post.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why does Windows 10 remove inbox printer and scanner drivers?
 
  That is to say, if you install the operating system with the Windows 10 1809 ISO file, Windows 10 doesn’t include the set of default drivers for printers and scanners as it used to do. This is said to  reduce the Windows footprint and provide more storage space, according to the statement from **[Microsoft Tech Community](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/What-s-new-in-printing-in-Windows-10-version-1809/ba-p/267182)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to install the drivers for printers and scanners?
 
@@ -29,17 +37,9 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 2. [**Download the printer and scanner drivers automatically**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Download the printer and scanner drivers manually
 
  Though Windows stops providing printer and scanner drivers in the installation file, you can still manually download the corresponding drivers via Windows Update or from the manufacturer website. In this case, you’ll need to connect to the Internet after installing the OS.
@@ -59,8 +59,9 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
  If this method doesn’t work for you, don’t worry. There is something else to try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Download the printer and scanner drivers automatically
 
  If you don’t have time, patience, or computer skills to update the drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -73,15 +74,14 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbc7ea60b4d7.jpg)
 3. Click the**Update** button next to the printer/scanner to automatically download the driver (You can do this with the**Free** version), then install it in your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click**Update** **All** to automatically download and install the drivers that are missing or outdated in your system (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – You’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbc7f3ec36ee.jpg)
 4. Restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note: If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -100,8 +100,6 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +107,17 @@ As you may have noticed, since Microsoft October 2018 Update, Windows 10 no long
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-pro-tips-combining-gopro-with-time-lapse-shooting-techniques-for-2024/"><u>[New] Pro Tips Combining GoPro with Time-Lapse Shooting Techniques for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-beyond-the-smile-your-guide-to-authentic-instagram-selfies/"><u>[Updated] In 2024, Beyond the Smile - Your Guide to Authentic Instagram Selfies</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-leading-directory-30-premier-websites-for-accessible-vector-design-tools/"><u>[Updated] In 2024, Leading Directory 30 Premier Websites for Accessible Vector Design Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-and-quick-upgrade-of-pl2303-adapter-drivers-compatible-with-all-windows-versions/"><u>Easy and Quick Upgrade of PL2303 Adapter Drivers - Compatible with All Windows Versions</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/error-404-webpage-unavailable-content-cannot-be-located/"><u>Error 404: Webpage Unavailable – Content Cannot Be Located</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-pc-up-to-date-comprehensive-instructions-for-intels-usb-30-drivers-on-win11/"><u>Get Your PC Up-to-Date: Comprehensive Instructions for Intel's USB 3.0 Drivers on Win11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/samsung-windows-printer-drivers-free-download/"><u>Samsung Windows Printer Drivers - Free Download</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/seamless-transition-guide-how-to-move-your-data-effortlessly-from-ios-to-android/"><u>Seamless Transition Guide: How to Move Your Data Effortlessly From iOS to Android</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-process-for-installing-the-latest-audio-technica-sound-card-drivers/"><u>Step-by-Step Process for Installing the Latest Audio-Technica Sound Card Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wacom-driver-removal-and-installation-on-windows-editions-win-11-7/"><u>Wacom Driver Removal & Installation on Windows Editions (Win 11-7)</u></a></li>
+</ul></div>
 

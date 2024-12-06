@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Transforming Your Data From CSV Into Excel Spreadsheets"
-date: 2024-08-28T04:34:47.818Z
-updated: 2024-08-29T04:34:47.818Z
+date: 2024-12-01T11:32:30.469Z
+updated: 2024-12-05T20:22:21.587Z
 tags:
   - excel
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/13e7f7e7be76604c5dab6c596dcfa1c029fcc1516
 
 ## Step-by-Step Guide: Transforming Your Data From CSV Into Excel Spreadsheets
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Multiple Ways to Convert CSV to XLSX](https://tech-recovery.techidaily.com/sony-afeela-unveiling-the-rumored-specifications-projected-launch-date-and-potential-pricing-stay-informed/)
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/13e7f7e7be76604c5dab6c596dcfa1c029fcc1516
 * [Convert CSV to Excel With the "From Text/CSV" Option](https://hardware-tips.techidaily.com/phrozens-breakthrough-in-3d-printing-a-vibrant-four-color-impressionist-approach/)
 
  With Microsoft Excel's built-in options, you can [quickly and easily convert](https://article-knowledge.techidaily.com/2024-approved-lol-library-top-picks-for-outstanding-meme-creators/) your comma-separated values ([CSV](https://instagram-video-files.techidaily.com/updated-from-followers-to-fans-a-guide-to-thriving-instagram-presence/)) files to Excel format (XLSX). Here's how you perform this conversion on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Multiple Ways to Convert CSV to XLSX
 
@@ -33,9 +41,6 @@ Related: [How to Save an Excel Sheet as a PDF](https://win-able.techidaily.com/h
 
  You do not necessarily have to convert a CSV file to Excel format to open and edit it in the Excel app. You can work with your CSV files without converting them in Excel.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Convert CSV to Excel With the "Save As" Option
 
  "Save As" is a quick and easy way to convert most CSV files to Excel format without any issues.
@@ -44,9 +49,6 @@ Related: [How to Save an Excel Sheet as a PDF](https://win-able.techidaily.com/h
 
 ![Locate the CSV file on the computer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/1-locate-csv-file.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Right-click your CSV file and select Open With > Excel in the menu. This opens your file in the Excel app.
 
 ![Right-click the CSV file and select Open With > Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/2-open-csv-with-excel.png) 
@@ -56,15 +58,17 @@ Related: [How to Save an Excel Sheet as a PDF](https://win-able.techidaily.com/h
 ![A CSV file in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/3-csv-data.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If everything looks good, then save the file as an XLSX file. Do this by clicking "File" in Excel's top-left corner.
 
 ![Click "File" in Excel's top-left corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/4-excel-file-menu.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the sidebar on the left, click "Save As."
 
 ![Click "Save As" in the left sidebar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/5-excel-save-as.png) 
@@ -73,15 +77,16 @@ Related: [How to Save an Excel Sheet as a PDF](https://win-able.techidaily.com/h
 
 ![Click "Browse" on the right pane.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/6-excel-save-browse.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You will see a "Save As" window. In this window, choose a folder where you'd like to save your resulting XLSX file. Click the "File Name" field and type a name for your new file. Click the "Save as Type" drop-down menu and select "Excel Workbook (\*.XLSX)" so your file is saved in Excel format.
 
  Finally, at the bottom of the "Save As" window, click "Save" to save your file.
 
 ![Save the CSV file in Excel format.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/7-excel-save-workbook.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  And that's it. Your CSV file is now converted to Excel format and is available in your specified folder.
 
 ##  Convert CSV to Excel With the "From Text/CSV" Option
@@ -94,13 +99,14 @@ Related: [How to Save an Excel Sheet as a PDF](https://win-able.techidaily.com/h
 
 ![Click the "Data" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/8-excel-data-tab.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the "Data" tab, in the "Get & Transform Data" section, click "From Text/CSV." You will now connect your workbook to your CSV file.
 
 ![Select "From Text/CSV" in the "Data" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/9-excel-import-csv.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the "Import Data" window that opens, access the folder that has your CSV file and double-click the file to add it to Excel.
 
 ![Double-click the CSV file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/10-select-csv-file.png) 
@@ -117,6 +123,10 @@ Related: [How to Save an Excel Sheet as a PDF](https://win-able.techidaily.com/h
 
 ![CSV data in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/12-csv-data-in-excel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  By default, Excel uses the table format for your imported data. If you'd like to use normal ranges, then click any cell on the table and select Table > Convert to Range from the menu. Then select "OK" in the prompt.
 
 ![Right-click a table cell and select Table > Convert to Range.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/13-remove-excel-table.png) 
@@ -126,15 +136,13 @@ Related: [How to Save an Excel Sheet as a PDF](https://win-able.techidaily.com/h
 ![Select the table and click Clear > Clear Formats.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/14-clear-table-formatting.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You now have your CSV file's data in plain text in your Excel spreadsheet.
 
 ![A CSV file's data in plain text in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/15-csv-plain-data.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  To save this data in Excel format, in Excel's top-left corner, click "File."
 
 ![Click "File" in Excel's top-left corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/16-excel-file-menu.png) 
@@ -143,17 +151,10 @@ Related: [How to Save an Excel Sheet as a PDF](https://win-able.techidaily.com/h
 
 ![Choose "Save" from the left sidebar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/17-excel-save.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  A "Save As" window will open. Here, type a name for your file and click "Save."
 
 ![Type a file name and click "Save" on the "Save As" window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/18-excel-save-csv-as-xlsx.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  And that's all. You now have your CSV file's Excel format (XLSX) version available on your computer. Enjoy!
 
 ---
@@ -168,8 +169,6 @@ Related: [How to Import an Excel Document into Google Sheets](https://sim-unlock
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +176,17 @@ Related: [How to Import an Excel Document into Google Sheets](https://sim-unlock
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-top-25-mentors-in-modern-social-media-mastery-on-instagram-for-2024/"><u>[New] Top 25 Mentors in Modern Social Media Mastery on Instagram for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-virtual-reality-in-engineering-and-business-applications/"><u>[Updated] Virtual Reality in Engineering and Business Applications</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-install-your-new-sound-card-driver-on-windows-pcs-easily/"><u>Find & Install Your New Sound Card Driver on Windows PCs Easily!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sharpen-your-snaps-the-elite-eight-of-grids-and-frames/"><u>In 2024, Sharpen Your Snaps The Elite Eight of Grids and Frames</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-corsairs-h80i-v2-video-card-driver-get-it-now/"><u>Install Corsair's H80i v2 Video Card Driver – Get It Now!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-epson-wf-2540-driver-for-pcs-running-windows-7-81-or-10-free-download/"><u>Latest Epson WF-2540 Driver for PCs Running Windows 7, 8.1 or 10 - Free Download</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/scopri-come-convertire-i-tuoi-file-wtv-in-mp4-gratuitamente-utilizzando-il-software-di-movavi-online/"><u>Scopri Come Convertire I Tuoi File WTV in MP4 Gratuitamente Utilizzando Il Software Di Movavi Online</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/streamline-your-binge-sessions-leveraging-the-power-of-pip-on-netflix/"><u>Streamline Your Binge Sessions Leveraging the Power of PIP on Netflix</u></a></li>
+<li><a href="https://driver-install.techidaily.com/uncomplicated-guide-to-swiftly-solve-your-hawki-car-woes/"><u>Uncomplicated Guide to Swiftly Solve Your Hawki Car Woes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/windows-11-users-guide-to-seamless-webcam-driver-refresh/"><u>Windows 11 Users' Guide to Seamless Webcam Driver Refresh</u></a></li>
+</ul></div>
 

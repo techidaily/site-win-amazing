@@ -1,7 +1,7 @@
 ---
 title: "Avoid Traps & Cons: Navigating Through the Risks in the Mac App Marketplace"
-date: 2024-08-28T04:34:58.903Z
-updated: 2024-08-29T04:34:58.903Z
+date: 2024-11-30T11:06:14.078Z
+updated: 2024-12-06T08:37:02.645Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 ---
 
 ## Avoid Traps & Cons: Navigating Through the Risks in the Mac App Marketplace
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
  Try to put yourself into the mental state of a novice computer user. You have a brand new iMac, and you want to edit some Excel spreadsheets. In the dock you find that App Store you've heard so much about, so you open it. You find the search bar, then type "Microsoft Excel."
 
 ![app-store-excel-search](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/app-store-excel-search.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The top result is something called "Office Bundle," and costs $30\. You click the result to read more.
 
@@ -55,11 +63,19 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 ![office-bundle-reviews](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/office-bundle-reviews.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Let's be blunt: these customers were ripped off, and Apple pocketed $10 each. And you'll only see these comments if you scroll past the two five star reviews that mention the word "app" numerous times. Both of those reviews, by the way, were left by accounts that haven't reviewed any other apps in the Store.
 
  Search for other Office applications and you'll find more template bundles, disguised as official applications to varying degrees.
 
 ![microsoft-word-mac-app-store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/microsoft-word-mac-app-store.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There are also several $20+ applications that put [Microsoft's free online version of Office](https://instagram-video-files.techidaily.com/updated-in-2024-immortalize-memories-unleash-save-free-magic/) into a dedicated browser. Then there are the actual "apps" capable of opening and editing Office files, many of which use terms like "Microsoft Word" in their names. They appear to be slightly modified versions of open source applications, but we're not about to buy them to find out.
 
@@ -73,9 +89,6 @@ Related: [Why the Mac App Store Doesn’t Have the Applications You Want](https:
 
  This might seem obvious to you. It isn't obvious to everyone, and the existence of the Mac App Store full of imitators serves to make this a lot more complicated. The walled garden isn't protecting everyone.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  These Scummy Apps Are All Over the App Store
 
  We've focused on Microsoft Office because this is a particularly egregious example. But you don't have to dig long to find similar problems.
@@ -84,9 +97,6 @@ Related: [Why the Mac App Store Doesn’t Have the Applications You Want](https:
 
 ![adobe-indesign](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/adobe-indesign.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  It's not as clear that any of these applications are trying to deceive people, but it's another case where it's striking how closely these developers are mimicking official branding.
 
  And other developers seem to be working some dark App Store SEO magic. Search for "Firefox" or "Chrome" and the top application is "Fast Browser," a $1 app that hasn't been updated since 2014.
@@ -94,8 +104,9 @@ Related: [Why the Mac App Store Doesn’t Have the Applications You Want](https:
 ![firefox-fast-browser](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/firefox-fast-browser-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Using this as your browser is a very, very bad idea.
 
  And there's all sorts of weirdness to be found elsewhere:
@@ -109,9 +120,6 @@ Related: [Why the Mac App Store Doesn’t Have the Applications You Want](https:
 
 Related: [Why Memory Optimizers and RAM Boosters Are Worse Than Useless](https://win11.techidaily.com/steps-to-fix-windows-control-panel-writable-error/) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Apple Needs to Clean Up the Mac App Store
 
  Last year we outlined how [the Windows Store was a cesspool of scams](https://facebook-video-files.techidaily.com/updated-2024-approved-instagram-a-comprehensive-guide-to-video-posting/), a problem Microsoft has since been tackling. Apple, for their part, is making an effort to alleviate fake applications for iPhone and iPad users: the iOS App Store is currently being purged of outdated and broken applications.
@@ -124,8 +132,6 @@ Related: [Why Memory Optimizers and RAM Boosters Are Worse Than Useless](https:/
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +139,26 @@ Related: [Why Memory Optimizers and RAM Boosters Are Worse Than Useless](https:/
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-high-resolution-sky-photography-10-preferred-pages/"><u>[New] High-Resolution Sky Photography 10 Preferred Pages</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-permitted-recording-youtube-video-screenshots/"><u>[Updated] In 2024, Permitted Recording YouTube Video Screenshots?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-7-enhancements-for-an-optimal-stardew-farming-experience-for-2024/"><u>[Updated] Top 7 Enhancements for an Optimal Stardew Farming Experience for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-most-acclaimed-cloud-services-on-android-platform/"><u>2024 Approved The Most Acclaimed Cloud Services on Android Platform</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amd-radeon-driver-update-download-and-installation-tips-for-windows/"><u>AMD Radeon Driver Update: Download and Installation Tips for Windows 지원</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-update-for-logitech-m325-drivers-get-it-now/"><u>Effortless Update for Logitech M325 Drivers – Get It Now!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fresh-install-of-nvidias-mx150-graphics-driver-for-enhanced-windows-performance/"><u>Fresh Install of NVIDIA's MX150 Graphics Driver for Enhanced Windows Performance</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-right-hp-deskjet-2600-drivers-for-your-pc-supports-windows-781/"><u>Get the Right HP Deskjet 2600 Drivers for Your PC - Supports Windows 7/8/1)!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-effortlessly-download-and-install-sata-drivers-in-windows-complete-instructions/"><u>How to Effortlessly Download & Install SATA Drivers in Windows [Complete Instructions]</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-tecno-camon-30-pro-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Tecno Camon 30 Pro 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1723808125928-kodinerds-repository-how-to-install-kodinerds-repo-on-kodi/"><u>KodiNerds Repository - How to Install KodiNerds Repo on Kodi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/linksys-wusb6300-driver-download-and-install-guide/"><u>Linksys WUSB6300 Driver | Download & Install Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/msi-b350-tomahawk-chipset-drivers-free-download-for-windows-10-and-7-users/"><u>MSI B350 Tomahawk Chipset Drivers: Free Download for Windows 10 & 7 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/netgear-wna31er-easy-downloads-and-updates-for-optimal-performance/"><u>Netgear WNA31er: Easy Downloads and Updates for Optimal Performance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/secure-your-early-access-to-the-innovative-apple-watch-series-10-sneak-peek-and-discount-strategies/"><u>Secure Your Early Access to the Innovative Apple Watch Series 10 – Sneak Peek & Discount Strategies!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210756773-9780711280670-the-tales-behind-tarot/"><u>The Tales Behind Tarot | Free Book</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/top-7-hydro-resistant-camcorders-explored/"><u>Top 7 Hydro-Resistant Camcorders Explored</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-made-simple-resolving-issues-with-your-elgato-hd60-drivers-today/"><u>Troubleshooting Made Simple: Resolving Issues with Your Elgato HD60 Drivers Today!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgraded-hid-standard-compatible-mouse-drivers-enhance-your-device-performance/"><u>Upgraded HID Standard Compatible Mouse Drivers: Enhance Your Device Performance</u></a></li>
+</ul></div>
 

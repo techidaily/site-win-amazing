@@ -1,7 +1,7 @@
 ---
 title: "The Insider's Guide: Initiate Microsoft Excel Using Command Prompt Strategies"
-date: 2024-08-28T04:35:43.816Z
-updated: 2024-08-29T04:35:43.816Z
+date: 2024-11-29T22:12:25.428Z
+updated: 2024-12-06T05:01:16.296Z
 tags:
   - excel
 categories:
@@ -23,17 +23,9 @@ thumbnail: https://thmb.techidaily.com/ec6b1f1d7d998ce573dd315cc18c0246f2fda616f
 * **[Excel Command Line Switches and Parameters](https://ios-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/)**
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Launch Excel Using Command Prompt
 
  There are many ways to start Excel using Command Prompt, but if you want to launch Excel in its normal state (that is, the same way that Excel launches when you click the shortcut), then there are two different ways to do that.
@@ -42,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/ec6b1f1d7d998ce573dd315cc18c0246f2fda616f
 
 ![Type cmd in the Windows Search bar and click Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Type-cmd-in-the-Windows-Search-bar-and-click-Command-Prompt..png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Command Prompt will open. To launch Excel, type this command and press Enter:
 
 start excel
@@ -49,8 +45,9 @@ start excel
 ![Type "start excel" in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Type-start-excel-in-Command-Prompt.-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Excel should launch immediately.
 
  Another way to open Excel is by locating the directory that holds the excel.exe file, changing to that directory in Command Prompt, and then running a simple command.
@@ -61,9 +58,6 @@ cd\"program files"
 
 ![Change to the "Program Files" directory in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Change-to-the-Program-Files-directory-in-Command-Prompt..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll now be in the Program Files directory. Next, you need to find out in which directory the excel.exe file is located. To do so, run this command:
 
 dir excel.exe /s
@@ -72,28 +66,26 @@ dir excel.exe /s
 
 ![The directory of Excel returned in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/The-directory-of-Excel..png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that you know the directory where excel.exe is located, navigate to that directory. Since we're already in the Program Files directory, we can omit that from the next command. In our example, we'd run this command:
 
 cd Microsoft Office\root\Office16
 
 ![Change to the directory that contains the excel file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Change-to-the-directory-that-contains-the-excel-file..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  Now that you're in the correct directory, all that's left to do is to type `excel` in Command Prompt and press Enter.
 
 ![Type "excel" in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Type-excel-in-Command-Prompt..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
  Excel will now open. However, the main purpose of launching Excel from Command Prompt is so that you can control how it opens, and you do that by appending the various switches and parameters that are available to the command.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Excel Command Line Switches and Parameters
 
  Here's a list of command switches provided by the [official Microsoft Office support site](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6#ID0EAABAAA=Excel). Add these to the end of the `start excel` command in Command Prompt.
@@ -119,8 +111,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +118,24 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-reclaiming-brightness-in-youtube-videos/"><u>[New] 2024 Approved Reclaiming Brightness in YouTube Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-essential-3d-toolkit-creating-engaging-video-beginnings/"><u>[Updated] 2024 Approved Essential 3D Toolkit Creating Engaging Video Beginnings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-transforming-ideas-into-videos-top-30-strategies/"><u>[Updated] In 2024, Transforming Ideas Into Videos Top 30 Strategies</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capture-clarity-boost-photos-with-zero-cost/"><u>2024 Approved Capture Clarity Boost Photos with Zero Cost</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ati-radeon-driver-update-procedure-for-windows-users-a-comprehensive-guide/"><u>ATI Radeon Driver Update Procedure for Windows Users – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-the-right-epson-l3110-driver-for-your-windows-version-11-10-or-7/"><u>Download & Install the Right Epson L3110 Driver for Your Windows Version (11, 10 or 7)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722972962423-download-instantly-ultimate-usb-webcam-drivers-get-set-up-fast/"><u>Download Instantly: Ultimate USB Webcam Drivers - Get Set Up Fast!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-epson-v600-scanner-drivers-download-now/"><u>Get the Latest Epson V600 Scanner Drivers - Download Now!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-driver-updates-for-your-msi-b350-motherboard-optimize-on-windows-11-and-7/"><u>Get the Newest Driver Updates for Your MSI B350 Motherboard: Optimize on Windows 11 & 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correct-the-save-location-error-on-pcs/"><u>How to Correct the Save Location Error on PCs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-become-an-expert-tutorial-for-making-gifs-into-desirable-whatsapp-and-telegram-stickers/"><u>In 2024, Become an Expert Tutorial for Making GIFs Into Desirable WhatsApp & Telegram Stickers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-best-video-apps-review-youtube-iphones-and-androids/"><u>In 2024, Best Video Apps Review YouTube iPhones & Androids</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/lenovo-x1-carbon-driver-updates-get-the-best-performance-on-windows-117-with-these-simple-steps/"><u>Lenovo X1 Carbon Driver Updates: Get the Best Performance on Windows 11/7 with These Simple Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-aol-mail-not-working-on-iphone-discover-6-solutions/"><u>Solving 'AOL Mail Not Working on iPhone': Discover 6 Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/speedy-guide-activating-the-latest-surface-dock-driver-with-ease/"><u>Speedy Guide: Activating the Latest Surface Dock Driver with Ease</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/up-to-date-and-effortlessly-configured-how-to-update-your-microsoft-sculpt-ergonomic-keyboard-drivers/"><u>Up-to-Date and Effortlessly Configured: How to Update Your Microsoft Sculpt Ergonomic Keyboard Drivers</u></a></li>
+</ul></div>
 

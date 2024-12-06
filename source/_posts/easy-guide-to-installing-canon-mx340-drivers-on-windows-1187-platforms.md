@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Installing Canon MX340 Drivers on Windows 11/8/7 Platforms
-date: 2024-11-19T20:54:56.524Z
-updated: 2024-11-26T21:22:53.896Z
+date: 2024-12-01T01:27:17.762Z
+updated: 2024-12-06T06:04:52.158Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ If you’re using Arduino products to create your own work but failed to connect
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why you need the driver?
 
@@ -49,18 +53,18 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ar.jpg)
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select **Browse my computer for driver software** .  
@@ -70,7 +74,7 @@ OR
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update drivers**
@@ -86,15 +90,11 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/nano.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -118,21 +118,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-discovering-bargains-inexpensive-gopro-purchasing-guide/"><u>[Updated] 2024 Approved Discovering Bargains Inexpensive GoPro Purchasing Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-giggle-guild-undead-humor-bots/"><u>2024 Approved Giggle Guild Undead Humor Bots</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-in-depth-review-picsart-features-and-use/"><u>2024 Approved In-Depth Review PicsArt Features and Use</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-navigating-the-world-of-live-periscope-streaming/"><u>2024 Approved Navigating the World of Live Periscope Streaming</u></a></li>
-<li><a href="https://article-tips.techidaily.com/aerial-units-phylogeny/"><u>Aerial Units' Phylogeny</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722978820677-brother-mfc-7860dw-find-and-apply-windows-compatible-printer-drivers-here/"><u>Brother MFC-7860DW: Find & Apply Windows Compatible Printer Drivers Here!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/enhance-your-pc-gaming-experience-install-logitech-g-pro-mouse-drivers-windows-support/"><u>Enhance Your PC Gaming Experience: Install Logitech G Pro Mouse Drivers (Windows Support)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fixing-asus-pce-ac56-network-adapter-problems-on-windows-10-8-and-7-solutions-uncovered/"><u>Fixing ASUS PCE-AC56 Network Adapter Problems on Windows 10, 8 & 7 - Solutions Uncovered</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-mediocre-to-marvelous-an-exhaustive-facetune-analysis-for-2024/"><u>From Mediocre to Marvelous An Exhaustive Facetune Analysis for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-lenovo-thinkpad-x1-carbon-drivers-supports-win11win7-pcs/"><u>Get the Latest Lenovo ThinkPad X1 Carbon Drivers - Supports Win11/Win7 PCs</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-patience-pays-off-the-art-of-slow-motion-video-crafting/"><u>In 2024, Patience Pays Off The Art of Slow-Motion Video Crafting</u></a></li>
-<li><a href="https://fox-that.techidaily.com/lost-iphone-notifications-revive-them-with-this-expert-guide-of-7-fixes/"><u>Lost iPhone Notifications? Revive Them With This Expert Guide of 7 Fixes</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-and-easy-download-of-keyboard-drivers-compatible-with-windows-7/"><u>Quick and Easy Download of Keyboard Drivers Compatible with Windows 7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722974723265-quick-guide-updating-and-downloading-surface-book-2-driver-software/"><u>Quick Guide: Updating and Downloading Surface Book 2 Driver Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/soil-composition-preferences-including-ph-level-organic-matter-content-and-drainage-properties/"><u>Soil Composition Preferences Including pH Level, Organic Matter Content, and Drainage Properties.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixed-headset-mic-not-working/"><u>[FIXED] Headset Mic Not Working</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-examining-the-best-technology-for-crystal-clear-4k-visuals/"><u>[Updated] Examining the Best Technology for Crystal-Clear 4K Visuals</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1726223248629-gifmp4-movavi/"><u>如何在線上將GIF改成MP4格式: Movavi範例課程</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/captura-tus-reuniones-en-google-hangouts-sin-coste-los-6-mejores-trucos-de-grabacion-de-202-cuyas-soluciones-ofrecen-movavi/"><u>Captura Tus Reuniones en Google Hangouts Sin Coste: Los 6 Mejores Trucos De Grabación De 202 Cuyas Soluciones Ofrecen Movavi</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-samsung-galaxy-f34-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Samsung Galaxy F34 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premium-pickers-best-websites-to-secure-snapalert-music-for-2024/"><u>Premium Pickers Best Websites to Secure SnapAlert Music for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-issue-with-non-functional-igfxem-module-now-fixed/"><u>Resolved: Issue with Non-Functional Igfxem Module Now Fixed</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transformez-votre-fichier-asf-en-flv-gratuit-en-ligne-avec-movavi/"><u>Transformez Votre Fichier ASF en FLV Gratuit en Ligne Avec Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1726221219352-avimkv-movavi/"><u>오픈 소스 AVI/MKV를 무료로 바꾸기 - Movavi 간단한 가이드</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ogg-aac-online-ogg-aac-movavi/"><u>필기: OGG AAC 파일의 쉽건강한 바인딩을 위해 Online에서 무료 OGG AAC 전환 - Movavi</u></a></li>
 </ul></div>
 

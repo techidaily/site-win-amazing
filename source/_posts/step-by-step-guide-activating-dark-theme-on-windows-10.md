@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Activating Dark Theme on Windows 10"
-date: 2024-08-28T04:35:37.110Z
-updated: 2024-08-29T04:35:37.110Z
+date: 2024-11-29T04:51:51.931Z
+updated: 2024-12-06T07:03:12.405Z
 tags:
   - excel
 categories:
@@ -19,15 +19,16 @@ thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7
 * [Install Dark Themes for Chrome, Firefox, and Other Applications](https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/)
 * [Enable a Dark Mode for Windows Desktop Applications](https://twitter-videos.techidaily.com/updated-ensuring-your-tweets-meet-aspect-ratio-norms/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  To enable dark mode on Windows 10, open the Settings app, go to Personalization > Color, and select "Dark." Some programs may respect your system settings, while others will require you to change them to dark mode manually.
 
  Windows 10 offers a dark mode that applies a dark mode to apps you get from the Windows Store. It doesn't affect most desktop apps, but we've got some other solutions for those. Here's how to get your whole desktop (or as much as possible) looking dark.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ##  Enable Dark Mode for Windows 10 Settings and Apps
 
  To enable Dark Mode, head to Settings > Personalization > Colors. Select the "Dark" option from the drop-down menu under the "Choose your color" section.
@@ -45,14 +46,18 @@ thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7
 ![Click "Appearance", then click "System Default" or "Dark."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/click-appearance-then-click-system-defualt-or-dark.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The title bar, toolbars, and menus for Edge turn dark, but most web pages themselves remain unaffected---unless [that website chooses to respect your dark theme](https://youtube-stream.techidaily.com/2024-approved-mr-beasts-financial-reach/). You'll need a browser extension like [Turn Off the Lights](https://www.microsoft.com/en-us/p/turn-off-the-lights-for-microsoft-edge/9nblggh52lrr#activetab=pivot:overviewtab) to make the whole web dark.
 
  You can also set your theme separately in the Groove music player, Movies & TV video player, and [Photos](https://youtube-zero.techidaily.com/wiftly-uninstalling-youtube-videos-from-devices-for-2024/) apps. However, they'll use your system theme setting by default. You don't have to change the setting manually.
 
 Related: [How to Enable Dark Mode in Microsoft Edge](https://screen-activity-recording.techidaily.com/new-adjusting-low-bit-rate-settings-obs-for-2024/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Enable the Dark Theme in Microsoft Office
 
@@ -62,9 +67,6 @@ Related: [How to Enable Dark Mode in Microsoft Edge](https://screen-activity-rec
 
 ![Settings for the Office Suite that let you enable dark mode.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/img_5bb524ed07d4a.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Your theme choice applies to all Office applications. So, if you set this option in Word and later open Excel, Excel should also use a dark theme.
 
 Related: [How to Enable Dark Mode in Microsoft Office](https://youtube-help.techidaily.com/2024-approved-exploring-biggest-fifa-footage-trends-in-graphics/) 
@@ -81,9 +83,6 @@ Related: [How to Enable Dark Mode in Microsoft Office](https://youtube-help.tech
 
  You'll have to check to see whether the applications you frequently use offer their own theme options.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Enable a Dark Mode for Windows Desktop Applications
 
  The real problem with the new Dark Mode setting is that it doesn't affect all of the Windows desktop applications. Some desktop applications, like Notepad, continue using the normal, light theme.
@@ -91,6 +90,10 @@ Related: [How to Enable Dark Mode in Microsoft Office](https://youtube-help.tech
  Windows has a built-in dark mode for desktop applications, but it probably isn't ideal. To enable it, head to Settings > Ease of Access > High Contrast. On the right, enable the "Turn on High Contrast" option and set the "Choose a Theme" dropdown to the "High Contrast Black" setting. Click "Apply" to save the setting.
 
 ![High contrast settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/10/img_5bb525c2a8d34.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Setting this high contrast theme makes most desktop applications show a dark background. However, they don't look all that great. High contrast themes are an accessibility feature designed to increase contrast, so the screen is easier to read and understand. They don't look nearly as slick as a modern dark mode would.
 
@@ -107,8 +110,9 @@ Related: [How to Install Custom Themes and Visual Styles in Windows](https://iph
 ![Select your theme, then click "Apply to Desktop."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/WindowBlinds.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  WindowBlinds doesn't have a built-in dark mode (though some built-in themes are darker than others). You can always create your own by clicking the "Modify Style" link under any theme. You can adjust pretty much anything you can think of there. But, there's an easier way.
 
  Just head to the [WindowBlinds section of the WinCustomize site](https://www.wincustomize.com/explore/windowblinds). There, you'll find all kinds of WindowBlinds-compatible skins you can download. After downloading one, double-click the file. The theme will be added to the "Style" tab in WindowsBlinds so that you can apply it (or customize it) from there.
@@ -117,9 +121,6 @@ Related: [How to Install Custom Themes and Visual Styles in Windows](https://iph
 
 ![File Explorer with a theme from WindowsBlinds applied.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/08/dt_c.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  Not bad, right? And with a little tweaking, you could make it look just the way you want.
 
 <ins class="adsbygoogle"
@@ -128,8 +129,6 @@ Related: [How to Install Custom Themes and Visual Styles in Windows](https://iph
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +136,19 @@ Related: [How to Install Custom Themes and Visual Styles in Windows](https://iph
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-essential-knowledge-for-saving-app-activity-for-2024/"><u>[New] Essential Knowledge for Saving App Activity for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-decoding-youtubes-legal-framework-for-video-creators/"><u>[New] In 2024, Decoding YouTube's Legal Framework for Video Creators</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-discovering-your-youtube-comments-on-various-devices/"><u>[Updated] 2024 Approved Discovering Your YouTube Comments on Various Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-assemble-creative-gifs-for-online-sharing/"><u>[Updated] Assemble Creative GIFs for Online Sharing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-captivating-audience-leading-5-tiktok-font-generators-of-2023-for-2024/"><u>[Updated] Captivating Audience Leading 5 TikTok Font Generators of 2023 for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-cut-the-cord-with-youtube-mp3-conversion-tools-for-2024/"><u>[Updated] Cut the Cord with YouTube-MP3 Conversion Tools for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-two-dimensions-to-three-making-text-pop-in-photoshop/"><u>[Updated] From Two-Dimensions to Three Making Text Pop in Photoshop</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/cosmicfile-recovery/"><u>CosmicFile Recovery</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-logitech-g402-keyboard-drivers-and-compatible-software/"><u>Download Logitech G402 Keyboard Drivers and Compatible Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-zexmt-bluetooth-adapter-drivers-for-win-1078-64-bit/"><u>Get the Latest Zexmt Bluetooth Adapter Drivers for Win 10/7/8 (64 Bit)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/solve-your-bcm2045a0-driver-woes-in-no-time-tips-and-tricks-inside/"><u>Solve Your BCM2045A0 Driver Woes in No Time – Tips & Tricks Inside</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-updateinstallation-instructions-for-dells-ultra-fast-thunderbolt-usb-c-hub-tb1-model/"><u>Step by Step: Update/Installation Instructions For Dell's Ultra-Fast Thunderbolt USB-C Hub – TB1 Model</u></a></li>
+</ul></div>
 

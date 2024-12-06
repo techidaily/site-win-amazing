@@ -1,7 +1,7 @@
 ---
 title: GTX 1650 Super Graphics Card Drivers Download and Upgrade Guide for Windows 11
-date: 2024-11-24T18:47:18.466Z
-updated: 2024-11-26T20:08:01.097Z
+date: 2024-12-01T11:37:16.556Z
+updated: 2024-12-06T11:10:49.744Z
 tags:
   - win11
   - win10
@@ -54,10 +54,6 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap40.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the Targus DisplayLink driver for now, hit the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-361.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at**<support@drivereasy.com>** .
@@ -73,30 +69,30 @@ OR
 3. Select**Drivers & Manuals** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-367.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Type the**model name** or**serial number** of your Targus product into the search box to locate the corresponding drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-368.png) Alternatively, you may select**Category** and then**Product** to look for the drivers of your product.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-370.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. After locating the corresponding driver for your product, click on the**Download** button below.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-372.png)
 6. Right-click on the file (with a ZIP extension) you’ve just downloaded to open the context menu. Then click**Extract All…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-375.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. In the pop-up window, click**Browse…** and choose a destination folder where you want to decompress the file. Then, click**Extract** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-376.png)
 8. Wait till the decompression process finishes. Then**copy** the full path of the destination folder. (The path will be different depending on your choice in the last step. )![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-20_15-47-31.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. On your keyboard, press the **Windows Logo Key** and **R**  at the same time to open the**Run**  box. Type **devmgmt.msc** and click **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap13-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 10. In the**Device Manager** window, locate your Targus device and then right-click on it to open the context menu. Select**Update driver** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap14-1.png)
 
@@ -104,7 +100,11 @@ OR
 12. **Paste** the full path copied in**Step 8** onto the address bar. Remember to check the **Include subfolders** box. Then hit the **Next** button.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-387.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 13. Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
@@ -133,18 +133,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-the-comprehensive-playbook-for-self-branded-content-creators/"><u>[New] 2024 Approved The Comprehensive Playbook for Self-Branded Content Creators</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-inverted-playback-the-hidden-technique-for-a-reversed-youtube-list/"><u>[New] Inverted Playback The Hidden Technique for a Reversed YouTube List</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-turn-off-youtubes-quick-video-buffering-feature-for-2024/"><u>[Updated] Turn Off YouTube's Quick Video Buffering Feature for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-unleash-clarity-in-depth-tutorial-on-video-enhancer-22-for-2024/"><u>[Updated] Unleash Clarity In-Depth Tutorial on Video Enhancer 2.2 for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-leading-10-websites-dominating-internet-traffic-today/"><u>Discover the Leading 10 Websites Dominating Internet Traffic Today</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-logitech-g203-driver-for-windows-71011/"><u>Download Logitech G203 Driver for Windows 7/10/11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortlessly-update-your-windows-device-with-the-latest-synaptics-drivers-heres-how/"><u>Effortlessly Update Your Windows Device with the Latest Synaptics Drivers – Here's How</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-logitech-driving-force-gt-wheel-setup-guide-and-downloads-for-win-7-10-and-11/"><u>Free Logitech Driving Force GT Wheel Setup Guide & Downloads for Win 7, 10 & 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-14-plus-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>How to Change your Apple iPhone 14 Plus Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-amd-radeon-rx-5700-xt-driver-updated-for-windows-11-windows-10-windows-8-and-7/"><u>Install AMD Radeon RX 5700 XT Driver: Updated for Windows 11, Windows 10, Windows 8 & 7</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/mastering-idevice-screen-recording-techniques-for-youtube/"><u>Mastering iDevice Screen Recording Techniques for YouTube</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/showcasing-the-capabilities-of-djis-high-end-42k-multirotor-aircraft-on-zdnet/"><u>Showcasing the Capabilities of DJI's High-End $42K Multirotor Aircraft on ZDNet</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/this-gives-us/"><u>This Gives Us:</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-step-by-step-strategy-for-profiting-from-every-youtube-short-video/"><u>[Updated] 2024 Approved Step-by-Step Strategy for Profiting From Every YouTube Short Video</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-microsofts-latest-bluetooth-drivers-for-windows-10-11-8-and-7/"><u>Download & Update Microsoft's Latest Bluetooth Drivers for Windows 10, 11, 8, and 7</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-how-to-stop-gta-v-from-continuously-crashing/"><u>Fixes & Solutions: How to Stop GTA V From Continuously Crashing</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-and-install-display-drivers-on-your-windows-pc/"><u>How to Update and Install Display Drivers on Your Windows PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/scansnap-s1300i-driver-update-made-easy-step-by-step-instructions/"><u>ScanSnap S1300i Driver Update Made Easy: Step-by-Step Instructions!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-samsung-galaxy-a24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-guide-to-repairing-hp-monitor-driver-misfires-in-windows-11-8-and-e7-systems/"><u>The Ultimate Guide to Repairing HP Monitor Driver Misfires in Windows 11, 8 & E7 Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-repairing-amd-fx-8350-drivers-issues-on-windows-operating-system/"><u>Troubleshooting & Repairing AMD FX-8350 Drivers Issues on Windows Operating System</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-iphone-16pro-defenders-expert-verified-picks-cnet/"><u>Ultimate Guide to iPhone 16/Pro Defenders : Expert Verified Picks | CNET</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-2024-creme-de-la-creme-high-speed-external-readwrite-devices/"><u>Unveiling the 2024 Crème De La Crème: High-Speed External Read/Write Devices</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Boost Your Workflow - Swap Out Tedious Excel Equations for the Power of ChatGPT Automation
-date: 2024-08-28T04:35:01.297Z
-updated: 2024-08-29T04:35:01.297Z
+date: 2024-12-05T12:46:39.492Z
+updated: 2024-12-06T08:52:07.381Z
 tags:
   - excel
 categories:
@@ -27,9 +27,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  The tips provided in this article aren't limited to Excel; they're also applicable to other spreadsheet tools, such as Google Sheets and Apple Numbers. Additionally, this guide focuses on the free version of ChatGPT based on the GPT 3.5 model. If you have access to GPT 4, you can use the Advanced Data Analysis tool to take screenshots and upload Excel files directly to GPT 4 for a more seamless experience.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ##  How to Get a Quick Excel Formula From ChatGPT
 
  If you dread the mere thought of opening Excel, let alone creating formulas, you've come to the right place. ChatGPT offers you an easy way to create Excel formulas with zero practical experience required.
@@ -47,8 +44,9 @@ Close
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/asd-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This is just a basic example to show you how ChatGPT can determine what formulas you need based on what you'd like to do. Let's do something slightly more complicated by asking it to help us [calculate the average](https://win-able.techidaily.com/fixing-overwatch-startup-issues-how-to-get-rid-of-the-persistent-black-screen/) profit margin and most profitable item.
 
 ![ChatGPT giving formulas to calculate the average profit margin and most profitable item in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/most-profitable.png) 
@@ -58,8 +56,9 @@ Close
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/asd.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you're already an Excel aficionado and prefer making formulas yourself, you can ask ChatGPT to suggest the best function for your unique scenario. Let's say I wanted to import information about the revenue and profits from my orders sheet to a tax sheet. ChatGPT gave me four viable formulas that I could use, along with a brief explanation of how they work.
 
 Close 
@@ -69,8 +68,9 @@ Close
  If you've subscribed to Copilot Pro, you can [add GPT-4 Turbo directly to Excel](https://extra-skills.techidaily.com/in-2024-photoshop-facebackground-anonymity-guide/). This integration allows Copilot to analyze your data and suggest relevant formulas in addition to providing direct access to GPT.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  You Can Create Formatting Rules With ChatGPT
 
  Excel has a complex interface that makes it hard to navigate, especially for novices, and conditional formatting rules require you to poke around to figure them out. In the following example, I have a list of articles with columns that track whether they have been written and have photos.
@@ -86,8 +86,9 @@ Close
 ![A list of articles about ceramic and glass coffee mugs in Excel, organized by color.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/newnew.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  ChatGPT Can Troubleshoot and Tweak Your Formulas
 
  Don't worry if one of the formulas ChatGPT gave you isn't working as intended—it happens to me all the time. The fix can range from telling ChatGPT, "Hey, this doesn't work." to explaining the problem in detail until ChatGPT figures out the issue.
@@ -101,8 +102,9 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  You Still Need to Check the Formulas Manually
 
  While ChatGPT is undoubtedly one of the "smartest" tools humans have ever created, it's not perfect. It might create a formula that doesn't work correctly, which isn't a problem when Excel spits out an error. However, in instances where a formula seemingly functions correctly but has omitted an important parameter, it can create a false sense of security.
@@ -119,8 +121,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +128,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-from-novice-to-professional-a-comprehensive-guide-to-mastering-final-cut-pro-for-2024/"><u>[Updated] From Novice to Professional A Comprehensive Guide to Mastering Final Cut Pro for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-professionalizing-virtual-collaboration-zoom-recording-tips/"><u>[Updated] In 2024, Professionalizing Virtual Collaboration Zoom Recording Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-metaverse-vs-multi-meva-understanding-their-core-differences/"><u>2024 Approved Metaverse Vs. Multi-Meva Understanding Their Core Differences</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/boost-studio-quality-with-free-m-audio-fast-track-ultra-drivers-download-now/"><u>Boost Studio Quality with Free M-Audio Fast Track Ultra Drivers - Download Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/boost-your-gameplay-simple-guide-to-downloading-and-updating-amd-vega-drivers/"><u>Boost Your Gameplay: Simple Guide to Downloading and Updating AMD Vega Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-amd-gpu-ready-with-latest-blockchain-driver-updates-for-windows-os/"><u>Get Your AMD GPU Ready with Latest Blockchain Driver Updates for Windows OS</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-eliminate-slow-responses-and-lag-in-lol-a-comprehensive-guide/"><u>How to Eliminate Slow Responses and Lag in LoL: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instantaneous-transcription-experience-with-whisper-desktop/"><u>Instantaneous Transcription Experience with Whisper Desktop</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-drivers-for-tp-link-wireless-network-adapters-windows-1087/"><u>Latest Drivers for TP-Link Wireless Network Adapters (Windows 10/8/7)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-logitech-sound-card-drivers-for-windows-11-7-and-8-free-download/"><u>Latest Logitech Sound Card Drivers for Windows 11, 7 and 8 - Free Download</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-tecno-pova-5-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Tecno Pova 5 Phones</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/toshiba-wireless-drivers-downloaded-your-guide-for-secure-and-easy-updates/"><u>Toshiba Wireless Drivers Downloaded: Your Guide for Secure and Easy Updates</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-fixing-error-code-0x80073712-on-your-windows-10-system-a-comprehensive-guide/"><u>Understanding and Fixing 'Error Code 0X80073712' On Your Windows 10 System – A Comprehensive Guide</u></a></li>
+</ul></div>
 

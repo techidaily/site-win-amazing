@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Dealing with the Synaptics Nub Driver Glitch on Windows 10"
-date: 2024-11-21T20:20:00.037Z
-updated: 2024-11-26T20:27:02.191Z
+date: 2024-12-01T16:02:04.318Z
+updated: 2024-12-05T22:29:50.485Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **There are two methods to download the drivers for your Lenovo X1 Carbon:**
 
 [**Method 1 – Manually:**](https://tools.techidaily.com/drivereasy/download/) You can download and update the drivers for your Lenovo X1 Carbon on your own. This requires some time, patience, and sometimes even computer skills.
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 **OR**
 
 [**Method 2 – Automatically:**](https://tools.techidaily.com/drivereasy/download/) This option is **much quicker and easier** . **All**   you need to do is **just a couple of mouse clicks** !
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Download and update the drivers for your Lenovo X1 Carbon manually
 
@@ -43,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap668.png)
 3. In the search bar, type**X1 Carbon** . Then locate**your generation** of X1 Carbon in the list of search results and click **Downloads** under it. Then you’ll be redirected to the drivers download page of your generation of X1 Carbon.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap669.png)
 4. Click **Operating systems**  to select the OS you’re currently using. Click **Expand Details**  to view the details of each device.  
 
@@ -54,15 +58,11 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 5. Click **the downward triangle**  to view the details of that driver. Then you can click **the download button**  to download that driver. If you want to download multiple drivers, you can also click **the plus button**  to add it to your downloads list first.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap671.png)
 6. Click **My downloads list**  to view all the drivers you want to download.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap672.png)
 7. Click **the Download button**  . Then follow the on-screen instruction to download these driver files.  
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 8. After all the driver files are downloaded on your X1 Carbon, double-click the driver files one by one and follow the on-screen instructions to install the updated driver files on your X1 Carbon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Download and update the drivers for your Lenovo X1 Carbon automatically
@@ -85,12 +85,12 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap674.png)
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap675.png)  
  You can do it for free if you like, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -115,17 +115,14 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unleashing-potential-mastering-advertising-partnerships-with-famebit/"><u>[New] Unleashing Potential Mastering Advertising Partnerships with FameBit</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-xiaomi-redmi-note-12r-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Xiaomi Redmi Note 12R System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/courts-follow-a-standardized-set-of-rules-and-procedures-while-arbitration-can-be-customized-for-each-case-through-the-arbitration-agreement/"><u>Courts Follow a Standardized Set of Rules and Procedures, While Arbitration Can Be Customized for Each Case Through the Arbitration Agreement.</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/designing-short-trailers-that-tell-a-story-for-2024/"><u>Designing Short Trailers That Tell a Story for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-intel-wireless-bluetooth-drivers-for-windows-7-with-ease/"><u>Download the Intel Wireless Bluetooth Drivers for Windows 7 with Ease!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-your-gefornce-gtx-750-drivers-with-one-click-convenience-step-by-step-tutorial/"><u>Download Your GeFornce GTX 750 Drivers with One-Click Convenience - Step by Step Tutorial</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-dell-audio-driver-updates-instantly-free-guide-available-online/"><u>Get the Latest Dell Audio Driver Updates Instantly – Free Guide Available Online</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 to Android? | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-exploring-the-essence-of-vimeo-a-leader-in-video-platforms/"><u>In 2024, Exploring the Essence of Vimeo A Leader in Video Platforms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fun-on-faces-a-comprehensive-guide-to-cartoon-snaps/"><u>In 2024, Fun on Faces A Comprehensive Guide to Cartoon Snaps</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-lunapic-enhancement-playbook/"><u>In 2024, The Ultimate LunaPic Enhancement Playbook</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/instant-access-to-intel-thunderbolt-drives-download-and-installation-made-simple/"><u>Instant Access to Intel Thunderbolt Drives - Download & Installation Made Simple</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-meme-crafters-den/"><u>2024 Approved Meme Crafter's Den</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/demons-souls-remastered-enhanced-visuals-and-the-classic-fantastic-experience/"><u>Demon's Souls Remastered - Enhanced Visuals & the Classic Fantastic Experience</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722976900712-download-brother-mfc-9130cw-printer-drivers-step-by-step-guide/"><u>Download Brother MFC-9130CW Printer Drivers – Step-by-Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-and-setup-the-logitech-brio-cam-drivers-on-your-windows-computer/"><u>How to Download and Setup the Logitech Brio Cam Drivers on Your Windows Computer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-access-essential-windows-10-tips/"><u>In 2024, Quick Access Essential Windows 10 Tips</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-transform-your-instagram-vids-with-advanced-editing-skills/"><u>In 2024, Transform Your Instagram Vids with Advanced Editing Skills</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722957750710-latest-intel-bluetooth-device-drivers-for-windows-7-quick-and-easy-download/"><u>Latest Intel Bluetooth Device Drivers for Windows 7 – Quick & Easy Download</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-poco-c50-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-download-resource-for-lenovo-t430-drivers-on-windows-10-8-or-7/"><u>Ultimate Download Resource for Lenovo T430 Drivers on Windows 10, 8, or 7</u></a></li>
 </ul></div>
 

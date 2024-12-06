@@ -1,7 +1,7 @@
 ---
 title: Download and Install Latest HP OfficeJet Pro 8620 Printer Drivers on Windows
-date: 2024-08-27T20:07:45.498Z
-updated: 2024-08-28T20:07:45.498Z
+date: 2024-12-01T14:40:35.386Z
+updated: 2024-12-06T05:07:08.437Z
 tags:
   - win11
   - win10
@@ -33,9 +33,9 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 2. **[Download and update the HP Scanjet driver automatically (Recommended)](https://www.drivereasy.com/knowledge/hp-scanjet-drivers-download-and-update-on-windows/#option2)**
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Download the HP Scanjet driver manually
 
  Manufacturers always release the drivers for their product on the**official website** . So, to manually install/update the driver for HP Scanjet, follow these steps:
@@ -44,33 +44,33 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-23-46-1-1200x727.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In the row containing your model, click the**rightmost link** to enter the download page.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-23-46-1200x727.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) If you aren’t using Windows 10 64-bit,**choose your OS** first.
 
  We recommend downloading**HP ScanJet Pro 3000 s3 Full Feature Software and Driver** , just so you’ll enable all the features of your scanner.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-25-10-1200x752.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  4) Once you’ve downloaded the driver,**double-click** to open the file and follow the on-screen instruction to install.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-32-40-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you complete the installation process, connect your HP Scanjet to the computer and see if it’s running.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Download and update the HP Scanjet driver automatically (Recommended)
 
@@ -89,8 +89,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_18-45-37-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -105,8 +106,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +113,20 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastering-fast-play-instagram-videos-at-home-desktop/"><u>[New] In 2024, Mastering Fast-Play Instagram Videos at Home (Desktop)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-building-a-robust-spotify-advertising-strategy/"><u>[Updated] Building a Robust Spotify Advertising Strategy</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unveiling-the-mechanics-behind-instagrams-content-curation/"><u>2024 Approved Unveiling the Mechanics Behind Instagram’s Content Curation</u></a></li>
+<li><a href="https://article-posts.techidaily.com/comprehensive-adobe-storage-manual-and-beyond-options/"><u>Comprehensive Adobe Storage Manual & Beyond Options</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-guide-to-canon-scanner-drivers-download-and-setup-on-windows-systems/"><u>Comprehensive Guide to Canon Scanner Drivers Download & Setup on Windows Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-aoc-monitor-drivers-on-windows-11-10-and-8/"><u>Download and Install AOC Monitor Drivers on Windows 11, 10 & 8</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722976177161-effortless-amd-radeon-rx-amo-470-driver-installation-and-latest-updates-available-now/"><u>Effortless AMD Radeon RX Amo 470 Driver Installation & Latest Updates Available Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-network-speed-update-drivers-for-usb-30-gigabit-ethernet-adapter-in-windows/"><u>Enhance Network Speed: Update Drivers for USB 3.0 Gigabit Ethernet Adapter in Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-apple-iphone-15-plusipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked Apple iPhone 15 Plus/iPad/iPod</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/linksys-ac2500-router-driver-setup-speedy-and-hassle-free-methods/"><u>Linksys AC2500 Router Driver Setup: Speedy and Hassle-Free Methods</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-transform-your-clips-best-highlight-video-makers-for-desktop-mobile-and-online/"><u>New In 2024, Transform Your Clips Best Highlight Video Makers for Desktop, Mobile, and Online</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722953103257-step-by-step-resolution-for-ralink-rt3290-driver-challenges-in-windows-operating-systems/"><u>Step-by-Step Resolution for Ralink RT3290 Driver Challenges in Windows Operating Systems!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/webinar-technology-hacks-with-no-financial-cost-for-2024/"><u>Webinar Technology Hacks with No Financial Cost for 2024</u></a></li>
+</ul></div>
 

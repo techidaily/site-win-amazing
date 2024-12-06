@@ -1,7 +1,7 @@
 ---
 title: "Mastering Data Visualization: Crafting Tally Graphs Easily Using Excel"
-date: 2024-08-28T04:34:32.460Z
-updated: 2024-08-29T04:34:32.460Z
+date: 2024-12-05T09:11:39.827Z
+updated: 2024-12-06T04:16:11.007Z
 tags:
   - excel
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/877cc6ce606cb4f4b4e6d66d093a7f03e00e14887
 
 ![Sample data for the tally graph](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/tally-data.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Create the Tally system
 
  A tally graph is normally presented as four lines followed by a diagonal strikethrough line for the fifth tally. This provides a nice visual grouping.
@@ -45,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/877cc6ce606cb4f4b4e6d66d093a7f03e00e14887
 
  We will create the tally graph using formulas and reference these two cells to display the correct tally marks.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Total the Groups of Five
 
  To total the groups of five, we will round the votes value down to the nearest multiple of five and then divide the result by five. We can use the function named FLOOR.MATH to round the value.
@@ -57,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/877cc6ce606cb4f4b4e6d66d093a7f03e00e14887
 =FLOOR.MATH(C3,5)/5
 
 ![Total the groups of five](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/floor.math_-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This rounds the value in C3 (23) down to the nearest multiple of 5 (20) and then divides that result by 5, giving the answer 4.
 
@@ -71,8 +76,9 @@ thumbnail: https://thmb.techidaily.com/877cc6ce606cb4f4b4e6d66d093a7f03e00e14887
 ![Calculate the remainder with MOD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/singles.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Make the Tally Graph with a Formula
 
  We now know the number of groups of five and also the number of singles to display in the tally graph. We just need to combine them into one row of tally marks.
@@ -85,14 +91,8 @@ thumbnail: https://thmb.techidaily.com/877cc6ce606cb4f4b4e6d66d093a7f03e00e14887
 
 ![Create a tally graph with REPT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/tally-graph-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  The REPT function repeats text a specified number of times. We used the function to repeat the tally characters the number of times specified by the groups and singles formulas. We also used the ampersand (&) to concatenate them together.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ##  Hide the Helper Columns
 
  To finish the tally graph, we will hide the helper columns D and E.
@@ -102,23 +102,22 @@ thumbnail: https://thmb.techidaily.com/877cc6ce606cb4f4b4e6d66d093a7f03e00e14887
 ![Hide the helper columns](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/hide-columns.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Our completed tally graph provides a nice visual presentation of the number of votes each person received.
 
 ![Completed tally graph in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/completed-tally-graph.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +126,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/approved-a-deep-dive-into-youtubes-latest-monetization-policy/"><u>2024 Approved A Deep Dive Into YouTube's Latest Monetization Policy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-complete-walkthrough-for-gpt-3s-beta-features/"><u>A Complete Walkthrough for GPT-3's Beta Features</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beginners-guide-to-masterful-marketing-with-reddit-insights/"><u>Beginner's Guide to Masterful Marketing with Reddit Insights</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-tutorial-for-installing-latest-ati-radeon-drivers-in-microsoft-windows/"><u>Comprehensive Tutorial for Installing Latest ATI Radeon Drivers in Microsoft Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-newest-drivers-for-nvidia-geforce-rtx-2n60-graphics-card-on-various-windows-versions/"><u>Download the Newest Drivers for NVIDIA GeForce RTX 2N60 Graphics Card on Various Windows Versions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-scanjet-drivers-upgraded-download-compatible-with-windows-operating-systems/"><u>HP Scanjet Drivers Upgraded: Download Compatible with Windows Operating Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/jujutsu-kaisen-in-action-making-memorable-tiktok-videos/"><u>Jujutsu Kaisen in Action Making Memorable TikTok Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-video-cutting-apps-in-windows-11-lineup/"><u>Pro Video Cutting Apps in Windows 11 Lineup</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-your-audio-technica-speaker-systems-driver-software/"><u>Step-by-Step Guide: Updating Your Audio-Technica Speaker System's Driver Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-or-download-free-killer-wi-fi-drivers-on-windows-11-8-and-7-get-enhanced-connectivity-today/"><u>Update or Download Free Killer Wi-Fi Drivers on Windows 11, 8 & 7: Get Enhanced Connectivity Today!</u></a></li>
+<li><a href="https://facebook.techidaily.com/visualizing-conversations-facebook-avatars-in-whatsapp-use-ceiling-150-characters/"><u>Visualizing Conversations: Facebook Avatars in WhatsApp Use Ceiling: 150 Characters</u></a></li>
+</ul></div>
 

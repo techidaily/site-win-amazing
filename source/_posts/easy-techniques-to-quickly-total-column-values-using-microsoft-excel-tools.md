@@ -1,7 +1,7 @@
 ---
 title: Easy Techniques to Quickly Total Column Values Using Microsoft Excel Tools
-date: 2024-08-28T04:35:08.319Z
-updated: 2024-08-29T04:35:08.319Z
+date: 2024-11-29T05:57:32.123Z
+updated: 2024-12-05T20:14:38.782Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ---
 
 ## Easy Techniques to Quickly Total Column Values Using Microsoft Excel Tools
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,9 +34,6 @@ Related: [How to Add Numbers in Microsoft Excel](https://instagram-clips.techida
 
  Lastly, you can use the popular `SUM` function to sum an entire column or specific rows or ranges in it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  View Your Column's Sum in Excel's Status Bar
 
  To only view the sum of your column, then first, launch your spreadsheet with Microsoft Excel.
@@ -50,8 +51,9 @@ Related: [How to Add Numbers in Microsoft Excel](https://instagram-clips.techida
 Related: [How to Copy Values From the Status Bar in Microsoft Excel](https://extra-guidance.techidaily.com/speedy-sonic-tuning-devices-index-pc-tablet-for-2024/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Sum Your Column's Values Using Excel's AutoSum Feature
 
  To get the sum of the contiguous cells of your column, utilize Excel's built-in AutoSum feature. With this method, you select the cell at the bottom of your column values and access the feature, and then it fills in the `SUM` function with the necessary arguments for you.
@@ -60,19 +62,17 @@ Related: [How to Copy Values From the Status Bar in Microsoft Excel](https://ext
 
 ![Select a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/3-choose-cell-excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  While your cell is selected, in Excel's "Home" tab at the top, select the "AutoSum" option
 
 ![Click "AutoSum" at the top.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/4-excel-autosum.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
  In your chosen cell, AutoSum has filled the `SUM` function with your data range. If this looks good, press Enter.
 
 ![AutoSum function in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/5-excel-automatic-sum.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll see the result of the `SUM` function in your cell.
 
@@ -87,6 +87,10 @@ Related: [How to Copy Values From the Status Bar in Microsoft Excel](https://ext
  To do that, first, launch your spreadsheet with Microsoft Excel and click the cell where you want to see the result.
 
 ![Select a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/3-choose-cell-excel.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In your selected cell, type the following function and press Enter. In this function, replace
 
@@ -106,9 +110,6 @@ Related: [How to Copy Values From the Status Bar in Microsoft Excel](https://ext
 
 ![Use the SUM function with a data range.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/7-excel-sum-function.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  To count values from specific column cells, add your cells in the `SUM` function separated by a comma as follows:
 
 =SUM(C2,C5,C8)
@@ -116,17 +117,15 @@ Related: [How to Copy Values From the Status Bar in Microsoft Excel](https://ext
 ![Use the SUM function for specific rows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/8-excel-sum-specific-rows.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To add a range and specific cells, use the `SUM` function as follows:
 
 =SUM(C2:C5,C8,C10)
 
 ![Use the SUM function with a data range and specific cells.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/9-excel-sum-ranges-rows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To sum an entire column, use the column letter in the `SUM` function's argument as follows. You'll want to use this function in a cell that's in a different column.
 
 =SUM(C:C)
@@ -136,6 +135,10 @@ Related: [How to Copy Values From the Status Bar in Microsoft Excel](https://ext
  You'll see all the rows added up in your selected cell.
 
 ![The sum of the entire column.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/11-excel-sum-entire-column-result.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As you can see, adding up numbers from your columns in Microsoft Excel is as easy as [using a built-in feature](https://screen-video-capture.techidaily.com/new-innovative-mac-screen-capture-methods-and-software-for-2024/) or manually entering the `SUM` function. We hope our guide helps you out.
 
@@ -151,8 +154,6 @@ Related: [How to Calculate the Sum of Squares in Excel](https://visual-screen-re
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +161,26 @@ Related: [How to Calculate the Sum of Squares in Excel](https://visual-screen-re
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-easy-to-use-zoom-camera-for-instant-sharing-for-2024/"><u>[New] Easy-to-Use Zoom Camera for Instant Sharing for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-swift-solutions-moving-iphone-pictures-and-videos/"><u>[Updated] 2024 Approved Swift Solutions Moving iPhone Pictures & Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-lg-vr-360-review-a-new-dimension-of-gaming-for-2024/"><u>[Updated] LG VR 360 Review A New Dimension of Gaming for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-minute-video-crafters-for-2024/"><u>[Updated] Minute Video Crafters for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-master-quick-red-eye-correction-in-iphone-photos-for-free/"><u>2024 Approved Master Quick Red-Eye Correction in iPhone Photos for FREE</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amd-rx-6800-xt-install-the-most-recent-graphics-card-drivers-for-windows-users-111087/"><u>AMD RX 6800 XT: Install the Most Recent Graphics Card Drivers for Windows Users (11/10/8/7)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-the-latest-epson-xp-420-printer-drivers/"><u>Download & Install the Latest Epson XP-420 Printer Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722963670668-download-and-install-the-latest-hp-laserjet-pro-m404n-printer-drivers/"><u>Download & Install the Latest HP LaserJet Pro M404n Printer Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-to-fixing-hps-beat-audio-drivers-for-windows-11-8-and-7-no-more-headaches/"><u>Easy Guide to Fixing HP's Beat Audio Drivers for Windows 11, 8 & 7 - No More Headaches!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-continuous-crashing-issues-in-the-discord-platform/"><u>How to Fix Continuous Crashing Issues in the Discord Platform</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-game-on-djis-new-contenders-mavic-air-vs-spark-in-combat/"><u>In 2024, Game On DJI's New Contenders – Mavic Air Vs. Spark in Combat</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-windows-compatible-bluetooth-dongle-driver-installation-steps/"><u>Latest Windows Compatible Bluetooth Dongle Driver Installation Steps</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/optimized-graphics-for-gamers-secure-the-newest-nvidia-geforce-drivers-for-windows-users/"><u>Optimized Graphics for Gamers – Secure the Newest NVIDIA GeForce Drivers for Windows Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/radeon-rx-470-graphics-cards-driver-download-and-updates-easily/"><u>Radeon RX 470 Graphics Cards Driver Download & Updates Easily</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-the-dynamics-of-spotify-advertising-for-2024/"><u>Understanding the Dynamics of Spotify Advertising for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updated-mpow-drivers-for-seamless-bluetooth-on-windows-systems-get-yours-here/"><u>Updated MPOW Drivers for Seamless Bluetooth on Windows Systems – Get Yours Here</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-your-audio-experience-on-windows-with-the-new-dolby-drivers-downloads/"><u>Upgrade Your Audio Experience on Windows with the New Dolby Drivers Downloads!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/wont-you-hear-me-now-resolving-the-no-sound-dilemma-on-windows-11-and-windows-10-with-airpods/"><u>Won't You Hear Me Now: Resolving the No-Sound Dilemma on Windows 11 & Windows 10 with AirPods</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Efficiently Removing Multiple Hash Symbols From Your Excel Spreadsheet
-date: 2024-08-28T04:35:12.966Z
-updated: 2024-08-29T04:35:12.966Z
+date: 2024-11-30T13:22:44.414Z
+updated: 2024-12-06T10:10:28.462Z
 tags:
   - excel
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015
 
  Today’s Question & Answer session comes to us courtesy of SuperUser—a subdivision of Stack Exchange, a community-driven grouping of Q&A web sites.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Question
 
  SuperUser reader M.Hesse wants to know how to get rid of all the number sign (#) errors in Microsoft Excel at the same time:
@@ -29,9 +33,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015
  How do you get rid of all the number sign errors in Microsoft Excel at the same time?
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Answer
 
  SuperUser contributors Justin, Raystafarian, and boflynn have the answer for us. First up, Justin:
@@ -44,30 +48,27 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015
 > 
 > ![how-do-you-get-rid-of-all-the-number-sign-errors-in-excel-at-the-same-time-01](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/how-do-you-get-rid-of-all-the-number-sign-errors-in-excel-at-the-same-time-01.jpg) 
 > 
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 > Or click and drag to select a smaller range of columns:
 > 
 > ![how-do-you-get-rid-of-all-the-number-sign-errors-in-excel-at-the-same-time-02](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/how-do-you-get-rid-of-all-the-number-sign-errors-in-excel-at-the-same-time-02.jpg) 
 > 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 > **Step 2\. Auto-Size Selected Columns** 
 > 
 > Now double-click on the right boundary of any of the selected columns when your cursor changes to the column-resizing double arrow:
 > 
 > ![how-do-you-get-rid-of-all-the-number-sign-errors-in-excel-at-the-same-time-03](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/how-do-you-get-rid-of-all-the-number-sign-errors-in-excel-at-the-same-time-03.jpg) 
 > 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 > ![how-do-you-get-rid-of-all-the-number-sign-errors-in-excel-at-the-same-time-04](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/how-do-you-get-rid-of-all-the-number-sign-errors-in-excel-at-the-same-time-04.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Followed by the answer from Raystafarian:
 
 > Yes, on the ribbon go to Home, Cells, and click Format. Once there, you can choose to AutoFit either the Row Height and/or Column Width.
@@ -75,8 +76,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015
 > ![how-do-you-get-rid-of-all-the-number-sign-errors-in-excel-at-the-same-time-05](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/how-do-you-get-rid-of-all-the-number-sign-errors-in-excel-at-the-same-time-05.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  With our final answer from boflynn:
 
 > For keyboard ninjas, here is a technique that does not require a mouse:
@@ -100,8 +102,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +109,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-add-music-to-whatsapp-status/"><u>[New] Add Music to WhatsApp Status</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-crafting-mp3s-from-instagram-the-easy-methodology-for-2024/"><u>[New] Crafting Mp3s From Instagram The Easy Methodology for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-guiding-you-through-youtubes-view-limitations/"><u>[New] Guiding You Through YouTube's View Limitations</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-advanced-photography-skills-precision-cropping-in-digital-spaces/"><u>[Updated] 2024 Approved Advanced Photography Skills Precision Cropping in Digital Spaces</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-upgrade-lenovo-display-drivers-step-by-step-guide/"><u>Download & Upgrade Lenovo Display Drivers - Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/download-and-start-streaming-with-bambuser-your-ultimate-guide/"><u>Download and Start Streaming with Bambuser: Your Ultimate Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-samsung-android-debug-bridge-adb-drivers-free-and-easy/"><u>Download Samsung Android Debug Bridge (ADB) Drivers - Free & Easy</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hassle-free-upgrade-secure-your-best-webcam-drivers-for-windows-7-here/"><u>Hassle-Free Upgrade: Secure Your Best Webcam Drivers for Windows 7 Here!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-obtain-and-update-your-sapphire-gpu-drivers-on-a-windows-machine/"><u>How to Obtain & Update Your Sapphire GPU Drivers on a Windows Machine</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-12-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 12 without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-free-video-editing-powerhouses-top-picks-online/"><u>New In 2024, Free Video Editing Powerhouses Top Picks Online</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/perfecting-snapchat-gifting-a-guide-to-gifs/"><u>Perfecting Snapchat Gifting - A Guide to Gifs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-up-your-pc-game-improve-performance-and-visuals-on-dell-g3-by-refreshing-graphics-drivers/"><u>Step-Up Your PC Game: Improve Performance and Visuals on Dell G3 by Refreshing Graphics Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/steps-to-install-asus-wireless-drivers/"><u>Steps to Install ASUS Wireless Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-guide-logitech-c920-camera-driver-for-new-windows-versions/"><u>Update Guide: Logitech C920 Camera Driver for New Windows Versions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updating-your-microsoft-sculpt-keyboards-drivers-made-easy-a-comprehveilsh-guide/"><u>Updating Your Microsoft Sculpt Keyboard's Drivers Made Easy - A Comprehveilsh Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/zapping-to-the-top-with-fast-instagram-video-playback-for-2024/"><u>Zapping to the Top with Fast Instagram Video Playback for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Xbox Accessories Drivers Errors in Windows 11, 8 & 7 – Resolved!
-date: 2024-08-27T20:05:51.745Z
-updated: 2024-08-28T20:05:51.745Z
+date: 2024-12-02T14:34:10.005Z
+updated: 2024-12-05T20:38:18.362Z
 tags:
   - win11
   - win10
@@ -42,9 +42,17 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-121.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Ralink RT3290 driver for now, simply click on the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-122.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -55,8 +63,9 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Option 2: Download and update your Ralink RT3290 driver manually (For Windows 8/7 Only)**
 
  Ralink Technology, Corp. was acquired by MediaTek in 2011, so you can no longer find the official website of Ralink. But luckily, the driver can still be found in **[mediatek.com](https://www.mediatek.com/) .**
@@ -72,8 +81,9 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-118.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) After knowing the version of your Windows operating system, you should now search for the driver online. You can either find your own way to the official website of MediaTek, or you can simply click[https://www.mediatek.com/](https://www.mediatek.com/) .
 
  4) There’s a search bar at the top of the website. Type**RT3290** , and then hit**Enter** on your keyboard.
@@ -93,8 +103,9 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-117.png)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you double-click**devcon64.exe** , you’ll be prompted to decompress the folders. Select**Extract all** .
 
  10) Click**Browse…** to select a destination and check the**Show extracted files when complete** box. On completion, click**Extract** .
@@ -128,8 +139,6 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +146,24 @@ Can’t get onto the Internet with your**Ralink RT3290 Wi-Fi Adapter?** Don’t 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-ultimate-guide-clearing-out-the-unwanted-space-around-images-with-affinity/"><u>[Updated] In 2024, The Ultimate Guide Clearing Out the Unwanted Space Around Images with Affinity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-superior-style-for-text-mobility/"><u>[Updated] Superior Style for Text Mobility</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-trending-topics-tally-10-tweets-triumphing-for-2024/"><u>[Updated] Trending Topics Tally 10 Tweets Triumphing for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amd-radeon-r9-360-graphics-driver-download-and-update-on-windows-10/"><u>AMD Radeon R9 360 Graphics Driver Download & Update on Windows 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cease-windows-record-of-app-openings/"><u>Cease Windows Record of App Openings</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-tp-link-wifi-adapter-drivers-compatible-with-windows-10-8-and-7/"><u>Download TP-Link WiFi Adapter Drivers: Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722957039837-effortless-setup-secure-your-razer-mamba-drivers-today/"><u>Effortless Setup: Secure Your Razer Mamba Drivers Today!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-amd-miner-driver-for-windows-step-by-step-guide/"><u>Get the Latest AMD Miner Driver for Windows: Step by Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/getting-started-with-your-kyocera-printer-on-windows-free-driver-download-and-installation-tutorial/"><u>Getting Started with Your KYOCERA Printer on Windows: Free Driver Download & Installation Tutorial</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-most-attractive-ringtones-for-your-phone/"><u>In 2024, Most Attractive Ringtones for Your Phone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722976171723-msi-sound-card-software-get-your-latest-drivers-instantly/"><u>MSI Sound Card Software: Get Your Latest Drivers Instantly!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/secure-and-detailed-best-ways-to-document-fb-call-footage/"><u>Secure & Detailed Best Ways to Document FB Call Footage</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/successful-installation-of-mouse-drivers-on-windows-7-a-step-by-step-guide/"><u>Successful Installation of Mouse Drivers on Windows 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/successfully-resolving-intel-dptf-driver-installation-issues-a-step-by-step-guide/"><u>Successfully Resolving Intel DPTF Driver Installation Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/transform-your-set-design-top-8-sites-providing-free-green-screen-footage-and-backdrop/"><u>Transform Your Set Design Top 8 Sites Providing Free Green Screen Footage & Backdrop</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-choose-the-desktop-app-top-benefits-of-chatgpt-away-from-the-browser/"><u>Why Choose the Desktop App? Top Benefits of ChatGPT Away From the Browser</u></a></li>
+</ul></div>
 

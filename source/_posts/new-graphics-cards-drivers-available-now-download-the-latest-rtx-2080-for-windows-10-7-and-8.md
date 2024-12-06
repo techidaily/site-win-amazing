@@ -1,7 +1,7 @@
 ---
 title: "New Graphics Cards Drivers Available Now: Download the Latest RTX 2080 for Windows 10, 7 & 8"
-date: 2024-11-24T20:54:05.245Z
-updated: 2024-11-26T19:52:49.711Z
+date: 2024-12-04T11:42:45.138Z
+updated: 2024-12-06T01:21:02.770Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **There are two methods to update your Geforce RTX 2080 driver:**
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 [**Method 2** **– Manually:**](https://tools.techidaily.com/drivereasy/download/) You can update your Geforce RTX 2080 driver on your own. This requires some time, patience, and sometimes even computer skills.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Update your Geforce RTX 2080 driver automatically
@@ -52,21 +52,17 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap455.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Click **Update** next to your **Geforce RTX 2080** graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap454-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Download and install your Geforce RTX 2080 driver manually
 
@@ -78,12 +74,16 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap469.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click the **DOWNLOAD** button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap461.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4.**Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
@@ -108,18 +108,15 @@ _You can do it for free if you like, but it’s partly manual._
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-imagination-to-shares-mastering-metaverse-memes/"><u>[New] From Imagination to Shares Mastering Metaverse Memes</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-farm-team-time-top-10-agricultural-games-to-share-and-compete/"><u>[New] In 2024, Farm Team Time Top 10 Agricultural Games to Share & Compete</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-host-smart-and-cheap-your-guide-to-youtube-seminars/"><u>[New] In 2024, Host Smart and Cheap Your Guide to Youtube Seminars</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-why-integrate-hdr-into-your-film-and-video-workflow/"><u>[Updated] In 2024, Why Integrate HDR Into Your Film and Video Workflow</u></a></li>
-<li><a href="https://fox-http.techidaily.com/best-ever-5-mobile-photo-editing-tools-background-shifters/"><u>Best-Ever 5 Mobile Photo Editing Tools Background Shifters</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/compensated-analysis-the-vlog-perspective-on-goods/"><u>Compensated Analysis The Vlog Perspective on Goods?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/dealing-with-crackling-audio-output-a-step-by-step-guide-for-windows-users/"><u>Dealing with Crackling Audio Output: A Step-by-Step Guide for Windows Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/direct-link-to-xbox-360-controllers-compatible-driver-software/"><u>Direct Link to Xbox 360 Controllers' Compatible Driver Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-steelseries-mouse-ready-downloads-for-easy-setup/"><u>Get Your SteelSeries Mouse Ready: Downloads for Easy Setup</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-perform-the-latest-firmware-upgrade-on-your-dell-2330d-or-233-0dn-monochrome-laser-printer/"><u>How to Perform the Latest Firmware Upgrade on Your Dell 2330D or 233 0DN Monochrome Laser Printer</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-vivo-y28-5g-by-drfone-android-unlock-android-unlock/"><u>How to unlock Vivo Y28 5G</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Infinix Note 30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/up-to-date-nvidia-drivers-available-here-geforce-rtx-3080-for-windows-users/"><u>Up-to-Date NVIDIA Drivers Available Here: GeForce RTX 3#080 for Windows Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-essentials-of-webcam-capture-with-free2x-app-for-2024/"><u>[New] The Essentials of WebCam Capture with Free2X App for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/advanced-materialdashboard-pro-with-react-and-aspnet-core-top-tier-admin-ui-design-by-creative-tim/"><u>Advanced MaterialDashboard Pro with React & ASP.NET Core | Top-Tier Admin UI Design by Creative Tim</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-next-gen-audio-transcription-technologies-and-their-applications/"><u>In 2024, Next-Gen Audio Transcription Technologies and Their Applications</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-y78t-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo Y78t Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavi-conversione-dts-online-gratuita-in-un-clic-scopri-il-metodo-facile/"><u>Movavi: Conversione DTS Online Gratuita in Un Clic – Scopri Il Metodo Facile!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-vob-to-flv-file-upgrade-at-no-cost-experience-the-simplicity-of-movavis-service/"><u>Seamless VOB to FLV File Upgrade at No Cost - Experience the Simplicity of Movavi's Service</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/securing-agreements-faster-techniques-to-pen-convincing-proposals-leveraging-chatgpt/"><u>Securing Agreements Faster: Techniques to Pen Convincing Proposals Leveraging ChatGPT</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tarte-tatin/"><u>Tarte Tatin</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-selection-of-17-record-worthy-screencasters-compare-and-choose/"><u>The Ultimate Selection of 17 Record-Worthy Screencasters - Compare and Choose.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/trasforma-le-tue-immagini-con-eccezionale-qualita-grazie-al-movavi-photo-editor-manuale-di-miglioramento-foto/"><u>Trasforma Le Tue Immagini Con Eccezionale Qualità Grazie Al Movavi Photo Editor | Manuale Di Miglioramento Foto</u></a></li>
 </ul></div>
 

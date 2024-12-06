@@ -1,7 +1,7 @@
 ---
 title: "Excel Trick Playbook: How to Display or Fully Obscure Formulas Within Cells for Excel 2013"
-date: 2024-08-28T04:35:21.118Z
-updated: 2024-08-29T04:35:21.118Z
+date: 2024-12-04T12:23:21.025Z
+updated: 2024-12-06T13:12:55.866Z
 tags:
   - excel
 categories:
@@ -65,8 +65,6 @@ If you are working on an Excel worksheet with a lot of formulas in it, it may be
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -74,8 +72,26 @@ If you are working on an Excel worksheet with a lot of formulas in it, it may be
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-recovery.techidaily.com/lord-of-the-rings-master-your-journey-through-middle-earth-by-viewing-movies-sequentially/"><u>'Lord of the Rings': Master Your Journey Through Middle Earth by Viewing Movies Sequentially</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-android-gaming-elevated-in-depth-look-at-the-breakthrough-app-kinemaster/"><u>[New] Android Gaming Elevated - In-Depth Look at the Breakthrough App, KineMaster</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-unpacking-the-virb-ultra-30-action-cam-by-garmin/"><u>[Updated] 2024 Approved Unpacking the VIRB Ultra 30 Action Cam by Garmin</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-5-upgrades-to-shine-your-digital-clips/"><u>[Updated] In 2024, 5 Upgrades to Shine Your Digital Clips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-time-saving-strategies-for-srt-to-text-file-changes/"><u>[Updated] Time-Saving Strategies for SRT to Text File Changes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-mastering-mp3s-on-android-the-best-free-tools/"><u>2024 Approved Mastering MP3s on Android - The Best Free Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722966542224-get-your-free-thrustmaster-t300-racing-wheel-drivers-for-win10win11-computers-now/"><u>Get Your Free Thrustmaster T300 Racing Wheel Drivers for Win10/Win11 Computers Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-the-latest-microsoft-bluetooth-driver-update-for-your-pc-running-windows-101187/"><u>How to Get the Latest Microsoft Bluetooth Driver Update for Your PC Running Windows 10/11/8/7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-obtain-the-official-logitech-k400plus-control-devices-software-download-guide-and-resources/"><u>How to Obtain the Official Logitech K400+ Control Devices Software: Download Guide & Resources</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-iphone-7-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your iPhone 7 for Free</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-a-step-by-step-framework-for-iconic-podcast-visuals/"><u>In 2024, A Step-by-Step Framework for Iconic Podcast Visuals</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-access-downloads-for-validity-fingerprint-sensor-drivers-get-started-now/"><u>Quick-Access Downloads for Validity Fingerprint Sensor Drivers - Get Started Now!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/reimagining-photo-presentation-with-top-frame-tools-for-2024/"><u>Reimagining Photo Presentation with Top Frame Tools for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-resolution-of-startech-driver-compatibility-issues-in-windows-1187/"><u>Step-by-Step Resolution of StarTech Driver Compatibility Issues in Windows 11/8/7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722966757772-successful-download-and-update-of-amd-vega-64-drivers-for-windows-systems-troubleshooting-guide-now-fixed/"><u>Successful Download & Update of AMD Vega 64 Drivers for Windows Systems: Troubleshooting Guide - NOW FIXED!</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

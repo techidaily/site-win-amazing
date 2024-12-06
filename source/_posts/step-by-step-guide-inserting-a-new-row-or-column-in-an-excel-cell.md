@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Inserting a New Row or Column in an Excel Cell"
-date: 2024-08-28T04:34:43.190Z
-updated: 2024-08-29T04:34:43.190Z
+date: 2024-11-28T23:19:22.840Z
+updated: 2024-12-06T14:32:59.599Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 ---
 
 ## Step-by-Step Guide: Inserting a New Row or Column in an Excel Cell
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,6 +34,10 @@ Related: [All the Best Microsoft Excel Keyboard Shortcuts](https://eaxpv-info.te
 
 ![Type text in a cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/1-type-text.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While your cursor is still in the cell where you were typing, press Alt+Enter (Windows) or Option+Enter (Mac). This will start a new line in your cell, and you can continue to type the rest of the text.
 
 ![Enter a new line in a cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/2-add-line-excel.png) 
@@ -38,17 +46,12 @@ Related: [All the Best Microsoft Excel Keyboard Shortcuts](https://eaxpv-info.te
 
 ![A new line added in an Excel cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/3-line-added-excel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To add more lines, press the same keyboard shortcut. And that's it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ##  Start a New Line in an Excel Cell With a Menu Option
 
  Another way to start a new line in an Excel cell is to use the Wrap Text feature. With this feature, you select the cells in which you want new lines and the feature automatically adds the required lines.
@@ -58,29 +61,25 @@ Related: [All the Best Microsoft Excel Keyboard Shortcuts](https://eaxpv-info.te
 ![Select cells in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/4-select-cells.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  While your cells are selected, in [Excel's ribbon at the top](https://screen-mirror.techidaily.com/in-2024-how-to-mirror-honor-play-40c-to-mac-drfone-by-drfone-android/), click the "Home" tab.
 
 ![Click the "Home" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/5-excel-home-tab.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the "Home" tab, from the "Alignment" section, select "Wrap Text."
 
 ![Select "Wrap Text" in the "Home" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/6-wrap-text-excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Excel will automatically add new lines in your cells where the text spreads across multiple cells.
 
 ![Selected cells' text wrapped in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/7-text-wrapped-excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And that's how you prevent your text from covering other cells in your Excel spreadsheets. Very handy! Read our guide for more details on [wrapping text in Excel](https://screen-video-capture.techidaily.com/in-2024-apex-thrill-racers-our-favorites-5/).
 
  You can [split text in Google Sheets](https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-s23-fe-screen-to-pc-with-chromecast-drfone-by-drfone-android/), too.
@@ -93,8 +92,6 @@ Related: [How to Split Text in Google Sheets](https://screen-mirror.techidaily.c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +99,18 @@ Related: [How to Split Text in Google Sheets](https://screen-mirror.techidaily.c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-visual-storytelling-at-its-best-the-quintessential-5-techniques/"><u>[New] 2024 Approved Visual Storytelling at Its Best The Quintessential 5 Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-kit-list-for-road-trip-movie-making/"><u>[New] Kit List for Road-Trip Movie Making</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-live-streaming-platforms-revealed/"><u>[New] Premier Live Streaming Platforms Revealed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-pinpointing-your-individual-playlist-hub-on-youtube/"><u>[Updated] In 2024, Pinpointing Your Individual Playlist Hub on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comment-obtenir-des-films-youtube-pour-les-plateformes-ios-android-et-windows-sans-frais/"><u>Comment Obtenir Des Films YouTube Pour Les Plateformes iOS, Android Et Windows Sans Frais?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-updated-targus-displayport-adapters-drivers-on-windows-systems/"><u>Get Updated Targus DisplayPort Adapters Drivers on Windows Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-nvidia-geforce-rtx-20-series-and-gtx-10-series-drivers-today/"><u>Get Your Nvidia GeForce RTX 20 Series and GTX 10 Series Drivers Today!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-tecno-camon-30-pro-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Tecno Camon 30 Pro 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-driver-updates-for-an-improved-acer-nitro-5-experience/"><u>Mastering Driver Updates for an Improved Acer Nitro 5 Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-tech-world-trustworthy-reviews-and-advice-from-toms-hardware/"><u>Navigating the Tech World: Trustworthy Reviews and Advice From Tom's Hardware</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722974347968-seamless-printing-with-hp-officejet-3830-download-and-install-windows-drivers-today/"><u>Seamless Printing with HP OfficeJet 3830 - Download & Install Windows Drivers Today!</u></a></li>
+</ul></div>
 

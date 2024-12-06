@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your NVIDIA RTX 2080 Driver Version for Optimal Gaming Experience in Windows 10 or 11
-date: 2024-08-27T20:04:23.720Z
-updated: 2024-08-28T20:04:23.720Z
+date: 2024-12-02T23:19:42.286Z
+updated: 2024-12-06T02:26:37.888Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/9e326dc97d7b2a04840d4bac29152fee0a09ec2e5
 
 The**NVIDIA RTX 2080 SUPER** is no doubt a beast. But to dominate all the AAA titles in 2021, you still need the latest graphics driver. In this article, we’ll show you how to download and update the driver for RTX 2080 SUPER, easily and quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 ways to install the RTX 2080 SUPER driver
 
  Option 1:[Install manually](https://tools.techidaily.com/drivereasy/download/) — This needs time and computer skills. You need to visit the NVIDIA website, search for the driver, and install it manually.
@@ -24,6 +28,10 @@ The**NVIDIA RTX 2080 SUPER** is no doubt a beast. But to dominate all the AAA ti
 OR
 
  Option 1:[**Install automatically (Recommended)**](https://www.drivereasy.com/knowledge/download-update-rtx-2080-super-drivers-windows-10/#option2) — You can get the latest graphics driver easily & quickly. All you need will be just a few clicks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Install the RTX 2080 SUPER driver manually
 
@@ -37,8 +45,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2080-super-manually-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2: Install the RTX 2080 SUPER driver automatically (Recommended)
 
  If you’re not comfortable playing with device drivers, we recommend using **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It will automatically recognize your system and find the correct drivers for your exact graphics card, and your Windows version, and it will download and install them correctly:
@@ -47,24 +60,14 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2080-super.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve installed the latest graphics driver, restart your PC and test the improvement in-game.
@@ -81,8 +84,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -90,4 +91,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-gazescope-grading-guide/"><u>[Updated] 2024 Approved GazeScope Grading Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-digital-footprints-on-instagram-effective-photo-watermarking-for-2024/"><u>[Updated] Digital Footprints on Instagram Effective Photo Watermarking for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-effortless-tutorial-for-top-notch-yt-video-thumbnails/"><u>[Updated] In 2024, Effortless Tutorial for Top-Notch YT Video Thumbnails</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-tecno-pop-8-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/assisting-with-utorrent-sync-halt-on-microsoft-operating-systems/"><u>Assisting with uTorrent Sync Halt on Microsoft Operating Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-geforce-rtx-ebx-3070-driver-for-windows-1110-free-download/"><u>Get the Latest GeForce RTX Ebx 3070 Driver for Windows 11/10 - Free Download</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-updated-gpu-drivers-enhance-your-windows-11-experience-with-gtx-1650-super/"><u>Get Updated GPU Drivers: Enhance Your Windows 11 Experience with GTX 1650 Super</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-xiaomi-redmi-note-12-proplus-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Xiaomi Redmi Note 12 Pro+ 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oppo-a78-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Oppo A78 Devices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-the-epson-wf-3540-drivers-on-windows-a-step-by-step-guide/"><u>Install the Epson WF-3540 Drivers on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-14-pro-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 14 Pro Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolving-intel-dptf-driver-installation-issues-a-comprehensive-guide/"><u>Resolving Intel DPTF Driver Installation Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-successfully-downloading-and-updating-windows-drivers-for-your-dell-latitude-e6430/"><u>Step-by-Step Tutorial: Successfully Downloading & Updating Windows Drivers for Your Dell Latitude E6430</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/vector-graphics-innovation-top-apps-to-transform-your-creations/"><u>Vector Graphics Innovation Top Apps to Transform Your Creations</u></a></li>
+</ul></div>
 

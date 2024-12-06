@@ -1,7 +1,7 @@
 ---
 title: Upgrade To a Superior Gaming Session - Update to the Latest ASUS GeForce GTX 970 Pro GPU for Maximum Performance
-date: 2024-11-24T18:59:21.070Z
-updated: 2024-11-26T17:30:24.224Z
+date: 2024-12-02T09:35:37.340Z
+updated: 2024-12-05T17:06:33.136Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ If you’re using Arduino products to create your own work but failed to connect
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why you need the driver?
 
  As we know, Arduino is an open-source electronics platform let users design and create their own work. But when you need to connect it with a Windows computer, you’ll need a correct and appropriate driver.
@@ -33,10 +29,6 @@ If you’re using Arduino products to create your own work but failed to connect
  It is because drivers are software components that make devices and the operating system talk to each other. Both system and device are updating to catch up with the changing world, so is drivers. If the operating system changes the way it speaks to devices and drivers haven’t updated, devices can’t receive correct commands and cause problems.
 
  That’s why most of the problems can be solved by installing/updating drivers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to download Arduino Nano driver?
 
@@ -49,7 +41,7 @@ OR
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-download-and-install-arduino-nano-driver-in-windows-solved/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 1 –** **Download and install the driver manually**
@@ -62,24 +54,32 @@ OR
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select **Browse my computer for driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9725918e348.png)
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update drivers**
 
@@ -118,20 +118,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-heimdalls-eye-the-watchers-of-ragnarok/"><u>[New] Heimdall's Eye The Watchers of Ragnarok</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-quick-recording-tips-for-your-next-google-meet-video-call/"><u>[New] In 2024, Quick Recording Tips for Your Next Google Meet Video Call</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-superior-online-sound-devices-ranked-for-recording-2023/"><u>[Updated] 2024 Approved Superior Online Sound Devices Ranked for Recording 2023</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-review-patriots-vp4300-lite-ssd-balancing-high-capacity-with-budget-friendly-pricing/"><u>Comprehensive Review: Patriot's VP4300 Lite SSD - Balancing High Capacity with Budget-Friendly Pricing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-12-5g-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from 12 5G</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-steelseries-gaming-mouse-install-software-download/"><u>Free SteelSeries Gaming Mouse Install Software Download</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-asrock-ab350-pro4-control-card-updated-complimentary-painless-process/"><u>Get Your ASRock AB350 Pro4 Control Card Updated: Complimentary, Painless Process</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-resolve-problems-with-the-realtek-rtl8723be-network-adapter-drivers/"><u>How to Resolve Problems with the Realtek RTL8723BE Network Adapter Drivers</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-6s-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 6s to iPad | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-the-official-canon-imageclass-mx934-drivers-on-your-windows-laptop/"><u>Install the Official Canon ImageCLASS MX934 Drivers on Your Windows Laptop</u></a></li>
-<li><a href="https://app-tips.techidaily.com/mimo-systems/"><u>MIMO Systems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-xiaomi-redmi-k70-pro-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Xiaomi Redmi K70 Pro</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-ultimate-walkthrough-to-refresh-ati-radeon-drivers-on-a-windows-computer/"><u>The Ultimate Walkthrough to Refresh ATI Radeon Drivers on a Windows Computer</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-logitech-g910-gamepad-software-latest-release-for-windows-computers/"><u>Update Your Logitech G910 Gamepad Software - Latest Release for Windows Computers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/upgrade-your-pc-now-download-the-most-recent-nvidia-game-ready-driver-for-enhanced-windows-compatibility/"><u>Upgrade Your PC Now: Download the Most Recent Nvidia Game Ready Driver for Enhanced Windows Compatibility</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-how-to-enhance-video-rankings-on-youtube-through-seo/"><u>[New] In 2024, How to Enhance Video Rankings on YouTube Through SEO</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/outube-revenue-demystified/"><u>[New] YouTube Revenue Demystified</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-embark-on-a-google-meet-journey/"><u>[Updated] In 2024, Embark on a Google Meet Journey</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-live-streamer-showdown-pick-your-champion-between-wirecast-and-obs/"><u>[Updated] Live Streamer Showdown Pick Your Champion Between Wirecast and OBS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-no-glue-methods-for-spotless-video-creations-on-tiktok/"><u>[Updated] No-Glue Methods for Spotless Video Creations on TikTok</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/best-practices-for-installing-new-sound-hardware-drivers-in-windows/"><u>Best Practices for Installing New Sound Hardware Drivers in Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-for-updated-canon-pixma-mg2522-printer-drivers/"><u>Easy Installation Guide for Updated Canon PIXMA MG2522 Printer Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fastest-performance-alert-newly-released-rtx-2060-super-graphics-card-drivers-for-modern-windows-os/"><u>Fastest Performance Alert! Newly Released RTX 2060 Super Graphics Card Drivers for Modern Windows OS</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/favorite-frames-socials-1-8-vids/"><u>Favorite Frames Social's #1-#8 Vids</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fresh-driver-downloads-optimizing-your-lenovo-t430-with-compatible-versions-for-windows-1187/"><u>Fresh Driver Downloads: Optimizing Your Lenovo T430 with Compatible Versions for Windows 11/8/7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/impacts-of-external-factors-such-as-climate-change-land-management-practices-and-agrochemical-use-on-soil-microbes/"><u>Impacts of External Factors Such as Climate Change, Land Management Practices, and Agrochemical Use on Soil Microbes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-essential-10-creative-igtv-tactics-for-brands-to-embrace/"><u>In 2024, Essential 10 Creative IGTV Tactics for Brands to Embrace</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-tecno-spark-10-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Tecno Spark 10 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/navigating-through-the-process-of-downloading-new-intel-hd-graphics-5500-drivers/"><u>Navigating Through the Process of Downloading New Intel HD Graphics 5500 Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-access-free-amd-gpio-hardware-interface-driver-downloads-available/"><u>Quick Access: Free AMD GPIO Hardware Interface Driver Downloads Available</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/solving-compatibility-issues-with-hp-monitor-drivers-on-windows-1187-platforms/"><u>Solving Compatibility Issues with HP Monitor Drivers on Windows 11/8/7 Platforms</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updating-ati-graphics-card-drivers-on-your-pc-a-step-by-step-guide/"><u>Updating ATI Graphics Card Drivers on Your PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/zebra-gk420d-printer-management-quick-driver-downloads-for-smooth-operation/"><u>Zebra GK420d Printer Management: Quick Driver Downloads for Smooth Operation</u></a></li>
 </ul></div>
 

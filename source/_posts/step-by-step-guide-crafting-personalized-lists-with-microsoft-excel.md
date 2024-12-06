@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Crafting Personalized Lists with Microsoft Excel"
-date: 2024-08-28T04:35:40.666Z
-updated: 2024-08-29T04:35:40.666Z
+date: 2024-12-03T07:13:24.068Z
+updated: 2024-12-05T22:03:08.009Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/c811d888eaef42c6d49c05cdca31aa1712344b1b9
 ---
 
 ## Step-by-Step Guide: Crafting Personalized Lists with Microsoft Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -44,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/c811d888eaef42c6d49c05cdca31aa1712344b1b9
 
 ![Type each list item and click Add](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/AddCustomListEntries-ExcelWindows.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click "Add," and you'll see your list items appear in the "Custom Lists" box. If you're finished, click "OK" on Windows, or on Mac, simply close the Custom Lists window.
 
 ![Added custom list entries](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/AddedCustomListEntries-ExcelWindows.png) 
@@ -57,31 +65,26 @@ thumbnail: https://thmb.techidaily.com/c811d888eaef42c6d49c05cdca31aa1712344b1b9
 ![Drag through the list items to import them](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/ImportListEntries-ExcelWindows.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll then see the imported items appear in the "Custom Lists" box.
 
 ![Imported List Entries](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/ImportedListEntries-ExcelWindows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  Click "OK" on Windows, or click the red "X" on Mac to close the window.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Use Your Custom List
 
  The nice thing about creating a custom list in Microsoft Excel is that you can use it in any Excel spreadsheet or workbook. Head to a spot where you want to add the list items and type in one of them. Use the fill handle to complete the list.
 
 ![Drag the fill handle to complete the list](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/AutofillCustomList-ExcelWindows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also follow our tutorial for [adding a drop-down list](https://hardware-updates.techidaily.com/download-and-install-the-newest-version-of-corsair-k55-drivers-today/) based on a custom list for easier data entry.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Edit or Delete a Custom List
 
@@ -91,16 +94,14 @@ thumbnail: https://thmb.techidaily.com/c811d888eaef42c6d49c05cdca31aa1712344b1b9
 
 ![Edit list entries](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/EditCustomList-ExcelWindows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  To delete a custom list, select it in the "Custom Lists" box and hit "Delete." Confirm this action by clicking "OK."
 
 ![Select the list and click Delete](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/DeleteCustomList-ExcelWindows.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you find yourself repeating a list of items in your spreadsheets, make your data entry a bit easier by creating a custom list in Microsoft Excel. And for more help with lists, take a look at [how to create a checklist in Excel](https://android-location-track.techidaily.com/3-solutions-to-find-your-poco-f5-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/).
 
 <ins class="adsbygoogle"
@@ -109,8 +110,6 @@ thumbnail: https://thmb.techidaily.com/c811d888eaef42c6d49c05cdca31aa1712344b1b9
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +117,24 @@ thumbnail: https://thmb.techidaily.com/c811d888eaef42c6d49c05cdca31aa1712344b1b9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-excelling-at-content-creation-a-guide-to-gamers-success-for-2024/"><u>[Updated] Excelling at Content Creation A Guide to Gamers' Success for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-comprehensive-list-of-vocal-alteration-apps/"><u>[Updated] In 2024, The Comprehensive List of Vocal Alteration Apps</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unleashing-the-power-of-fbx-for-in-game-capture-for-2024/"><u>[Updated] Unleashing the Power of FBX for In-Game Capture for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-access-to-new-nvidia-1080-drivers-for-enhanced-performance-on-windows-11/"><u>Easy Access to New NVIDIA 1080 Drivers for Enhanced Performance on Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/embark-on-a-virtual-odyssey-with-your-ios-device/"><u>Embark on a Virtual Odyssey with Your iOS Device</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/experience-lightning-speed-with-google-nest-wifi-your-ultimate-guide-to-seamless-wi-fi-coverage/"><u>Experience Lightning Speed with Google Nest Wifi – Your Ultimate Guide to Seamless Wi-Fi Coverage</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-the-most-out-of-gaming-on-windows-10-why-and-how-to-enable-gpu-in-call-of-duty-warzone/"><u>Get the Most Out of Gaming on Windows 10: Why and How to Enable GPU in Call of Duty: Warzone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-hp-officejet-pro-uge-driver-for-windows-operating-systems-windows-11108/"><u>Get Your HP OfficeJet Pro Uge Driver for Windows Operating Systems (Windows 11/10/8)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-razer-mamba-up-and-running-with-this-fast-downloader/"><u>Get Your Razer Mamba Up and Running with This Fast Downloader</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-hp-laserjet-pro-m402n-driver-on-windows/"><u>How to Download HP LaserJet Pro M402n Driver on Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/improve-your-video-quality-with-updated-logitech-c92n-driver-for-windows-systems/"><u>Improve Your Video Quality with Updated Logitech C92n Driver for Windows Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hunters-choice-top-5-ultimate-shot-recording-gear/"><u>In 2024, Hunters' Choice Top 5 Ultimate Shot-Recording Gear</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-youtube-gold-strategies-for-financial-flourishing/"><u>In 2024, YouTube Gold Strategies for Financial Flourishing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-driver-packs-available-enhance-your-hp-z440-workstation-performance-today/"><u>Latest Driver Packs Available - Enhance Your HP Z440 Workstation Performance Today!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/make-windows-11-detect-your-usb-device-easy-fixes-and-solutions/"><u>Make Windows 11 Detect Your USB Device: Easy Fixes and Solutions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-musical-notes-understanding-youtube-shorts/"><u>Quick Musical Notes Understanding YouTube Shorts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-walkthrough-installing-your-brother-l2absolutely-here-are-five-new-seo-friendly-titles-similar-to-brother-mfc-l2700dw-driver-download-and-insta322/"><u>Step by Step Walkthrough: Installing Your Brother L2absolutely! Here Are Five New SEO-Friendly Titles Similar to Brother MFC-L2700DW Driver Download & Install for Windows</u></a></li>
+</ul></div>
 

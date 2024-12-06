@@ -1,7 +1,7 @@
 ---
 title: Targus Docking Solutions - Fast, Easy Downloads for Seamless Connectivity [FREE]
-date: 2024-11-20T16:10:31.071Z
-updated: 2024-11-26T19:43:56.920Z
+date: 2024-12-01T12:16:51.757Z
+updated: 2024-12-06T03:07:50.627Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to update Targus Docking Station drivers
 
 Generally there’re two ways you can update your drivers:
@@ -39,6 +35,10 @@ OR
 [**Option 2 – Manually:**](https://tools.techidaily.com/drivereasy/download/) You’ll need some computer skills and patience to update your driver this way, because you need to find exactly the right driver online, download it and install it step by step.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Automatically update your Targus Docking Station drivers (Recommended)
 
@@ -52,14 +52,6 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap40.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the Targus Docking Station driver for now, hit the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-361.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at**<support@drivereasy.com>** .
@@ -69,7 +61,7 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Manually update your Targus Docking Station driver
@@ -80,26 +72,34 @@ OR
 2. In the top right of this web page, click**Support** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-365.png)
 3. Select**Drivers & Manuals** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-367.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Type the**model name** or**serial number** of your Targus device into the search box to locate the corresponding drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-368.png) Alternatively, you may select**Category** and then**Product** to look for the drivers of your Docking Station.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-160.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. After locating the corresponding driver for your product, click on the**Download** button below.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-372.png)
 6. Right-click on the file (with a ZIP extension) you’ve just downloaded to open the context menu. Then click**Extract All…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-375.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. In the pop-up window, click**Browse…** and choose a destination folder where you want to decompress the file. Then, click**Extract** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-376.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Wait till the decompression process finishes. Then**copy** the full path of the destination folder. (The path will be different based on your choice in the last step. )![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-20_15-47-31.png)
 9. On your keyboard, press the **Windows Logo Key** and **R**  at the same time to open the**Run**  box. Type **devmgmt.msc** and click **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap13-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. In the**Device Manager** window, locate your Targus Docking Station and then right-click on it to open the context menu. Select**Update driver** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap14-1.png)
 11. If prompted, click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-384.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 12. **Paste** the full path copied in**Step 8** onto the address bar. Remember to check the **Include subfolders** box. Then hit the **Next** button.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-387.png)
 13. Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
@@ -125,24 +125,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-bite-sized-narrative-notation/"><u>[New] Bite-Sized Narrative Notation</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-much-money-does-mr-beast-make-for-2024/"><u>[New] How Much Money Does Mr. Beast Make for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/access-premium-behringer-audio-drivers-at-no-cost-start-your-free-download/"><u>Access Premium Behringer Audio Drivers at No Cost: Start Your [Free Download]</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amd-radeon-r9-graphics-card-free-driver-downloads-and-step-by-step-installation-guide-for-windows/"><u>AMD Radeon R9 Graphics Card: Free Driver Downloads and Step-by-Step Installation Guide for Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/comprehensive-tutorial-to-get-the-latest-nvme-drivers-on-your-window-pcs/"><u>Comprehensive Tutorial to Get the Latest NVMe Drivers on Your Window PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhance-your-gaming-experience-with-these-fixes-for-gta5s-freezing-problems/"><u>Enhance Your Gaming Experience with These Fixes for GTA5's Freezing Problems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/expert-guide-secure-your-best-performance-with-geforce-rtx-3090-drivers-on-windows/"><u>Expert Guide: Secure Your Best Performance with GeForce RTX 3090 Drivers on Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-nvidia-geforce-rtx-ebytes-for-winodws-1187-driver-downloads-available/"><u>Get the Latest NVIDIA GeForce RTX Ebytes for Winodws 11/8/7 - Driver Downloads Available!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-updated-how-to-install-new-toshiba-drivers-on-your-windows-pc/"><u>Get Updated - How to Install New Toshiba Drivers on Your Windows PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-insignia-ns-pcy5bma2-device-running-smoothly-with-official-windows-driver-downloads/"><u>Get Your Insignia NS-PCY5BMA2 Device Running Smoothly with Official Windows Driver Downloads</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-no-sound-problems-in-apex-legends-quickly/"><u>How to Resolve No Sound Problems in Apex Legends Quickly</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-infinix-smart-8-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Infinix Smart 8 Pro to iPod | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-comprehensible-guide-to-swapping-facial-gender-in-snapchat-images/"><u>In 2024, Comprehensible Guide to Swapping Facial Gender in Snapchat Images</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-and-easy-ways-to-upgrade-your-lenovo-t43ns-drives-on-a-windows-system/"><u>Quick and Easy Ways to Upgrade Your Lenovo T43n's Drives on a Windows System</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-and-simple-guide-how-to-reset-your-windows-11-system/"><u>Quick and Simple Guide: How to Reset Your Windows 11 System</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/seamless-photo-migration-transitioning-images-from-your-previous-iphone-to-the-latest-model/"><u>Seamless Photo Migration: Transitioning Images From Your Previous iPhone to the Latest Model</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722959291405-the-complete-tutorial-on-downloading-and-using-logitech-g910-mouse-drivers-on-your-pc/"><u>The Complete Tutorial on Downloading & Using Logitech G910 Mouse Drivers on Your PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/thrifty-pilots-preferred-picks-under-500-drone-list/"><u>Thrifty Pilots' Preferred Picks Under $500 Drone List</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/win-11-audio-troubleshooting-and-solution/"><u>Win 11 Audio: Troubleshooting and Solution</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-update-how-to-install-the-newest-samsung-m2070-printer-driver-with-simple-steps/"><u>[Latest Update] How to Install the Newest Samsung M2070 Printer Driver with Simple Steps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-eloquentaiartisan-the-ai-empowered-editor/"><u>[New] 2024 Approved EloquentAIArtisan The AI-Empowered Editor</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-bringing-lectures-to-life-effective-editing-techniques/"><u>[Updated] 2024 Approved Bringing Lectures to Life Effective Editing Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-breaking-the-monotony-innovative-yt-playlist-shuffling/"><u>[Updated] In 2024, Breaking the Monotony Innovative YT Playlist Shuffling</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-guide-installing-epson-xp-430-printer-drivers-on-windows-step-by-step-instructions/"><u>Complete Guide: Installing Epson XP-430 Printer Drivers on Windows - Step by Step Instructions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/epson-v700-driver-download-for-windows-71081/"><u>Epson V700 Driver Download for Windows 7/10/8.1</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-logitech-speakers-driver-downloads-compatible-with-windows-10-7-and-8/"><u>Free Logitech Speakers Driver Downloads Compatible with Windows 10, 7 & 8</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-past-expenditure-for-video-games-explored/"><u>Steam's Past Expenditure for Video Games Explored</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-ultimate-step-by-step-tutorial-on-wiping-your-iphone-clean/"><u>The Ultimate Step-by-Step Tutorial on Wiping Your iPhone Clean</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-when-your-hyperx-cloud-alpha-microphone-fails/"><u>Troubleshooting Steps When Your HyperX Cloud Alpha Microphone Fails</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-xiaomi-redmi-k70-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Xiaomi Redmi K70?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Mastering the Art of Multiplying Entire Ranges in Excel"
-date: 2024-08-28T04:34:45.538Z
-updated: 2024-08-29T04:34:45.538Z
+date: 2024-12-05T03:25:28.258Z
+updated: 2024-12-05T21:43:25.618Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/cef699ffd22d6808899594afa50b73f9f6bcef39d
 ---
 
 ## Step-by-Step Guide: Mastering the Art of Multiplying Entire Ranges in Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,13 +25,14 @@ thumbnail: https://thmb.techidaily.com/cef699ffd22d6808899594afa50b73f9f6bcef39d
 
  Microsoft Excel is full of useful features, including those for [performing calculations](https://win-able.techidaily.com/fixing-overwatch-startup-issues-how-to-get-rid-of-the-persistent-black-screen/). If there comes a time when you need to multiply two columns in Excel, there are various methods for doing so. We'll show you how to multiply columns right here.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Multiply a Column in Excel
 
  To multiply columns in Excel, you can use an operator, function, formula, or feature to tackle the task. Let's jump in.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Use the Multiplication Operator
 
  Just like [multiplying a single set of numbers](https://visual-screen-recording.techidaily.com/updated-in-2024-swiftcapture-solutions-w-audio-walkthrough-support/) with the multiplication operator (asterisk), you can do the same for values in columns using the cell references. Then, use the fill handle to [copy the formula](https://extra-tips.techidaily.com/in-2024-converting-personal-memories-from-stillness-to-motion/) to the rest of the column.
@@ -42,9 +47,6 @@ Related: [How to Multiply Numbers in Microsoft Excel](https://visual-screen-reco
 
 ![Formula using the multiplication operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/MultiplicationOperator-ExcelMultiplyColumns.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You can then copy the formula to the remaining cells in the column. Select the cell containing the formula and double-click the fill handle (green square) in the bottom right corner.
 
 ![Fill handle in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/MultiplicationFillHandle-ExcelMultiplyColumns.png) 
@@ -53,9 +55,6 @@ Related: [How to Multiply Numbers in Microsoft Excel](https://visual-screen-reco
 
 ![Formula copied down in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/MultiplicationFilled-ExcelMultiplyColumns.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  If you use absolute [cell references](https://extra-information.techidaily.com/in-2024-chic-coverage-for-your-portable-screen/) instead of relative ones, they will not automatically update when you copy and paste the formula.
 
 ###  Pull in the PRODUCT Function
@@ -70,9 +69,17 @@ Related: [How to Multiply Numbers in Microsoft Excel](https://visual-screen-reco
 
 ![PRODUCT function to multiply two values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/PRODUCTFunction-ExcelMultiplyColumns.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you receive your result, double-click [the fill handle](https://visual-screen-recording.techidaily.com/new-in-2024-top-5-best-hdmi-21-gaming-monitors-ps5-compatible/) or drag it down to fill the rest of the column with your formula. Again, you'll see the relative cell references adjust automatically.
 
 ![Formula for the PRODUCT function copied down](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/PRODUCTFilled-ExcelMultiplyColumns.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Create an Array Formula
 
@@ -91,20 +98,19 @@ Related: [How to Multiply Numbers in Microsoft Excel](https://visual-screen-reco
 ![Array formula using Excel 365](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/ArrayFormula365-ExcelMultiplyColumns.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  For other Excel versions, you use the same formula but apply it a bit differently. Select the output range, enter the array formula in the top-left cell of that range, and then press Ctrl+Shift+Enter.
 
 ![Array formula using other versions of Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/ArrayFormulaOtherExcel-ExcelMultiplyColumns.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll notice curly brackets surround the array formula in this case; however, the results are the same and will fill your output area.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ###  Use the Paste Special Feature
 
  One more way to multiply columns in Excel is with [the Paste Special feature](https://extra-support.techidaily.com/2024-approved-step-by-step-perfectly-sharing-your-photography-on-youtube/). While this method involves a few extra steps, it might just be the one you're most comfortable using.
@@ -130,8 +136,9 @@ Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](h
 ![Paste Special in the shortcut menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/PasteSpecial-ExcelMultiplyColumns.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the pop-up window, leave the default "All" marked in the Paste section and select "Multiply" in the Operation section. Click "OK."
 
 ![Paste Special window with All and Multiply marked](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/PasteSpecialMultiply-ExcelMultiplyColumns.png) 
@@ -140,23 +147,6 @@ Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](h
 
 ![Multiplication results from Paste Special in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/PasteSpecialresults-ExcelMultiplyColumns.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  These different methods for multiplying columns in Excel each work well. So if you're more comfortable using the multiplication operator than the PRODUCT function or prefer the array formula over Paste Special, you'll still get the job done.
 
  For more, check out how to [divide numbers in Microsoft Excel](https://facebook-video-share.techidaily.com/new-in-2024-breaking-through-youtubes-walls-using-advanced-creator-studio-skills/).
@@ -167,8 +157,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +164,24 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-9-rapid-recipes-to-enlarge-your-influential-tiktok-clan/"><u>[New] 9 Rapid Recipes to Enlarge Your Influential TikTok Clan</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-cinematic-brilliance-uncovered-top-filmmaking-secrets/"><u>[New] Cinematic Brilliance Uncovered Top Filmmaking Secrets</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-crafting-a-sturdy-tiktok-bio-with-direct-url-integration/"><u>[Updated] Crafting a Sturdy TikTok Bio with Direct URL Integration</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-empower-everyday-narratives-free-extensions-and-mobile-magic/"><u>[Updated] Empower Everyday Narratives – Free Extensions & Mobile Magic</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-premium-startings-top-16-youtube-videos-that-thrive-in-popularity/"><u>[Updated] Premium Startings Top 16 YouTube Videos That Thrive in Popularity</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-wealth-accumulation-mr-beasts-journey/"><u>2024 Approved Wealth Accumulation Mr. Beast's Journey</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mp4windows-11-2024/"><u>最新MP4再生技術：Windows 11におけるファイル再生方法と解析コツ - 2024年の応用</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/easy-guide-retrieve-deleted-pictures-from-an-sd-card-without-spending-a-penny/"><u>Easy Guide: Retrieve Deleted Pictures From an SD Card Without Spending a Penny</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-brother-mfc-l2740dw-driver-software-for-your-pc-or-laptop-on-windows/"><u>Get the Latest Brother MFC-L2740DW Driver Software for Your PC or Laptop on Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-driver-updates-for-your-msi-b350-tomahawk-on-windows-107-platforms/"><u>Get the Latest Driver Updates for Your MSI B350 Tomahawk on Windows 10/7 Platforms</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-brother-hl-l2380dw-printing-right-with-a-fresh-driver-installation-on-windows-pcs/"><u>Get Your Brother HL-L2380DW Printing Right with a Fresh Driver Installation on Windows PCs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-and-improve-your-canoscan-lide-120-driver-complete-guide/"><u>How to Get and Improve Your CanoScan LiDE 120 Driver – Complete Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-repair-hp-officejet-pro-6978-printer-software-issues-quickly/"><u>How to Repair HP OfficeJet Pro 6978 Printer Software Issues Quickly</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-corsair-icue-software-on-your-pc-free-download-for-windows-11-and-10-users/"><u>Install Corsair iCUE Software on Your PC: Free Download for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722973931828-intel-graphics-4400-driver-update-available-get-it-here/"><u>Intel Graphics 4400 Driver Update Available – Get It Here!</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oneplus-ace-2v-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive OnePlus Ace 2V Screen | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-guide-to-downloading-and-setting-up-soundmax-drivers-in-windows-environment/"><u>Ultimate Guide to Downloading and Setting Up SoundMAX Drivers in Windows Environment</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Text Manipulation: Techniques for Separating Words in Excel"
-date: 2024-08-28T04:35:26.448Z
-updated: 2024-08-29T04:35:26.448Z
+date: 2024-12-01T06:21:36.044Z
+updated: 2024-12-06T08:59:25.853Z
 tags:
   - excel
 categories:
@@ -46,11 +46,19 @@ thumbnail: https://thmb.techidaily.com/5fe7ecb89bcc6e1487d4d4a1019dead48cda049eb
 
 ![TEXTBEFORE function for a basic extraction](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/TEXTBEFOREbasic-ExcelExtractSplitText.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Using this next formula, we'll extract all text before the second instance of the word "text."
 
 =TEXTBEFORE(A2,"text",2)
 
 ![TEXTBEFORE function using an instance](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/TEXTBEFOREinstance-ExcelExtractSplitText.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For one more example, we'll use the `match_mode` argument for a case-sensitive match.
 
@@ -61,8 +69,9 @@ thumbnail: https://thmb.techidaily.com/5fe7ecb89bcc6e1487d4d4a1019dead48cda049eb
 Related: [13 Essential Excel Functions for Data Entry](https://vimeo-videos.techidaily.com/in-2024-high-end-downloads-best-10-apps-for-extracting-vimeo-videos/) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The TEXTAFTER Function
 
  TEXTAFTER is the exact opposite of TEXTBEFORE. The syntax for the function is `TEXTAFTER(text, delimiter, instance, match_mode, match_end, if_not_found)`.
@@ -78,17 +87,15 @@ Related: [13 Essential Excel Functions for Data Entry](https://vimeo-videos.tech
 ![TEXTAFTER function for a basic extraction](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/TEXTAFTERbasic-ExcelExtractSplitText.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Using this next formula, we'll extract all text after the second instance of the word "text."
 
 =TEXTAFTER(A2,"text",2)
 
 ![TEXTAFTER function using an instance](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/TEXTAFTERinstance-ExcelExtractSplitText.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
  And finally, we'll use the `match_mode` argument for a case-sensitive match.
 
 =TEXTAFTER(A2,"TEXT",,0)
@@ -96,11 +103,9 @@ Related: [13 Essential Excel Functions for Data Entry](https://vimeo-videos.tech
 ![TEXTAFTER function using case sensitive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/TEXTAFTERCaseSensitive-ExcelExtractSplitText.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  The TEXTSPLIT Function
 
  With the TEXTSPLIT function you can [split the text](https://fox-glue.techidaily.com/new-in-2024-navigating-the-essentials-of-av1-coders/) into cells in a row or column based on the delimiter, for example, a space or period.
@@ -129,9 +134,6 @@ Related: [How to Split Data Into Multiple Columns in Excel](https://fox-glue.tec
 
 ![TEXTSPLIT function across rows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/TEXTSPLITRows-ExcelExtractSplitText.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For this next example, we'll split only after the semicolon into another column:
 
 =TEXTSPLIT(A2,";")
@@ -154,8 +156,6 @@ Related: [How to Split Data Into Multiple Columns in Excel](https://fox-glue.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +163,18 @@ Related: [How to Split Data Into Multiple Columns in Excel](https://fox-glue.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-emoji-mastery-for-engaging-youtube-discussions-for-2024/"><u>[Updated] Emoji Mastery for Engaging YouTube Discussions for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-rhythm-reviews-sound-innovations/"><u>[Updated] In 2024, Rhythm Reviews Sound Innovations</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-skyrocketing-viewership-youtubes-quintessential-5-marketing-strategies/"><u>[Updated] Skyrocketing Viewership - YouTube's Quintessential 5 Marketing Strategies</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-huion-inspiroy-g10t-graphic-tablet-assessment-high-end-craftsmanship-and-excellent-functionality/"><u>Comprehensive Huion Inspiroy G10T Graphic Tablet Assessment - High-End Craftsmanship & Excellent Functionality</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-guide-updating-battery-driver-software-for-windows-users/"><u>Effortless Guide: Updating Battery Driver Software for Windows Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977283997-get-your-behringer-usb-audio-cable-drivers-today-download-and-learn-easily/"><u>Get Your Behringer USB Audio Cable Drivers Today – Download & Learn Easily!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock From iPhone 13 Pro?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-updated-canon-mx490-driver-on-your-windows-machine-easily/"><u>Install Updated Canon MX490 Driver on Your Windows Machine Easily</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/newest-free-realtek-bluetooth-drivers-available-now-compatible-with-windows-11-and-windows-10/"><u>Newest Free RealTek Bluetooth Drivers Available Now: Compatible with Windows 11 & Windows 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/newest-geforce-rtx-2080-drivers-compatible-with-windows-10-7-and-8/"><u>Newest GeForce RTX 2080 Drivers: Compatible with Windows 10, 7 & 8</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-chrome-file-downloads-issue-in-windows/"><u>Resolving Chrome File Downloads Issue in Windows</u></a></li>
+</ul></div>
 

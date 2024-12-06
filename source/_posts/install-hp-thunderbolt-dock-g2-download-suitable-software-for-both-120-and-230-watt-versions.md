@@ -1,7 +1,7 @@
 ---
 title: Install HP Thunderbolt Dock G2 - Download Suitable Software for Both 120 and 230 Watt Versions
-date: 2024-11-21T16:12:17.232Z
-updated: 2024-11-26T17:07:30.416Z
+date: 2024-12-01T08:57:28.680Z
+updated: 2024-12-05T16:49:40.856Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## To update your Thunderbolt drivers
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326c
 2. [**Update your Thunderbolt drivers automatically**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Download the Thunderbolt drivers from your device manufacturer website
@@ -46,7 +46,7 @@ You can download your Thunderbolt drivers from your device manufacturer website 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29c6b4ddf40.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Go to the product driver download page, then download the correct and latest Thunderbolt drivers to your computer.
@@ -56,7 +56,7 @@ You can download your Thunderbolt drivers from your device manufacturer website 
 **3)**Open the downloaded file and follow the on-screen instructions to install it on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update your Thunderbolt drivers automatically
@@ -65,13 +65,13 @@ If you don’t have the time, patience or skills to update the Thunderbolt drive
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a66b4a3dfe.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the **Update**  button next to your _Thunderbolt device_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29c95e8c019.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’ve updated your driver with Driver Easy but your driver issues persist, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
 
@@ -92,22 +92,20 @@ If you don’t have the time, patience or skills to update the Thunderbolt drive
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-nextgen-video-havens-step-away-from-youtube/"><u>[New] In 2024, NextGen Video Havens - Step Away From YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-perfect-pitch-in-words-crafting-captivating-podcast-episodes/"><u>[New] Perfect Pitch in Words Crafting Captivating Podcast Episodes</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-splitcam-review-does-it-reign-supreme-in-video-tech-for-2024/"><u>[New] SplitCam Review Does It Reign Supreme in Video Tech for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-audio-alchemy-instagram-video-to-mp3-a-compreayers-guide/"><u>[Updated] In 2024, Audio Alchemy Instagram Video to Mp3 - A Compreayer's Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-virtual-horizons-inspirational-metaverse-insights-arvr-for-2024/"><u>[Updated] Virtual Horizons Inspirational Metaverse Insights [AR/VR] for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/delving-into-new-technological-breakthroughs-on-toms-hardware/"><u>Delving Into New Technological Breakthroughs on Tom's Hardware</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/downloading-the-latest-version-of-magicard-rio-pro-driver-now-supports-win10-8-and-7/"><u>Downloading the Latest Version of Magicard Rio Pro Driver – Now Supports Win10, 8 & 7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fix-hp-monitor-driver-issues-on-windows-1087/"><u>Fix HP Monitor Driver Issues on Windows 10/8/7</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-infinix-note-30-vip-racing-edition-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Infinix Note 30 VIP Racing Edition To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/installing-hp-deskjet-2600-printer-drivers-on-windows-os-versions-7-8-and-10/"><u>Installing HP Deskjet 2600 Printer Drivers on Windows OS Versions: 7, 8, and 10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/instant-setup-microsoft-wireless-mouse-5000-download-and-install-drivers-today/"><u>Instant Setup: Microsoft Wireless Mouse 5000 – Download & Install Drivers Today</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-sas-software-installation-manual-for-windows-users-win10-win8-win7/"><u>Latest SAS Software Installation Manual for Windows Users (Win10, Win8, Win7)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mac-users-rejoice-how-to-refresh-your-dns-records-easily/"><u>Mac Users Rejoice: How To Refresh Your DNS Records Easily</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/solution-an-elevated-white-blood-cell-count-leukocytosis-can-be-seen-due-to-the-inflammatory-response-to-the-viral-infection/"><u>Solution: An Elevated White Blood Cell Count (Leukocytosis) Can Be Seen Due to the Inflammatory Response to the Viral Infection.</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-on-secure-downloading-of-amd-ryzen-drivers-with-easy-upgrades/"><u>Step-by-Step Tutorial on Secure Downloading of AMD Ryzen Drivers with Easy Upgrades</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-arbitration-process-can-be-tailored-to-fit-the-needs-of-the-parties-involved-allowing-for-flexibility-in-scheduling-and-procedural-rules/"><u>The Arbitration Process Can Be Tailored to Fit the Needs of the Parties Involved, Allowing for Flexibility in Scheduling and Procedural Rules.</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-complimentary-digital-assets-for-creative-makers-updated-list-massmail/"><u>Top Complimentary Digital Assets for Creative Makers - Updated List | MassMail</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-lasting-eradication-strategy-for-youtube-shorts-feature/"><u>[New] 2024 Approved Lasting Eradication Strategy for YouTube Shorts Feature</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-unlock-the-potential-tutorial-on-enabling-speech-transcription-in-powerpoint/"><u>[Updated] 2024 Approved Unlock the Potential Tutorial on Enabling Speech Transcription in PowerPoint</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-leading-7-android-apps-to-cut-out-intrusive-ads/"><u>2024 Approved The Leading 7 Android Apps to Cut Out Intrusive Ads</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-setup-how-to-get-high-quality-keyboard-drivers-for-windows-7-systems/"><u>Effortless Setup: How to Get High-Quality Keyboard Drivers for Windows 7 Systems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/facebooks-360-livestream-a-complete-comprehensive-guide/"><u>Facebook's 360 Livestream A Complete Comprehensive Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211438562-9781789295818-haunted-world/"><u>Haunted World | Free Book</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-altering-gender-display-in-digital-photographs-step-by-step-guide/"><u>In 2024, Altering Gender Display in Digital Photographs Step by Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installing-wacom-intuos-3-drives-on-windows-ensure-complete-work-performance-software-update/"><u>Installing Wacom Intuos 3 Drives on Windows: Ensure Complete Work Performance [Software Update]</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-access-installing-thrustmaster-t150-controllers-software/"><u>Quick Access: Installing Thrustmaster T150 Controllers' Software</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-critical-development-bugs-in-call-of-duty-modern-warfare-and-warzone/"><u>Resolving Critical Development Bugs in Call of Duty Modern Warfare and Warzone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/say-goodbye-to-automatic-dates-in-microsoft-excel/"><u>Say Goodbye to Automatic Dates in Microsoft Excel!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-connection-with-up-to-date-netgear-a6210-driver-software-for-windows-platforms-87/"><u>Seamless Connection with Up-to-Date Netgear A6210 Driver Software for Windows Platforms 8/7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-auto-start-issues-the-reasons-behind-unexpected-windows-10-power-ups/"><u>Solving Auto-Start Issues: The Reasons Behind Unexpected Windows 10 Power-Ups</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/steps-for-updating-your-microsoft-mouse-drivers-on-a-windows-pc/"><u>Steps for Updating Your Microsoft Mouse Drivers on a Windows PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-solution-for-fixing-network-device-drivers-on-windows-7-systems/"><u>The Ultimate Solution for Fixing Network Device Drivers on Windows 7 Systems</u></a></li>
 </ul></div>
 

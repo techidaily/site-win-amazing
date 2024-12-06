@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Effective Techniques for Importing/Exporting Contacts Between Microsoft Outlook & Google Mail"
-date: 2024-08-28T04:35:02.483Z
-updated: 2024-08-29T04:35:02.483Z
+date: 2024-12-01T09:44:29.656Z
+updated: 2024-12-05T21:41:39.219Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 ---
 
 ## Comprehensive Guide: Effective Techniques for Importing/Exporting Contacts Between Microsoft Outlook & Google Mail
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -44,9 +48,17 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/05_save_as_dialog_box.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When the export is finished, you can open the exported .CSV file in Excel and manipulate itby adding addresses, phone numbers, email addresses, and other information that will help round out your address book. While this is an optional step, it’s nice to be able to go through and make your contacts neat and consistent.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/06_contacts_open_in_excel.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you’re ready, it’s time to import your shiny new contacts file into Outlook. Open Outlook and click the “File” tab.
 
@@ -68,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/11_clicking_browse.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the Browse dialog box, navigate to the folder where you saved the .csv file, select the file, and then click the “OK” button.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/12_selecting_csv_file.png) 
@@ -75,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
  Under Options, decide whether or not you want duplicates to be imported. You can save yourself time later by selecting “Do not import duplicate items” now. Click the “Next” button.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/13_do_not_duplicate_clicking_next.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select “Contacts” in the Select destination folder box under the email account where you want to save your contacts. Then, click the “Next” button.
 
@@ -84,11 +104,19 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/14a_clicking_map_custom_fields_import_outlook.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What does it mean to map custom fields? Simply, some of the fields in .csv file that came from Gmail might not match the destination address book you’re importing to, which means you'll need to "map" them. As the dialog explains, you need to drag the value in the .csv file on the right, to the field in Outlook on the left that most closely resembles it.
 
  When you’re done mapping fields, click the “OK” button.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/14b_map_custom_fields_dialog_import_outlook.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, click the “Finish” button to complete the import process.
 
@@ -101,6 +129,10 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
  Your Gmail contacts are now available in Outlook.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/17_contacts_imported_into_outlook.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, you can go through and edit to your heart’s content, adding images, mailing addresses, secondary phone numbers, and any other bits of information you think are important and relevant.
 
@@ -118,9 +150,6 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/20_export_to_a_file_outlook_orig.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  Select “Comma Separated Values” and click the “Next” button.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/21_comma_separated_values_for_export.png) 
@@ -129,9 +158,6 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/22_selecting_contacts_for_export.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  Now, we need to choose a location and specify a name for the exported file, so click the “Browse” button.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/23_clicking_browse_for_export.png) 
@@ -140,25 +166,14 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/24_saving_csv_file.png) 
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click the “Next” button to continue.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/25_save_exported_file_as_clicking_next.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The last screen on the Export to a File dialog box shows you what's about to happen ("Export 'Contacts' from folder: Contacts") and offers you the opportunity to map any custom fields you might have created in Outlook.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/26_clicking_map_custom_fields.png) 
@@ -169,9 +184,6 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/27_map_custom_fields_dialog.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  Click the "Finish" button to complete the export process.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/28_clicking_finish.png) 
@@ -188,22 +200,18 @@ thumbnail: https://thmb.techidaily.com/84120ce1dd040ef96ca974489513e09e6fd38ddc4
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/31_clicking_go_to_the_old_version_import.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
  On the Contacts screen, click the "More" button and select "Import" from the dropdown.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/32_selecting_import.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click the "Choose File" button on the Import contacts dialog box.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/33_clicking_choose_file.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
  On the Open dialog box, navigate to the folder where you saved the .csv file from Outlook, select the file, and then click the “Open” button.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/34_opening_csv_file_for_import.png) 
@@ -212,25 +220,16 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/35_clicking_import.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Your newly imported contacts won't be merged into your main contacts list---at least not in Gmail---instead, they'll get their own group.
 
  NOTE: If you don’t see your contacts listed yet, refresh the web page.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/36_imported_contacts.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you click on the group of imported contacts, you'll be able to merge them and delete duplicates. It might take a little time to clean them all up, but if things are a total mess, then you can always remove your imported contacts, return to Outlook, and perform the process again, this time either using the map fields function or Excel to fix the problems.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/37_clicking_find_and_merge_duplicates.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  You now have an address book full of contacts that you can immediately start emailing. That said, this is a one-time deal, meaning that when you start making changes to the contacts in one email client or service, the other client or service won't reflect the changes.
 
 <ins class="adsbygoogle"
@@ -239,8 +238,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -248,4 +245,24 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-ultimate-6-contemporary-mojave-home-layouts/"><u>[New] 2024 Approved Ultimate 6 Contemporary Mojave Home Layouts</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-purefocuserase-professionally-crafted-photo-editor/"><u>[New] PureFocusErase Professionally Crafted Photo Editor</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-insights-into-crafting-responses-to-youtube-comments/"><u>[Updated] 2024 Approved Insights Into Crafting Responses to YouTube Comments</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-elevate-presents-prime-online-retailers-for-personalized-wrapped-goodies/"><u>[Updated] In 2024, Elevate Presents Prime Online Retailers for Personalized Wrapped Goodies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-uncover-youtubes-preview-disabling-secret/"><u>2024 Approved Uncover YouTube's Preview Disabling Secret</u></a></li>
+<li><a href="https://games-able.techidaily.com/choosing-between-the-nintendo-switch-and-nintendo-switch-oled-a-comprehensive-guide-zdnet/"><u>Choosing Between the Nintendo Switch and Nintendo Switch OLED: A Comprehensive Guide | ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-guide-and-download-for-am4-platform-drivers-ryzen-edition/"><u>Complete Guide & Download for AM4 Platform Drivers – Ryzen Edition</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-intel-iris-xe-graphics-655-drivers-for-windows-11/"><u>Download Intel Iris Xe Graphics 655 Drivers for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-microsoft-store-issue-code-0x80073cf3-on-win1111/"><u>Fixing Microsoft Store Issue Code 0X80073CF3 on Win11/11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-dell-usb-c-to-hdmi-cable-and-adapter-with-wireless-charging-compatible-with-winmac/"><u>Free Dell USB-C to HDMI Cable & Adapter with Wireless Charging - Compatible with Win/Mac</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guide-how-to-update-asus-motherboard-drivers-in-windows/"><u>Guide: How to Update ASUS Motherboard Drivers in Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-repair-and-prevent-ntfssys-related-blue-screen-errors-in-windows-11/"><u>How to Repair and Prevent ntfs.sys-Related Blue Screen Errors in Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-deskjet-ink-advantage-3752e-printer-software-download-latest-version/"><u>HP Deskjet Ink Advantage 3752E Printer Software Download – Latest Version</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-print-setup-brother-printer-driver-software-for-mfc-l2700dw-on-windows-systems/"><u>Seamless Print Setup: Brother Printer Driver Software for MFC-L2700DW on Windows Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-your-dell-laptops-e64latitudehttpsshop-linkscolinkexclusive1andpublisherslugitechdaily19598andurlhttps3a2f2fwwwdellcom2fen-au2fs323/"><u>Step-by-Step Guide: Updating Your Dell Laptop's E64^[Latitude](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https://www.dell.com/en-au/shop/productdetail/laptops/latitude-13-5000/-laptop-laptop)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/windows-7-mouse-driver-download-and-installation-guide-errors-resolved/"><u>Windows 7 Mouse Driver Download and Installation Guide - Errors Resolved</u></a></li>
+</ul></div>
 

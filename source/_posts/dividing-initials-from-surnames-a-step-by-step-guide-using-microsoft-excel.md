@@ -1,7 +1,7 @@
 ---
 title: "Dividing Initials From Surnames: A Step-by-Step Guide Using Microsoft Excel"
-date: 2024-08-28T04:35:07.142Z
-updated: 2024-08-29T04:35:07.142Z
+date: 2024-11-29T21:05:49.925Z
+updated: 2024-12-05T18:46:59.601Z
 tags:
   - excel
 categories:
@@ -19,10 +19,18 @@ thumbnail: https://thmb.techidaily.com/d4011b13ce09e30b67e00ca49a12c263fc568d55d
 
  Have you got a list of full names that need to be divided into first and last names in separate columns? It's easy to do that, thanks to Microsoft Excel's built-in options. We'll show you how to perform that separation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Table of Contents
 
 * **[Separate First and Last Names When There Are No Middle Names](https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-honor-90-drfone-by-drfone-virtual-android/)**
 * **[Separate First and Last Names When There Are Middle Names](https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-iphone-13-pro-max-by-drfone-ios/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Split First and Last Names Into Different Columns
 
@@ -32,16 +40,21 @@ thumbnail: https://thmb.techidaily.com/d4011b13ce09e30b67e00ca49a12c263fc568d55d
 
 ![An Excel spreadsheet with full names of people.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/1-full-names-excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  First, we'll select all the full names that we want to separate. We will not select any column headers or Excel will separate them as well.
 
 ![Select all names in the spreadsheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/2-select-all-names.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In Excel's ribbon at the top, we'll click the "Data" tab. In the "Data" tab, we'll click the "Text to Columns" option.
 
 ![Click "Text to Columns" in the "Data" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/3-text-to-columns.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A "Convert Text to Columns Wizard" window will open. Here, we'll select "Delimited" and then click "Next."
 
@@ -59,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/d4011b13ce09e30b67e00ca49a12c263fc568d55d
 
 ![Clear the "Destination" field's contents and click the up-arrow icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/6-name-destination.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Since we want to display the first name in the C column and the last name in the D column, we'll click the C2 cell in the spreadsheet. Then we'll click the down-arrow icon.
 
 ![Click the C2 cell and then click the down-arrow icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/7-select-first-name-cell.png) 
@@ -71,18 +80,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Click "Finish" at the bottom of the "Convert Text to Columns Wizard" window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/8-finish-text-to-columns.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And that's all. The first and last names are now separated from your full name cells.
 
 ![First and last names separated in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/9-first-last-names-separated.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 Related: [How to Use Text to Columns Like an Excel Pro](https://ios-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-apple-iphone-14-pro-for-parents-drfone-by-drfone-virtual-ios/) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Separate First and Last Names With Middle Names
 
  If your spreadsheet has middle names in addition to first and last names, use Excel's Flash Fill feature to quickly separate the first and last names. To use this feature, you must be using Excel 2013 or later, as earlier versions don't support this feature.
@@ -91,32 +98,20 @@ Related: [How to Use Text to Columns Like an Excel Pro](https://ios-location-tra
 
 ![First, middle, and last names in an Excel spreadsheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/10-first-middle-last-names.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To start, we'll click the C2 cell where we want to display the first name. Here, we'll manually type the first name of the B2 record. In this case, the first name will be "Mahesh."
 
  You can use Flash Fill with middle names, too. In this case, type the first and the middle name in the "First Name" column and then use the Flash Fill option.
 
 ![Click the C2 cell and manually enter the first name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/11-enter-first-name.png) 
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We'll now click the D2 cell and manually type the last name of the record in the B2 cell. It will be "Makvana" in this case.
 
 ![Click the D2 cell and manually enter the last name.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/12-enter-last-name.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  To activate Flash Fill, we'll click the C2 cell where we manually entered the first name. Then, in Excel's ribbon at the top, we'll click the "Data" tab.
 
 ![Click the "Data" tab in Excel's ribbon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/13-excel-data-tab.png) 
@@ -125,23 +120,18 @@ Related: [How to Use Text to Columns Like an Excel Pro](https://ios-location-tra
 
 ![Select "Flash Fill" in the "Data" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/14-excel-flash-fill.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  And instantly, Excel will automatically separate the first name for the rest of the records in your spreadsheet.
 
 ![First names separated in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/15-first-names-separated.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To do the same for the last name, we'll click the D2 cell. Then, we'll click the "Data" tab and select the "Flash Fill" option. Excel will then automatically populate the D column with the last names separated from the records in the B column.
 
 ![Last names separated in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/16-last-names-separated.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And that's how you go about rearranging the names in your Excel spreadsheets. Very useful! If you ever need to do the opposite, learn [the many ways you can combine first and last names in Excel](https://article-helps.techidaily.com/updated-2024-approved-elevate-your-drone-game-with-top-tier-lipo-tech/).
 
 ---
@@ -156,8 +146,6 @@ Related: [How to Make One Long Column into Multiple Columns in Excel](https://ti
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +153,24 @@ Related: [How to Make One Long Column into Multiple Columns in Excel](https://ti
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-fb-video-grabber-hq-download-guide/"><u>[New] 2024 Approved FB Video Grabber HQ Download Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-stand-out-with-visual-flair-bordered-video-tutorials/"><u>[New] In 2024, Stand Out with Visual Flair Bordered Video Tutorials</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-redesigned-look-at-s3700-sony-entertainment-for-2024/"><u>[Updated] Redesigned Look at S3700 Sony Entertainment for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-syncing-socials-a-step-by-step-guide-to-linking-instagram-and-tiktok/"><u>2024 Approved Syncing Socials A Step-by-Step Guide to Linking Instagram and TikTok</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-logitechs-professional-driving-force-gamepad-software-for-all-windows-versions/"><u>Download Logitech's Professional Driving Force Gamepad Software for All Windows Versions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-download-updated-printer-driver-for-hp-officejet-pro-n9015/"><u>Easy Download: Updated Printer Driver for HP OfficeJet Pro N9015</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722976360206-get-the-latest-gigabyte-audio-software-at-no-cost-download-now/"><u>Get the Latest Gigabyte Audio Software at No Cost - Download Now!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-movie-maker-an-animators-best-friend-for-2024/"><u>Harnessing the Power of Movie Maker An Animator’s Best Friend for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-correctly-pair-your-samsung-galaxy-tab-2015-260ci-with-a-pc-via-usb/"><u>How to Correctly Pair Your Samsung Galaxy Tab 2015 (260Ci) With a PC via USB</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-instant-thumbnail-transformation-personalized-youtube-shorts-in-a-flash/"><u>In 2024, Instant Thumbnail Transformation Personalized YouTube Shorts in a Flash</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-the-windows-upgrade-maze-step-by-step/"><u>In 2024, Navigating the Windows Upgrade Maze Step by Step</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nokia-xr21-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Nokia XR21 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/new-version-release-enhanced-support-for-wireless-pointing-devices-with-hid-standard/"><u>New Version Release: Enhanced Support for Wireless Pointing Devices with HID Standard</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simplified-process-for-downloading-and-installing-the-compatible-epson-et-4550-drivers-for-windows-users/"><u>Simplified Process for Downloading & Installing the Compatible Epson ET-4550 Drivers for Windows Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tech-time-capsule-windows-11-transformed-into-98/"><u>Tech Time Capsule: Windows 11 Transformed Into 98</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-tips-update-and-repair-your-logitech-f710-driver-on-various-windows-versions/"><u>Troubleshooting Tips: Update and Repair Your Logitech F710 Driver on Various Windows Versions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-guide-install-logitech-driving-force-steering-wheel-on-windows-7810-enhance-your-fpsown-race-experience/"><u>Ultimate Guide: Install Logitech Driving Force Steering Wheel on Windows 7/8/10 - Enhance Your FPSOwn Race Experience</u></a></li>
+</ul></div>
 

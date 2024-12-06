@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Crafting a Pivot Table with Microsoft Excel"
-date: 2024-08-28T04:34:39.748Z
-updated: 2024-08-29T04:34:39.748Z
+date: 2024-11-29T02:09:40.376Z
+updated: 2024-12-05T23:15:25.332Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/d91a8e4d3e328994798cbf4d4f5c1573225bbff13
 ---
 
 ## Step-by-Step Guide: Crafting a Pivot Table with Microsoft Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,18 +34,12 @@ Related: [How to Use Pivot Tables to Analyze Excel Data](https://fake-location.t
 
  Microsoft uses "PivotTables" as a single word in its documentation and interfaces surrounding "pivot tables." So, you may see both terms as you use the application, and we'll include both in this tutorial as applicable.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Make a Basic Pivot Table in Excel
 
  To get started, [select your data](https://buynow-tips.techidaily.com/exploring-a-ravaged-world-on-motorcycle-in-days-gone-our-comprehhavis-review/). You can create a pivot table from a range of cells or an existing table structure. Just make sure that you have a row of headers at the top and no empty columns or rows.
 
  You then have two ways to make the pivot table. You can use one of Excel's recommended PivotTables or create the table yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ###  Use a Recommended PivotTable
 
  Just like [inserting a graph in Excel](https://technical-tips.techidaily.com/top-techniques-for-enhancing-photo-quality-on-your-ios-device/) with the recommended chart options, you can do the same with a pivot table. Excel then reviews your data for tables that fit.
@@ -51,19 +49,25 @@ Related: [How to Use Pivot Tables to Analyze Excel Data](https://fake-location.t
 ![Click Recommended PivotTables](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/InsertRecommendedPivotTables-ExcelCreatePivotTable.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When the window opens, you'll see several pivot tables on the left. Select one to see a preview on the right. If you see one you want to use, choose it and click "OK."
 
 ![Recommended pivot tables](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/RecommendedPivotTables-ExcelCreatePivotTable.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A new sheet will open with the pivot table you picked. You'll also see the PivotTable Fields sidebar on the right which allows you to edit the table, which we explain below.
 
 ![Inserted recommended pivot table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/UseRecommendedPivotTable-ExcelCreatePivotTable.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Make Your Own Pivot Table
 
  If you want to dive right in and create your own pivot table instead, go to the Insert tab and pick "PivotTable" in the ribbon.
@@ -71,8 +75,9 @@ Related: [How to Use Pivot Tables to Analyze Excel Data](https://fake-location.t
 ![Click PivotTable to make your own](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/InsertPivotTable-ExcelCreatePivotTable.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll see a window appear for PivotTable From Table or Range. At the top, confirm the data set in the Table/Range box. Then, decide if you want the table in a new worksheet or your existing one. For analyzing multiple tables, you can check the box to add it to the Data Model. Click "OK."
 
 ![Pivot table setup box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/PivotTableFromRange-ExcelCreatePivotTable.png) 
@@ -82,9 +87,9 @@ Related: [How to Use Pivot Tables to Analyze Excel Data](https://fake-location.t
 ![Pivot table sidebar to build the table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/BuildPivotTable-ExcelCreatePivotTable.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Build or Edit the Pivot Table
 
  Using the PivotTable Fields sidebar, start by choosing the fields at the top you want to include by checking the boxes.
@@ -103,9 +108,6 @@ Related: [How to Change Date Formats in Microsoft Excel](https://video-capture.t
 
 ![Field moved to a different box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/MoveMonthField-ExcelCreatePivotTable.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you have more than one field in a box, the order determines the placement in the pivot table as well. In this example, we have Department first and Location second in the Rows box which is how they're grouped in the table.
 
 ![Rows box order](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/RowOrder-ExcelCreatePivotTable.png) 
@@ -115,15 +117,13 @@ Related: [How to Change Date Formats in Microsoft Excel](https://video-capture.t
 ![Rows box order](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/RowOrder-ExcelCreatePivotTable.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Because you can move the fields between the boxes with simple drag-and-drop actions, this allows you to easily find the best fit for your [data analysis](https://youtube-docs.techidaily.com/-of-wisdom-youtube-tvs-unique-selling-points-for-2024/).
 
 Related: [How to Use Excel's "Quick Analysis" to Visualize Data](https://youtube-docs.techidaily.com/-of-wisdom-youtube-tvs-unique-selling-points-for-2024/) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ##  Filter or Sort the Pivot Table
 
  The perks of [using a table in Excel](https://instagram-videos.techidaily.com/updated-2024-approved-how-to-convert-your-best-videography-into-melodic-mp3s-insta/) include the ability to [filter and sort](https://facebook-video-share.techidaily.com/free-audio-treasures-to-amplify-youtube-in-2024/) your data as needed. Pivot tables offer these same functions.
@@ -131,6 +131,10 @@ Related: [How to Use Excel's "Quick Analysis" to Visualize Data](https://youtube
  You'll see filters built-in for your first column and depending on your data arrangement, maybe more than one column. To apply a filter to the column, click the filter button next to the header and choose how to filter the data as you normally would in an Excel table.
 
 ![Filter a column in the pivot table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/FilterColumn-ExcelCreatePivotTable.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To sort, click the button and select a sort option.
 
@@ -146,9 +150,6 @@ Related: [How to Use Excel's "Quick Analysis" to Visualize Data](https://youtube
 
 ![Table filter applied](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/FilterTable-ExcelCreatePivotTable.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  To remove this higher-level table filter, simply drag the field out of the Filter box in the sidebar.
 
  Well, there you have it! The bare-bones basics you need to create a pivot table in Excel. Hopefully this how-to gets you off to a great start with your own pivot table!
@@ -161,8 +162,6 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +169,24 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/fixed-no-sound-on-windows-11-quickly-and-easily/"><u>[Fixed] No Sound on Windows 11 - Quickly & Easily</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-snapquarter-testimony/"><u>[Updated] In 2024, SnapQuarter Testimony</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-maximize-your-gameplay-the-funimate-way/"><u>[Updated] Maximize Your Gameplay - The Funimate Way</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/an-s-n-curve-represents-the-relationship-between-stress-amplitude-and-cycles-to-failure-for-a-material-under-fatigue-loading/"><u>An S-N Curve Represents the Relationship Between Stress Amplitude and Cycles to Failure for a Material Under Fatigue Loading.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/controlling-ai-alignment-with-global-norms/"><u>Controlling AI Alignment with Global Norms</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-of-epson-xp-410-printer-drivers-on-pcs-with-windows-os/"><u>Easy Installation of Epson XP-410 Printer Drivers on PCs with Windows OS</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/establish-kid-safe-digital-boundaries-with-yls-step-by-step-parental-control-tutorial/"><u>Establish Kid-Safe Digital Boundaries with YL's Step-by-Step Parental Control Tutorial</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-nokia-c32-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Nokia C32 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-steelseries-mouse-software-latest-version-available-here/"><u>Install SteelSeries Mouse Software - Latest Version Available Here</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-art-of-idevice-keyboards-resolve-these-6-frequent-problems-now/"><u>Mastering the Art of iDevice Keyboards: Resolve These 6 Frequent Problems Now!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-your-productivity-the-complete-guide-to-installing-logitech-mx-master-drivers/"><u>Mastering Your Productivity: The Complete Guide to Installing Logitech MX Master Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolving-issues-a-comprehensive-guide-to-get-and-enable-elan-smbus-driver-on-your-windows-pc/"><u>Resolving Issues: A Comprehensive Guide to Get & Enable ELAN SMBus Driver on Your Windows PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-vr-detection-issues-6-fixes-you-need-to-try/"><u>Steam VR Detection Issues: 6 Fixes You Need to Try</u></a></li>
+<li><a href="https://win11.techidaily.com/turbo-tune-up-discover-windows-best-speed-solutions/"><u>Turbo Tune-Up: Discover Windows' Best Speed Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-amd-gpu-drivers-for-enhanced-performance-on-windows-10117/"><u>Update Your AMD GPU Drivers for Enhanced Performance on Windows 10/11/7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722976314241-updated-epson-wf-2630-drivers-seamless-printing-on-windows-operating-systems-download-now/"><u>Updated Epson WF-2630 Drivers: Seamless Printing on Windows Operating Systems - Download Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/x230-lenovo-driver-download-fast-and-simple-installation-guide/"><u>X230 Lenovo Driver Download: Fast and Simple Installation Guide</u></a></li>
+</ul></div>
 

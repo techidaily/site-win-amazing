@@ -1,7 +1,7 @@
 ---
 title: "Driver Setup for Lenovo Legion 5 Pro Laptop: Guide for Model N5, ACCH6"
-date: 2024-11-21T20:27:12.569Z
-updated: 2024-11-26T19:11:46.170Z
+date: 2024-12-03T11:40:10.100Z
+updated: 2024-12-05T18:07:46.401Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to update your Intel NVMe driver
@@ -41,7 +41,7 @@ There are two ways you can update your driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 1 – Update the driver manually
@@ -50,12 +50,16 @@ There are two ways you can update your driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-162.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file (usually with the EXE extension) and follow the on-screen instructions to install the driver.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Intel NVMe driver
@@ -71,11 +75,7 @@ There are two ways you can update your driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update yourIntel NVMe driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-163.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -110,16 +110,21 @@ There are two ways you can update your driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-enrich-viewers-experience-a-comprehensive-guide-to-youtube-end-screens/"><u>[New] 2024 Approved Enrich Viewers' Experience A Comprehensive Guide to Youtube End Screens</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-non-retweeting-video-tweets-from-your-phone/"><u>[Updated] In 2024, Non-Retweeting Video Tweets From Your Phone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-enhancing-images-made-simple-a-newbies-guide-to-lunapic/"><u>2024 Approved Enhancing Images Made Simple A Newbie’s Guide to LunaPic</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-guide-to-installing-lenovo-thinkpad-t430-drivers-on-windows-1187-systems/"><u>Complete Guide to Installing Lenovo ThinkPad T430 Drivers on Windows 11/8/7 Systems</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-review-of-the-hp-chromebook-11-perfect-for-schooling-office-tasks-and-leisure-activities/"><u>Comprehensive Review of the HP Chromebook 11: Perfect for Schooling, Office Tasks, and Leisure Activities</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-integration-nahimic-audio-driver-update-and-setup-tips/"><u>Effortless Integration: Nahimic Audio Driver Update and Setup Tips</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experts-rate-the-samsung-galaxy-note-9-as-premium-big-screen-marvel/"><u>Experts Rate the Samsung Galaxy Note 9 as Premium Big-Screen Marvel</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-canon-mp560-drivers-seamless-downloading-and-updating-process/"><u>Get the Latest Canon MP560 Drivers: Seamless Downloading & Updating Process</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/guide-to-update-and-solve-driver-conflicts-corsair-h115i-for-w8w10w11/"><u>Guide to Update and Solve Driver Conflicts: Corsair H115i for W8/W10/W11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hassle-free-download-and-installation-of-asus-touchpad-software-for-microsoft-windows-11-systems/"><u>Hassle-Free Download & Installation of ASUS Touchpad Software for Microsoft Windows 11 Systems</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-nokia-c110-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Nokia C110 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-top-value-360-cameras-delivering-cost-effective-coverage/"><u>[New] 2024 Approved Top Value 360° Cameras Delivering Cost-Effective Coverage</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-craft-your-story-aspect-ratios-for-powerful-yt-thumbnails-for-2024/"><u>[New] Craft Your Story Aspect Ratios for Powerful YT Thumbnails for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-extensive-overview-the-google-podcast-experience/"><u>[New] Extensive Overview The Google Podcast Experience</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-ginger-islet-simplified-for-stardew-gamers/"><u>[Updated] 2024 Approved Ginger Islet Simplified for Stardew Gamers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-uncovering-10-premier-youtube-sources-for-history-buffs/"><u>[Updated] 2024 Approved Uncovering 10 Premier YouTube Sources for History Buffs</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-in-class-analyzing-the-differences-between-apple-tv-4k-and-roku-ultra/"><u>Best in Class? Analyzing the Differences Between Apple TV 4K and Roku Ultra</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/come-iniziare-a-usare-google-meet-manuale-di-installazione-e-configurazione-dettagliata/"><u>Come Iniziare a Usare Google Meet: Manuale Di Installazione E Configurazione Dettagliata</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/convertissez-votre-fichier-audio-asf-en-format-wav-sans-frais-solution-rapide-de-movavi/"><u>Convertissez Votre Fichier Audio ASF en Format WAV Sans Frais - Solution Rapide De Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/efficient-methods-for-converting-your-cd-collection-into-mp3-format/"><u>Efficient Methods for Converting Your CD Collection Into MP3 Format</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-reboot-to-renaissance-instagrams-potential-return/"><u>From Reboot to Renaissance: Instagram's Potential Return</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-intova-edge-x-a-deep-dive-into-video-capture/"><u>In 2024, Intova Edge X A Deep Dive Into Video Capture</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1726222343325-m4b-aac-movavi/"><u>M4B 파일에서 AAC로 바꾸기: 온라인 무료 액세스가 가능하는 Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavi-video-converter-windows/"><u>Movavi Video Converter Windows 操作手冊 - 步驟指南</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavi-m4awebm/"><u>Movavi를 통해 인터넷을 통해 무료로 M4A/WEBM 애비 혼합 유지 보관: 가장 우아한 전자 음악 변환기</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/online-avi-konverzerence-s-bedzinova-sadly-proti-serialu-movavicz-bezplatovy/"><u>Online AVI Konverzerence S Bedžinova Sádly Proti Sériálu movavi.cz, Bezplaťový</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-choosing-the-ideal-sd-card-for-your-camera/"><u>Ultimate Guide: Choosing the Ideal SD Card for Your Camera</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Desired Upgrades: 5 Ways Excel Can Be Better"
-date: 2024-08-28T04:35:04.830Z
-updated: 2024-08-29T04:35:04.830Z
+date: 2024-12-01T12:16:54.394Z
+updated: 2024-12-06T05:34:15.837Z
 tags:
   - excel
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
 
  Let me set the record straight from the start—I'm a big fan of Excel. It's great for creating and organizing information, which is why I use it daily for my personal and work-related affairs. However, there are a few changes that Microsoft could implement that would make the program even better.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Excel Could Be More Intuitive
 
  In short, Microsoft Excel is too complicated, especially if you've never used it before. Getting to know how to use complicated formulas, [pivot tables](https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-honor-play-40c-drfone-by-drfone-virtual-android/), and [macros](https://win-blog.techidaily.com/troubleshooting-how-to-fix-failed-minecraft-installs-on-windows-11/) takes experience, extensive training, or a concerning level of obsession—it's not something that can be done quickly or if you're under pressure. Even as an Excel power user, I still learn new tricks and tips from time to time that, had I known earlier, would have made my life a lot easier for a lot longer.
@@ -33,9 +37,6 @@ Lucas Gouveia / How-To Geek | [selinofoto](https://www.shutterstock.com/image-ph
 
  While it's great to know you can rely on [How-to Geeks' articles](https://activate-lock.techidaily.com/how-to-remove-icloud-on-iphone-12-smoothly-by-drfone-ios/) to help you wade through the treacherous waters of Excel's complex menus, tools, and formulas, you shouldn't _have_ to. As it stands, Excel is a program for specialists, and adopting a simpler ribbon and offering a more intuitive experience (closer to Google Sheets' user interface) would go some way to improving its accessibility.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ##  Excel's Desktop App Should Be Free (or Cheaper)
 
  While Microsoft has developed the free Excel for the web since its launch, the subscription-only desktop app still boasts many tools and features that make it an optimal choice over its web-based counterpart. What's more, since the desktop app uses a computer's memory (rather than being powered by your internet browser and connection), it runs more quickly and can handle large data and complex operations more effectively. And those are just a few of the many reasons you might prefer the desktop app to the online version.
@@ -44,9 +45,6 @@ Lucas Gouveia / How-To Geek | [selinofoto](https://www.shutterstock.com/image-ph
 
 ![Dollar sign built out of yellow LEGO bricks.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/a40e8d94.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _[Lewis Tse / Shutterstock.com](https://www.shutterstock.com/image-photo/money-made-by-brick-743325682)_
 
  Moreover, Microsoft no longer supports one-time purchases. So, while you'll still get security updates, you won't get any new features, and once you've set it up on your computer, Microsoft won't help you with any other issues you have.
@@ -55,31 +53,24 @@ _[Lewis Tse / Shutterstock.com](https://www.shutterstock.com/image-photo/money-m
 
  Since Microsoft's primary competitor, Google, offers users the best version of its spreadsheet software for free, it would seem right for Microsoft to strive to do the same. On the other hand, if Microsoft can't offer it for free, there should be better options available for those who want to use only Excel, such as subscription plans for individual programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Excel Shouldn't Break Your Computer
 
  Excel is notorious for the vast memory it consumes on your computer, especially if you're trying to work on a spreadsheet with complex formatting or operations. If you're on a lower-spec device, you can forget about creating an all-singing-all-dancing spreadsheet without causing your system to slow or crash. While my [tips to speed up your spreadsheet](https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-apple-iphone-6-plus-find-the-best-solution-here-by-drfone-ios/) might help, adding advanced tools, such as macros or add-ins, can cause frustrating issues with the program's performance.
 
 ![Man looking at laptop screen with frustrated expression.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/frustrated-man-laptop.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _[fizkes / Shutterstock.com](https://www.shutterstock.com/image-photo/frustrated-black-male-student-work-laptop-1463228459)_
 
  Many people who use Excel don't necessarily need to use all of its advanced features, so a slimline version of the program for quick and easy spreadsheet work would address its well-known complexity and performance issues. Those of us who do want to use Excel to its full capacity should be able to do so without worrying about it crashing our devices.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Excel Should Spot Human Errors
 
  Yes, Excel will sometimes flag formula inconsistencies (for example, if you have a column of formulas and one cell contains a formula that is different from the others), but one single typo in a formula could destroy a whole spreadsheet's functionality. Excel is too sensitive to errors without offering too much of a solution to overcome such sensitivity.
@@ -100,10 +91,11 @@ Lucas Gouveia / How-To Geek
 
  After all, it _is_ possible. My bank alerts me if a regular payment is lower or higher than usual, so Excel should be able to spot abnormal data in a spreadsheet.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Replace Merge Cells With Center Across Selection
 
@@ -112,9 +104,9 @@ Lucas Gouveia / How-To Geek
 ![An Excel spreadsheet with an error message reading 'You can't do that to a merged cell.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/merge-error-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Instead, it's better to use the [Center Across Selection](https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-motorola-moto-g73-5g-by-drfone-android/) tool, which results in the cells being merged but the cells' structures being retained.
 
  Since I discovered this alternative and better way to present my data in Excel, I've not once used the program's Merge And Center tool, and I would bet that others would be of the same view. So, instead of having the Merge And Center icon in the Home tab on the ribbon, Excel should have the Center Across Selection option as a default tool, not least because this supports the spreadsheet's long-term structural integrity more than the Merge And Center option does.
@@ -129,8 +121,6 @@ Lucas Gouveia / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +128,24 @@ Lucas Gouveia / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-explore-the-pinnacle-of-editing-android-edition/"><u>[Updated] In 2024, Explore the Pinnacle of Editing Android Edition</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-magic-in-managing-photos-with-magix/"><u>[Updated] Magic in Managing Photos with MAGIX</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photo-editing-mastery-leveraging-photoshops-background-eraser-tool-to-perfection/"><u>[Updated] Photo Editing Mastery Leveraging Photoshop's Background Eraser Tool to Perfection</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-audio-aesthetics-high-quality-dj-template-videos-downloaded/"><u>2024 Approved Audio Aesthetics High-Quality DJ Template Videos Downloaded</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-first-film-experience-selecting-best-gopro-extras/"><u>2024 Approved First Film Experience Selecting Best GoPro Extras</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/blue-snowball-drivers-update-on-windows/"><u>Blue Snowball Drivers Update on Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/epson-xp-245-driver-downloads-optimize-your-printer-on-windows-os-from-v7-to-v10/"><u>Epson XP 245 Driver Downloads: Optimize Your Printer on Windows OS From V7 to V10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-advanced-computing-solutions-with-toms-hardware-guides/"><u>Explore Advanced Computing Solutions with Tom's Hardware Guides</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/free-safe-steps-to-extract-audio-from-youtube-videos/"><u>Free, Safe Steps to Extract Audio From YouTube Videos</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-toshiba-bluetooth-drivers-download-guide/"><u>Get the Latest Toshiba Bluetooth Drivers: Download Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722974586161-how-to-get-and-install-epson-es-400-scanner-software-for-your-windows-computer-fast/"><u>How to Get and Install Epson ES-400 Scanner Software for Your Windows Computer - Fast!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-xiaomi-14-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Xiaomi 14.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-secure-the-newest-drivers-for-corsairs-k55-mechanical-keyboard/"><u>How to Secure the Newest Drivers for Corsair's K55 Mechanical Keyboard</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-windows-with-the-latest-microsoft-surface-pro-4-drivers/"><u>How to Update Windows with the Latest Microsoft Surface Pro 4 Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/rtx-2070-super-drivers-download-and-installation-guide-for-windows-11-users/"><u>RTX 2070 Super Drivers: Download and Installation Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/tp-link-wireless-adapter-drivers-updated-version-compatible-with-windows-11-8-and-7/"><u>TP-Link Wireless Adapter Drivers: Updated Version Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ultimate-guide-fixing-damaged-mp4mov-videos-with-vlc-media-player/"><u>Ultimate Guide: Fixing Damaged MP4/MOV Videos with VLC Media Player</u></a></li>
+</ul></div>
 

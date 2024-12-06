@@ -1,7 +1,7 @@
 ---
 title: Latest MSI X470 Gaming+ Chipset & Graphics Drivers - Get Them Here
-date: 2024-11-23T18:40:30.435Z
-updated: 2024-11-26T16:31:41.391Z
+date: 2024-12-01T08:03:12.421Z
+updated: 2024-12-06T12:33:55.555Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: The traditional way
@@ -37,21 +37,17 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 2. Expand each category and download the driver accordingly.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/driver-list.jpg)
 3. Extract the downloaded file and run the driver installation application. You may need to run it as an administrator to do this. While some of the drivers require you to install it in Device manager.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Once complete, restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: Update all MSI X470 GAMING PLUS automatically (Recommended)
 
@@ -66,12 +62,16 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 ![scan now](https://images.drivereasy.com/wp-content/uploads/2021/09/scannow-v6.7.0.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 4. Restart your computer for the changes to take full effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -99,22 +99,24 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-amazing.techidaily.com/get-your-files-downloaded-now-ultimate-guide-to-killer-e2500-gigabit-ethernet-driver-software/"><u>[Get Your Files Downloaded Now] Ultimate Guide to Killer E2500 Gigabit Ethernet Driver Software</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-instagram-edge-enhancing-vertical-videos-using-fcpx-techniques/"><u>[New] Instagram Edge Enhancing Vertical Videos Using FCPX Techniques</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-explore-androids-leading-music-video-watching-tools/"><u>2024 Approved Explore Android's Leading Music Video Watching Tools</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-printer-drivers-on-windows-11-latest-updates-available/"><u>Download & Install HP Printer Drivers on Windows 11 - Latest Updates Available</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-intels-thunderbolt-usb-c-card-driver-with-ease-and-speed/"><u>Download Intel's Thunderbolt USB-C Card Driver with Ease and Speed</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-driver-update-for-dell-latitude-e6420-swift-download-options-inside/"><u>Effortless Driver Update for Dell Latitude E6420 – Swift Download Options Inside</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-installation-of-logitech-m705-drivers-for-optimal-performance/"><u>Effortless Installation of Logitech M705 Drivers for Optimal Performance</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-latest-epson-wf-7710-printer-drivers-compatible-with-windows-11-10-and-earlier-versions/"><u>Get Latest Epson WF-7710 Printer Drivers: Compatible with Windows 11, 10, and Earlier Versions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-update-or-install-amd-display-drivers-on-a-windows-machine/"><u>How to Update or Install AMD Display Drivers on a Windows Machine</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-p1006-printer-driver-downloads-how-to-obtain-them-fast/"><u>HP P1006 Printer Driver Downloads: How to Obtain Them Fast</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-reno-10-pro-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Reno 10 Pro 5G Phone FRP Lock</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagram-pro-tips-effortless-video-upload-from-pcmac/"><u>Instagram Pro Tips Effortless Video Upload From PC/Mac</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/july-2024s-prime-iphone-offers-and-savings-explore-the-latest-deals-on-zdnet/"><u>July 2024'S Prime iPhone Offers & Savings – Explore the Latest Deals on ZDNET!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-mpow-bluetooth-driver-updates-for-windows-11-8-and-7-users/"><u>Latest MPOW Bluetooth Driver Updates for Windows 11, 8 and 7 Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lowest-price-ever-grab-black-pla-filament-for-3d-printing-at-only-16kg/"><u>Lowest Price Ever: Grab Black PLA Filament for 3D Printing at Only $16/Kg!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/simplifying-windows-navigation-replacing-ls-command-usage/"><u>Simplifying Windows Navigation: Replacing LS Command Usage</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-securing-the-newest-dell-tb16-thunderbolt-port-driver-version/"><u>Step-by-Step: Securing the Newest Dell TB16 Thunderbolt Port Driver Version</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-lightning-fast-instagram-videos-tips-for-mobile-users-for-2024/"><u>[New] Lightning-Fast Instagram Videos Tips for Mobile Users for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-revamped-design-tools-after-acid-pro-era/"><u>[Updated] In 2024, Revamped Design Tools After ACID Pro Era</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-redmi-note-12-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Redmi Note 12 5G</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-step-by-step-instructions-to-update-or-fresh-install-canon-pixma-ip110-drivers-on-windows-systems/"><u>Complete Step-by-Step Instructions to Update or Fresh Install Canon Pixma IP110 Drivers on Windows Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-epson-perfection-v39-printer-software-for-win7-win8-and-win10/"><u>Download Epson Perfection V39 Printer Software for Win7, Win8 & Win10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-essential-drivers-for-your-lenovo-x1-carbon-on-windows-117-without-hassle/"><u>Download Essential Drivers for Your Lenovo X1 Carbon on Windows 11/7 Without Hassle</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effective-fixes-for-realtek-alc887-hd-audio-drivers-enhancing-your-windows-experience/"><u>Effective Fixes for Realtek ALC887 HD Audio Drivers: Enhancing Your Windows Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-your-eos-login-troubles-on-palworld-6-proven-methods-for-successful-entry/"><u>Fixing Your EOS Login Troubles on Palworld: 6 Proven Methods for Successful Entry</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-of-canon-mg2900-printer-driver-and-latest-firmware-updates/"><u>Free Download of Canon MG2900 Printer Driver & Latest Firmware Updates</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-rtl81-cu-wireless-nic-drivers-for-win10win7-users/"><u>Get the Latest RTL81# CU Wireless NIC Drivers for Win10/Win7 Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/global-reach-12-video-live-stream-app/"><u>Global Reach 12 Video Live Stream App</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-15-pro-max-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 15 Pro Max with a Broken Screen?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-upgrade-compatible-laptop-docks-for-thinkpad-with-usb-c-port/"><u>Latest Upgrade: Compatible Laptop Docks for ThinkPad with USB-C Port</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-membership-unlimited-twitch-channels/"><u>Prime Membership = Unlimited Twitch Channels</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-fix-guide-for-troubleshooting-and-resolving-i2c-interface-device-drivers/"><u>Quick Fix Guide for Troubleshooting and Resolving I2C Interface Device Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-installing-the-hp-laserjet-pro-m4e-series-drivers-on-your-windows-pc/"><u>Step-by-Step Guide: Installing the HP LaserJet Pro M4e Series Drivers on Your Windows PC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/k-iphones-full-video-loop-potential-for-2024/"><u>Unlock iPhone's Full Video Loop Potential for 2024</u></a></li>
 </ul></div>
 

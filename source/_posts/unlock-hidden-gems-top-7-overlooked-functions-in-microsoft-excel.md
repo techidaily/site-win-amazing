@@ -1,7 +1,7 @@
 ---
 title: "Unlock Hidden Gems: Top 7 Overlooked Functions in Microsoft Excel"
-date: 2024-08-28T04:34:55.378Z
-updated: 2024-08-29T04:34:55.378Z
+date: 2024-11-30T03:52:54.384Z
+updated: 2024-12-05T21:36:42.152Z
 tags:
   - excel
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/d998ed1ce4fa21b446a75f0e6c9a8cf84aeb11cbd
 
  Sometimes when you use applications every day, new features can go unnoticed. So that you're up to speed with useful tools for your spreadsheets, take a look at these Microsoft Excel features you may have missed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  1\. Sparklines for Quick Little Graphs
 
  While you can create many different types of charts and [graphs in Excel](https://technical-tips.techidaily.com/top-techniques-for-enhancing-photo-quality-on-your-ios-device/), the sparkline option is one you might look past. With it, you can insert a useful graph into a single cell without distracting from the data.
@@ -38,8 +42,9 @@ thumbnail: https://thmb.techidaily.com/d998ed1ce4fa21b446a75f0e6c9a8cf84aeb11cbd
  You'll then have a nifty little graph in an individual cell to quickly show a visual of your data without all the fluff.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  2\. Data Validation for Eliminating Incorrect Entries
 
  When you create a sheet for others to fill out or collaborate on a spreadsheet, you can end up with the wrong data in the wrong places. Using [data validation](https://extra-lessons.techidaily.com/mastering-iphone-saving-and-utilizing-gifs-effectively/), you can ensure that the information everyone enters is what belongs.
@@ -50,9 +55,6 @@ Related: [How To Restrict Data Input In Excel With Data Validation](https://extr
 
 ![Data Validation on the Data tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/DataDataValidation-ExcelHandyFeatures.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When the box opens, pick the type of validation you want to use. You can select from text, date, time, whole number, decimal, list, or a custom data type. Complete the remaining fields per the type of data you pick.
 
 ![Data Validation setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/DataValidation-ExcelHandyFeatures.png) 
@@ -63,11 +65,16 @@ Related: [How To Restrict Data Input In Excel With Data Validation](https://extr
 
 ![Data Validation error](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/DataValidationError-ExcelHandyFeatures.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The data validation feature is a terrific way to [create drop-down lists](https://hardware-updates.techidaily.com/download-and-install-the-newest-version-of-corsair-k55-drivers-today/) in your sheet for data entry as well.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  3\. Status Bar to See (and Copy) Calculations Without Formulas
 
  You might want to do a quick calculation, like sum or average a few numbers, but don't necessarily need the formula added to your sheet. [Using the Status Bar](https://win-blog.techidaily.com/fix-the-camera-problem-in-google-meets-a-step-by-step-solution/), you can see calculations in a fast and easy way.
@@ -76,19 +83,17 @@ Related: [How To Restrict Data Input In Excel With Data Validation](https://extr
 
 ![Status Bar calculations](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/StatusBarCalculations-ExcelHandyFeatures.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  To adjust the calculations that display in the Status Bar, right-click it and select those you want to place checkmarks next to them.
 
 ![Status Bar calculations](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/StatusBarCalculations-ExcelHandyFeatures.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
  For Windows users, you can also [copy a value directly from the Status Bar](https://extra-guidance.techidaily.com/speedy-sonic-tuning-devices-index-pc-tablet-for-2024/). Just select the one you want, and it'll be placed on your clipboard. You can then pop it into your sheet or paste it into another application.
 
 Related: [How to Copy Values From the Status Bar in Microsoft Excel](https://extra-guidance.techidaily.com/speedy-sonic-tuning-devices-index-pc-tablet-for-2024/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. Flash Fill for Filling Cells
 
@@ -98,16 +103,14 @@ Related: [How to Copy Values From the Status Bar in Microsoft Excel](https://ext
 
 ![Flash Fill on the Data tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/DataFlashFill-ExcelHandyFeatures.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You should see Excel fill in the rest of the cells with those first names. You can do the same for the last name. Enter one into the top cell and press the Flash Fill button. Boom, one and done!
 
 ![Data flash filled in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/DataFlashFilled-ExcelHandyFeatures.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  5\. Remove Duplicates With a Click
 
  Duplicates happen. This is especially true if you import data into Excel from another source. You might need to take time to clean up repeating data. In Excel, you can [remove duplicates](https://facebook-video-recording.techidaily.com/how-to-maximize-revenue-the-secret-of-fb-animation-campaigns/) in just seconds.
@@ -124,10 +127,6 @@ Related: [How to Copy Values From the Status Bar in Microsoft Excel](https://ext
 
 ![Duplicates removed message](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/RemovedDupes-ExcelHandyFeatures.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ##  6\. Watch Window for Fast Formula Results
 
  If you have a large workbook with many sheets and tons of data, [the Watch Window](https://extra-lessons.techidaily.com/is-inshot-a-game-changer-in-video-editing-tools/) helps you keep an eye on your formulas. Rather than searching for those changing results throughout your spreadsheets and data, just add the formula to the tool and see the results quickly.
@@ -143,8 +142,9 @@ Related: [How to Use the Microsoft Excel Watch Window for Formulas](https://extr
 ![Add Watch in the Watch Window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/AddWatch-ExcelHandyFeatures.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Confirm the cell selected is correct and click "Add."
 
 ![Add a formula to the Watch Window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/AddWatchAdd-ExcelHandyFeatures.png) 
@@ -154,8 +154,9 @@ Related: [How to Use the Microsoft Excel Watch Window for Formulas](https://extr
 ![Watch Window with formula results highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/WatchWindow-ExcelHandyFeatures.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  7\. Analyze Data Without the Work
 
  Microsoft Excel provides a handy feature for automatically analyzing your data. Appropriately named, the [Analyze Data feature](https://extra-information.techidaily.com/symphonic-streams-exclusive-sites-for-downloadable-tones/) can save you time when you need a fast analysis.
@@ -166,9 +167,6 @@ Related: [How to Use the Analyze Data Feature in Microsoft Excel](https://extra-
 
 ![Analyze Data on the Home tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/HomeAnalyzeData-ExcelHandyFeatures.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll see a sidebar open on the right allowing you to ask questions about your data, discover insights, see frequencies and patterns, and insert items like charts and pivot tables.
 
 ![Analyze Data sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/AnalyzeData-ExcelHandyFeatures.png) 
@@ -176,6 +174,10 @@ Related: [How to Use the Analyze Data Feature in Microsoft Excel](https://extra-
  Be sure to scroll to the bottom of the sidebar and click the link to see all available analysis results for your data.
 
 ![More results for Analyze Data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/AnalyzeDataMoreResults-ExcelHandyFeatures.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully these Excel features are some that you'll start using to save time, reduce errors, and keep up with your evolving data. If you want to continue in learning what all Excel is capable of, be sure to check out our guide to [basic Excel functions everyone should know](https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/).
 
@@ -185,8 +187,6 @@ Related: [How to Use the Analyze Data Feature in Microsoft Excel](https://extra-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +194,26 @@ Related: [How to Use the Analyze Data Feature in Microsoft Excel](https://extra-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-kinetic-illustration-101-core-skills-and-concepts/"><u>[New] 2024 Approved Kinetic Illustration 101 Core Skills & Concepts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fast-windows-file-check-up-tips-and-tricks/"><u>[New] Fast Windows File Check-Up Tips and Tricks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-precision-in-proiphone-close-up-a-guide-to-professional-results/"><u>[New] Precision in Proiphone Close-Up A Guide to Professional Results</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-effortless-facebook-live-four-strategies-to-record-successfully/"><u>[Updated] 2024 Approved Effortless Facebook Live Four Strategies to Record Successfully</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-elite-lockpicking-games-for-thrill-seekers-for-2024/"><u>[Updated] Elite Lockpicking Games for Thrill Seekers for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-covert-content-creation-how-to-invisibly-alter-videos/"><u>[Updated] In 2024, Covert Content Creation How to Invisibly Alter Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-drones-best-prices-now/"><u>[Updated] Prime Drones, Best Prices Now</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-step-by-step-guide-to-creating-virtual-space-with-iphone/"><u>[Updated] Step-by-Step Guide to Creating Virtual Space with iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/digiarty-macxdvd-faqs-expert-answers-to-common-technical-questions-for-mac-users/"><u>Digiarty MacXDVD FAQs: Expert Answers to Common Technical Questions for Mac Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-latest-nvidia-rtx-3060-ti-graphics-card-drivers-for-windows-11/"><u>Get Latest NVIDIA RTX 3060 Ti Graphics Card Drivers for Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-amd-rx-580-driver-updates-instantly-step-by-step-guide/"><u>Get the Latest AMD RX 580 Driver Updates Instantly – Step-by-Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-acer-laptop-touchpad-software-for-windows-11-get-it-here/"><u>Latest Acer Laptop Touchpad Software for Windows 11 - Get It Here!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-the-setup-fast-and-secure-hp-envy-5055-driver-downloads/"><u>Mastering the Setup: Fast and Secure HP Envy 5055 Driver Downloads</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/optimize-your-windows-gaming-rig-access-free-updated-nvidia-geforce-drivers-for-windows-users/"><u>Optimize Your Windows Gaming Rig: Access Free, Updated Nvidia GeForce Drivers for WINDOWS Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-fixes-for-lenovo-usb-connection-problems/"><u>Quick Fixes for Lenovo USB Connection Problems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-amd-rx-6800-xt-graphics-card-drivers-for-all-windows-versions-start-here/"><u>Secure AMD RX 6800 XT Graphics Card Drivers for All Windows Versions – Start Here</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-strategies-and-guides-optimizing-your-experience-with-seagate-backup-plus/"><u>Top Strategies & Guides: Optimizing Your Experience with Seagate Backup Plus</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-synaptics-pointing-device-drivers-compatibility-with-windows-nx/"><u>Troubleshooting Synaptics Pointing Device Drivers Compatibility with Windows nX</u></a></li>
+<li><a href="https://driver-error.techidaily.com/usb-serial-fix-reviving-windows-connections/"><u>USB Serial Fix: Reviving Windows Connections</u></a></li>
+</ul></div>
 

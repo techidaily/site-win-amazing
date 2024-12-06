@@ -1,7 +1,7 @@
 ---
 title: Mastering Value-Based Color Gradients in Microsoft Excel for Enhanced Data Visualization
-date: 2024-08-28T04:34:35.759Z
-updated: 2024-08-29T04:34:35.759Z
+date: 2024-12-02T10:34:24.197Z
+updated: 2024-12-06T08:11:26.510Z
 tags:
   - excel
 categories:
@@ -30,15 +30,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![On the Home tab, click Conditional Formatting, Color Scales](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/HomeConditionalFormattingColorScales-Excel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you hover your cursor over each one, you can see the arrangement of the colors in a screen tip. Plus, you'll see the cells that you've selected highlighted with each option. This gives you a terrific way to select the color scale that best fits your data.
 
 ![Color Scales previews in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/ConditionalFormattingColorScalesPreviews-Excel.png) 
 
  When you land on the scale that you want to use, simply click it. And that's all there is to it! You've just applied a color scale to your data in a few clicks.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Create a Custom Conditional Formatting Color Scale
 
  If one of the quick rules above doesn't quite capture how you want your color scale to work, you can create a custom conditional formatting rule.
@@ -48,16 +49,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ![On the Home tab, click Conditional Formatting, New Rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/HomeConditionalFormattingNewRuleScales-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When the New Formatting Rule window opens, select "Format All Cells Based on Their Values" at the top.
 
 ![Pick Format All Cells Based on Their Values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/NewRuleScalesFormatBasedOnValues-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Edit the Rule Description section at the bottom of the window is where you'll spend a bit of time customizing the rule. Start by choosing 2-Color Scale or 3-Color Scale from the Format Style drop-down list.
 
  The main difference between these two styles is that the three-color scale has a midpoint, whereas the two-color scale only has minimum and maximum values.
@@ -65,13 +63,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ![2-Color and 3-Color Scale setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/NewRule2-3-ColorScales-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After selecting the color scale style, choose the Minimum, Maximum, and optionally, the Midpoint using the Types drop-down lists. You can pick from Lowest/Highest Value, Number, Percent, Formula, or Percentile.
 
  The Lowest Value and Highest Value types are based on the data in your selected range of cells, so you don't have to enter anything in the Value boxes. For all other types, including Midpoint, enter the Values in the corresponding boxes.
 
 ![Select the Type for the color scale](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/3ColorScaleType-Excel.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Finally, click the Color drop-down buttons to select your colors from the palettes. If you want to use custom colors, select "More Colors" to add them using [RGB values or Hex codes](https://youtube-stream.techidaily.com/2024-approved-harnessing-youtubes-power-for-personal-image-amplification/).
 
@@ -81,16 +84,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![3-Color scale conditional formatting in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/New3ColorScaleRuleWithData-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
  The nice thing about a conditional formatting rule like this is that if you edit your data, the color scale will automatically update to accommodate the change.
 
 ![The color scale changes based on data edits](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/3ColorScaleEditData-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  For a similar way to display your Excel data, consider using the Data Bars [conditional formatting rule to create a progress bar](https://instagram-clips.techidaily.com/updated-the-ultimate-guide-to-saving-instagrams-trending-videos/).
 
 <ins class="adsbygoogle"
@@ -99,8 +100,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +107,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-effortless-image-capturing-on-chrome-devices-method-4-for-2024/"><u>[Updated] Effortless Image Capturing on Chrome Devices (Method #4) for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-transform-tweets-converting-video-to-gifs-at-no-cost/"><u>[Updated] Transform Tweets Converting Video to GIFs at No Cost</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-unlocking-potential-master-dvd-burning-with-your-mac/"><u>[Updated] Unlocking Potential Master DVD Burning with Your Mac</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-the-latest-version-of-epson-xp-440-printer-drivers/"><u>Download and Install the Latest Version of Epson XP-440 Printer Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-how-to-install-your-dell-wd19-device-drivers/"><u>Easy Guide: How to Install Your Dell WD19 Device Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-of-latest-drivers-for-amd-radeon-rx-470-graphics-card-find-out-how/"><u>Easy Installation of Latest Drivers for AMD Radeon RX 470 Graphics Card - Find Out How!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/easy-steps-making-time-lapses-on-galaxy-phones-for-2024/"><u>Easy Steps Making Time-Lapses on Galaxy Phones for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-safely-verified-sades-headset-drivers-for-your-windows-pc/"><u>Get the Latest, Safely-Verified Sades Headset Drivers for Your Windows PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-xbox-controllers-ready-fast-track-xbox-wireless-adapter-drivers/"><u>Get Your Xbox Controllers Ready - Fast-Track Xbox Wireless Adapter Drivers!</u></a></li>
+<li><a href="https://games-able.techidaily.com/ideal-eyewear-for-diminished-blue-haze/"><u>Ideal Eyewear for Diminished Blue Haze</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-gionee-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Gionee</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-revolutionizing-home-broadcasts-with-advanced-webcams/"><u>In 2024, Revolutionizing Home Broadcasts with Advanced WebCams</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/no-more-headset-hassles-smooth-solutions-to-logitech-c615-drivers-challenges/"><u>No More Headset Hassles - Smooth Solutions to Logitech C615 Drivers' Challenges</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/rtx-3070-ti-nvidia-drivers-free-download-for-windows-11-8-and-7-users/"><u>RTX 3070 Ti NVIDIA Drivers: Free Download for Windows 11, 8 and 7 Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-fixing-the-persistent-nwstoreexe-application-crashes/"><u>Troubleshooting Tips for Fixing the Persistent NW_StoreExe Application Crashes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-tips-for-the-realtek-rtl8192se-wireless-lan-controller-maximizing-performance-and-range/"><u>Troubleshooting Tips for the Realtek RTL8192SE Wireless LAN Controller: Maximizing Performance and Range</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/be-masterclass-beginners-kit-free-courses-collection-for-2024/"><u>YouTube Masterclass Beginners Kit Free Courses Collection for 2024</u></a></li>
+</ul></div>
 

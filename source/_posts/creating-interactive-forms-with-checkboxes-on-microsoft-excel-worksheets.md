@@ -1,7 +1,7 @@
 ---
 title: Creating Interactive Forms with Checkboxes on Microsoft Excel Worksheets
-date: 2024-08-28T04:35:03.653Z
-updated: 2024-08-29T04:35:03.653Z
+date: 2024-12-02T16:37:50.519Z
+updated: 2024-12-05T23:57:26.300Z
 tags:
   - excel
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Click Insert and choose Check Box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/DeveloperCheckBox-ExcelCheckbox.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll see your cursor turn into a crosshairs symbol. Click and drag to draw the check box on your sheet where you want it and release. You can resize the check box after you initially draw it by dragging a corner or edge.
 
 ![Draw a checkbox in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/DrawCheckBox-ExcelCheckbox.png) 
@@ -39,8 +43,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 Related: [How to Create a Basic Form in Microsoft Excel](https://discord-videos.techidaily.com/2024-approved-pinnacle-bots-of-online-communities/) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Format a Check Box in Excel
 
  You can display the check box as checked, unchecked, or mixed as well as apply it to a particular cell and add shading.
@@ -50,39 +55,35 @@ Related: [How to Create a Basic Form in Microsoft Excel](https://discord-videos.
 ![Select Format Control](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/FormatControl-ExcelCheckbox.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When the Format Control window opens, confirm that you're on the Control tab. You'll then see the Value options at the top to choose from for how you want the box to display.
 
 ![Select a Value](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/ControlValue-ExcelCheckbox.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Mixed option is useful if you [use VBA](https://extra-skills.techidaily.com/new-magical-apps-for-vocal-alteration-top-list-unveiled/) where you want the status of the check box to be neither checked (True) nor unchecked (False) until an action is taken.
 
  Next, you can add a Cell Link if you want to attach the check box to a particular cell. Either enter the [cell reference](https://some-guidance.techidaily.com/the-ultimate-step-by-step-guide-to-kinemasters-green-screen-mastery-for-2024/) or click inside the Cell Link box and then select the cell on your sheet.
 
 ![Add a Cell Link](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/CellLink-ExcelCheckbox.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  If you want to spruce up the appearance of the check box, you can mark the option for 3-D Shading.
 
 ![Apply 3-D Shading](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/Shading-ExcelCheckbox.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click "OK" after you finish making your changes and you'll see your updated check box.
 
 ![Formatting checkbox in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/FormattedCheckBox-ExcelCheckbox.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  If you don't need to use an interactive control in your spreadsheet, you can also simply [insert a check mark symbol in Excel](https://hardware-tips.techidaily.com/best-desktop-pc-and-nas-drives-unveiled-the-expert-hard-drive-selections/). Plus, if you're creating presentations, [inserting checkboxes in PowerPoint](https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-m34-drfone-by-drfone-reset-android-reset-android/) is a cinch as well.
 
 <ins class="adsbygoogle"
@@ -91,8 +92,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +99,19 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-lullaby-labyrinths-best-vocalists-for-sleep-aid/"><u>[New] 2024 Approved Lullaby Labyrinths Best Vocalists For Sleep Aid</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-perfect-game-video-edits-made-easy-for-newcomers/"><u>[New] In 2024, Perfect Game Video Edits Made Easy for Newcomers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-post-extended-clip-on-youtube-per-your-request/"><u>[New] Post Extended Clip on YouTube Per Your Request</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-comparative-game-capture-review-obs-vs-shadowplay/"><u>[Updated] In 2024, Comparative Game Capture Review OBS Vs. ShadowPlay</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigate-the-future-of-meetings-a-win11-and-zoom-guide/"><u>2024 Approved Navigate the Future of Meetings A Win11 and Zoom Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-guide-to-revamp-your-pcs-audio-with-updated-corsair-headset-drivers-on-windows/"><u>Comprehensive Guide to Revamp Your PC's Audio with Updated Corsair Headset Drivers on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-g2-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo G2 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-process-to-download-and-install-nvme-drivers-on-windows-1087/"><u>Step-by-Step Process to Download & Install NVMe Drivers on Windows 10/8/7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-on-updating-your-asus-vg248qe-monitor-drivers-for-optimal-windows-performance/"><u>Step-by-Step Tutorial on Updating Your Asus VG248QE Monitor Drivers for Optimal Windows Performance</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/thrustmaster-t150-controllers-fast-and-simple-download-instructions/"><u>Thrustmaster T150 Controllers - Fast and Simple Download Instructions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-stabilizing-hitman-3-on-your-pc-expert-fixes-for-the-latest-issues-in-2er/"><u>Ultimate Guide to Stabilizing Hitman 3 on Your PC - Expert Fixes for the Latest Issues in 2Er</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-now-the-latest-compatible-drivers-for-the-brother-hl-2240-printer-on-a-windows-pc/"><u>Update Now: The Latest Compatible Drivers for the Brother HL-2240 Printer on a Windows PC</u></a></li>
+</ul></div>
 

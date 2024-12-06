@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Finding the Square Root Using Microsoft Excel"
-date: 2024-08-28T04:34:40.846Z
-updated: 2024-08-29T04:34:40.846Z
+date: 2024-12-04T21:01:29.812Z
+updated: 2024-12-06T14:14:40.290Z
 tags:
   - excel
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/8eeffb0e6f2c9998156198f379aca60dcf8cc0a81
 * [Bonus Tip: Insert the Square Root Symbol in Excel](https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-vivo-s18e-drfone-by-drfone-virtual-android/)
 
  Calculating the square root of numbers is common in mathematical equations. If you'd like to perform that calculation in Microsoft Excel, you have a couple of ways to do that. We'll show you how.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Is a Square Root?
 
@@ -44,34 +48,31 @@ thumbnail: https://thmb.techidaily.com/8eeffb0e6f2c9998156198f379aca60dcf8cc0a81
 
 ![Type the square root formula and press Enter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/3-enter-square-root-formula.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To directly specify your number in the formula, replace `D2` in the formula with your number. Like so:
 
 =225^(1/2)
 
 ![Enter numbers directly in the square root formula.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/4-enter-values-in-square-root-formula.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And instantly, Excel will display the resulting square root in your selected cell.
 
 ![The answer of the square root formula.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/5-square-root-formula-result.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Want to [find the sum of squares in Excel](https://visual-screen-recording.techidaily.com/new-reviewing-free-screen-recorder-tools-for-pc/)? It's equally easy to do that.
 
 Related: [How to Calculate the Sum of Squares in Excel](https://visual-screen-recording.techidaily.com/new-reviewing-free-screen-recorder-tools-for-pc/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Calculate Square Root in Excel With the SQRT Function
 
@@ -82,8 +83,9 @@ Related: [How to Calculate the Sum of Squares in Excel](https://visual-screen-re
 ![Select a cell to display the square root function result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/6-select-square-root-result-cell.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the selected cell, enter the following `SQRT` function and press Enter. In this function, replace `D2` with the cell where your number is.
 
 =SQRT(D2)
@@ -100,23 +102,8 @@ Related: [How to Calculate the Sum of Squares in Excel](https://visual-screen-re
 
 ![The result of the square root function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/9-square-root-function-result.png) 
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And that's all.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ##  Bonus Tip: Insert the Square Root Symbol in Excel
 
  By default, both methods above do not display the square root (√) symbol. To add this symbol, you can use Excel's `UNICHAR` function in conjunction with your preferred square root finding method.
@@ -133,9 +120,6 @@ Related: [How to Calculate the Sum of Squares in Excel](https://visual-screen-re
 
 ![Insert the square root symbol.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/10-insert-square-root-symbol.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  And those are the ways to quickly get to the square root of a number. Very useful!
 
 ---
@@ -154,8 +138,6 @@ Related: [How to Calculate the Sum of Squares in Excel](https://visual-screen-re
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +145,16 @@ Related: [How to Calculate the Sum of Squares in Excel](https://visual-screen-re
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-amazing.techidaily.com/download-epson-stylus-artisan-1430-printer-software-for-windows-11-10-and-8/"><u>Download Epson Stylus Artisan 1430 Printer Software for Windows 11, 10 & 8</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effective-and-secure-strategies-for-obtaining-latest-amd-ryzen-drivers/"><u>Effective & Secure Strategies For Obtaining Latest AMD Ryzen Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-studio-setup-free-focusrite-scarlett-solo-driver-for-pcs/"><u>Enhance Your Studio Setup: Free Focusrite Scarlett Solo Driver for PCs!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-nvidia-rtx-2070-super-drivers-compatible-with-windows-11-and-earlier-versions/"><u>Get the Newest Nvidia RTX 2070 Super Drivers – Compatible with Windows 11 and Earlier Versions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-mix-melodies-and-text-powerpoints-unleashed-for-2024/"><u>How to Mix Melodies & Text PowerPoints Unleashed for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-poco-c55-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Poco C55</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-insights-boosting-your-follower-count-for-2024/"><u>Instagram Insights Boosting Your Follower Count for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-samsung-galaxy-m54-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Samsung Galaxy M54 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/revolutionary-voice-capabilities-how-your-iphone-mirrors-the-classic-macintosh/"><u>Revolutionary Voice Capabilities: How Your iPhone Mirrors the Classic Macintosh</u></a></li>
+</ul></div>
 

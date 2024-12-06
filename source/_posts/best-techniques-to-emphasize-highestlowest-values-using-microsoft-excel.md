@@ -1,7 +1,7 @@
 ---
 title: Best Techniques to Emphasize Highest/Lowest Values Using Microsoft Excel
-date: 2024-08-28T04:35:00.114Z
-updated: 2024-08-29T04:35:00.114Z
+date: 2024-12-01T08:30:11.475Z
+updated: 2024-12-05T19:26:21.995Z
 tags:
   - excel
 categories:
@@ -30,6 +30,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![On the Home tab, click Conditional Formatting for Top or Bottom Rules](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/HomeConditionalFormattingTopBottomRules-Excel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Excel immediately applies the default number (10) and formatting (light red fill with dark red text). However, you can change either or both of these defaults in the pop-up window that appears.
 
 ![Conditional formatting defaults for Top 10 Items](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/ConditionalFormattingTopDefaultRule-Excel.png) 
@@ -53,15 +57,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ![Select Custom Format](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/HomeConditionalFormattingTopBottomRulesCustom-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Another way is to use the New Rule feature. Select the cells that you want to format, head to the Home tab, and click "Conditional Formatting." This time, choose "New Rule."
 
 ![On the Home tab, click Conditional Formatting, New Rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/HomeConditionalFormattingNewTopBottomRule-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When the New Formatting Rule window opens, select "Format Only Top or Bottom Ranked Values" from the rule types.
 
 ![Pick Format Only Top or Bottom Ranked Values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/FormatOnlyTopBottomRankedValues-Excel.png) 
@@ -73,30 +75,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ![Pick Top or Bottom and enter the value](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/FormatValuesThatRankInThe-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click "Format" to open the Format Cells window. Then, use the tabs at the top to choose Font, Border, or Fill formatting. You can apply more than one format if you like. Here, we'll use an italic font, a dark cell border, and a yellow fill color.
 
 ![Select the formatting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/FormatValuesThatRankFormatOptions-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click "OK" and check out the preview of how your cells will appear. If you're good, click "OK" to apply the rule.
 
 ![Review the conditional formatting preview and click OK](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/FormatValuesThatRankInThePreview-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll then see your cells immediately update with the formatting that you selected for the top- or bottom-ranked items. Again, for our example, we have the bottom 25%.
 
 ![Conditional formatting bottom 25 percent in yellow](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/ConditionalFormattingBottomYellowRule-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  If you're interested in trying out other conditional formatting rules, take a look at [how to create progress bars in Microsoft Excel](https://instagram-clips.techidaily.com/updated-the-ultimate-guide-to-saving-instagrams-trending-videos/) using the handy feature!
 
 <ins class="adsbygoogle"
@@ -105,8 +106,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +113,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/nhancing-video-signals-with-youtube-cards/"><u>[New] Enhancing Video Signals with YouTube Cards</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-efficiently-explore-every-entry-facebook-profile-hunt-101/"><u>[Updated] 2024 Approved Efficiently Explore Every Entry Facebook Profile Hunt 101</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-engaging-audiences-crafting-youtube-trailers-via-filmora/"><u>[Updated] Engaging Audiences Crafting YouTube Trailers via Filmora</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pro-photographys-selections-the-creme-de-la-4k-dslrs/"><u>[Updated] Pro Photography's Selections The Crème De La 4K DSLRs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/broadcom-netlink-ethernet-drivers-compatible-updated-and-installed-for-windows-10-users/"><u>Broadcom NetLink Ethernet Drivers - Compatible, Updated & Installed for Windows 10 Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-google-gemini-faceoff-determining-the-leading-ai-conversationalist/"><u>ChatGPT and Google Gemini Faceoff: Determining the Leading AI Conversationalist</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-set-of-canon-imageclass-mf4800-driver-software-download-direct-source/"><u>Complete Set of Canon ImageCLASS MF48#00 Driver Software Download | Direct Source</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-restoring-functionality-to-unresponsive-desktop-speakers/"><u>Guide: Restoring Functionality to Unresponsive Desktop Speakers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-and-update-your-synaptic-touchpad-drivers-for-windows-with-ease/"><u>How to Download and Update Your Synaptic Touchpad Drivers for Windows with Ease</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-the-logitech-brio-driver-on-windows-install-guide/"><u>How to Get the Logitech BRIO Driver on Windows - Install Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-zte-axon-40-lite-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your ZTE Axon 40 Lite working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+</ul></div>
 

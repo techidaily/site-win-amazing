@@ -1,7 +1,7 @@
 ---
 title: Easy Techniques to Fabricate Sample Datasets Using Microsoft Excel
-date: 2024-08-28T04:34:25.194Z
-updated: 2024-08-29T04:34:25.194Z
+date: 2024-11-30T14:19:16.147Z
+updated: 2024-12-05T20:29:40.719Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ---
 
 ## Easy Techniques to Fabricate Sample Datasets Using Microsoft Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,9 +32,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
  From there, it's about adding the data you want and then doing a little cleanup.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ##  Adding Random Numbers
 
  To add an integer at random, we’ll use the "RANDBETWEEN" function. Here, we can specify a range of random numerals, in this case, a number from one to 1,000, then copy it to each cell in the column below it.
@@ -49,6 +50,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Excel copy data plus](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/plus-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can use the same formula for monetary values with a simple tweak. By default, RANDBETWEEN only returns whole numbers, but we can change that by using a slightly modified formula. Just change the dates in parenthesis to meet your needs. In this case, we're choosing a random number between $1 and $1,000.
 
         `=RANDBETWEEN(1,1000)/100`
@@ -56,8 +61,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ![Excel random number formula](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/random-number-formula-copy-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once done, you'll need to clean up the data just a little. Start by right-clicking inside the cell, and selecting "Format Cells."
 
 ![Excel format cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/format-2.png) 
@@ -66,21 +72,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Excel format currency](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/format-currency-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Adding Dates
 
  Excel's built-in calendar treats each date as a number, with the number one being January 1, 1900\. Finding the number for the date you need isn't so straightforward, but we've got you covered.
@@ -93,29 +84,32 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Excel date formula](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/date-formula-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll notice that this doesn't look anything like a date yet. That's okay. Just like in the previous section, we're going to click the "+" sign at the bottom right of the cell and drag it down as far as needed to add additional randomized data.
 
  Once done, highlight all of the data in the column.
 
 ![Excel highlight column](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/date-highlight-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Right-click and select "Format Cells" from the menu.
 
 ![Excel format cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/format-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  From here, choose the "Date" option and then choose the format you prefer from the available list. Press "OK" once you're done (or "Enter" on the keyboard). Now, all of your random numbers should look like dates.
 
 ![Excel data format](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/date-format-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Adding Item Data
 
  Randomized data in Excel isn’t limited to just numbers or dates. Using the "VLOOKUP" feature, we can create a list of products, name it, then pull from it to create a randomized list in another column.
@@ -124,9 +118,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Excel columns and rows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/pet-store-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  Next, we’ll highlight the entire column, right-click it, and select the “Define Name” option.
 
 ![Excel define name](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/define-name-2.png) 
@@ -145,12 +136,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
     
 ![Excel formula](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/pets-formula-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  Click and drag the "+" sign at the bottom right of the cell to copy the data into additional cells below (or to the side).
 
 ![Excel copy data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/more-pets-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Whether learning pivot tables, experimenting with formatting, or learning how to create a chart for your next presentation, this dummy data could prove to be just what you need to get the job done.
 
@@ -160,8 +152,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +159,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-streamlining-video-production-green-screen-magic-unveiled/"><u>[Updated] In 2024, Streamlining Video Production Green Screen Magic Unveiled</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-enrich-iphone-imagery-top-paid-and-free-camera-app-list/"><u>2024 Approved Enrich iPhone Imagery Top Paid & Free Camera App List</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-srt-to-video-leading-10-free-online-conversion-tools/"><u>2024 Approved Seamless SRT to Video - Leading 10 Free Online Conversion Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-imagination-drought-hindering-vr-development/"><u>2024 Approved The Imagination Drought Hindering VR Development</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-solution-for-acer-driver-errors-in-microsoft-windows/"><u>Comprehensive Solution for Acer Driver Errors in Microsoft Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-how-to-get-the-hp-laserjet-pro-m402n-printer-drivers-for-windows-set-up/"><u>Easy How-To: Get the HP LaserJet Pro M402n Printer Drivers for WINDOWS Set Up</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ensure-optimal-gameplay-downloading-and-updating-razer-naga-drivers-on-your-windows-device/"><u>Ensure Optimal Gameplay: Downloading & Updating Razer Naga Drivers on Your Windows Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-and-review-overcoming-the-launch-hurdles-for-robocop-rogue-city-on-personal-computers/"><u>Fix and Review: Overcoming the Launch Hurdles for 'RoboCop: Rogue City' On Personal Computers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-hands-on-the-latest-sound-blaster-audigy-fx-audio-drivers-here/"><u>Get Your Hands on the Latest Sound Blaster Audigy FX Audio Drivers Here!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/include-stage-directions-such-as-lighting-changes-and-dancer-interactions-to-enhance-the-performance/"><u>Include Stage Directions Such as Lighting Changes and Dancer Interactions to Enhance the Performance;</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-windows-11-reset-failures-with-our-step-by-step-troubleshooting-tips/"><u>Overcome Windows 11 Reset Failures with Our Step-by-Step Troubleshooting Tips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/success-story-overcoming-graphics-module-failures-easily/"><u>Success Story: Overcoming Graphics Module Failures Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/sudden-repeated-restarts-windows-11-pcs/"><u>Sudden Repeated Restarts Windows 11 PCs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshoot-bcm2045a0-drivers-for-immediate-performance-boost/"><u>Troubleshoot BCM2045A0 Drivers for Immediate Performance Boost</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722969872524-ultimate-link-for-free-hp-laserjet-1018-driver-easy-installation-steps-inside/"><u>Ultimate Link for Free HP LaserJet 1018 Driver - Easy Installation Steps Inside!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-conversational-ai-on-your-iphone-with-chatgpts-latest-app-release/"><u>Unleash Conversational AI on Your iPhone with ChatGPT's Latest App Release</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-a-detailed-settings-app-tour/"><u>Windows 11: A Detailed Settings App Tour</u></a></li>
+</ul></div>
 

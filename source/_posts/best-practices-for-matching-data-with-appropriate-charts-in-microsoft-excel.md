@@ -1,7 +1,7 @@
 ---
 title: Best Practices for Matching Data with Appropriate Charts in Microsoft Excel
-date: 2024-08-28T04:34:21.366Z
-updated: 2024-08-29T04:34:21.366Z
+date: 2024-11-30T12:31:11.038Z
+updated: 2024-12-05T21:04:05.947Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ---
 
 ## Best Practices for Matching Data with Appropriate Charts in Microsoft Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,6 +29,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  Here, we'll look at different types of data and the charts available in Microsoft Excel. In some cases, you may have more than one type of chart that suits your data just fine. But in others, there may be only one option.
 
  We'll break down the types of charts and corresponding data into four categories: Comparison, Composition, Distribution, and Trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Excel Charts for Comparison Data
 
@@ -42,6 +50,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 Related: [How to Create and Customize a Treemap Chart in Microsoft Excel](https://extra-guidance.techidaily.com/maximizing-value-in-your-cloud-service-expenditure-for-2024/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Excel Charts for Composition Data
 
  If you want to show parts of a whole, you can use a composition chart. You might show the percentage of sales for each salesperson, visits to a website based on location, or each division's contribution to revenue, all in relation to the total.
@@ -54,15 +66,6 @@ Related: [How to Create and Customize a Treemap Chart in Microsoft Excel](https:
 
 ![Pie chart in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/Pie-ExcelChooseChart.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 Related: [How to Make a Pie Chart in Microsoft Excel](https://some-techniques.techidaily.com/2024-approved-how-to-download-process-and-save-youtube-hosted-tweet-videos-as-mp3s/) 
 
 ##  Excel Charts for Distribution Data
@@ -81,8 +84,9 @@ Related: [How to Make a Pie Chart in Microsoft Excel](https://some-techniques.te
 Related: [How to Create and Customize a Pareto Chart in Microsoft Excel](https://snapchat-videos.techidaily.com/new-in-2024-capturing-snapshots-transferring-from-snapchat-to-device-storage/) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Excel Charts for Trend Data
 
  When you think of trends, these are things that change over time. For instance, styles of jeans change throughout the decades. You had bell-bottoms in the 70s, high-waisted in the 80s, button-fly in the 90s, and so on.
@@ -95,16 +99,12 @@ Related: [How to Create and Customize a Pareto Chart in Microsoft Excel](https:/
 
 ![Line chart in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/Line-ExcelChooseChart.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 Related: [How to Make a Curved Graph in Excel](https://screen-sharing-recording.techidaily.com/new-pcmacphone-step-by-step-guide-to-movie-capture/) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Other Types of Charts in Excel
 
  There is a handful of other charts in Excel that work for one-off situations and might also fit your data.
@@ -126,16 +126,10 @@ Related: [How to Create and Customize a Waterfall Chart in Microsoft Excel](http
 
 ![Click Recommended Charts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/InsertRecommendedCharts-ExcelChooseChart.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
  Excel will [analyze your data](https://extra-information.techidaily.com/symphonic-streams-exclusive-sites-for-downloadable-tones/) and provide recommendations in the Insert Chart window. On the Recommended Charts tab, you can review the suggestions on the left and then check out a preview and brief description on the right. If you see a chart you want to use, click "OK" to pop it into your spreadsheet.
 
 ![Review the Recommended Charts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/RecommendedCharts-ExcelChooseChart.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This information gets you one step closer to choosing the right chart for your data in Excel.
 
 Related: [How to Use the Analyze Data Feature in Microsoft Excel](https://extra-information.techidaily.com/symphonic-streams-exclusive-sites-for-downloadable-tones/)
@@ -146,8 +140,6 @@ Related: [How to Use the Analyze Data Feature in Microsoft Excel](https://extra-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +147,22 @@ Related: [How to Use the Analyze Data Feature in Microsoft Excel](https://extra-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-end-screen-design-made-easy-with-our-templates-and-tutorials/"><u>[New] 2024 Approved End-Screen Design Made Easy with Our Templates & Tutorials</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-jestful-joymaker-online/"><u>[New] In 2024, Jestful Joymaker Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-reinforcing-photo-viewing-functionality-with-windows-10-solutions/"><u>[New] Reinforcing Photo Viewing Functionality with Windows 10 Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updated-version-available-hp-photosmart-7520-printer-driver-download-guide/"><u>[Updated Version Available!] HP Photosmart 7520 Printer Driver Download Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-logitech-driving-force-pro-controls-on-your-pc-windows-supported-versions/"><u>Download and Install Logitech Driving Force Pro Controls on Your PC – Windows Supported Versions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722960768051-effortless-driver-downloads-and-updates-for-your-surface-book-learn-how-today/"><u>Effortless Driver Downloads and Updates for Your Surface Book: Learn How Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/epson-xp-640-driver-update-on-windows/"><u>Epson XP-640 Driver Update on Windows</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/exploring-pronunciation-fundamentals-in-german/"><u>Exploring Pronunciation Fundamentals in German</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fix-realtek-8821ae-wireless-lan-80211ac-pci-e-nic-driver-issue/"><u>Fix Realtek 8821AE Wireless LAN 802.11Ac PCI-E NIC Driver Issue</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-ultimate-driver-pack-for-microsofts-latest-laptop/"><u>Free Download: Ultimate Driver Pack for Microsoft's Latest Laptop</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-correctly-install-lgs-usb-driver-for-seamless-windows-compatibility-windows-11-8-and-7/"><u>How to Correctly Install LG's USB Driver for Seamless Windows Compatibility (Windows 11, 8 & 7)</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-gopro-video-editing-simplified-a-beginners-guide-to-amazing-results/"><u>In 2024, GoPro Video Editing Simplified A Beginners Guide to Amazing Results</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-premium-8-editors-compatible-with-linux/"><u>In 2024, Premium 8 Editors Compatible with Linux</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pocket-sized-picture-playwriting/"><u>Pocket-Sized Picture Playwriting</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-fixing-cygwin1dll-not-found-issues-on-your-pc/"><u>Understanding and Fixing 'Cygwin1.dll Not Found' Issues on Your PC</u></a></li>
+</ul></div>
 

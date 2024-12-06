@@ -1,7 +1,7 @@
 ---
 title: Latest MP280 Printer Driver Installers Compatible with Windows 11/8/7
-date: 2024-08-27T20:05:03.855Z
-updated: 2024-08-28T20:05:03.855Z
+date: 2024-12-02T21:46:49.665Z
+updated: 2024-12-05T16:27:29.547Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/f7eb32e30dabd1ecde240ae4f390a8ba724185aa1
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-353.png)
 
  Are you looking for the latest**drivers** for your**Targus Displaylink** devices? If so, then you’ve come into the right place. This post will show you how to download and update your Targus DisplayLink drivers step by step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are Targus DisplayLink drivers?
 
@@ -48,19 +52,16 @@ OR
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap40.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the Targus DisplayLink driver for now, hit the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-361.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at**<support@drivereasy.com>** .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Manually update your Targus DisplayLink driver
 
@@ -70,30 +71,34 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. In the top right of this web page, click**Support** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-365.png)
 3. Select**Drivers & Manuals** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-367.png)
 4. Type the**model name** or**serial number** of your Targus product into the search box to locate the corresponding drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-368.png) Alternatively, you may select**Category** and then**Product** to look for the drivers of your product.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-370.png)
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. After locating the corresponding driver for your product, click on the**Download** button below.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-372.png)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. Right-click on the file (with a ZIP extension) you’ve just downloaded to open the context menu. Then click**Extract All…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-375.png)
 7. In the pop-up window, click**Browse…** and choose a destination folder where you want to decompress the file. Then, click**Extract** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-376.png)
 8. Wait till the decompression process finishes. Then**copy** the full path of the destination folder. (The path will be different depending on your choice in the last step. )![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-20_15-47-31.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 9. On your keyboard, press the **Windows Logo Key** and **R**  at the same time to open the**Run**  box. Type **devmgmt.msc** and click **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap13-2.png)
 10. In the**Device Manager** window, locate your Targus device and then right-click on it to open the context menu. Select**Update driver** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap14-1.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 11. If prompted, click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-384.png)
-12. **Paste** the full path copied in**Step 8** onto the address bar. Remember to check the **Include subfolders** box. Then hit the **Next** button.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-387.png)
+
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+12. **Paste** the full path copied in**Step 8** onto the address bar. Remember to check the **Include subfolders** box. Then hit the **Next** button.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-387.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 13. Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You may also look for drivers in the official website of[**DisplayLink**](https://www.displaylink.com/downloads/windows) .
 
@@ -110,8 +115,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +122,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/nhance-visibility-the-power-of-customized-youtube-templates/"><u>[New] Enhance Visibility The Power of Customized YouTube Templates</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-pro-moviemakers-manual-for-pc-mac-and-mobile-systems-for-2024/"><u>[New] Pro Moviemaker's Manual for PC, Mac & Mobile Systems for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-comprehensive-guide-to-digital-subtitle-enhancing-platforms/"><u>[Updated] In 2024, The Comprehensive Guide to Digital Subtitle Enhancing Platforms</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1-project-configuration-navigating-the-pathway-parameters-section/"><u>1. Project Configuration: Navigating the Pathway Parameters Section</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/access-the-most-recent-nvidia-quadro-rtx-8000-windows-drivers-optimized-for-os-1087/"><u>Access the Most Recent Nvidia Quadro RTX 8000 Windows Drivers – Optimized for OS 10/8/7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-lenovo-thinkpad-x230-drivers-fast-and-simple-guide/"><u>Download & Install Lenovo ThinkPad X230 Drivers - Fast & Simple Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effektive-softwarelosungen-zur-minimierung-der-videodatei-grosse-die-beste-auswahl-fur-sie/"><u>Effektive Softwarelösungen Zur Minimierung Der Videodatei-Größe: Die Beste Auswahl Für Sie!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975473190-effortless-installation-of-latest-intel-nvme-drivers-secure-your-free-download-now/"><u>Effortless Installation of Latest Intel NVMe Drivers – Secure Your Free Download Now!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/essential-date-counting-tools-for-android-and-ios-users/"><u>Essential Date-Counting Tools for Android and iOS Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/essential-tips-for-updating-the-system-management-bus-controller-on-dell-computers/"><u>Essential Tips for Updating the System Management Bus Controller on Dell Computers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-most-recent-update-and-download-hp-deskjet-2540-drivers-here/"><u>Get the Most Recent Update and Download HP DeskJet 2540 Drivers Here!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-nokia-c300-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Nokia C300 to Roku | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comparing-the-best-of-gopro-cameras/"><u>In 2024, Comparing the Best of GoPro Cameras</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/instant-access-to-pioneer-dj-ddj-sx2-software-speedy-download-steps/"><u>Instant Access to Pioneer DJ DDJ-SX2 Software - Speedy Download Steps</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolving-problems-with-the-realtek-rtl8811au-network-adapter-drivers/"><u>Resolving Problems with the Realtek RTL8811AU Network Adapter Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-instructions-on-finding-and-installing-newly-released-drivers-for-amd-radeon-vega-56-on-windows/"><u>Step-by-Step Instructions on Finding and Installing Newly Released Drivers for AMD Radeon Vega 56 on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-multiple-unresponsive-audio-services-easily/"><u>Troubleshooting and Resolving Multiple Unresponsive Audio Services Easily</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-guide-finding-and-downloading-official-acer-touchpad-drivers-for-new-windows-11-users/"><u>Ultimate Guide: Finding and Downloading Official Acer Touchpad Drivers for New Windows 11 Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unboxing-mastery-the-soundtrack-selection-guidebook-for-2024/"><u>Unboxing Mastery The Soundtrack Selection Guidebook for 2024</u></a></li>
+</ul></div>
 
