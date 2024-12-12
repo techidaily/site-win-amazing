@@ -1,7 +1,7 @@
 ---
 title: Upgrade To a Superior Gaming Session - Update to the Latest ASUS GeForce GTX 970 Pro GPU for Maximum Performance
-date: 2024-12-02T09:35:37.340Z
-updated: 2024-12-05T17:06:33.136Z
+date: 2024-12-08T02:57:23.284Z
+updated: 2024-12-12T07:30:01.120Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ If you’re using Arduino products to create your own work but failed to connect
 
  That’s why most of the problems can be solved by installing/updating drivers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to download Arduino Nano driver?
 
 There are two ways you can update your Arduino Nano drivers.
@@ -39,10 +43,6 @@ There are two ways you can update your Arduino Nano drivers.
 OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-download-and-install-arduino-nano-driver-in-windows-solved/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Option 1 –** **Download and install the driver manually**
 
@@ -54,32 +54,28 @@ OR
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select **Browse my computer for driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9725918e348.png)
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
- If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
 
 ### **Option 2 – Automatically update drivers**
 
@@ -96,6 +92,10 @@ OR
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/nano.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -118,24 +118,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-how-to-enhance-video-rankings-on-youtube-through-seo/"><u>[New] In 2024, How to Enhance Video Rankings on YouTube Through SEO</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/outube-revenue-demystified/"><u>[New] YouTube Revenue Demystified</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-embark-on-a-google-meet-journey/"><u>[Updated] In 2024, Embark on a Google Meet Journey</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-live-streamer-showdown-pick-your-champion-between-wirecast-and-obs/"><u>[Updated] Live Streamer Showdown Pick Your Champion Between Wirecast and OBS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-no-glue-methods-for-spotless-video-creations-on-tiktok/"><u>[Updated] No-Glue Methods for Spotless Video Creations on TikTok</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/best-practices-for-installing-new-sound-hardware-drivers-in-windows/"><u>Best Practices for Installing New Sound Hardware Drivers in Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-for-updated-canon-pixma-mg2522-printer-drivers/"><u>Easy Installation Guide for Updated Canon PIXMA MG2522 Printer Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fastest-performance-alert-newly-released-rtx-2060-super-graphics-card-drivers-for-modern-windows-os/"><u>Fastest Performance Alert! Newly Released RTX 2060 Super Graphics Card Drivers for Modern Windows OS</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/favorite-frames-socials-1-8-vids/"><u>Favorite Frames Social's #1-#8 Vids</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fresh-driver-downloads-optimizing-your-lenovo-t430-with-compatible-versions-for-windows-1187/"><u>Fresh Driver Downloads: Optimizing Your Lenovo T430 with Compatible Versions for Windows 11/8/7</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/impacts-of-external-factors-such-as-climate-change-land-management-practices-and-agrochemical-use-on-soil-microbes/"><u>Impacts of External Factors Such as Climate Change, Land Management Practices, and Agrochemical Use on Soil Microbes</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-essential-10-creative-igtv-tactics-for-brands-to-embrace/"><u>In 2024, Essential 10 Creative IGTV Tactics for Brands to Embrace</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-tecno-spark-10-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Tecno Spark 10 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/navigating-through-the-process-of-downloading-new-intel-hd-graphics-5500-drivers/"><u>Navigating Through the Process of Downloading New Intel HD Graphics 5500 Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-access-free-amd-gpio-hardware-interface-driver-downloads-available/"><u>Quick Access: Free AMD GPIO Hardware Interface Driver Downloads Available</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/solving-compatibility-issues-with-hp-monitor-drivers-on-windows-1187-platforms/"><u>Solving Compatibility Issues with HP Monitor Drivers on Windows 11/8/7 Platforms</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/updating-ati-graphics-card-drivers-on-your-pc-a-step-by-step-guide/"><u>Updating ATI Graphics Card Drivers on Your PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/zebra-gk420d-printer-management-quick-driver-downloads-for-smooth-operation/"><u>Zebra GK420d Printer Management: Quick Driver Downloads for Smooth Operation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-step-by-step-expedition-to-youtubes-unseen-layers-for-2024/"><u>[New] A Step-by-Step Expedition to YouTube's Unseen Layers for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-guide-to-downloading-insignia-ns-pcy5bma2-driver-on-pcs-with-windows-os/"><u>Complete Guide to Downloading Insignia NS-PCY5BMA2 Driver on PCs with Windows OS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-installation-process-for-epson-et-3760-printer-software-update-windows/"><u>Download & Installation Process for Epson ET-3760 Printer Software Update (Windows)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhanced-printing-with-latest-driver-update-for-dell-single-function-lasers-2330d-and-2330dn/"><u>Enhanced Printing with Latest Driver Update for Dell Single-Function Lasers 2330D & 2330DN</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-unresponsive-google-chrome-browser-how-to-restart-and-resolve-issues/"><u>Fix: Unresponsive Google Chrome Browser – How to Restart and Resolve Issues</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-wacom-drivers-in-a-flash-download-steps-unveiled/"><u>Get Your Wacom Drivers in a Flash: Download Steps Unveiled</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-fix-windows-10-usb-detection-issues-a-comprehensive-guide/"><u>How to Fix Windows 10 USB Detection Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-infinix-hot-30-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Infinix Hot 30 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mozilla-firefox-and-video-troubles-top-5-solutions-to-get-you-streaming-again/"><u>Mozilla Firefox and Video Troubles: Top 5 Solutions to Get You Streaming Again</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixing-adobe-premiere-pro-crashes-on-windows-11-and-10/"><u>Resolved: Fixing Adobe Premiere Pro Crashes on Windows 11 and 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/securely-deleting-all-personal-information-from-your-windows-pc-a-step-by-step-guide-no-cost-involved/"><u>Securely Deleting All Personal Information From Your Windows PC: A Step-by-Step Guide - No Cost Involved</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-guide-how-to-update-or-download-new-ricoh-print-driver-for-windows-system/"><u>Ultimate Guide: How To Update or Download New Ricoh Print Driver for Windows System</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/windows-11-compatible-nvidia-quadro-drivers-download-installation-and-troubleshooting-guide/"><u>Windows 11 Compatible NVIDIA Quadro Drivers – Download, Installation, and Troubleshooting Guide</u></a></li>
 </ul></div>
 

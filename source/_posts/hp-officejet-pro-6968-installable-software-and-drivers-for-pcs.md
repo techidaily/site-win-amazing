@@ -1,7 +1,7 @@
 ---
 title: HP Officejet Pro 6968 Installable Software & Drivers for PCs
-date: 2024-12-03T23:03:18.434Z
-updated: 2024-12-05T17:48:10.541Z
+date: 2024-12-09T20:47:13.837Z
+updated: 2024-12-11T19:21:20.852Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ If you’re using Arduino products to create your own work but failed to connect
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why you need Arduino Mega 2560 driver?
 
  As we know, Arduino is an open-source electronics platform let users design and create their own work. But when you need to connect it with a Windows computer, you’ll need a correct and appropriate driver.
@@ -33,6 +29,10 @@ If you’re using Arduino products to create your own work but failed to connect
  It is because drivers are software components that make devices and the operating system talk to each other. Both system and device are updating to catch up with the changing world, so is drivers. If the operating system changes the way it speaks to devices and drivers haven’t updated, devices can’t receive correct commands and cause problems.
 
  That’s why most of the problems can be solved by installing/updating drivers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to download Arduino Mega 2560 driver?
 
@@ -53,12 +53,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ar.jpg)
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
@@ -68,13 +68,13 @@ OR
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update drivers**
@@ -90,12 +90,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/mega2560-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -118,21 +118,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-digital-destinations-where-to-direct-your-videos/"><u>[New] 2024 Approved Digital Destinations Where to Direct Your Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-cut-to-impact-in-depth-youtube-video-editing-mastery/"><u>[Updated] 2024 Approved Cut to Impact In-Depth Youtube Video Editing Mastery</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-master-the-art-of-livestreaming-tech-tips-for-iosandroid-users/"><u>[Updated] In 2024, Master the Art of Livestreaming Tech Tips for iOS/Android Users</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/free-4k-30fps-video-conversion-and-editing-guide-everything-you-need-to-know/"><u>Free 4K 30Fps Video Conversion and Editing Guide: Everything You Need to Know</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-latest-dell-wi-fi-card-software-here/"><u>Get Your Latest Dell Wi-Fi Card Software Here</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-the-newest-netgear-adapter-software-drive-downloads-and-upgrades-guide/"><u>How to Get the Newest NETGEAR Adapter Software – Drive Downloads & Upgrades Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/inside-the-headset-comprehensive-vr-gear-analysis/"><u>Inside the Headset Comprehensive VR Gear Analysis</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/installing-the-most-recent-oculus-drivers-on-any-windows-machine-111087/"><u>Installing the Most Recent Oculus Drivers on Any Windows Machine (11/10/8/7)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-logitech-g35-headset-driver-download-guide-compatible-with-windows-os-versions-7-to-10/"><u>Latest Logitech G35 Headset Driver Download Guide: Compatible with Windows OS Versions 7 to 10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/new-software-releases-brother-scanner-drivers-update-for-optimal-windows-performance/"><u>New Software Releases: Brother Scanner Drivers Update for Optimal Windows Performance</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/perfect-your-gameplay-tips-for-professional-minecraft-sessions-on-mac-for-2024/"><u>Perfect Your Gameplay Tips for Professional Minecraft Sessions on Mac for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quickly-update-xbox-wireless-adapters-simple-downloads-for-seamless-gaming/"><u>Quickly Update Xbox Wireless Adapters - Simple Downloads for Seamless Gaming</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/scam-or-not-decoding-bingchats-crypto-claims/"><u>Scam or Not? Decoding BingChat's Crypto Claims</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/simple-guide-to-microsoft-drivers-install-and-updates-on-windows-11-8-or-7/"><u>Simple Guide to Microsoft Drivers: Install and Updates on Windows 11, 8, or 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-on-swiftly-improving-synaptics-ps2-trackpad-performance-via-drivers/"><u>Step-by-Step Tutorial on Swiftly Improving Synaptics PS/2 Trackpad Performance via Drivers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-the-mss32dll-not-found-issue-effectively/"><u>Troubleshooting the mss32.dll Not Found Issue Effectively</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-mix-text-and-video-on-a-shoestring-budget/"><u>[New] 2024 Approved How to Mix Text & Video on a Shoestring Budget</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-streaming-powerhouses-face-off-streamlabs-versus-obs-analysis/"><u>[Updated] 2024 Approved Streaming Powerhouses Face-Off Streamlabs versus OBS Analysis</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-depth-review-unveiling-bublcams-full-potential-for-2024/"><u>[Updated] In-Depth Review Unveiling Bublcam's Full Potential for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-say-goodbye-to-data-limits-explore-the-best-of-30-free-clouds-offering-1tbplus-included/"><u>2024 Approved Say Goodbye to Data Limits - Explore the Best of 30 Free Clouds Offering 1TB+ Included</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-of-hp-officejet-pro-8715-printer-drivers-on-windows-11108-systems/"><u>Easy Installation of HP Officejet Pro 8715 Printer Drivers on Windows 11/10/8 Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975036602-get-the-newest-drivers-and-updates-for-your-surface-book-2-hassle-free-guide/"><u>Get the Newest Drivers and Updates for Your Surface Book 2 - Hassle-Free Guide!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-wd-ses-device-usb-device-driver-2011-and-later/"><u>How to Install WD SES Device USB Device Driver (2011 & Later)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-2-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Lava Blaze 2 Pro Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-engaging-podcast-openers-captivating-intro-lines/"><u>In 2024, Engaging Podcast Openers Captivating Intro Lines</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-13-mini-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your iPhone 13 mini</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/logitech-c615-sound-issues-heres-how-you-can-easily-resolve-them-in-no-time/"><u>Logitech C615 Sound Issues? Here's How You Can Easily Resolve Them in No Time</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-usb-device-recognition-on-windows-10-with-proven-solutions/"><u>Mastering USB Device Recognition on Windows 10 with Proven Solutions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-nokia-c12-plus-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Nokia C12 Plus Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-setup-of-wacom-intuos-pro-software-on-windows-11-systems/"><u>Step-by-Step Setup of Wacom Intuos Pro Software on Windows 11 Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-walkthrough-for-setting-up-your-logitech-mx-master-mouse-software/"><u>The Ultimate Walkthrough for Setting Up Your Logitech MX Master Mouse Software</u></a></li>
 </ul></div>
 

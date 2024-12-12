@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Fresh Driver Updates for the AMD Radeon RX 480 Graphics Unit"
-date: 2024-12-05T04:31:05.427Z
-updated: 2024-12-06T12:02:36.170Z
+date: 2024-12-06T03:24:28.763Z
+updated: 2024-12-12T12:30:30.663Z
 tags:
   - win11
   - win10
@@ -27,18 +27,18 @@ There are many ways for you to download Radeon RX 480 Graphics Card device drive
 Device Manager is the easiest way for you to get the updated device drivers, but the down side is, you don’t usually get the latest driver in this way. Still, it worth a shot. 1) Go to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/). Locate and expand **Display adapters**. Double-click **AMD Radeon RX 480**. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f6ee252477.jpg)2) Go to the **Driver**tab, and click **Update Driver…**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f6f5a5522f.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Click **Search automatically for updated driver software**. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f6f78e09b2-600x438.jpg)4) Microsoft will search automatically for your**AMD Radeon RX 480**graphics card driver now. But if you see the following notification:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f6fe47ed8a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You need to go for other ways to get your display card driver updated since Microsoft cannot help you do this for now.
 
@@ -48,14 +48,14 @@ If Device Manager fails to get you the latest driver available, you can always g
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f7327b334e-475x600.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Go to [**Device Manager**](https://tools.techidaily.com/drivereasy/download/) again. Locate and expand **Display adapters** . Double-click **AMD Radeon RX 480** . ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f6ee252477.jpg)5) Go to the **Driver**tab, and click **Uninstall**. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f742f54e25.jpg)Click **OK**to continue. ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584f7452e10b3.png)6) Double-click the downloaded**AMD Radeon RX 480**driver, and run the installation manually. 7) Restart your computer for the changes to take effect after the installation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **3: Update Radeon RX 480 Graphics Card Driver Automatically (Recommended)**
@@ -65,7 +65,7 @@ If you’re not confident playing around with drivers manually, you can do it au
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e5f628aad8e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * [graphics](https://tools.techidaily.com/drivereasy/download/)
@@ -85,21 +85,24 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-tips-and-tricks-exchanging-images-and-videos-on-apple-devices/"><u>[New] In 2024, Tips & Tricks Exchanging Images & Videos on Apple Devices</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-how-to-record-iphoneipads-screen/"><u>[Updated] In 2024, How to Record iPhone/iPad’s Screen</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-xiaomi-redmi-12-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Xiaomi Redmi 12 5G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/convert-m2p-files-to-mp3-format-free-of-charge-moveavi-converter/"><u>Convert M2P Files to MP3 Format Free of Charge - Moveavi Converter</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easily-transform-tga-files-into-crisp-tiff-images-no-costs-involveddo-it-here-using-our-converter/"><u>Easily Transform TGA Files Into Crisp TIFF Images, No Costs Involved—Do It Here Using Our Converter</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fuse-video-narratives-with-acoustic-elements-in-premiere-pro-for-2024/"><u>Fuse Video Narratives with Acoustic Elements in Premiere Pro for 2024</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/get-your-free-abyy-alteryx-bridge-tool-now/"><u>Get Your Free ABYY Alteryx Bridge Tool Now!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-improve-your-image-analysis-results-successfully-top-techniques-for-enhancement/"><u>How to Improve Your Image Analysis Results Successfully: Top Techniques for Enhancement</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/movavi-video-converter-th/"><u>Movavi Video Converter - เข็มแพาใส่วิดยุth: ไล่ได้วัว</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/recapturing-moments-the-xiaomi-mi-11s-superior-screen-record/"><u>Recapturing Moments The Xiaomi Mi 11'S Superior Screen Record</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/skapa-en-konkurrensfylld-fotokampanj-med-movavi-2024-rabattkuponger-and-koper-din-passion-for-fotografi-nar-den-nu-ar-mest-gynekologisk/"><u>Skapa En Konkurrensfylld Fotokampanj Med Movavi 2024 Rabattkuponger & Köper Din Passion För Fotografi När Den Nu Är Mest Gynekologisk!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/techniques-to-transform-text-into-a-3d-entity-for-2024/"><u>Techniques to Transform Text Into a 3D Entity for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-poco-x5-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/top-12-premium-free-3d-animation-programs-of-2024-enhancing-your-creative-projects/"><u>Top 12 Premium-Free 3D Animation Programs of 2024: Enhancing Your Creative Projects</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/transforma-tus-canciones-flac-directamente-a-aac-de-forma-gratuita-utilizando-la-herramienta-online-de-movavi/"><u>Transforma Tus Canciones FLAC Directamente a AAC De Forma Gratuita Utilizando La Herramienta Online De Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-realtek-card-reader-driver-for-windows-11/"><u>[Download] Realtek Card Reader Driver for Windows 11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-eight-high-performing-tablets-for-future-photography-titans/"><u>[New] 2024 Approved Eight High-Performing Tablets for Future Photography Titans</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-obs-vs-shadowplay/"><u>[Updated] 2024 Approved OBS vs ShadowPlay</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-maximizing-screen-space-the-art-of-close-up-views/"><u>2024 Approved Maximizing Screen Space The Art of Close Up Views</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/1728501291922-iphone/"><u>解決方法：將iPhone無备份的郵件消息恢復到原始狀態</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/acer-aspire-e15-and-windows-11-finding-and-installing-the-right-device-drivers/"><u>Acer Aspire E15 and Windows 11: Finding and Installing the Right Device Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/automatic-download-get-your-latest-amd-graphics-drivers-instantly/"><u>Automatic Download: Get Your Latest AMD Graphics Drivers Instantly</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/diagnosing-audio-component-issues-solutions-by-yl-computing/"><u>Diagnosing Audio Component Issues - Solutions by YL Computing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-creative-camera-driver-software-for-windows-pcs/"><u>Download and Update: Creative Camera Driver Software for Windows PCs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-instructions-to-fetch-and-setup-acer-aspire-drivers-in-windows-environment/"><u>Easy Instructions to Fetch and Setup Acer Aspire Drivers in Windows Environment</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-ultimate-guide-to-installing-the-logitech-k350-keyboard-drivers/"><u>Free Download: Ultimate Guide to Installing the Logitech K350 Keyboard Drivers</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-efficient-printing-software-for-your-hp-color-laserjet-pro-mfp-m477-today/"><u>Install Efficient Printing Software for Your HP Color LaserJet Pro MFP M477 Today!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/kommunikationskultur-deutsches-grazensummen-abseits-von-hallo/"><u>Kommunikationskultur: Deutsches Gräzensummen Abseits Von Hallo</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/pros-picks-the-best-11-soundstreamers-reviewed-for-2024/"><u>Pro's Picks The Best 11 Soundstreamers Reviewed for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-and-improve-your-soundscape-gigabytes-new-audio-drivers-for-no-cost/"><u>Secure and Improve Your Soundscape – Gigabyte's New Audio Drivers for No Cost!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/streamline-your-microsoft-driver-update-process-in-various-windows-versions/"><u>Streamline Your Microsoft Driver Update Process in Various Windows Versions</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-rectify-unresponsive-windows-key/"><u>Techniques to Rectify Unresponsive Windows Key</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-cozy-winter-scenes-for-video-aesthetics/"><u>Top 5 Cozy Winter Scenes for Video Aesthetics</u></a></li>
 </ul></div>
 

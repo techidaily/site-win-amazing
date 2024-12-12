@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Solutions: Fixing Issues with ThinkPad's Thunderbolt 3 Dock Connection"
-date: 2024-12-02T17:23:15.578Z
-updated: 2024-12-05T19:56:06.250Z
+date: 2024-12-07T07:05:15.627Z
+updated: 2024-12-12T04:05:55.009Z
 tags:
   - win11
   - win10
@@ -48,16 +48,12 @@ If youâ€™re looking to **update your Windows 7 network adapter driver** ,  youâ€
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-174.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click **Offline Scan** . Then select **Offline Scan (on the computer without Internet access)** and click **Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-175.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Click **Browseâ€¦** , then choose a destination folder in your computer to save the offline scan file. After that, click **Offline Scan** .
 
@@ -79,6 +75,10 @@ If youâ€™re looking to **update your Windows 7 network adapter driver** ,  youâ€
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-178.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  11) Click **Browseâ€¦**  to locate the offline scan file. Then click **Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-179.png)
@@ -86,6 +86,10 @@ If youâ€™re looking to **update your Windows 7 network adapter driver** ,  youâ€
  12) Click the **Download** button next to your network adapter driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-181.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  13) Wait until the computer completes. When it does, save the downloaded file to your USB drive and transfer it to the target computer.
 
@@ -96,7 +100,7 @@ If youâ€™re looking to **update your Windows 7 network adapter driver** ,  youâ€
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update network adapter driver manually
@@ -110,15 +114,11 @@ If youâ€™re looking to **update your Windows 7 network adapter driver** ,  youâ€
 2. Locate and double-click on **Network adapters** to retrieve**the brand** and**model** of your network adapter.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b501322334d1.jpg)
 3. On the computer with Internet, go to the brand manufacturerâ€™s official website and check out the**Support** section for driver downloads.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Search the model of your graphics card, click the right download link for your Windows 7 OS. Usually a few download options will be listed but you might want to click **the first** result for the latest driver version.
 5. Move the downloaded file to the computer without the Internet.
@@ -147,24 +147,22 @@ If youâ€™re looking to **update your Windows 7 network adapter driver** ,  youâ€
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-capturing-the-cosmos-mastering-editing-techniques-for-starry-images/"><u>[Updated] Capturing the Cosmos Mastering Editing Techniques for Starry Images</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-unleashing-creativity-a-tiktok-video-guide-for-devices/"><u>[Updated] In 2024, Unleashing Creativity A TikTok Video Guide for Devices</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-advanced-image-quality-hero5-black-vs-sjcam-sj7/"><u>2024 Approved Advanced Image Quality Hero5 Black Vs SJCAM SJ7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-logitech-momo-steering-wheel-software-compatible-with-windows/"><u>Download Logitech MOMO Steering Wheel Software Compatible with Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/expert-advice-on-fixing-recurrerent-graphics-driver-glitches/"><u>Expert Advice on Fixing Recurrerent Graphics Driver Glitches</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-best-performance-with-logitech-brio-webcam-drivers-on-windows-11-8-and-7/"><u>Get the Best Performance with Logitech Brio Webcam Drivers on Windows 11, 8 & 7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-download-your-canon-imageclass-mf4e800-printer-drivers-step-by-step-guide/"><u>How to Download Your Canon ImageCLASS MF4e800 Printer Drivers: Step-by-Step Guide</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/identifica-los-animales-en-espanol-con-estos-topos/"><u>Identifica Los Animales en EspaÃ±ol Con Estos Topos</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/improve-your-laptops-wifi-free-download-of-intel-centrino-advanced-networking-card-driver-v6205/"><u>Improve Your Laptop's WiFi: Free Download of Intel Centrino Advanced Networking Card Driver V6205</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-vector-artistry-unleashed-picks-of-the-year-for-designers/"><u>In 2024, Vector Artistry Unleashed Picks of the Year for Designers</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Which PokÃ©mon can Evolve with a Moon Stone For Oppo Find N3 Flip? | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/infuse-harmonies-into-motion-picture-sequences-using-media-encrypter-for-2024/"><u>Infuse Harmonies Into Motion Picture Sequences Using Media Encrypter for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/optimizing-your-graphics-experience-with-the-latest-evga-driver-installation-guide-for-windows-users/"><u>Optimizing Your Graphics Experience with the Latest EVGA Driver Installation Guide for Windows Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/safely-install-new-sades-headset-drivers-on-your-pc-with-this-reliable-guide/"><u>Safely Install New Sades Headset Drivers on Your PC with This Reliable Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722972207159-speedy-access-to-arduino-mega-2560-drivers-find-and-install-with-ease-online-now/"><u>Speedy Access to Arduino Mega 2560 Drivers: Find and Install with Ease Online Now!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/stronger-defense-through-longer-passcodes-windows-11-and-11-tips/"><u>Stronger Defense Through Longer Passcodes: Windows 11 and 11 Tips</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/troubleshooting-steps-to-locate-reset-this-pc-feature-on-windows-11/"><u>Troubleshooting Steps to Locate 'Reset This PC' Feature on Windows 11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-dolby-atmos-issues-in-windows-11-and-10/"><u>Troubleshooting Steps: Resolving Dolby Atmos Issues in Windows 11 and 10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/updated-microsoft-bluetooth-drivers-available-now-compatible-with-win-101187-easy-download-and-setup-tutorials/"><u>Updated Microsoft Bluetooth Drivers Available Now - Compatible with Win 10/11/8/7: Easy Download & Setup Tutorials</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-master-crafters-fusing-visual-and-acoustic-art/"><u>[New] 2024 Approved Master Crafters Fusing Visual & Acoustic Art</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-becoming-a-pro-in-lut-creation/"><u>[Updated] In 2024, Becoming a Pro in LUT Creation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722974692306-compatible-drivers-for-gigabyte-gc-wb867d-inputoutput-hub-get-them-here/"><u>Compatible Drivers for Gigabyte GC-WB867D Input/Output Hub - Get Them Here!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/dual-display-mastery-configuring-multiple-monitors-in-windows-11/"><u>Dual Display Mastery: Configuring Multiple Monitors in Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-pcs-audio-experience-get-official-microsoft-sound-drivers-now/"><u>Enhance Your PC's Audio Experience - Get Official Microsoft Sound Drivers Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-update-your-windows-bluetooth-dongle-drivers-a-complete-walkthrough/"><u>Find & Update Your Windows Bluetooth Dongle Drivers - A Complete Walkthrough</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-version-of-qualcomm-atheros-ar3011-bluetooth-30-driver-here/"><u>Get the Latest Version of Qualcomm Atheros AR3011 Bluetooth 3.0 Driver Here!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-honor-x50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-huawei-p60-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Huawei P60</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installing-canon-pixma-mp280-printer-driver-on-windows-1087-step-by-step-guide/"><u>Installing Canon PIXMA MP280 Printer Driver on Windows 10/8/7 - Step by Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/netgear-wna3100-driver-updates-quick-and-easy-download-tips/"><u>Netgear WNA3100 Driver Updates - Quick & Easy Download Tips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/nvidia-mx150-driver-version-upgrade-and-download-guide-for-windows-users/"><u>NVIDIA MX150 Driver Version Upgrade & Download Guide for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-system-error-5-across-windows-11-7-and-8-comprehensive-guide/"><u>Resolving 'System Error 5' Across Windows 11, 7, and 8 - Comprehensive Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-influence-of-immersive-technology-for-2024/"><u>The Influence of Immersive Technology for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transitioning-to-a-new-era-apple-ditches-finewoven-accessories-for-cutting-edge-beats-gear-analysis-by-zdnet/"><u>Transitioning to a New Era: Apple Ditches FineWoven Accessories for Cutting-Edge Beats Gear, Analysis by ZDNet</u></a></li>
+<li><a href="https://os-tips.techidaily.com/upcoming-ios-17-release-will-your-iphone-8-be-upgradable/"><u>Upcoming iOS 17 Release: Will Your iPhone 8 Be Upgradable?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-targus-displaylink-drivers-now-compatible-with-windows-1187/"><u>Update Your Targus DisplayLink Drivers Now: Compatible with Windows 11/8/7</u></a></li>
 </ul></div>
 

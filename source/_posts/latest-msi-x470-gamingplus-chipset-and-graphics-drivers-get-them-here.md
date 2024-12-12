@@ -1,7 +1,7 @@
 ---
 title: Latest MSI X470 Gaming+ Chipset & Graphics Drivers - Get Them Here
-date: 2024-12-01T08:03:12.421Z
-updated: 2024-12-06T12:33:55.555Z
+date: 2024-12-08T16:23:38.140Z
+updated: 2024-12-12T12:09:30.550Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: The traditional way
@@ -37,14 +37,14 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 2. Expand each category and download the driver accordingly.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/driver-list.jpg)
 3. Extract the downloaded file and run the driver installation application. You may need to run it as an administrator to do this. While some of the drivers require you to install it in Device manager.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Once complete, restart your computer for the changes to take effect.
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 4. Restart your computer for the changes to take full effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -99,24 +99,19 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-lightning-fast-instagram-videos-tips-for-mobile-users-for-2024/"><u>[New] Lightning-Fast Instagram Videos Tips for Mobile Users for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-revamped-design-tools-after-acid-pro-era/"><u>[Updated] In 2024, Revamped Design Tools After ACID Pro Era</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-redmi-note-12-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Redmi Note 12 5G</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-step-by-step-instructions-to-update-or-fresh-install-canon-pixma-ip110-drivers-on-windows-systems/"><u>Complete Step-by-Step Instructions to Update or Fresh Install Canon Pixma IP110 Drivers on Windows Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-epson-perfection-v39-printer-software-for-win7-win8-and-win10/"><u>Download Epson Perfection V39 Printer Software for Win7, Win8 & Win10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-essential-drivers-for-your-lenovo-x1-carbon-on-windows-117-without-hassle/"><u>Download Essential Drivers for Your Lenovo X1 Carbon on Windows 11/7 Without Hassle</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effective-fixes-for-realtek-alc887-hd-audio-drivers-enhancing-your-windows-experience/"><u>Effective Fixes for Realtek ALC887 HD Audio Drivers: Enhancing Your Windows Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-your-eos-login-troubles-on-palworld-6-proven-methods-for-successful-entry/"><u>Fixing Your EOS Login Troubles on Palworld: 6 Proven Methods for Successful Entry</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-of-canon-mg2900-printer-driver-and-latest-firmware-updates/"><u>Free Download of Canon MG2900 Printer Driver & Latest Firmware Updates</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-rtl81-cu-wireless-nic-drivers-for-win10win7-users/"><u>Get the Latest RTL81# CU Wireless NIC Drivers for Win10/Win7 Users</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/global-reach-12-video-live-stream-app/"><u>Global Reach 12 Video Live Stream App</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-15-pro-max-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 15 Pro Max with a Broken Screen?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-upgrade-compatible-laptop-docks-for-thinkpad-with-usb-c-port/"><u>Latest Upgrade: Compatible Laptop Docks for ThinkPad with USB-C Port</u></a></li>
-<li><a href="https://games-able.techidaily.com/prime-membership-unlimited-twitch-channels/"><u>Prime Membership = Unlimited Twitch Channels</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-fix-guide-for-troubleshooting-and-resolving-i2c-interface-device-drivers/"><u>Quick Fix Guide for Troubleshooting and Resolving I2C Interface Device Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-installing-the-hp-laserjet-pro-m4e-series-drivers-on-your-windows-pc/"><u>Step-by-Step Guide: Installing the HP LaserJet Pro M4e Series Drivers on Your Windows PC</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/k-iphones-full-video-loop-potential-for-2024/"><u>Unlock iPhone's Full Video Loop Potential for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-cutting-edge-tips-for-making-masterpieces-with-snaps/"><u>[New] Cutting-Edge Tips for Making Masterpieces with Snaps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-step-into-visual-storytelling-xp-edition-installation/"><u>[Updated] In 2024, Step Into Visual Storytelling XP Edition Installation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-obs-full-screen-no-more-problem-for-2024/"><u>[Updated] Obs Full-Screen No More Problem for 2024</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/effortlessly-move-images-from-your-iphone-to-mac-a-complete-step-by-step-process/"><u>Effortlessly Move Images From Your iPhone to Mac - A Complete Step-by-Step Process</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fresh-graphics-driver-release-nvidias-rtx-1e-super-drivers-for-windows-1011-download-now/"><u>Fresh Graphics Driver Release: NVIDIA's RTX 1E Super Drivers for Windows 10/11 - Download Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-find-and-update-drivers-for-your-hp-deskjet-ink-advantage-2540/"><u>How to Find and Update Drivers for Your HP Deskjet Ink Advantage 2540</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-11-pro-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone 11 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/intel-usb-30-driver-download-for-windows-11-complete-guide/"><u>Intel USB 3.0 Driver Download for Windows 11: Complete Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-hp-ethernet-controller-drivers-updated-for-win11-7-and-8-users/"><u>Latest HP Ethernet Controller Drivers – Updated for Win11, 7 & 8 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-updates-on-intel-nuc-driver-installation-fast-and-simple/"><u>Latest Updates on Intel NUC Driver Installation - Fast and Simple</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-presentation-perfection-9-essential-tips-for-winning-at-powerpoint-prints/"><u>Mastering Presentation Perfection: 9 Essential Tips for Winning at PowerPoint Prints</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-face-blur-mastery-expert-video-editing-techniques/"><u>New Face Blur Mastery Expert Video Editing Techniques</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/power-up-your-devices-with-the-beatit-bt-d11-portable-charger-in-depth-analysis/"><u>Power Up Your Devices with the Beatit BT-D11 Portable Charger - In Depth Analysis</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-cartoon-video-creation-made-easy-top-10-tools-for-beginners/"><u>Updated Cartoon Video Creation Made Easy Top 10 Tools for Beginners</u></a></li>
 </ul></div>
 

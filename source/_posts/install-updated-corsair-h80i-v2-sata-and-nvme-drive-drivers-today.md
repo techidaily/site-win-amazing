@@ -1,7 +1,7 @@
 ---
 title: Install Updated Corsair H80i V2 SATA & NVMe Drive Drivers Today!
-date: 2024-12-05T01:43:29.009Z
-updated: 2024-12-06T07:42:06.661Z
+date: 2024-12-09T22:18:54.690Z
+updated: 2024-12-11T16:30:23.824Z
 tags:
   - win11
   - win10
@@ -44,7 +44,7 @@ OR
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/download-gigabyte-audio-driver/#op2) [](https://tools.techidaily.com/drivereasy/download/)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 1 –** **Download and install the driver manually**
@@ -60,11 +60,11 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap854-1024x368.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Download the audio driver and install it manually.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update drivers**
 
@@ -79,13 +79,13 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2019/05/giga1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -109,24 +109,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-nikons-journey-to-excellence-the-4k-camera-review/"><u>[New] Nikon's Journey to Excellence The 4K Camera Review</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-free-frame-flip-converting-tweets-into-tweenish-movies/"><u>[Updated] Free Frame Flip Converting Tweets Into Tweenish Movies</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-infinix-hot-30-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Infinix Hot 30 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-geforce-gtx-460-drivers-on-windows-quick-and-easy/"><u>Download GeForce GTX 460 Drivers on Windows - Quick & Easy</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722972673427-driver-for-windows-update-easily/"><u>Driver for Windows Update EASILY</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevating-podcast-reputation-logo-design-principles/"><u>Elevating Podcast Reputation Logo Design Principles</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/fix-why-is-kingston-ssd-toolbox-failing-to-recognize-my-solid-state-drive-on-windows-10/"><u>Fix: Why Is Kingston SSD Toolbox Failing to Recognize My Solid-State Drive on Windows 10?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-logitech-g600-gamepad-setup-windows-drivers-downloads/"><u>Get Your Logitech G600 Gamepad Setup: Windows Drivers Downloads</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6s-plus-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6s Plus to an Older iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-vivo-x-fold-2-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Vivo X Fold 2 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-poco-by-fonelab-android-recover-data/"><u>How to recover lost data from Poco ?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-resolve-common-problems-with-your-realtek-hd-display-driver/"><u>How to Resolve Common Problems with Your Realtek HD Display Driver</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/next-years-cyber-threats-and-prevention-insights-top-7/"><u>Next Year's Cyber Threats & Prevention Insights, Top 7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/nvidia-rtx-2060-driver-update-fresh-drivers-released-for-all-windows-versions-download-now/"><u>NVIDIA RTX 2060 Driver Update: Fresh Drivers Released for All Windows Versions - Download Now</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/revolutionary-flight-technology-exploring-mavic-pro/"><u>Revolutionary Flight Technology – Exploring Mavic Pro</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-solution-overcoming-samsung-printer-driver-issues-in-windows-environments/"><u>Step-by-Step Solution: Overcoming Samsung Printer Driver Issues in Windows Environments</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshoot-your-network-the-ultimate-guide-to-downloading-broadcom-ethernet-drivers-on-windows-11-issues-resolved/"><u>Troubleshoot Your Network: The Ultimate Guide to Downloading Broadcom Ethernet Drivers on Windows 11 [ISSUES RESOLVED]</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-fixing-issues-downloading-and-updating-the-newest-amd-vega-56-drivers-for-windows/"><u>Troubleshooting & Fixing Issues: Downloading and Updating the Newest AMD Vega 56 Drivers for Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/up-to-date-nvidia-rtx-2080-driver-downloads-optimized-for-windows-10-7-and-8/"><u>Up-to-Date NVIDIA RTX 2080 Driver Downloads: Optimized for Windows 10, 7 & 8</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-how-to-make-instagram-highlight-covers/"><u>[Updated] 2024 Approved How to Make Instagram Highlight Covers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immersive-storytelling-journey-our-top-8-selections/"><u>[Updated] Immersive Storytelling Journey – Our Top 8 Selections</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-streamlined-method-windows-clown-fish-audio-tweaker/"><u>[Updated] Streamlined Method Windows Clown Fish Audio Tweaker</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-animation-styles-pack/"><u>2024 Approved Ultimate Animation Styles Pack</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-poco-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Poco</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-insightful-insignia-driver-tools-for-windows-simple-and-fast/"><u>Download Insightful Insignia Driver Tools for Windows - Simple and Fast</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-top-performance-with-updated-epson-v600-driver-downloads/"><u>Ensure Top Performance with Updated Epson V600 Driver Downloads!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/future-outlook-and-growth-strategy/"><u>Future Outlook and Growth Strategy</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-nighttime-portrait-etiquette-dos-and-donts/"><u>In 2024, Nighttime Portrait Etiquette Do's and Don'ts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722965877641-intel-optane-driver-updates-for-windows-made-easy-step-by-step-instructions-inside/"><u>Intel Optane Driver Updates for Windows Made Easy – Step-by-Step Instructions Inside</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-samsung-galaxy-a14-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Samsung Galaxy A14 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-tips-fixing-your-samsung-blu-ray-player-issues/"><u>Troubleshooting Tips: Fixing Your Samsung Blu-Ray Player Issues</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210189328-9781071576267-mia-nyxta-ston-paradeiso/"><u>ΜΙΑ ΝΥΧΤΑ ΣΤΟΝ ΠΑΡΑΔΕΙΣΟ | Free Book</u></a></li>
 </ul></div>
 

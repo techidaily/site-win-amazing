@@ -1,7 +1,7 @@
 ---
 title: "Up-to-Date NVIDIA RTX 2080 Driver Downloads: Optimized for Windows 10, 7 & 8"
-date: 2024-12-02T16:01:02.915Z
-updated: 2024-12-06T05:28:10.525Z
+date: 2024-12-08T21:32:57.827Z
+updated: 2024-12-11T21:18:25.657Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2 ways to install/update your RTX 3080 driver
 
 **[Option 1: Automatically (Recommended)](https://www.drivereasy.com/knowledge/geforce-rtx-3080-driver-latest-download-for-windows-10-8-7/#option1)**  – Download, install and update drivers with just a few clicks
@@ -48,7 +44,7 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -56,10 +52,14 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 4. Once you’ve installed/updated your graphics driver, restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Install/Update your RTX 3080 driver manually
 
@@ -74,13 +74,13 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 3. Click**Download** . Then run the install wizard to install the graphics driver.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3080-driver-dl.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -102,18 +102,20 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/blitz-photo-screening-for-windows-users/"><u>Blitz Photo Screening for Windows Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/bluetooth-50-usb-adapter-for-windows-asus-bt500-drivers-free-download-supports-win11-10-and-8/"><u>Bluetooth 5.0 USB Adapter for Windows: Asus BT500 Drivers Free Download – Supports Win11, 10 & 8</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/compatible-sm-bus-controller-software-get-your-free-download-for-windows-111087/"><u>Compatible SM Bus Controller Software - Get Your Free Download for Windows 11/10/8/7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/corsair-void-pro-driver-download-and-easy-setup-guide-for-windows-users/"><u>Corsair Void Pro Driver Download and Easy Setup Guide for Windows Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-guide-updating-acers-audio-device-drivers-in-no-time/"><u>Easy Guide: Updating Acer's Audio Device Drivers in No Time!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-s18e-by-fonelab-android-recover-video/"><u>How to recover old videos from your S18e</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-seamlessly-download-and-update-scansnap-driver-in-minutes/"><u>How to Seamlessly Download & Update ScanSnap Driver in Minutes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-ultimate-list-ps2-games-on-android-devices/"><u>In 2024, Ultimate List PS2 Games on Android Devices</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/instant-access-secure-and-speedy-download-of-the-ft232r-usb-communication-drivers/"><u>Instant Access: Secure and Speedy Download of the FT232R USB Communication Drivers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-mkv-video-on-moto-g-5g-2023-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Issues playing MKV video on Moto G 5G (2023)</u></a></li>
-<li><a href="https://fox-http.techidaily.com/sensory-cinema-the-vr-experience-for-2024/"><u>Sensory Cinema The VR Experience for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transformar-videos-de-wmv-a-formato-flv-sin-coste-guia-completa-con-movavi/"><u>Transformar Vídeos De WMV a Formato FLV Sin Coste: Guía Completa Con Movavi</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-exploring-instagrams-video-connectivity-techniques/"><u>[New] In 2024, Exploring Instagram’s Video Connectivity Techniques</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-best-video-makers-with-music-and-photos/"><u>[Updated] Best Video Makers with Music and Photos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-masterclass-in-merging-movies-with-modern-education/"><u>[Updated] Masterclass in Merging Movies with Modern Education</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-windows-movie-maker-the-ultimate-guide-to-youtube-video-production/"><u>[Updated] Windows Movie Maker The Ultimate Guide to YouTube Video Production</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amd-radeon-r9-graphics-card-free-driver-downloads-and-step-by-step-installation-guide-for-windows/"><u>AMD Radeon R9 Graphics Card: Free Driver Downloads and Step-by-Step Installation Guide for Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/busting-the-code-fix-your-realtek-wireless-card-drivers-for-windows-11107-operating-systems/"><u>Busting the Code: Fix Your Realtek Wireless Card Drivers for Windows 11/10/7 Operating Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722963240455-easy-access-to-up-to-date-drivers-for-epson-xp-440-download-instructions-here/"><u>Easy Access to Up-to-Date Drivers for Epson XP-440 - Download Instructions Here!</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c210-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-your-logitech-g2ebeard-microphone-for-modern-operating-systems-windows-7-10-and-11/"><u>How to Update Your Logitech G2ebeard Microphone for Modern Operating Systems (Windows 7, 10 & 11)</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-15-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 15 to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-hp-officejet-4500-printer-software-free-download/"><u>Latest HP OfficeJet 4500 Printer Software - Free Download</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-to-download-and-enhance-rndis-drivers-in-windows-now-fixed/"><u>Step-by-Step Tutorial to Download & Enhance RNDIS Drivers in Windows Now Fixed!</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/transforming-slow-motion-into-fast-action-for-2024/"><u>Transforming Slow Motion Into Fast Action for 2024</u></a></li>
 </ul></div>
 

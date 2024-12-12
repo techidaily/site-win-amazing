@@ -1,7 +1,7 @@
 ---
 title: "Latest Update: Installing the Correct Docking Station Software for Your Lenovo ThinkPad with USB-C Ports"
-date: 2024-12-03T05:09:27.039Z
-updated: 2024-12-05T20:03:42.538Z
+date: 2024-12-11T12:49:07.714Z
+updated: 2024-12-12T10:47:29.302Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 options to update Synaptics drivers
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 2. [**Update my Synaptics drivers automatically (Recommended)**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 1: Update my Synaptics drivers manually**
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 2: Update my Synaptics drivers automatically (Recommended)**
@@ -71,14 +71,14 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5bf49744f0.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. **Restart**   your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have any problems while using **Driver Easy** , feel free to contact our support team at **<support@drivereasy.com>** . Be sure to attach **the URL of this article** if needed for more expedient and efficient guidance.
@@ -104,20 +104,14 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-spotting-a-block-snapchat-notifications-gone-mute-for-2024/"><u>[New] Spotting a Block Snapchat Notifications Gone Mute for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/essential-hp-officejet-5255-software-update-free-download-and-installation-instructions/"><u>Essential HP OfficeJet 5255 Software Update - Free Download and Installation Instructions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-metaverse-laughter-creating-your-own-funny-online-jokes-for-2024/"><u>Exploring Metaverse Laughter Creating Your Own Funny Online Jokes for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-rtx-2060-super-graphics-card-drivers-compatible-with-windows-10-and-11/"><u>Get the Latest RTX 2060 Super Graphics Card Drivers: Compatible with Windows 10 & 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722971821422-get-your-msi-z370-a-pros-latest-drivers-here-free-offer/"><u>Get Your MSI Z370-A Pro's Latest Drivers Here – Free Offer</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-install-usb-c-drive-support-on-your-windows-10-device/"><u>How to Install USB-C Drive Support on Your Windows 10 Device</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Vivo V29e? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-honor-play-7t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Honor Play 7T Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-first-steps-in-telegram-marketing-an-initiation-handbook/"><u>In 2024, First Steps in Telegram Marketing An Initiation Handbook</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-not-working-on-infinix-note-30i-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Infinix Note 30i? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-and-easy-way-to-download-and-update-sound-blaster-z-drivers-for-windows-11-users/"><u>Quick & Easy Way to Download and Update Sound Blaster Z Drivers for Windows 11 Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-ultimate-fix-for-troublesome-alienware-drivers-in-the-world-of-windows-mastered/"><u>The Ultimate Fix for Troublesome Alienware Drivers in the World of Windows [Mastered]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/top-solutions-for-resolving-toshiba-laptop-audio-issues/"><u>Top Solutions for Resolving Toshiba Laptop Audio Issues</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleash-next-level-graphics-on-the-cheap-innocns-stunning-240-hz-gaming-screen-for-just-199-grab-it-now/"><u>Unleash Next-Level Graphics on the Cheap – Innocn's Stunning 240 Hz Gaming Screen for Just $199 – Grab It Now!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unmute-your-laptops-internal-speakers-proven-methods-for-restoring-audio/"><u>Unmute Your Laptop's Internal Speakers: Proven Methods for Restoring Audio</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-instant-live-from-obs-to-instagram-app-for-2024/"><u>[New] Instant Live From OBS to Instagram App for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-experts-picks-top-10-budget-friendly-call-apps/"><u>[Updated] 2024 Approved Expert's Picks Top 10 Budget-Friendly Call Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-vivo-v29-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Vivo V29 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-the-hp-officejet-4655-printer-drivers/"><u>Download and Update the HP OfficeJet 4655 Printer Drivers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/google-unveils-bard-an-advanced-ai-system-set-to-challenge-chatgpts-dominance/"><u>Google Unveils Bard, an Advanced AI System Set to Challenge ChatGPT's Dominance</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-obtain-and-install-updated-canon-mg3atur-driver-for-optimal-performance/"><u>How to Obtain & Install Updated Canon MG3atur Driver for Optimal Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-teamsters-crashes-on-windows-11-and-10-pcs/"><u>Preventing Teamsters Crashes on Windows 11 & 10 PCs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-easy-way-to-get-your-toshibam-printer-up-and-running-with-windows-software/"><u>Quick and Easy Way to Get Your Toshibam Printer Up & Running with Windows Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722969478330-win7-wifi-connection-troubles-discover-how-to-repair-your-network-adapter-drivers/"><u>Win7 WiFi Connection Troubles? Discover How to Repair Your Network Adapter Drivers</u></a></li>
 </ul></div>
 

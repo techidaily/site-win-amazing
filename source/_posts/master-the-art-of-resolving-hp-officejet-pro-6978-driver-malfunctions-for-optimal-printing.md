@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Resolving HP Officejet Pro 6978 Driver Malfunctions for Optimal Printing
-date: 2024-11-29T03:34:36.435Z
-updated: 2024-12-06T09:14:30.984Z
+date: 2024-12-08T09:30:10.960Z
+updated: 2024-12-11T23:42:53.322Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update Validity fingerprint sensor drivers
 
  There’re mainly 3 ways for you to update the Validity fingerprint sensor drivers. Each of them has different features so you may pick the one you like most and see whether that answers your demand.
@@ -37,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 1 – Update your driver via Device Manager**
@@ -51,15 +55,11 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 3. Type**device** into the search box. Then select**Device Manager** from a list of search results.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1098.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Here comes**Device Manager** . Click the**▷** symbol to the left of**Biometric Devices** to expand its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1073.png)
 5. Right-click on**Validity Sensors (WBF)** to open its context menu. Then select**Update Driver Software…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-11-03.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-18-21.png)
 
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 2 – Update your driver from official websites**
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Validity fingerprint sensor driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-36-48-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -125,18 +125,22 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-sound-enhance-videos-with-windows-11-audio-integration/"><u>2024 Approved Mastering Sound Enhance Videos with Windows 11 Audio Integration</u></a></li>
-<li><a href="https://games-able.techidaily.com/9-fixes-for-the-steam-library-folder-not-writable-error-on-windows-11/"><u>9 Fixes for the “Steam Library Folder Not Writable” Error on Windows 11</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/digital-diaries-of-daily-displays-fb-live-downloads/"><u>Digital Diaries of Daily Displays FB Live Downloads</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fast-track-to-enhanced-performance-with-new-amd-smbus-drivers/"><u>Fast Track to Enhanced Performance with New AMD SMBus Drivers!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/from-box-to-board-how-to-implement-logitech-mx-master-on-your-pc/"><u>From Box to Board: How to Implement Logitech MX Master on Your PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-official-canon-mf4800-drivers-for-your-impressionable-printing-needs/"><u>Get the Official Canon MF4800 Drivers for Your Impressionable Printing Needs</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-msi-bluetooth-driver-update-here-perfect-for-windows-11-and-windows-10-devices/"><u>Get Your MSI Bluetooth Driver Update Here, Perfect for Windows 11 & Windows 10 Devices</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-find-and-update-your-dell-latitude-e6430-device-drivers-a-comprehensive-guide/"><u>How to Find & Update Your Dell Latitude E6430 Device Drivers: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78plus-t1-edition-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-zero-price-strategies-for-solo-frame-analysis-in-videos/"><u>In 2024, Zero-Price Strategies for Solo Frame Analysis in Videos</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/schrittweise-anleitung-zur-wiederherstellung-verlorener-dokumente-und-verzeichnisse-auf-ihrem-computer/"><u>Schrittweise Anleitung Zur Wiederherstellung Verlorener Dokumente Und Verzeichnisse Auf Ihrem Computer</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/the-ultimate-guide-to-exceptional-tiktok-intro-videos-mac/"><u>The Ultimate Guide to Exceptional TikTok Intro Videos (Mac)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ultimate-guide-downloading-and-installing-the-latest-drivers-for-your-lenovo-ideapad-100-on-windows-11/"><u>Ultimate Guide: Downloading & Installing the Latest Drivers for Your Lenovo IdeaPad 100 on Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-basic-capture-tool-windows-10-screen-recorder/"><u>[Updated] 2024 Approved Basic Capture Tool Windows 10 Screen Recorder</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-become-an-instagram-content-wizard-with-smart-cropping-practices/"><u>[Updated] Become an Instagram Content Wizard with Smart Cropping Practices</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/customize-line-spacing-with-vertical-align-feature-in-emeditor-text-editor/"><u>Customize Line Spacing with Vertical Align Feature in EmEditor Text Editor</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approach-to-hdr-portraiture-excellence/"><u>In 2024, Innovative Approach to HDR Portraiture Excellence</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-battle-of-video-players-vlc-vs-mx/"><u>In 2024, The Battle of Video Players VLC Vs. MX</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-ipad-selection-understanding-the-differences-between-mini-and-air/"><u>Navigating iPad Selection - Understanding the Differences Between Mini and Air</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-mastering-the-art-of-multiplying-entire-ranges-in-excel/"><u>Step-by-Step Guide: Mastering the Art of Multiplying Entire Ranges in Excel</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-restoring-your-lost-untitled-microsoft-office-documents/"><u>Step-by-Step Guide: Restoring Your Lost, Untitled Microsoft Office Documents</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-transforming-your-data-from-csv-into-excel-spreadsheets/"><u>Step-by-Step Guide: Transforming Your Data From CSV Into Excel Spreadsheets</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-on-creating-and-applying-cell-styles-in-microsoft-excel-for-efficient-data-management/"><u>Step-by-Step Tutorial on Creating & Applying Cell Styles in Microsoft Excel for Efficient Data Management</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-tutorial-adjusting-decimal-places-and-rounding-values-in-microsoft-excel/"><u>The Ultimate Tutorial: Adjusting Decimal Places and Rounding Values in Microsoft Excel</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transforming-excel-formulas-into-constant-values-a-step-by-step-guide-excel-2013/"><u>Transforming Excel Formulas Into Constant Values: A Step-by-Step Guide (Excel 2013)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-windows-update-problems-for-smooth-operations/"><u>Troubleshoot Windows Update Problems for Smooth Operations</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-honor-90-gt-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Honor 90 GT Screen | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/understanding-your-spreadsheets-past-how-to-check-document-versions-on-excel-web-app/"><u>Understanding Your Spreadsheet's Past - How to Check Document Versions on Excel Web App</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/unleashing-new-power-microsoft-excels-latest-update-introduces-innovative-copilot-features/"><u>Unleashing New Power: Microsoft Excel's Latest Update Introduces Innovative Copilot Features</u></a></li>
 </ul></div>
 

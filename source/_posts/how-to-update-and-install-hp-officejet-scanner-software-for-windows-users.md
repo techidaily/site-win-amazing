@@ -1,7 +1,7 @@
 ---
 title: How to Update and Install HP Officejet Scanner Software for Windows Users
-date: 2024-08-23T11:43:51.513Z
-updated: 2024-08-24T11:43:51.513Z
+date: 2024-12-09T09:09:03.187Z
+updated: 2024-12-12T13:35:41.820Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ It is common knowledge that updated printer drivers keep your printer run at its
 1. [Download HP LaserJet Pro P1102w printer driver from HP Support](https://tools.techidaily.com/drivereasy/download/)
 2. [Download & Update HP LaserJet Pro P1102w printer driver automatically](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1: Download HP LaserJet Pro P1102w printer driver from HP Support
 
 **NOTE** : The printer driver for LaserJet Pro P1102w is also adaptable to P1560 and P1600 series of HP LaserJet printers.
@@ -34,14 +38,29 @@ It is common knowledge that updated printer drivers keep your printer run at its
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd989eac56d.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Then choose**LaserJet P1000** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd98b14cda6.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) You should be able to see the Pro P1102 printer listed here. Click to see more details.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd98d05d78f.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Choose**Software and Drivers** on the left side, then click**Go** to go to the driver page.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd98eed7738.png)
@@ -72,6 +91,10 @@ It is common knowledge that updated printer drivers keep your printer run at its
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58fd7369cc2f3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [HP](https://tools.techidaily.com/drivereasy/download/)
 * [HP printer](https://tools.techidaily.com/drivereasy/download/)
 
@@ -81,8 +104,6 @@ It is common knowledge that updated printer drivers keep your printer run at its
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -90,8 +111,23 @@ It is common knowledge that updated printer drivers keep your printer run at its
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-final-impressions-how-to-design-a-standout-vimeo-end-screen/"><u>[New] In 2024, Final Impressions How to Design a Standout Vimeo End Screen</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-channel-transformation-with-strategic-use-of-youtube-outros/"><u>[Updated] In 2024, Channel Transformation with Strategic Use of YouTube Outros</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-discovering-top-5-methods-for-turning-tiktok-videos-into-gifs/"><u>[Updated] In 2024, Discovering Top 5 Methods for Turning TikTok Videos Into GIFs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/brother-hl2280dw-driver-installation-guide-and-download-for-various-windows-versions/"><u>Brother HL2280DW Driver Installation Guide and Download for Various Windows Versions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-tutorial-for-driver-update-of-the-razer-blade-laptop-windows-10-8-7/"><u>Comprehensive Tutorial for Driver Update of the Razer Blade Laptop (Windows 10, 8, 7)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-xbox-wireless-receiver-software-simple-steps/"><u>Download Xbox Wireless Receiver Software - Simple Steps</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fixing-common-issues-troubleshooting-your-logitech-g433-microphone/"><u>Fixing Common Issues: Troubleshooting Your Logitech G433 Microphone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-conversion-from-quicktime-qt-to-movie-formats-mov-using-online-tools/"><u>Free Conversion From QuickTime (QT) to Movie Formats (.MOV) Using Online Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-easily-install-your-insignia-vga-to-display-port-converter/"><u>How to Easily Install Your Insignia VGA to Display Port Converter</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-install-chipset-drivers-effectively-insights-into-purpose-and-setup-procedures/"><u>How To Install Chipset Drivers Effectively: Insights Into Purpose And Setup Procedures</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-books-purchases-on-iphone-15-plus-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Books Purchases on iPhone 15 Plus</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-guide-lenovo-thinkpad-t420-driver-downloads-and-updates-on-windows/"><u>Quick Guide: Lenovo ThinkPad T420 Driver Downloads and Updates on Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-xiaomi-13t-pro-by-fonelab-android-recover-data/"><u>Recover lost data from Xiaomi 13T Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-dll-not-found-issues-a-comprehensive-guide/"><u>Solving 'DLL Not Found' Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-download-tutorial-accessories-and-software-for-the-versatile-hp-thunderbolt-dock-g2/"><u>Step-by-Step Download Tutorial: Accessories & Software for the Versatile HP Thunderbolt Dock G2</u></a></li>
+<li><a href="https://discover-best.techidaily.com/step-by-step-guide-resolving-print-spooler-issues-tips-from-yl-computing/"><u>Step-by-Step Guide: Resolving Print Spooler Issues - Tips From YL Computing</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->

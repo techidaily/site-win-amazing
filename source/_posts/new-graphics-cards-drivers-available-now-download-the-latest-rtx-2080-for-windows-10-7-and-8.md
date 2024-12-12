@@ -1,7 +1,7 @@
 ---
 title: "New Graphics Cards Drivers Available Now: Download the Latest RTX 2080 for Windows 10, 7 & 8"
-date: 2024-12-04T11:42:45.138Z
-updated: 2024-12-06T01:21:02.770Z
+date: 2024-12-07T19:11:46.971Z
+updated: 2024-12-12T10:42:15.880Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **There are two methods to update your Geforce RTX 2080 driver:**
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 [**Method 2** **– Manually:**](https://tools.techidaily.com/drivereasy/download/) You can update your Geforce RTX 2080 driver on your own. This requires some time, patience, and sometimes even computer skills.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Update your Geforce RTX 2080 driver automatically
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap455.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your **Geforce RTX 2080** graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap454-1.png)
@@ -61,7 +65,7 @@ _You can do it for free if you like, but it’s partly manual._
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Download and install your Geforce RTX 2080 driver manually
@@ -75,16 +79,12 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap469.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3\. Click the **DOWNLOAD** button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap461.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4.**Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
@@ -108,15 +108,20 @@ _You can do it for free if you like, but it’s partly manual._
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-the-essentials-of-webcam-capture-with-free2x-app-for-2024/"><u>[New] The Essentials of WebCam Capture with Free2X App for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/advanced-materialdashboard-pro-with-react-and-aspnet-core-top-tier-admin-ui-design-by-creative-tim/"><u>Advanced MaterialDashboard Pro with React & ASP.NET Core | Top-Tier Admin UI Design by Creative Tim</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/in-2024-next-gen-audio-transcription-technologies-and-their-applications/"><u>In 2024, Next-Gen Audio Transcription Technologies and Their Applications</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-y78t-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Vivo Y78t Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/movavi-conversione-dts-online-gratuita-in-un-clic-scopri-il-metodo-facile/"><u>Movavi: Conversione DTS Online Gratuita in Un Clic – Scopri Il Metodo Facile!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/seamless-vob-to-flv-file-upgrade-at-no-cost-experience-the-simplicity-of-movavis-service/"><u>Seamless VOB to FLV File Upgrade at No Cost - Experience the Simplicity of Movavi's Service</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/securing-agreements-faster-techniques-to-pen-convincing-proposals-leveraging-chatgpt/"><u>Securing Agreements Faster: Techniques to Pen Convincing Proposals Leveraging ChatGPT</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tarte-tatin/"><u>Tarte Tatin</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-ultimate-selection-of-17-record-worthy-screencasters-compare-and-choose/"><u>The Ultimate Selection of 17 Record-Worthy Screencasters - Compare and Choose.</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/trasforma-le-tue-immagini-con-eccezionale-qualita-grazie-al-movavi-photo-editor-manuale-di-miglioramento-foto/"><u>Trasforma Le Tue Immagini Con Eccezionale Qualità Grazie Al Movavi Photo Editor | Manuale Di Miglioramento Foto</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-beginners-guide-to-premium-gopro-accessories/"><u>[New] Beginner’s Guide to Premium GoPro Accessories</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-intensive-analysis-sonys-high-def-action-cam/"><u>[New] In 2024, Intensive Analysis Sony's High-Def Action Cam</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-secret-to-youtube-dominance-unveiled-by-creative-studio-insights-for-2024/"><u>[Updated] The Secret to YouTube Dominance Unveiled by Creative Studio Insights for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-the-latest-usb-c-drivers-for-your-windows-10-pc-today/"><u>Download & Install the Latest USB-C Drivers for Your Windows 10 PC Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-newest-hp-laserjet-1320-driver-version-complete-step-by-step-tutorial-for-windows-users/"><u>Download the Newest HP LaserJet 1320 Driver Version: Complete Step-by-Step Tutorial for Windows Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/elevate-your-audio-experience-with-gigabytes-free-driver-download-now/"><u>Elevate Your Audio Experience with Gigabyte's Free Driver Download Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-gaming-experience-with-nvidias-geforce-210-updated-drivers-on-windows-eon/"><u>Enhance Your Gaming Experience with NVIDIA's GeForce 210 Updated Drivers on Windows Eon</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-update-the-driver-for-hp-deskjet-2540-ink-advantage-printer-easily-here/"><u>Find and Update the Driver for HP Deskjet 2540 Ink Advantage Printer Easily Here!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-itel-p55-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-frostbound-competition-spotlight-on-2022s-olympic-snowboard-cross-heroes/"><u>In 2024, Frostbound Competition Spotlight on 2022'S Olympic Snowboard Cross Heroes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-funhouse-laughs-top-10-meme-blueprints-explained/"><u>In 2024, Funhouse Laughs Top 10 Meme Blueprints Explained</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/infuse-laughter-into-content-use-kapwing/"><u>Infuse Laughter Into Content - Use Kapwing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/lenovo-ideapad-100-find-and-install-correct-drivers-for-optimal-performance-on-windows-11/"><u>Lenovo IdeaPad 100 - Find & Install Correct Drivers for Optimal Performance on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-selection-top-6-money-saving-portal-picks-for-conscious-shoppers/"><u>The Ultimate Selection: Top 6 Money-Saving Portal Picks for Conscious Shoppers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-rated-free-motherboard-drivers-for-your-asus-rog-strix-z270-e-enhance-gaming-performance-now/"><u>Top-Rated Free Motherboard Drivers for Your ASUS ROG Strix Z270-E: Enhance Gaming Performance Now</u></a></li>
 </ul></div>
 
