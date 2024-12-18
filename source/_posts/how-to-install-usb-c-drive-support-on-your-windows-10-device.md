@@ -1,7 +1,7 @@
 ---
 title: How to Install USB-C Drive Support on Your Windows 10 Device
-date: 2024-12-09T14:29:30.556Z
-updated: 2024-12-12T08:41:44.905Z
+date: 2024-12-12T22:58:08.734Z
+updated: 2024-12-18T19:11:41.757Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ OR
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 1 – Download and install the driver manually
 
  As a printer manufacturer, Canon provides printer drivers for their products on the website. To get the Canon PIXMA Pro 100 driver:
@@ -46,12 +42,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-108.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type your printer model in the search box and click**Go** . In my case I type PIXMA PRO 100, and click**Go** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-109.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) On the product page, click the**Drivers & Downloads** tab.
@@ -59,18 +59,18 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-110.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) On the same page, under the**Drivers & Downloads** section, make sure the detected**Operating System** and**Language** are correct. Then click the**Drivers** tab, click**Select** \>**Download** to download the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-111-1024x299.png)
 
- 5) After downloading, double click the downloaded file to run and follow the on-screen instructions to install the driver.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 5) After downloading, double click the downloaded file to run and follow the on-screen instructions to install the driver.
 
 ## Option 2 – Automatically update the driver
 
@@ -86,13 +86,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-112.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-113.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Note: you can do it for free if you like, but it’s partly manual.
 
@@ -119,19 +119,24 @@ Note: you can do it for free if you like, but it’s partly manual.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-diy-techniques-transforming-smartphones-into-webcams/"><u>[Updated] In 2024, DIY Techniques Transforming Smartphones Into Webcams</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-find-out-which-phones-make-the-best-friends-with-gear-vr/"><u>2024 Approved Find Out Which Phones Make the Best Friends with Gear VR</u></a></li>
-<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722965223749-amd-gpio-controller-drivers-free-downloads-available-now/"><u>AMD GPIO Controller Drivers - Free Downloads Available Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/delving-into-computer-components-a-journey-with-toms-hardware-experts/"><u>Delving Into Computer Components: A Journey with Tom's Hardware Experts</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-corsair-k70-gaming-keyboard-software-and-drivers/"><u>Download Corsair K70 Gaming Keyboard Software & Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-download-optimized-intel-usb-30-drivers-for-a-flawless-windows-10-experience/"><u>Easy Download: Optimized Intel USB 3.0 Drivers for a Flawless Windows 10 Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expanding-workspace-with-dual-monitors-compatible-with-windows-7-8-and-10-instructions/"><u>Expanding Workspace with Dual Monitors: Compatible With Windows 7, 8 & 10 Instructions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-logitech-g29-racing-wheel-setup-and-driver-software-guide-for-win7-win8-and-win10/"><u>Free Logitech G29 Racing Wheel Setup & Driver Software Guide for Win7, Win8, and Win10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-most-recent-drivers-for-your-amd-radeon-rx-6700-xt-on-windows-11-10-and-7/"><u>Get the Most Recent Drivers for Your AMD Radeon RX 6700 XT on Windows 11, 10 & 7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-updates-for-your-dell-thunderbolt-usb-c-tb16-accessory-hub-drivers-here/"><u>Get the Newest Updates for Your Dell Thunderbolt USB-C (TB16) Accessory Hub Drivers Here</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-poco-c51-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Poco C51? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-poco-x5-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Poco X5 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-updates-for-usb-hid-mice-optimized-secure-and-reliable-connection/"><u>Latest Updates for USB HID Mice: Optimized, Secure & Reliable Connection</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-from-still-screens-to-mp3-beats-insta-video-tips-for-2024/"><u>[New] From Still Screens to MP3 Beats - Insta Video Tips for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-android-mastery-for-virtual-reality-and-panoramic-videos/"><u>[New] In 2024, Android Mastery for Virtual Reality & Panoramic Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-best-slow-motion-camera-apps-for-android-and-iphone/"><u>[Updated] Best Slow Motion Camera Apps for Android And iPhone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-guide-to-selecting-peak-frames-per-second-for-slow-motion-cinema-for-2024/"><u>[Updated] The Ultimate Guide to Selecting Peak Frames Per Second For Slow-Motion Cinema for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-solution-updating-huion-graphics-tablet-software-for-pcs/"><u>Complete Solution: Updating Huion Graphics Tablet Software for PCs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-wacom-drivers-instantly-the-fastest-way/"><u>Download Wacom Drivers Instantly - The Fastest Way</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-asus-touchpad-driver-installation-on-windows-10-fast-and-simple-steps/"><u>Easy ASUS Touchpad Driver Installation on Windows 10: Fast and Simple Steps</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fixing-realtek-universal-video-driver-problems-expert-advice/"><u>Fixing Realtek Universal Video Driver Problems - Expert Advice</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-d-link-driver-updates-for-windows-easy-installation-tutorial/"><u>Get the Latest D-Link Driver Updates for Windows - Easy Installation Tutorial</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-behringer-driver-software-now-free-download-available/"><u>Get Your Behringer Driver Software Now – Free Download Available</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-free-hp-laserjet-1018-drivers-here/"><u>Get Your Free HP LaserJet 1018 Drivers Here</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-and-set-up-hp-laserjet-printer-driver-5200-on-windows-11-10-and-8/"><u>How to Get and Set Up HP LaserJet Printer Driver 5200 on Windows 11, 10 & 8</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-c51-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco C51 To Phone | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-vivo-y78plus-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Vivo Y78+ Phone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-logitech-g-pro-driver-software-available-here-compatible-with-windows-111087/"><u>Latest Logitech G Pro Driver Software Available Here - Compatible with Windows 11/10/8/7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/techkey-universal-bluetooth-receiver-drivers-download-for-windows-11-7-and-nvidia-8/"><u>Techkey Universal Bluetooth Receiver Drivers - Download for Windows 11, 7 & nVidia 8</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-power-of-measure-app-on-android-a-comprehensive-guide/"><u>Unlock the Power of Measure App on Android - A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/waterproof-wrist-tech-leaders-of-2024-unveiled-and-analyzed-by-professionals-zdnet/"><u>Waterproof Wrist Tech Leaders of 2024 Unveiled & Analyzed by Professionals | ZDNET</u></a></li>
 </ul></div>
 

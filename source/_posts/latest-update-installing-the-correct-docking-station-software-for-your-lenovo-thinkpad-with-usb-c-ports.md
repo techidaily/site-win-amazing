@@ -1,7 +1,7 @@
 ---
 title: "Latest Update: Installing the Correct Docking Station Software for Your Lenovo ThinkPad with USB-C Ports"
-date: 2024-12-11T12:49:07.714Z
-updated: 2024-12-12T10:47:29.302Z
+date: 2024-12-14T21:02:23.058Z
+updated: 2024-12-18T19:56:46.536Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 options to update Synaptics drivers
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 2. [**Update my Synaptics drivers automatically (Recommended)**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 1: Update my Synaptics drivers manually**
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 2: Update my Synaptics drivers automatically (Recommended)**
@@ -71,14 +71,14 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5bf49744f0.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. **Restart**   your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have any problems while using **Driver Easy** , feel free to contact our support team at **<support@drivereasy.com>** . Be sure to attach **the URL of this article** if needed for more expedient and efficient guidance.
@@ -104,14 +104,18 @@ thumbnail: https://thmb.techidaily.com/b993525d5116d4df453998a70a05051f652313974
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-instant-live-from-obs-to-instagram-app-for-2024/"><u>[New] Instant Live From OBS to Instagram App for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-experts-picks-top-10-budget-friendly-call-apps/"><u>[Updated] 2024 Approved Expert's Picks Top 10 Budget-Friendly Call Apps</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-vivo-v29-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Vivo V29 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-the-hp-officejet-4655-printer-drivers/"><u>Download and Update the HP OfficeJet 4655 Printer Drivers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/google-unveils-bard-an-advanced-ai-system-set-to-challenge-chatgpts-dominance/"><u>Google Unveils Bard, an Advanced AI System Set to Challenge ChatGPT's Dominance</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-obtain-and-install-updated-canon-mg3atur-driver-for-optimal-performance/"><u>How to Obtain & Install Updated Canon MG3atur Driver for Optimal Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-teamsters-crashes-on-windows-11-and-10-pcs/"><u>Preventing Teamsters Crashes on Windows 11 & 10 PCs</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-and-easy-way-to-get-your-toshibam-printer-up-and-running-with-windows-software/"><u>Quick and Easy Way to Get Your Toshibam Printer Up & Running with Windows Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722969478330-win7-wifi-connection-troubles-discover-how-to-repair-your-network-adapter-drivers/"><u>Win7 WiFi Connection Troubles? Discover How to Repair Your Network Adapter Drivers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-realme-12-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Realme 12 5G without App | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-xiaomi-redmi-note-12-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Xiaomi Redmi Note 12 5G Phone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-showdown-can-gemini-outshine-chatgpt-plus/"><u>AI Showdown: Can Gemini Outshine ChatGPT Plus?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/beginners-guide-the-ultimate-list-of-top-10-no-cost-digital-audio-workstations-daws/"><u>Beginner's Guide: The Ultimate List of Top 10 No-Cost Digital Audio Workstations (DAWs)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/cambiar-formato-de-video-de-mp4-en-avi-sin-coste-guia-facil-y-libre/"><u>Cambiar Formato De Video De MP4 en AVI Sin Coste: Guía Fácil Y Libre</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/convert-mkv-files-to-mp4-for-free-effortless-mp4-creation-by-motionverse/"><u>Convert .mkv Files to MP4 for Free - Effortless MP4 Creation by MotionVerse</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratuit-mp4-vers-mpeg-en-ligne-conversion-video-professionnelle-avec-movavi/"><u>Gratuit MP4 Vers MPEG en Ligne - Conversion Vidéo Professionnelle Avec Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-overcome-windows-11-pc-reset-failures-effective-solutions-revealed/"><u>How to Successfully Overcome Windows 11 PC Reset Failures: Effective Solutions Revealed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-cloudapp-studio-top-10-lightroom-alternatives/"><u>In 2024, CloudApp Studio Top 10 Lightroom Alternatives</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-m14-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy M14 5G Phone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-infinix-smart-8-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Infinix Smart 8.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-15-modi-piu-efficaci-per-scaricare-podcast-su-pc-o-mobile-con-movavi/"><u>Top 15 Modi Più Efficaci per Scaricare Podcast Su PC O Mobile Con Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/toutes-les-etapes-pour-transformer-un-fichier-3gp-en-video-mov-gratuite-sur-internet-avec-movieweb/"><u>Toutes Les Étapes Pour Transformer Un Fichier 3GP en Vidéo MOV Gratuite Sur Internet Avec MovieWeb</u></a></li>
 </ul></div>
 

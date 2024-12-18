@@ -1,7 +1,7 @@
 ---
 title: Latest Canon MG36# Driver Software Updates for Smooth Printing Experience
-date: 2024-08-18T13:41:25.423Z
-updated: 2024-08-19T13:41:25.423Z
+date: 2024-12-11T20:14:09.508Z
+updated: 2024-12-18T22:51:43.086Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
 
  If your Canon printer is not working properly as it should be, for instance, you see the certain errors when trying to print, the printer’s status is offline, you should really consider getting your printer driver updated.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes to update Canon MX490 driver
 
 1. [Download and update the Canon MX490 printer driver manually](https://tools.techidaily.com/drivereasy/download/)
@@ -38,21 +42,30 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-130.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Drivers & Downloads** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-132.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Under the**Recommended Driver(s)** section, click**Select** , then click**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-133.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Run the downloaded file, and follow the on-screen instructions to finish the installation.
 
  This is time consuming. If this method doesn’t work for you, don’t worry. There is something else to try.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Download and update the Canon MX490 printer driver automatically
 
  Manually downloading and installing the Canon MX490 driver requires time and computer skills. If you don’t have patience, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -68,17 +81,15 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-128.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged printer driver to automatically download and install the correct version the this driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-129.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Restart your computer to make it take effect.
 
 This is rather easy to update your Canon MX490 printer driver, right?
@@ -95,8 +106,6 @@ This is rather easy to update your Canon MX490 printer driver, right?
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +113,18 @@ This is rather easy to update your Canon MX490 printer driver, right?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-discover-the-secrets-to-youtubes-rankings-with-keywords/"><u>[Updated] Discover the Secrets to YouTube's Rankings with Keywords</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cinema-kings-and-queens-iphones-leading-8-freepluspaid-watching-options/"><u>Cinema Kings & Queens IPhone's Leading 8 FREE+Paid Watching Options</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-compatible-drivers-for-your-xbox-360-controller-today/"><u>Download Compatible Drivers for Your Xbox 360 Controller Today!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-realtek-audio-device-drivers-for-the-latest-windows-version/"><u>Effortless Installation of Realtek Audio Device Drivers for the Latest Windows Version</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-asus-vg248qe-monitor-drivers-for-windows-secure-simple-download-process/"><u>Get the Newest Asus VG248QE Monitor Drivers for Windows - Secure, Simple Download Process</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-intel-nvme-drivers-instantly-a-smooth-user-friendly-download-process/"><u>Get Your Intel NVMe Drivers Instantly - A Smooth, User-Friendly Download Process</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-p60-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on P60</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/improve-your-gameplay-update-nvidia-geforce-gtx-1660-ti-graphics-card-drivers/"><u>Improve Your Gameplay: Update NVIDIA GeForce GTX 1660 Ti Graphics Card Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/instant-access-obtain-your-samsung-c460-printing-software-with-one-click/"><u>Instant Access: Obtain Your Samsung C460 Printing Software with One-Click</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-the-8007000e-update-issue-on-your-pc/"><u>Step-by-Step Guide: Resolving the 8007000E Update Issue on Your PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-powerhouse-inside-the-stunning-design-an-in-depth-review-of-the-dell-xps-16-9640/"><u>Unveiling the Powerhouse Inside the Stunning Design - An In-Depth Review of the Dell XPS 16 (9640)</u></a></li>
+</ul></div>
 

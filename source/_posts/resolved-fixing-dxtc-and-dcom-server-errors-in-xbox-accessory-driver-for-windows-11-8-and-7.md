@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing DXTC and DCOM Server Errors in Xbox Accessory Driver for Windows 11, 8 & 7"
-date: 2024-08-23T11:39:07.297Z
-updated: 2024-08-24T11:39:07.297Z
+date: 2024-12-14T16:31:33.392Z
+updated: 2024-12-18T18:57:44.135Z
 tags:
   - win11
   - win10
@@ -54,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2 – Update your XBOX ACC driver manually
 
  To update your XBOX ACC driver manually, please complete the following procedure:
@@ -67,15 +68,13 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-280.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) On the next page, you’ll be presented with a list of Xbox wireless adapter drivers. Scroll through the list until you find the one compatible with your Windows version. Then click the**Download**  button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-282.png)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) After the driver has been downloaded, open that destination folder where you’ve saved the driver file. Usually the file should be a compressed one.
 
  5) Extract the downloaded driver file.
@@ -85,33 +84,31 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-255.png)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  7) Here pops up your**Device Manager** . Double-click on the **Other devices** node to open its drop-down list. Then right-click on**XBOX ACC** and select**Update driver** .
 
 ![This image has an empty alt attribute; its file name is image-301.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-301.png)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-298.png)
 
  8) In the next window, select**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-299.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  9) Click**Browse…** to select the folder where you’ve extracted the driver file. Then click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-300.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  10) Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
 
 ---
@@ -127,8 +124,6 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +131,20 @@ thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e532
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-pro-level-editing-10-must-have-applications-for-insta-videos/"><u>[New] 2024 Approved Pro-Level Editing 10 Must-Have Applications for Insta Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-resolving-an-alone-earpiece-dilemma/"><u>[New] 2024 Approved Resolving an Alone Earpiece Dilemma</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-dissecting-tunefabs-technology-for-flawless-capture/"><u>[New] In 2024, Dissecting Tunefab's Technology for Flawless Capture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-podcasts-for-apple-podcasts/"><u>[New] Streamline Your Podcasts for Apple Podcasts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-state-of-the-art-gaming-capture-systems-not-just-fbx-files/"><u>[Updated] State-of-the-Art Gaming Capture Systems, Not Just FBX Files</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-mediatek-usb-vcom-drivers-now-secure-and-speedy-setup/"><u>Get Your MediaTek USB VCOM Drivers Now – Secure & Speedy Setup!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-toshiba-device-connected-with-bluetooth-download-the-right-driver/"><u>Get Your Toshiba Device Connected with Bluetooth: Download the Right Driver</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-honor-70-lite-5g-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Honor 70 Lite 5G</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-usb-c-drivers-for-windows-11-download-guide/"><u>Latest USB-C Drivers for Windows 11: Download Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-efficient-guide-downloading-and-installing-the-epson-et-4550-driver-on-your-windows-pc/"><u>Quick and Efficient Guide: Downloading and Installing the Epson ET-4550 Driver on Your Windows PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/time-saving-steps-for-documenting-your-google-voice-talks/"><u>Time-Saving Steps for Documenting Your Google Voice Talks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-guide-steps-to-install-asus-atk0100-acpi-device-drivers/"><u>Ultimate Guide: Steps to Install ASUS ATK0100 ACPI Device Drivers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-secrets-of-hardware-insights-from-toms-workshop/"><u>Unlocking the Secrets of Hardware: Insights From Tom's Workshop</u></a></li>
+</ul></div>
 

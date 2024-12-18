@@ -1,7 +1,7 @@
 ---
 title: "Driver Setup for Lenovo Legion 5 Pro Laptop: Guide for Model N5, ACCH6"
-date: 2024-12-06T01:00:53.256Z
-updated: 2024-12-12T09:53:41.628Z
+date: 2024-12-16T17:06:43.325Z
+updated: 2024-12-18T18:38:41.689Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to update your Intel NVMe driver
@@ -40,10 +40,6 @@ There are two ways you can update your driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 1 – Update the driver manually
 
 **Intel** keeps updating the NVMe drivers. To get them, you need to go to the **[Intel Support](https://downloadcenter.intel.com/product/35125/Memory-and-Storage)**  website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10, 64 bit) and download the driver manually.
@@ -51,7 +47,7 @@ There are two ways you can update your driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-162.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file (usually with the EXE extension) and follow the on-screen instructions to install the driver.
@@ -59,7 +55,7 @@ There are two ways you can update your driver:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Intel NVMe driver
@@ -75,7 +71,11 @@ There are two ways you can update your driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update yourIntel NVMe driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-163.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -110,20 +110,19 @@ There are two ways you can update your driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-from-novice-to-pro-the-ultimate-guide-to-gaming-with-kinemaster-app/"><u>[New] 2024 Approved From Novice to Pro The Ultimate Guide to Gaming with KineMaster App</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-step-by-step-shortcut-for-easy-mac-screen-recording/"><u>[Updated] 2024 Approved Step-by-Step Shortcut for Easy Mac Screen Recording</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tailoring-visual-quality-choose-aspect-ratios-wisely/"><u>[Updated] Tailoring Visual Quality Choose Aspect Ratios Wisely</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-productivity-with-our-user-friendly-chatgpt-enhancer-for-google-chrome-users/"><u>Boost Productivity with Our User-Friendly ChatGPT Enhancer for Google Chrome Users</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/concoction-station/"><u>Clip Concoction Station</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/comprehensive-guide-to-updating-lg-display-drivers-for-windows-operating-systems-10-7-and-groovy/"><u>Comprehensive Guide to Updating LG Display Drivers for Windows Operating Systems (10, 7 & Groovy)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-focusrite-scarlett-solo-ultimate-audio-interface-for-windows-users/"><u>Free Download: Focusrite Scarlett Solo - Ultimate Audio Interface for Windows Users</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-htc-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your HTC Face Lock?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-canon-mg2520-drivers-for-windows-to-enhance-printing-functionality/"><u>Get the Newest Canon MG2520 Drivers for Windows to Enhance Printing Functionality</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-effortlessly-update-your-rndis-drivers-on-a-windows-pc-complete-solution/"><u>How to Effortlessly Update Your RNDIS Drivers on a Windows PC - Complete Solution</u></a></li>
-<li><a href="https://win-best.techidaily.com/online-conversione-gratuita-da-vob-a-m2ts-con-movietomp4/"><u>Online Conversione Gratuita Da VOB a M2TS Con MovieToMp4</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/sea-of-thieves-microphone-problems-solved-get-your-mic-working-again/"><u>Sea of Thieves Microphone Problems Solved: Get Your Mic Working Again!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722967420474-step-by-step-guide-secure-your-latest-amd-ryzen-pertinent-to-the-ryzen-5-series-drivers-now/"><u>Step-by-Step Guide: Secure Your Latest AMD Ryzen Pertinent to the Ryzen 5 Series Drivers Now</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/tutorial-fresh-driver-installation-on-your-epson-wf-7620-printer-running-windows-os/"><u>Tutorial: Fresh Driver Installation on Your Epson WF-#7620 Printer Running Windows OS</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-voice-over-like-a-pro-essential-fcp-recording-tips/"><u>Updated Voice Over Like a Pro Essential FCP Recording Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-cross-platform-video-playback-made-easy-with-chromes-pip/"><u>[Updated] In 2024, Cross-Platform Video Playback Made Easy with Chrome's PIP</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-enrich-your-viewing-experience-with-these-leading-top-6-tools-to-download-youtubes-short-videos/"><u>[Updated] In 2024, Enrich Your Viewing Experience with These Leading Top 6 Tools to Download YouTubes' Short Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-samsung-gear-360-top-alternative-cameras-2023-edition-for-2024/"><u>[Updated] Samsung Gear 360 Top Alternative Cameras 2023 Edition for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/alleged-ban-of-ethical-marketing-claims-surface-at-fb/"><u>Alleged Ban of Ethical Marketing Claims Surface at FB</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversion-video-gratuite-mov-vers-avi-en-ligne-avec-onlinemovieconverter-pro/"><u>Conversion Vidéo Gratuite : MOV Vers AVI en Ligne Avec OnlineMovieConverter Pro</u></a></li>
+<li><a href="https://article-helps.techidaily.com/discover-the-most-popular-budget-vector-and-illustration-pages/"><u>Discover the Most Popular Budget Vector & Illustration Pages</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/dynamic-video-enhancer-infuse-captivating-effects-into-your-videos/"><u>Dynamic Video Enhancer: Infuse Captivating Effects Into Your Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-infinix-hot-30imirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Infinix Hot 30iMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavis-free-video-conversion-tool-effortless-changing-of-avi-to-m4v-for-no-charge/"><u>Movavi's Free Video Conversion Tool: Effortless Changing of AVI to M4V for No Charge!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/online-pre-conversion-von-wmv-nach-mp4-gratis-bei-movavi-schnelle-und-einfache-losung/"><u>Online Pre-Conversion Von WMV Nach MP4 Gratis Bei Movavi - Schnelle Und Einfache Lösung!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/titres-seo-premium-meilleures-logiciels-libres-pour-capturer-et-graver-lecran-de-votre-ordinateur/"><u>Titres SEO Premium : Meilleures Logiciels Libres Pour Capturer Et Graver L'écran De Votre Ordinateur</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/topplista-av-aktivitetsregisterorjing-program-for-windows-7-gratismedel-i-2024/"><u>Topplista Av Aktivitetsregisterörjing Program För Windows 7 - Gratismedel I 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/flv-and-mov/"><u>フリーウェブベースのFLV & MOVファイルを容易に変換する - モバヴィ</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Up-to-Date NVIDIA RTX 2080 Driver Downloads: Optimized for Windows 10, 7 & 8"
-date: 2024-12-08T21:32:57.827Z
-updated: 2024-12-11T21:18:25.657Z
+date: 2024-12-17T18:53:58.621Z
+updated: 2024-12-18T22:10:20.328Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 ways to install/update your RTX 3080 driver
 
 **[Option 1: Automatically (Recommended)](https://www.drivereasy.com/knowledge/geforce-rtx-3080-driver-latest-download-for-windows-10-8-7/#option1)**  – Download, install and update drivers with just a few clicks
@@ -44,7 +48,7 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -52,13 +56,13 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 4. Once you’ve installed/updated your graphics driver, restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Install/Update your RTX 3080 driver manually
@@ -73,14 +77,10 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-3080-driver-official-dl.jpg)
 3. Click**Download** . Then run the install wizard to install the graphics driver.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3080-driver-dl.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -102,20 +102,22 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-exploring-instagrams-video-connectivity-techniques/"><u>[New] In 2024, Exploring Instagram’s Video Connectivity Techniques</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-best-video-makers-with-music-and-photos/"><u>[Updated] Best Video Makers with Music and Photos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-masterclass-in-merging-movies-with-modern-education/"><u>[Updated] Masterclass in Merging Movies with Modern Education</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-windows-movie-maker-the-ultimate-guide-to-youtube-video-production/"><u>[Updated] Windows Movie Maker The Ultimate Guide to YouTube Video Production</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amd-radeon-r9-graphics-card-free-driver-downloads-and-step-by-step-installation-guide-for-windows/"><u>AMD Radeon R9 Graphics Card: Free Driver Downloads and Step-by-Step Installation Guide for Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/busting-the-code-fix-your-realtek-wireless-card-drivers-for-windows-11107-operating-systems/"><u>Busting the Code: Fix Your Realtek Wireless Card Drivers for Windows 11/10/7 Operating Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722963240455-easy-access-to-up-to-date-drivers-for-epson-xp-440-download-instructions-here/"><u>Easy Access to Up-to-Date Drivers for Epson XP-440 - Download Instructions Here!</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-nokia-c210-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-update-your-logitech-g2ebeard-microphone-for-modern-operating-systems-windows-7-10-and-11/"><u>How to Update Your Logitech G2ebeard Microphone for Modern Operating Systems (Windows 7, 10 & 11)</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-15-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 15 to Excel CSV & vCard Easily | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-hp-officejet-4500-printer-software-free-download/"><u>Latest HP OfficeJet 4500 Printer Software - Free Download</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-to-download-and-enhance-rndis-drivers-in-windows-now-fixed/"><u>Step-by-Step Tutorial to Download & Enhance RNDIS Drivers in Windows Now Fixed!</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/transforming-slow-motion-into-fast-action-for-2024/"><u>Transforming Slow Motion Into Fast Action for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-audiovid-producers-digital-space-for-2024/"><u>[New] AudioVid Producers' Digital Space for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-palette-perfection-translating-color-concepts/"><u>[New] Palette Perfection Translating Color Concepts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-best-miniature-portable-dvd-systems-ranked-for-2024/"><u>[Updated] Best Miniature Portable DVD Systems Ranked for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1-effiziente-video-komprimierung-tipps-fur-kleine-dateien-optimieren/"><u>1. Effiziente Video Komprimierung: Tipps Für Kleine Dateien Optimieren</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/zoom-movavi3/"><u>如何在 Zoom 上进行顺畅录影：Movavi提供3个精选方法，推荐明年</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-traffic-to-your-videos-top-seo-practices-for-youtube-success-for-2024/"><u>Boost Traffic to Your Videos Top SEO Practices for YouTube Success for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/confirm-your-credibility-with-us-metacredentials/"><u>Confirm Your Credibility with U.S. Metacredentials</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/conversion-libre-en-linea-cambiar-tus-archivos-m4v-al-3g2-con-ease-por-movavi/"><u>Conversión Libre en Línea: Cambiar Tus Archivos M4V Al 3G2 Con Ease Por Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-mail-alert-failures-with-9-practical-tips-for-windows-users/"><u>Fixing Mail Alert Failures with 9 Practical Tips for Windows Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guia-passo-a-passo-para-salvar-um-video-do-adobe-after-effects-e-renderiza-lo-com-sucesso/"><u>Guia Passo a Passo Para Salvar Um Video Do Adobe After Effects E Renderizá-Lo Com Sucesso</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-iphone-15-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 15 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/les-plus-performants-outils-de-montage-video-en-ligne-tops-trending/"><u>Les Plus Performants Outils De Montage Vidéo en Ligne : Tops Trending!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movaviwebm-webm/"><u>MOVAVIで速やかにWEBMファイルの最適なコンプレッション - WEBM拡張子の効果的な圧縮方法</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/step-by-step-guide-restoring-your-system-with-acer-aspire-recovery-on-windows-1187/"><u>Step-by-Step Guide: Restoring Your System with Acer Aspire Recovery on Windows 11/8/7</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-hidden-strategies-in-canvas-image-design-toolkit-for-2024/"><u>Top 10 Hidden Strategies in Canva's Image Design Toolkit for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-5-utmarkta-redigerar-utgifter-for-spridande-av-din-online-och-offline-videoomslutning/"><u>Top 5 Utmärkta Redigerar Utgifter För Spridande Av Din Online- Och Offline Videoomslutning</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ogvogg/"><u>오토바이오그래픽 무료 스위칭: OGV/OGG를 원격에서 변환하는 방법</u></a></li>
 </ul></div>
 

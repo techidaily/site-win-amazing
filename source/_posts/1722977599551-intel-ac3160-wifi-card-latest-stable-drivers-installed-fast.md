@@ -1,7 +1,7 @@
 ---
 title: Intel AC3160 WiFi Card - Latest Stable Drivers Installed Fast
-date: 2024-08-23T11:42:26.740Z
-updated: 2024-08-24T11:42:26.740Z
+date: 2024-12-17T22:54:25.584Z
+updated: 2024-12-18T17:16:30.928Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ OR
 **[Option 2 – Manually](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your driver this way, because you need to find exactly the right driver online, download it and install it step by step.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 1 – Automatically update the driver
 
@@ -56,6 +60,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-649.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
 #### Network connection doesn’t work at all
@@ -74,9 +82,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-528.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click **Browse** to choose where you want to save your offline scan result. Then click the**Offline Scan** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-531.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Click **OK** .
 
@@ -103,6 +119,10 @@ OR
  12) Click the**Download** button next to**Intel Dual Band Wireless-AC 3160** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-671.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  13) Choose where you’d like to save the downloaded driver, and click**OK** .
 
@@ -134,6 +154,10 @@ Wait for the download process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-661.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**I accept the terms in the license agreement** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-662.png)
@@ -159,8 +183,6 @@ Wait for the download process to be complete.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,8 +190,24 @@ Wait for the download process to be complete.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-crafting-your-own-google-vr-glasses/"><u>[New] Crafting Your Own Google VR Glasses</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-streaming-video-how-to-get-youtube-thumbnail-files-onlineos-wise/"><u>[New] In 2024, From Streaming Video How to Get YouTube Thumbnail Files Online/OS-Wise</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-leveraging-likes-and-comments-enhancing-engagement-on-instagram-stories/"><u>[New] Leveraging Likes and Comments Enhancing Engagement on Instagram Stories</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-achieving-persistent-video-playback-on-your-social-media-page/"><u>[Updated] 2024 Approved Achieving Persistent Video Playback on Your Social Media Page</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-guide-to-finding-downloading-and-installing-windows-compatible-asus-motherboard-drivers/"><u>Complete Guide to Finding, Downloading & Installing Windows-Compatible ASUS Motherboard Drivers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cyber-monday-2022-exclusive-save-with-the-last-black-friday-offer-on-a-79-lenovo-chromebook-check-out-now/"><u>Cyber Monday 2022 Exclusive: Save with the Last Black Friday Offer on a $79 Lenovo Chromebook - Check Out Now!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-setup-nvme-drivers-on-your-windows-pc/"><u>Download & Setup NVMe Drivers on Your Windows PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-samsung-usb-drivers-compatible-with-windows-11-quick-and-simple-steps/"><u>Download Samsung USB Drivers Compatible with Windows 11 – Quick and Simple Steps</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-steps-for-swift-synaptics-touchpad-driver-updates-on-your-pc/"><u>Easy Steps for Swift Synaptics Touchpad Driver Updates on Your PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-laptops-wireless-features-free-dell-wi-fi-driver-available-downloads/"><u>Enhance Your Laptop's Wireless Features - Free Dell Wi-Fi Driver Available Downloads</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/how-to-learn-french-at-home-the-best-methods-and-resources/"><u>How To Learn French At Home: The Best Methods And Resources</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-securely-update-and-download-epson-printer-software-on-windows-10-systems/"><u>How To: Securely Update and Download Epson Printer Software on Windows 10 Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-broadcast-your-xbox-adventures-online/"><u>In 2024, Broadcast Your Xbox Adventures Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premier-live-tv-service-showdown-a-comparative-look-for-2024/"><u>Premier Live TV Service Showdown A Comparative Look for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138576981-9780595828135-taste-your-emotions/"><u>Taste Your Emotions | Free Book</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722972657288-update-your-epson-et-2750-windows-printer-drivers-today-with-these-simple-steps/"><u>Update Your Epson ET-2750 Windows Printer Drivers Today with These Simple Steps!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-hp-laserjet-pro-m404n-to-the-latest-printing-software/"><u>Update Your HP LaserJet Pro M404n to the Latest Printing Software</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

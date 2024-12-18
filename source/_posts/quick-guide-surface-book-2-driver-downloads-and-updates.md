@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Surface Book 2 Driver Downloads and Updates"
-date: 2024-12-09T18:43:37.935Z
-updated: 2024-12-12T07:42:42.370Z
+date: 2024-12-17T19:38:26.523Z
+updated: 2024-12-18T18:17:12.291Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## To update Surface Book Drivers
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
 **OR**
 
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) –  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Option 1: Update your Surface Book drivers automatically (Recommended)**
 
@@ -55,11 +51,15 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bbe94614e.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7cabf4d114.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. **Restart**   your computer for the changes to take effect.
@@ -67,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 2: Update your Surface Book drivers manually**
@@ -82,7 +82,7 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
 3. Select your model from the list of Surface products and follow the on-screen instructions to download the files that you need for driver updates.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Be sure to choose**ONLY** drivers that are compatible with your Windows version.
@@ -109,20 +109,18 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/cclaimed-storytellers-with-photo-audio-symphony/"><u>[New] Acclaimed Storytellers with Photo-Audio Symphony</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-critical-review-enhanced-parrot-ar-drone-20-for-2024/"><u>[New] Critical Review Enhanced Parrot AR Drone 2.0 for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-insight-into-quadcopters-functionality-uncovered/"><u>[Updated] Insight Into Quadcopters Functionality Uncovered</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionizing-video-production-with-skillful-audio-crafting/"><u>2024 Approved Revolutionizing Video Production with Skillful Audio Crafting</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-access-to-newly-released-realtek-audio-drivers-optimized-for-windows-11107-users/"><u>Easy Access to Newly-Released Realtek Audio Drivers - Optimized for Windows 11/10/7 Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-update-process-for-epson-printers-on-windows-10-find-out-now/"><u>Easy Update Process for Epson Printers on Windows 10 - Find Out Now</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-guide-to-updating-battery-drivers-on-windows-systems/"><u>Effortless Guide to Updating Battery Drivers on Windows Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/find-and-install-hp-officejet-4650-printer-drivers-on-your-windows-computer/"><u>Find and Install HP Officejet 4650 Printer Drivers on Your Windows Computer</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-logitech-g-pro-driving-force-ls-gamepad-compatible-with-windows-11-10-8-and-7/"><u>Free Download: Logitech G PRO Driving Force LS Gamepad Compatible with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/guide-to-fixing-problems-with-lg-usb-drivers-in-modern-windows-versions/"><u>Guide to Fixing Problems with LG USB Drivers in Modern Windows Versions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-ultimate-top-12-screen-recorders-no-timer/"><u>In 2024, Ultimate Top 12 Screen Recorders (No Timer)</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-elevate-your-storytelling-easy-video-creation-with-ezvid-on-mac-for-2024/"><u>New Elevate Your Storytelling Easy Video Creation with Ezvid on Mac for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revolutionizing-safety-the-new-non-ai-emergency-message-feature-on-your-iphone-with-ios-18/"><u>Revolutionizing Safety: The New Non-AI Emergency Message Feature on Your iPhone with iOS 18</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/secure-download-of-hp-laserjet-pro-m452dn-software-and-drivers-for-smooth-printing/"><u>Secure Download of HP LaserJet Pro M452dn Software & Drivers for Smooth Printing</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-adept-at-editing-and-disc-making-the-ultimate-mac-guide/"><u>[New] Adept at Editing and Disc Making The Ultimate Mac Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-ultimate-guide-to-decreasing-sounds-prominence-in-lumafusion/"><u>[Updated] 2024 Approved The Ultimate Guide to Decreasing Sounds' Prominence in Lumafusion</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-ultimate-playbook-for-podcast-titling-success-and-50plus-name-suggestions/"><u>[Updated] In 2024, The Ultimate Playbook for Podcast Titling Success & 50+ Name Suggestions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-telegram-web-potentials-a-practical-guide/"><u>[Updated] Unlocking Telegram Web Potentials A Practical Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/cr2-image-format-how-to-access-and-view-files-easily/"><u>CR2 Image Format - How to Access and View Files Easily</u></a></li>
+<li><a href="https://fox-access.techidaily.com/enhance-quality-in-filming-and-photos-on-iphone/"><u>Enhance Quality in Filming & Photos on iPhone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-beam-yourself-into-vr-android-tips-and-tricks/"><u>In 2024, Beam Yourself Into VR Android Tips & Tricks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-pinterest-videos-to-mp3s-essential-strategies/"><u>In 2024, Mastering Pinterest Videos to MP3s Essential Strategies</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mp4-movavi/"><u>MP4へフリー移行! シームレスなオンライン動画コンバーター - Movaviプロ</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-monitorscape-crafting-individual-themes-for-each-window-of-win-1011/"><u>Tailored Monitorscape: Crafting Individual Themes for Each Window of Win 10/11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transcode-video-mov-a-ligne-sin-costo-con-movavi-guia-completa-y-gratuita/"><u>Transcode Vídeo MOV a Ligne Sin Costo Con MOVavi: Guía Completa Y Gratuita</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-your-imagination-with-these-4-innovative-ai-narrative-generators/"><u>Unleash Your Imagination with These 4 Innovative AI Narrative Generators</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1726222119036-gif-movavi/"><u>オンデマンドで使えるGIFフォルト変換 - 最新のMovaviツールを使った効率的なプロセス</u></a></li>
 </ul></div>
 

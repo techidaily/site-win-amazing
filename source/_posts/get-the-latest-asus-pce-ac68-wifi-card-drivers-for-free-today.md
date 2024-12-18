@@ -1,7 +1,7 @@
 ---
 title: Get the Latest ASUS PCE-AC68 WiFi Card Drivers for FREE Today
-date: 2024-12-06T06:52:23.263Z
-updated: 2024-12-12T10:46:46.939Z
+date: 2024-12-13T17:14:41.762Z
+updated: 2024-12-18T22:38:08.250Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 
 [**Method 2 – Automatically:**](https://tools.techidaily.com/drivereasy/download/) This option is **much quicker and easier** . **All**   you need to do is **just a couple of mouse clicks** !
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Download and update the drivers for your Surface Book 2 manually
 
  You can download the updated driver files from the official website of Microsoft. Then install them on your Surface Book 2 on your own. Here is how to do it:
@@ -43,33 +47,29 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap715.png)
 3. Scroll down until you see**Surface Book 2** on the table. Then click its drivers download link to continue.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap716.png)
 4. Click**Download** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap717.png)
 5. To update your Surface Book 2 with the latest drivers and firmware, **select the .msi file name that matches your operating system version** . Then click**Next** to start downloading.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap718.png)  
  For example, if the build of Windows 10 you’ve installed is build 17763, you should select  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **SurfaceBook2\_Win10\_17763\_1805009\_0.msi** . If you’re not sure about the version of Windows 10 you’ve installed, go to**Start** \>**Settings** \>**System** \>**About** to view **the OS Build number** .
 6. Double-click the downloaded file and follow the on-screen instructions to install its drivers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Download and update the drivers for your Surface Book 2 automatically
 
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap720.png)  
@@ -111,20 +111,16 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-bridging-visuals-and-audio-instagram-content-to-mp3-magic/"><u>[New] Bridging Visuals & Audio Instagram Content to Mp3 Magic</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-essential-tips-for-recording-ps4-games-with-obs/"><u>[New] In 2024, Essential Tips for Recording PS4 Games with OBS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-capture-tweets-as-mp3-audios-via-downloads/"><u>[Updated] Capture Tweets as MP3 Audios via Downloads</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-investment-insights-starting-a-profitable-podcast/"><u>[Updated] Investment Insights Starting a Profitable Podcast</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-top-quality-no-cost-desktop-recording-the-best-apps-list-for-2024/"><u>[Updated] Top Quality, No Cost Desktop Recording The Best Apps List for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-official-dell-wd19-driver-guide/"><u>Download & Install: Official Dell WD19 Driver Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-latest-nvidia-quadro-rtx-8000-drivers-compatible-with-windows-11-8-and-7/"><u>Download Latest Nvidia Quadro RTX 8000 Drivers Compatible with Windows 11, 8 & 7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-latest-roccat-mouse-driver-compatible-with-all-models/"><u>Download the Latest Roccat Mouse Driver - Compatible with All Models</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-setup-windows-compatible-brother-l2540dw-printer-drivers-instructions/"><u>Easy Setup: Windows Compatible Brother L2540DW Printer Drivers Instructions</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/fixing-silent-menace-solutions-for-evil-genius-2-audio-issues/"><u>Fixing Silent Menace: Solutions for 'Evil Genius 2' Audio Issues</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722975726281-get-your-amd-ryzen-amoleddraco-v47-with-updated-drivers-instantly/"><u>Get Your AMD Ryzen Amoled_draco-V47 with Updated Drivers Instantly!</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/hot-ticket-video-countdown-of-the-hour-for-2024/"><u>Hot Ticket Video Countdown of the Hour for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-itel-a70-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Itel A70? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-resolve-compatibility-issues-between-arduino-uno-and-windows-drivers/"><u>How to Resolve Compatibility Issues Between Arduino Uno and Windows Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/secure-lenovo-bluetooth-driver-downloads-and-updates-for-windows-7-and-10/"><u>Secure Lenovo Bluetooth Driver Downloads & Updates for Windows 7 & 10</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-how-to-recover-my-eyes-only-pictures-on-snapchat/"><u>[New] 2024 Approved How To Recover My Eyes Only Pictures On Snapchat</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/est-biz-youtubes-top-10-for-quick-channel-setup-for-2024/"><u>[New] Best Biz YouTubes Top 10 for Quick Channel Setup for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/arduino-uno-drivers-installation-issues-on-microsoft-windows-expert-tips-and-solutions/"><u>Arduino Uno Drivers Installation Issues on Microsoft Windows – Expert Tips & Solutions</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/easy-steps-transferring-your-windows/"><u>Easy Steps: Transferring Your Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-muted-ringtones-on-iphone-discover-11-easy-steps-to-solution/"><u>Fix Muted Ringtones on iPhone: Discover 11 Easy Steps to Solution</u></a></li>
+<li><a href="https://win-online.techidaily.com/how-to-fix-the-problem-of-audio-settings-not-retaining-changes-on-your-device-tips-from-yl-software-experts/"><u>How to Fix the Problem of Audio Settings Not Retaining Changes on Your Device - Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-overcome-common-errors-in-realtek-universal-driver-setup/"><u>How to Overcome Common Errors in Realtek Universal Driver Setup</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-brother-hl-l2380dw-printer-drivers-successfully-on-your-windows-device-step-by-step-tutorial/"><u>How to Update Brother HL-L2380DW Printer Drivers Successfully on Your Windows Device: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-samsung-galaxy-a05s-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Samsung Galaxy A05s? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-guide-logitech-g402-control-suite-download-plus-compatibility-check/"><u>Ultimate Guide: Logitech G402 Control Suite Download + Compatibility Check</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/whynosubscriptions-eager-for-gpt-resumption/"><u>WhyNoSubscriptions: Eager for GPT Resumption</u></a></li>
 </ul></div>
 

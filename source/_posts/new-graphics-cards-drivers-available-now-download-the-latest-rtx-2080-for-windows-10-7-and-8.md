@@ -1,7 +1,7 @@
 ---
 title: "New Graphics Cards Drivers Available Now: Download the Latest RTX 2080 for Windows 10, 7 & 8"
-date: 2024-12-07T19:11:46.971Z
-updated: 2024-12-12T10:42:15.880Z
+date: 2024-12-13T17:40:16.046Z
+updated: 2024-12-18T21:09:25.782Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **There are two methods to update your Geforce RTX 2080 driver:**
 
 [**Method 1** **– Automatically (Recommended):**](https://www.drivereasy.com/knowledge/geforce-rtx-2080-driver-download-for-windows/#b) This option is **much quicker and easier** . **All** you need to do is **just a couple of mouse clicks** !
@@ -37,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 [**Method 2** **– Manually:**](https://tools.techidaily.com/drivereasy/download/) You can update your Geforce RTX 2080 driver on your own. This requires some time, patience, and sometimes even computer skills.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Update your Geforce RTX 2080 driver automatically
@@ -52,20 +48,20 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap455.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Click **Update** next to your **Geforce RTX 2080** graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap454-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Download and install your Geforce RTX 2080 driver manually
@@ -79,12 +75,16 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap469.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3\. Click the **DOWNLOAD** button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap461.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4.**Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
@@ -108,20 +108,24 @@ _You can do it for free if you like, but it’s partly manual._
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-beginners-guide-to-premium-gopro-accessories/"><u>[New] Beginner’s Guide to Premium GoPro Accessories</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-intensive-analysis-sonys-high-def-action-cam/"><u>[New] In 2024, Intensive Analysis Sony's High-Def Action Cam</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-secret-to-youtube-dominance-unveiled-by-creative-studio-insights-for-2024/"><u>[Updated] The Secret to YouTube Dominance Unveiled by Creative Studio Insights for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-the-latest-usb-c-drivers-for-your-windows-10-pc-today/"><u>Download & Install the Latest USB-C Drivers for Your Windows 10 PC Today</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-newest-hp-laserjet-1320-driver-version-complete-step-by-step-tutorial-for-windows-users/"><u>Download the Newest HP LaserJet 1320 Driver Version: Complete Step-by-Step Tutorial for Windows Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/elevate-your-audio-experience-with-gigabytes-free-driver-download-now/"><u>Elevate Your Audio Experience with Gigabyte's Free Driver Download Now</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/enhance-your-gaming-experience-with-nvidias-geforce-210-updated-drivers-on-windows-eon/"><u>Enhance Your Gaming Experience with NVIDIA's GeForce 210 Updated Drivers on Windows Eon</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/find-and-update-the-driver-for-hp-deskjet-2540-ink-advantage-printer-easily-here/"><u>Find and Update the Driver for HP Deskjet 2540 Ink Advantage Printer Easily Here!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-itel-p55-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-frostbound-competition-spotlight-on-2022s-olympic-snowboard-cross-heroes/"><u>In 2024, Frostbound Competition Spotlight on 2022'S Olympic Snowboard Cross Heroes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-funhouse-laughs-top-10-meme-blueprints-explained/"><u>In 2024, Funhouse Laughs Top 10 Meme Blueprints Explained</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/infuse-laughter-into-content-use-kapwing/"><u>Infuse Laughter Into Content - Use Kapwing</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/lenovo-ideapad-100-find-and-install-correct-drivers-for-optimal-performance-on-windows-11/"><u>Lenovo IdeaPad 100 - Find & Install Correct Drivers for Optimal Performance on Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-selection-top-6-money-saving-portal-picks-for-conscious-shoppers/"><u>The Ultimate Selection: Top 6 Money-Saving Portal Picks for Conscious Shoppers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/top-rated-free-motherboard-drivers-for-your-asus-rog-strix-z270-e-enhance-gaming-performance-now/"><u>Top-Rated Free Motherboard Drivers for Your ASUS ROG Strix Z270-E: Enhance Gaming Performance Now</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-closing-powerhouses-free-top-6-video-closers/"><u>[New] In 2024, Closing Powerhouses Free Top 6 Video Closers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-ultimate-guide-to-dimming-down-soundtracks-in-premiere-pro/"><u>[New] In 2024, The Ultimate Guide to Dimming Down Soundtracks in Premiere Pro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-vlogging-techniques-for-stellar-gopro-content/"><u>[New] Top Vlogging Techniques for Stellar GoPro Content</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-deep-dive-into-videomovavi-11s-features-and-performance/"><u>2024 Approved Deep Dive Into VideoMovavi 11'S Features & Performance</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1726222711462-m4a-wma-movavi/"><u>簡単で高速な無料オンライン M4A から WMAへのダウンロード可能なアップコンバーター - Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/conversion-video-gratuite-a-laide-dune-application-web-mp4-vers-jpeg-avec-movavi/"><u>Conversion Vidéo Gratuite À L'aide D'une Application Web: MP4 Vers JPEG Avec Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/diaporamas-depousailles-comment-realiser-des-diapositives-pour-un-voyage-au-dela-des-promesses-maker-dimages-nuptiales/"><u>Diaporamas D'Épousailles: Comment Réaliser Des Diapositives Pour Un Voyage Au-Delà Des Promesses - Maker D'Images Nuptiales</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/frame-your-cinematic-tales-three-paths-for-instagram-borders/"><u>Frame Your Cinematic Tales Three Paths for Instagram Borders</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-mp3-converter-convert-mpeg-audio-files-to-aac-m4a-format/"><u>Free MP3 Converter: Convert MPEG Audio Files to AAC M4A Format</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratis-anpassningsflytande-skarminspel-de-basta-13-atkomman-fran-movavi/"><u>Gratis, Anpassningsflytande Skärminspel: De Bästa 13 Åtkomman Från Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/head-to-head-comparison-corsair-m65-rgb-ultra-vs-razer-flagship-an-in-depth-review-on-gizhack/"><u>Head-to-Head Comparison: Corsair M65 RGB Ultra Vs. Razer Flagship - An In-Depth Review on GizHack</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-huawei-nova-y91-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Huawei Nova Y91</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/la-guia-definitiva-los-26-mejores-programas-de-preparacion-de-conferencias-en-2024/"><u>La Guía Definitiva: Los 26 Mejores Programas De Preparación De Conferencias en 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavi-mac-hatakli-teknikleriyle-guvenlikli-yazdirici-panorama-uykuz-olan-resimlerin-cevrilmesine-en-iyi-lutufat/"><u>Movavi Mac Hataklı Teknikleriyle Güvenlikli Yazdırıcı: Panorama - Uykuz Olan Resimlerin Cevrilmesine En Iyi Lütufat</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-list-of-no-cost-sniping-apps-discover-the-top-picks-for-effortless-screenshots/"><u>Ultimate List of No-Cost Sniping Apps: Discover the Top Picks for Effortless Screenshots</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-looking-for-efficient-ways-to-create-a-slow-motion-video-read-the-article-for-reliable-solutions-that-provide-excellent-results/"><u>Updated 2024 Approved Looking for Efficient Ways to Create a Slow-Motion Video? Read the Article for Reliable Solutions that Provide Excellent Results</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-streamline-your-videos-10-top-rated-free-online-video-trimmers-for-2024/"><u>Updated Streamline Your Videos 10 Top-Rated Free Online Video Trimmers for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-your-editing-software-transition-from-imovie-to-windows-video-editor/"><u>Upgrade Your Editing Software : Transition From iMovie to Windows Video Editor</u></a></li>
 </ul></div>
 

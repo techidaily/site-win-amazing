@@ -1,7 +1,7 @@
 ---
 title: "Update Your System Now: GeForce RTX 3080 Driver Download for Windows 10, 8, and 7"
-date: 2024-08-18T13:39:14.316Z
-updated: 2024-08-19T13:39:14.316Z
+date: 2024-12-16T22:36:28.350Z
+updated: 2024-12-18T18:06:46.595Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 
 **[Option 2: Manually](https://tools.techidaily.com/drivereasy/download/)**  – Some computer skills are required.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: Install/Update your RTX 3080 driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -37,15 +41,25 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Once you’ve installed/updated your graphics driver, restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Install/Update your RTX 3080 driver manually
 
  If you’re familiar with computer hardware, you can install or update your RTX 3080 driver manually.
@@ -57,14 +71,13 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
  For**Download Type** , choose**Game Ready Driver (GRD)** for gaming purposes; or choose**Studio Driver (SD)** for graphic design.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-3080-driver-official-dl.jpg)
 3. Click**Download** . Then run the install wizard to install the graphics driver.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/3080-driver-dl.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/3080-driver-dl.jpg)
+
 ---
 
  So these are the ways you can get the latest driver for your RTX 3080\. If you have any questions or suggestions, don’t hesitate to drop a comment down below.
@@ -75,8 +88,6 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,4 +95,16 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-unbeatable-deals-discover-the-best-free-desktop-recorders-for-2024/"><u>[Updated] Unbeatable Deals Discover the Best Free Desktop Recorders for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-enhance-web-presentations-top-12-html5-video-platforms/"><u>2024 Approved Enhance Web Presentations Top 12 HTML5 Video Platforms</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/arbitrators-in-international-disputes-often-have-specialized-knowledge-relevant-to-the-industries-or-issues-involved-adding-expertise-to-the-decision-making50/"><u>Arbitrators in International Disputes Often Have Specialized Knowledge Relevant to the Industries or Issues Involved, Adding Expertise to the Decision-Making Process</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/heaviest-inflight-lifters-unveiled-top-10-list-for-2024/"><u>Heaviest Inflight Lifters Unveiled - Top 10 List for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-correctly-update-your-synaptic-device-drivers-for-windows-pertinent-issues-in-windows-11/"><u>How to Correctly Update Your Synaptic Device Drivers for Windows Pertinent Issues in Windows 11</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-access-all-areas-steps-for-securing-facebook-live-files/"><u>In 2024, Access All Areas Steps for Securing Facebook Live Files</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-magicard-rio-pro-driver-software-available-for-windows-users/"><u>Latest Magicard Rio Pro Driver Software Available for Windows Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722963171667-step-by-step-tutorial-for-downloading-and-updating-synaptics-device-drivers-in-windows/"><u>Step-by-Step Tutorial for Downloading and Updating Synaptics Device Drivers in Windows.</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-fcpx-skin-retouching-a-plugin-free-guide-to-flawless-skin/"><u>Updated In 2024, FCPX Skin Retouching A Plugin-Free Guide to Flawless Skin</u></a></li>
+</ul></div>
 

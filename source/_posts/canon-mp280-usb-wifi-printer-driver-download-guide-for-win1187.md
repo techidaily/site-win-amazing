@@ -1,7 +1,7 @@
 ---
 title: "Canon MP280 USB WiFi Printer Driver: Download Guide for Win11/8/7"
-date: 2024-08-18T13:40:43.626Z
-updated: 2024-08-19T13:40:43.626Z
+date: 2024-12-12T16:06:47.228Z
+updated: 2024-12-18T17:10:10.771Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/5c41e214e42161b19b3ba596b247b1528c5c85cbd
 2. [Download the driver from Canon official](https://tools.techidaily.com/drivereasy/download/)
 3. [Update the driver automatically](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1\. Update your Canon printer driver via Device Manager
 
  Although Windows Update doesn’t always deliver the latest driver ([**Learn Why…**](https://tools.techidaily.com/drivereasy/download/) ), you can try updating your Canon MF743CDW driver easily using this method:
@@ -37,13 +41,14 @@ thumbnail: https://thmb.techidaily.com/5c41e214e42161b19b3ba596b247b1528c5c85cbd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) When prompted, choose**Search automatically for drivers** .
 
  4) Windows will try finding the “latest” driver for your printer. But if it shows no available updates, you may need to try the next method below or choose to update the driver automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  (the **[Pro Version](https://tools.techidaily.com/drivereasy/download/)**  comes with a 30-day free trial).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Option 2\. Download the driver from Canon official
 
  If the Windows Update doesn’t give you the latest version of the Canon MF743CDW driver, you can always find a new driver on the product information page.
@@ -55,22 +60,17 @@ thumbnail: https://thmb.techidaily.com/5c41e214e42161b19b3ba596b247b1528c5c85cbd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Scroll down the page and select the correct driver for your operating system.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 4) Once downloaded, run the driver file and complete the installation.
 
 5) Restart your PC for the changes to take full effect.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 3\. Download the driver automatically
 
  If you don’t have the time, patience, or skills to update your driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -86,15 +86,17 @@ thumbnail: https://thmb.techidaily.com/5c41e214e42161b19b3ba596b247b1528c5c85cbd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/cdw.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 4) Restart your computer for the changes to take effect.
@@ -117,8 +119,6 @@ thumbnail: https://thmb.techidaily.com/5c41e214e42161b19b3ba596b247b1528c5c85cbd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +126,21 @@ thumbnail: https://thmb.techidaily.com/5c41e214e42161b19b3ba596b247b1528c5c85cbd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-10-tips-to-upgrade-your-obs-mobile-broadcasting-for-2024/"><u>[New] Top 10 Tips to Upgrade Your OBS Mobile Broadcasting for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-dissection-of-fb-video-dimensions/"><u>[Updated] Dissection of FB Video Dimensions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-comparative-analysis-androids-finest-video-downloaders/"><u>[Updated] In 2024, A Comparative Analysis Android's Finest Video Downloaders</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-honor-x50i-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Honor X50i FRP Bypass Instantly</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-download-logitech-brio-webcam-driver-for/"><u>Easy Installation Guide: Download Logitech BRIO Webcam Driver For</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminating-slowdowns-enhanced-performance-in-esos-blackwood-expansion/"><u>Eliminating Slowdowns: Enhanced Performance in ESO's Blackwood Expansion</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-hp-deskjet-ink-advantage-3520-software-and-drivers-for-your-pc-or-mac/"><u>Get the Latest HP Deskjet Ink Advantage 3520 Software & Drivers for Your PC or Mac</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-logitech-g4t2-game-mouse-setup-with-latest-driver-downloads/"><u>Get Your Logitech G4t2 Game Mouse Setup with Latest Driver Downloads</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/improvement-notice-integration-of-standard-printers-and-scanners-in-latest-windows-10-update/"><u>Improvement Notice: Integration of Standard Printers and Scanners in Latest Windows 10 Update</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-the-latest-geforce-rtx-2070-graphics-card-driver-on-windows-versions-11-8-and-7/"><u>Install the Latest Geforce RTX 2070 Graphics Card Driver on Windows Versions 11, 8 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/musik-aus-youtube-kostenlos-beziehen-schritt-fur-schritt-anleitung-fur-windows-8-7-and-macos/"><u>Musik Aus YouTube Kostenlos Beziehen – Schritt-Für-Schritt-Anleitung Für Windows 8, 7 & macOS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-download-of-epson-wf-3620-printer-driver-optimized-for-windows-versions-11-8-and-7/"><u>Step-by-Step Download of Epson WF-3620 Printer Driver: Optimized for Windows Versions 11, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/trouble-free-setup-logitech-wireless-keyboard-and-driver-compatibility-for-windows-10-users/"><u>Trouble-Free Setup: Logitech Wireless Keyboard & Driver Compatibility for Windows 10 Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-fixing-your-non-responsive-apple-watch-display/"><u>Troubleshooting Guide: Fixing Your Non-Responsive Apple Watch Display</u></a></li>
+</ul></div>
 

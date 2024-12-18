@@ -1,7 +1,7 @@
 ---
 title: Update Your Canon PIXMA MG2522 Driver - A Step-by-Step Tutorial
-date: 2024-12-06T23:13:12.942Z
-updated: 2024-12-11T18:29:42.610Z
+date: 2024-12-17T22:48:24.974Z
+updated: 2024-12-18T21:17:01.963Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you need to update your driver
@@ -40,10 +40,6 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
 1. **[Download the HP Scanjet driver manually](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Download and update the HP Scanjet driver automatically (Recommended)](https://www.drivereasy.com/knowledge/hp-scanjet-drivers-download-and-update-on-windows/#option2)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1: Download the HP Scanjet driver manually
 
@@ -64,7 +60,7 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-25-10-1200x752.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Once you’ve downloaded the driver,**double-click** to open the file and follow the on-screen instruction to install.
@@ -72,7 +68,7 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-32-40-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you complete the installation process, connect your HP Scanjet to the computer and see if it’s running.
@@ -87,6 +83,10 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_17-40-32-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the**Pro version** of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
   
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
@@ -94,7 +94,7 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_18-45-37-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -120,22 +120,18 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-framegauge-evaluator-suite/"><u>[New] 2024 Approved FrameGauge Evaluator Suite</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-editors-picks-top-budget-friendly-online-tools/"><u>[Updated] 2024 Approved Editor's Picks Top Budget-Friendly Online Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-juxtaposing-flight-with-flair-a-bebop-parrot-analysis/"><u>[Updated] Juxtaposing Flight with Flair – A Bebop Parrot Analysis</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/corsair-k70-gaming-mouse-download-and-install-your-perfect-setup/"><u>Corsair K70 Gaming Mouse: Download and Install Your Perfect Setup</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-installation-guide-corsair-k70-mouse-drivers-and-software/"><u>Download and Installation Guide: Corsair K70 Mouse Drivers & Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-newest-nvidia-quadro-rtx-8000-drivers-compatible-with-windows-11-8-and-7/"><u>Download the Newest NVIDIA Quadro RTX 8000 Drivers Compatible with Windows 11, 8 & 7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-ultimate-soundblaster-audigy-fx-driver-suite/"><u>Free Download: Ultimate SoundBlaster Audigy FX Driver Suite</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-rndis-usb-network-adapter-drivers-for-windows-installation-and-updates-guide/"><u>Free RNDIS USB Network Adapter Drivers for Windows: Installation & Updates Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-asus-vg248qe-driver-updates-for-your-windows-pc-with-ease/"><u>Get the Latest Asus VG248QE Driver Updates for Your Windows PC with Ease!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-tecno-pova-5-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Tecno Pova 5 in Minutes | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-az-screenshot-mastery-full-app-review/"><u>In 2024, AZ Screenshot Mastery - Full App Review</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Intercept Text Messages on Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-swift-sketches-of-fortnite-game-screenshots/"><u>In 2024, Swift Sketches of Fortnite Game Screenshots</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-how-to-updating-your-scansnap-s1100-driver-with-ease/"><u>Quick How-To: Updating Your ScanSnap S1100 Driver with Ease</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-system-with-new-amd-radeon-gpu-drivers-windows-10-and-11-support/"><u>Update Your System with New AMD Radeon GPU Drivers (Windows 10 & 11 Support)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-your-yoga-900s-accessible-win10-drivers-download/"><u>Upgrade Your Yoga 900S: Accessible Win10 Drivers Download</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-a-step-by-step-guide-to-dominating-the-youtube-viewership-game/"><u>[New] A Step-by-Step Guide to Dominating the YouTube Viewership Game</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unlocking-clear-communication-zooms-best-transcription-services/"><u>[New] In 2024, Unlocking Clear Communication Zoom's Best Transcription Services</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-securely-download-your-youtube-playlist-at-any-time/"><u>[Updated] 2024 Approved Securely Download Your YouTube Playlist at Any Time</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-cutting-edge-techniques-for-subtitling-in-wmp/"><u>[Updated] Cutting Edge Techniques for Subtitling in WMP</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-farm-family-fun-pack-the-ultimate-agritainment-guide/"><u>[Updated] Farm Family Fun-Pack The Ultimate Agritainment Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unveiling-top-tier-seeds-for-optimal-growth-in-valheim/"><u>2024 Approved Unveiling Top-Tier Seeds for Optimal Growth in Valheim</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/budget-gems-premium-technology-treasures-awaiting-your-discovery/"><u>Budget Gems: Premium Technology Treasures Awaiting Your Discovery</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-video-editing-turning-avi-into-easily-shareable-gifs-with-filmora/"><u>In 2024, Seamless Video Editing Turning AVI Into Easily Shareable GIFs with Filmora</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mp4-formatra-kozvetlen-online-konvertalas-effizientes-ingyenes-hatosag-movavi-video-tool/"><u>MP4 Formátra Közvetlen Önline Konvertálás - Effizientes Ingyenes Hatóság: Movavi Video Tool</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/online-gif-naar-flv-versterker-gratuit-efficient-and-betrouwbaar-converter-van-movavi/"><u>Online GIF Naar FLV Versterker: Gratuit, Efficiënt & Betrouwbaar – Converter Van Movavi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-10-screencasters-libres-et-en-ligne-leur-comparatif-complet/"><u>Top 10 Screencasters Libres Et en Ligne : Leur Comparatif Complet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/web-based-audio-editor-effortless-audio-file-format-conversion-mp3-wma/"><u>Web-Based Audio Editor - Effortless Audio File Format Conversion (MP3, WMA)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1726226509906-flvmp4-movavi/"><u>オンラインで無料で利用可能なFLVからMP4への変換 - Movavi サービス</u></a></li>
 </ul></div>
 
