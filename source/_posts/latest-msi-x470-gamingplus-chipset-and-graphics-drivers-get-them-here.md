@@ -1,7 +1,7 @@
 ---
 title: Latest MSI X470 Gaming+ Chipset & Graphics Drivers - Get Them Here
-date: 2024-12-08T16:23:38.140Z
-updated: 2024-12-12T12:09:30.550Z
+date: 2024-12-22T19:36:27.874Z
+updated: 2024-12-26T20:34:04.908Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: The traditional way
@@ -37,17 +37,21 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 2. Expand each category and download the driver accordingly.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/driver-list.jpg)
 3. Extract the downloaded file and run the driver installation application. You may need to run it as an administrator to do this. While some of the drivers require you to install it in Device manager.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Once complete, restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Update all MSI X470 GAMING PLUS automatically (Recommended)
 
@@ -63,16 +67,12 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 4. Restart your computer for the changes to take full effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -99,19 +99,20 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-cutting-edge-tips-for-making-masterpieces-with-snaps/"><u>[New] Cutting-Edge Tips for Making Masterpieces with Snaps</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-step-into-visual-storytelling-xp-edition-installation/"><u>[Updated] In 2024, Step Into Visual Storytelling XP Edition Installation</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-obs-full-screen-no-more-problem-for-2024/"><u>[Updated] Obs Full-Screen No More Problem for 2024</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/effortlessly-move-images-from-your-iphone-to-mac-a-complete-step-by-step-process/"><u>Effortlessly Move Images From Your iPhone to Mac - A Complete Step-by-Step Process</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fresh-graphics-driver-release-nvidias-rtx-1e-super-drivers-for-windows-1011-download-now/"><u>Fresh Graphics Driver Release: NVIDIA's RTX 1E Super Drivers for Windows 10/11 - Download Now</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-find-and-update-drivers-for-your-hp-deskjet-ink-advantage-2540/"><u>How to Find and Update Drivers for Your HP Deskjet Ink Advantage 2540</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-11-pro-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone 11 Pro Activity | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/intel-usb-30-driver-download-for-windows-11-complete-guide/"><u>Intel USB 3.0 Driver Download for Windows 11: Complete Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-hp-ethernet-controller-drivers-updated-for-win11-7-and-8-users/"><u>Latest HP Ethernet Controller Drivers – Updated for Win11, 7 & 8 Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-updates-on-intel-nuc-driver-installation-fast-and-simple/"><u>Latest Updates on Intel NUC Driver Installation - Fast and Simple</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-presentation-perfection-9-essential-tips-for-winning-at-powerpoint-prints/"><u>Mastering Presentation Perfection: 9 Essential Tips for Winning at PowerPoint Prints</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-face-blur-mastery-expert-video-editing-techniques/"><u>New Face Blur Mastery Expert Video Editing Techniques</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/power-up-your-devices-with-the-beatit-bt-d11-portable-charger-in-depth-analysis/"><u>Power Up Your Devices with the Beatit BT-D11 Portable Charger - In Depth Analysis</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-cartoon-video-creation-made-easy-top-10-tools-for-beginners/"><u>Updated Cartoon Video Creation Made Easy Top 10 Tools for Beginners</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/old-brands-new-identity-a-step-by-step-guide-for-managing-connections-and-unfollowers/"><u>[Old Brand's New Identity]: A Step-by-Step Guide for Managing Connections and Unfollowers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-4-essential-steps-to-create-engaging-instagram-loops/"><u>2024 Approved The 4 Essential Steps to Create Engaging Instagram Loops</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-in-action-6-analytical-applications-unveiled/"><u>ChatGPT in Action: 6 Analytical Applications Unveiled</u></a></li>
+<li><a href="https://win-web3.techidaily.com/effective-strategies-for-diagnosing-and-resolving-computer-hardware-compatibility-problems-insights-from-yl-computing/"><u>Effective Strategies for Diagnosing & Resolving Computer Hardware Compatibility Problems - Insights From YL Computing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-gaming-experience-latest-drivers-for-nvidia-geforce-rtx-2070-windows-supported/"><u>Enhance Your Gaming Experience: Latest Drivers for NVIDIA GeForce RTX 2070 - Windows Supported!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-mobile-device-evaluation-techniques-at-zdnet-how-we-assess-the-latest-phones/"><u>Exploring Mobile Device Evaluation Techniques at ZDNet: How We Assess the Latest Phones</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-intel-z270-chipset-graphics-drivers-gamers-edition/"><u>Free Download: Intel Z270 Chipset Graphics Drivers - Gamers Edition</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-geforce-rtx-3090-driver-for-your-windows-pc-save-and-install-today/"><u>Get the Newest GeForce RTX ˈ3090 Driver for Your Windows PC - Save and Install Today!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-motorola-edge-40-pro-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/intels-official-network-drivers-for-windows-download-for-win11-10-and-7-users/"><u>Intel's Official Network Drivers for Windows: Download for Win11, 10 & 7 Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigating-through-modern-warfares-dev-error-6034-a-detailed-guide-to-fixing-for-call-of-duty-fans/"><u>Navigating Through Modern Warfare's Dev Error 6034 - A Detailed Guide to Fixing for Call of Duty Fans</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-guide-to-installing-lenovo-thinkpad-t430-drivers-on-windows-1187/"><u>Quick Guide to Installing Lenovo ThinkPad T430 Drivers on Windows 11/8/7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-downloading-and-updating-surface-book-drivers-made-easy/"><u>Step-by-Step Guide: Downloading and Updating Surface Book Drivers Made Easy</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-enabling-wake-on-lan-feature-on-your-windows-11-device/"><u>Step-by-Step Guide: Enabling Wake-on-LAN Feature on Your Windows 11 Device</u></a></li>
+<li><a href="https://facebook.techidaily.com/who-owns-the-photos-you-upload-online/"><u>Who Owns the Photos You Upload Online?</u></a></li>
 </ul></div>
 

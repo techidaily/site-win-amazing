@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Installing Canon MX340 Drivers on Windows 11/8/7 Platforms
-date: 2024-12-12T22:01:00.026Z
-updated: 2024-12-18T18:22:56.551Z
+date: 2024-12-24T05:10:50.701Z
+updated: 2024-12-27T06:08:41.177Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ If you’re using Arduino products to create your own work but failed to connect
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you need the driver?
@@ -35,7 +35,7 @@ If you’re using Arduino products to create your own work but failed to connect
  That’s why most of the problems can be solved by installing/updating drivers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to download Arduino Nano driver?
@@ -47,6 +47,10 @@ There are two ways you can update your Arduino Nano drivers.
 OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-download-and-install-arduino-nano-driver-in-windows-solved/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 1 –** **Download and install the driver manually**
 
@@ -63,19 +67,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Select **Browse my computer for driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9725918e348.png)
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
- If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
 
 ### **Option 2 – Automatically update drivers**
 
@@ -91,7 +91,7 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
@@ -118,17 +118,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-prime-acoustic-collectors-at-schools/"><u>[New] 2024 Approved Prime Acoustic Collectors at Schools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pro-hunters-choice-best-camcorders-unveiled/"><u>[New] Pro Hunters Choice Best Camcorders Unveiled</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-a-celebrated-list-top-15-classic-stop-motion-flicks-for-2024/"><u>[Updated] A Celebrated List Top 15 Classic Stop-Motion Flicks for 2024</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/all-inclusive-answer-bank-for-common-inquiries-on-flipbuildercom/"><u>All-Inclusive Answer Bank for Common Inquiries on flipbuilder.com</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/conversion-de-fichiers-wmv-en-m4a-facile-et-gratuite-sur-internet-avec-zamzar/"><u>Conversion De Fichiers WMV en M4a Facile Et Gratuite Sur Internet Avec Zamzar</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/decouvrez-ce-quest-un-fichier-cr2-et-apprenez-a-les-ouvrir-facilement/"><u>Découvrez Ce Qu'est Un Fichier CR2 Et Apprenez À Les Ouvrir Facilement !</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/discover-the-premier-video-conferencing-screen-capture-apps-our-expert-top-10-picks-for-efficient-meeting-recordings/"><u>Discover the Premier Video Conferencing Screen Capture Apps - Our Expert Top 10 Picks for Efficient Meeting Recordings</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-nvidias-new-geforce-rtx-3080-drivers-optimized-for-windows-versions-10-8-and-7/"><u>Download NVIDIA's New GeForce RTX 3080 Drivers - Optimized for Windows Versions 10, 8 & 7</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-app-accessing-spotifys-music-library/"><u>Facebook App: Accessing Spotify's Music Library</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-ready-unveiling-date-and-specs-for-googles-upcoming-pixel-tablet-device/"><u>Get Ready! Unveiling Date and Specs for Google's Upcoming Pixel Tablet Device</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-essence-and-usage-limits-of-facebooks-local-networks/"><u>The Essence and Usage Limits of Facebook's Local Networks</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ultimate-guide-to-image-cropping-quick-and-simple-techniques-by-movavi/"><u>Ultimate Guide to Image Cropping – Quick & Simple Techniques by Movavi</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-elevating-your-style-with-youtubes-best-hauls/"><u>[Updated] 2024 Approved Elevating Your Style with YouTube's Best Hauls</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-elevate-your-facebook-ads-game-no-price-tag-for-video-kit/"><u>[Updated] Elevate Your Facebook Ads Game - No Price Tag for Video Kit</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastery-of-transferring-multitudes-of-tiktok-videos/"><u>[Updated] Mastery of Transferring Multitudes of TikTok Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-10-text-boosting-techniques-in-videos-for-2024/"><u>[Updated] Top 10 Text Boosting Techniques in Videos for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-oppo-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Oppo .</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-official-evga-graphics-drivers-on-your-pc/"><u>Download & Install Official EVGA Graphics Drivers on Your PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-asus-vg248qe-graphics-card-driver-simple-steps/"><u>Download & Update Asus VG248QE Graphics Card Driver - Simple Steps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-vivo-v29-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Vivo V29 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/effective-methods-for-extracting-water-from-the-speaker-units-of-your-iphone/"><u>Effective Methods for Extracting Water From the Speaker Units of Your iPhone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722965835643-find-the-best-hp-officejet-pro-6970-drivers-for-your-windows-device-download-install-and-enjoy-flawless-printing/"><u>Find the Best HP OfficeJet Pro 6970 Drivers for Your Windows Device: Download, Install and Enjoy Flawless Printing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-camera-working-free-driver-software-for-windows-11-10-8-and-7/"><u>Get Your Camera Working: Free Driver Software for Windows 11, 10, 8, and 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-latest-nvidia-graphics-drivers-windows-compatible-and-gaming-optimized/"><u>Get Your Latest NVIDIA Graphics Drivers - Windows Compatible & Gaming Optimized</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-updated-drivers-for-your-toshiba-multifunction-device-on-windows-os/"><u>How To Install Updated Drivers For Your Toshiba Multifunction Device on Windows OS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-stardew-key-highlights-from-ginger-isle/"><u>In 2024, Mastering Stardew Key Highlights From Ginger Isle</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-the-drivers-you-need-insignia-usb-vga-adaptor/"><u>Install the Drivers You Need: Insignia USB-VGA Adaptor</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/integrating-your-social-network-four-ways-for-fb-story-sharing-for-2024/"><u>Integrating Your Social Network Four Ways for FB Story Sharing for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-compatible-thunderbolt-drivers-for-windows-operating-system/"><u>Latest Compatible Thunderbolt Drivers for Windows Operating System</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Download HP Deskjet Inkjet Printer Driver v3.6.89 for Windows 11, 10, 8 & 7
-date: 2024-08-18T13:38:01.471Z
-updated: 2024-08-19T13:38:01.471Z
+date: 2024-12-24T03:56:29.304Z
+updated: 2024-12-27T10:33:59.105Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/5c41e214e42161b19b3ba596b247b1528c5c85cbd
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1 – Update your driver manually
 
  Printer manufacturers will keep updating drivers to fix bugs or improve stability. You can download the latest printer driver from their websites and install it manually, but this requires some patience and computer skills. Follow the steps below to update the HP DeskJet 2652 driver manually.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/5c41e214e42161b19b3ba596b247b1528c5c85cbd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Type**HP DeskJet 2652** in the search box, and click**Submit** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/1-2-1.jpg)
@@ -42,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/5c41e214e42161b19b3ba596b247b1528c5c85cbd
 **3)** Make sure the**Detected operating system** is correct. Then, download the correct driver based on your needs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Once you’ve downloaded the correct driver for your system, double-click the downloaded file and follow the on-screen instructions to install the driver.
 
@@ -63,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/5c41e214e42161b19b3ba596b247b1528c5c85cbd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to the HP DeskJet 2600 series driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -80,9 +96,6 @@ thumbnail: https://thmb.techidaily.com/5c41e214e42161b19b3ba596b247b1528c5c85cbd
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Option 3 – Update your HP DeskJet 2652 driver using Device Manager
 
  Apart from the above two methods, you could also update the printer driver using Device Manager, a Windows built-in tool to control your hardware. Simply take the following steps:
@@ -92,30 +105,21 @@ thumbnail: https://thmb.techidaily.com/5c41e214e42161b19b3ba596b247b1528c5c85cbd
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Double-click**Printers** to see the devices under this category.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 **3)** Right-click**HP DeskJet 2652** , and click**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Select**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If there is any new update, Windows will directly download and install it. Then, reboot your computer for the changes to take effect. Otherwise, it will show you that the best drivers for your device are already installed.
 
 ---
@@ -131,8 +135,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +142,20 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-directors-academy-youtube-channels-for-cinematic-innovation-for-2024/"><u>[New] Directors Academy YouTube Channels for Cinematic Innovation for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-enhance-social-media-presence-by-saving-webcam-videos-via-vlc/"><u>[Updated] Enhance Social Media Presence by Saving Webcam Videos via VLC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revenue-rundown-the-profit-of-youtube-star-pewdopeep/"><u>[Updated] Revenue Rundown The Profit of YouTube Star PewDoPeep</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-the-continuous-stream-of-apple-music-without-interruption/"><u>Disabling the Continuous Stream of Apple Music Without Interruption</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722968620731-effortless-setup-of-samsung-m2070-drivers-top-picks-for-speed/"><u>Effortless Setup of Samsung M2070 Drivers – Top Picks for Speed!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-xs-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your Apple iPhone XS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-troubleshoot-and-solve-xbox-controller-connectivity-errors-on-windows-oses/"><u>How To Troubleshoot and Solve Xbox Controller Connectivity Errors on Windows OSes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-digitize-creativity-our-top-list-for-engaging-with-3d-typographic-websites/"><u>In 2024, Digitize Creativity Our Top List for Engaging with 3D Typographic Websites</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-or-update-windows-zebra-printer-drivers-here/"><u>Install or Update Windows Zebra Printer Drivers Here</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723002622515-path-of-exile-stuttering-heres-how-you-can-stop-it/"><u>Path of Exile Stuttering? Here's How You Can Stop It!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-fix-guide-for-hps-beats-sound-card-drivers-on-windows-1087-now-solved/"><u>Step by Step Fix Guide for HP's Beats Sound Card Drivers on Windows 10/8/7 - Now Solved</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-repairing-your-lg-display-on-various-windows-versions/"><u>Troubleshooting and Repairing Your LG Display on Various Windows Versions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/wi-fi-driver-update-processes-for-windows-1110-users-ensure-compatibility-and-speed/"><u>Wi-Fi Driver Update Processes for Windows 11/10 Users: Ensure Compatibility and Speed</u></a></li>
+</ul></div>
 

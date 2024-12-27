@@ -1,7 +1,7 @@
 ---
 title: "Download and Install Broadcom Gigabit Ethernet Driver on Windows 11: Troubleshooting Guide"
-date: 2024-12-05T07:14:29.383Z
-updated: 2024-12-11T18:05:59.997Z
+date: 2024-12-25T20:15:14.189Z
+updated: 2024-12-26T23:21:39.422Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ If you’re using an Broadcom wireless adapter on your computer, you should keep
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## To update your Broadcom WiFi driver
@@ -34,7 +34,7 @@ If you’re using an Broadcom wireless adapter on your computer, you should keep
 2. [**Update your driver automatically**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Manually download the driver from your device manufacturer
@@ -50,7 +50,7 @@ If you’re using an Broadcom wireless adapter on your computer, you should keep
 **3)** Open the downloaded file and follow the on-screen instructions to install it on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update your driver automatically
@@ -68,7 +68,7 @@ If you’re using an Broadcom wireless adapter on your computer, you should keep
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b344dbcb3a78.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click the **Update**  button next to_your Broadcom wireless adapter_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
@@ -76,7 +76,7 @@ If you’re using an Broadcom wireless adapter on your computer, you should keep
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3b50bbe620f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free, but it’s partly manual.
@@ -101,15 +101,14 @@ If you’re using an Broadcom wireless adapter on your computer, you should keep
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-enhancing-visuals-5-simple-steps-to-zoom-in-minecraft-for-2024/"><u>[Updated] Enhancing Visuals 5 Simple Steps to Zoom in Minecraft for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-unlock-fb-success-with-professional-360-video-tips/"><u>2024 Approved Unlock FB Success with Professional 360 Video Tips</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/extra-bucks-maximizing-youtubes-mobile-revenue-opportunities/"><u>Earn Extra Bucks Maximizing YouTube's Mobile Revenue Opportunities</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/integrating-zoom-into-your-inbox-experience/"><u>Integrating Zoom Into Your Inbox Experience</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mastering-the-art-of-curvilinear-visualizations-in-excel-essential-tips-and-techniques/"><u>Mastering the Art of Curvilinear Visualizations in Excel: Essential Tips & Techniques</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mastering-the-art-of-excel-based-crossword-creation-a-step-by-step-guide-for-beginners/"><u>Mastering the Art of Excel-Based Crossword Creation: A Step-by-Step Guide for Beginners</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/maximizing-cloud-based-excel-functionality-a-guide-to-improving-web-application-formulas-and-data-analysis/"><u>Maximizing Cloud-Based Excel Functionality: A Guide to Improving Web Application Formulas and Data Analysis</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/microsoft-reveals-new-features-of-word-and-excel-on-the-cutting-edge-apple-vision-pro/"><u>Microsoft Reveals New Features of Word and Excel on the Cutting-Edge Apple Vision Pro</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-online-video-blurring-the-top-free-tools-and-techniques/"><u>New Online Video Blurring The Top Free Tools and Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-best-buy-promotions-in-june-2024-exclusive-finds-on-zdnet/"><u>Top-Rated Best Buy Promotions in June 2024: Exclusive Finds on ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effective-techniques-to-convert-h264-video-format-to-h265-with-smaller-file-sizes-and-no-quality-degradation/"><u>Effective Techniques to Convert H.264 Video Format to H.265 With Smaller File Sizes and No Quality Degradation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722965426927-environmental-conditions-such-as-temperature-humidity-and-uv-exposure-affect-the-performance-of-self-healing-mechanisms-in-concrete/"><u>Environmental Conditions Such as Temperature, Humidity, and UV Exposure Affect the Performance of Self-Healing Mechanisms in Concrete.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/essential-logitech-t630-mouse-drivers-for-windows-users-windows-7-8-and-10/"><u>Essential Logitech T630 Mouse Drivers for Windows Users (Windows 7, 8, and 10)</u></a></li>
+<li><a href="https://win11.techidaily.com/four-practical-alternatives-to-bitlocker-in-winoss/"><u>Four Practical Alternatives to BitLocker in WinOSs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-fix-unrecognized-usb-devices-in-windows-10-step-by-step-solution/"><u>How to Fix Unrecognized USB Devices in Windows 10 - Step-by-Step Solution</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-asus-rog-phone-7-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Asus ROG Phone 7 FRP</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-direct-links-sharing-twitch-content-with-friends-on-fb/"><u>In 2024, Direct Links Sharing Twitch Content with Friends on FB</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/tips-for-minimizing-phone-camera-jitter-during-shoots/"><u>Tips for Minimizing Phone Camera Jitter During Shoots</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-or-fresh-install-of-logitech-g602-drivers-for-enhanced-pc-performance-windows/"><u>Update or Fresh Install of Logitech G602 Drivers for Enhanced PC Performance (Windows)</u></a></li>
 </ul></div>
 

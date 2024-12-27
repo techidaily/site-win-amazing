@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Dealing with the Synaptics Nub Driver Glitch on Windows 10"
-date: 2024-12-13T21:21:23.428Z
-updated: 2024-12-18T16:00:25.991Z
+date: 2024-12-21T00:52:18.183Z
+updated: 2024-12-27T01:52:18.669Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
 [**Method 2 – Automatically:**](https://tools.techidaily.com/drivereasy/download/) This option is **much quicker and easier** . **All**   you need to do is **just a couple of mouse clicks** !
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Download and update the drivers for your Lenovo X1 Carbon manually
 
  You can download the updated driver files from the official website of Lenovo. Then install them on your X1 Carbon on your own. Here is how to do it:
@@ -44,15 +48,11 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 3. In the search bar, type**X1 Carbon** . Then locate**your generation** of X1 Carbon in the list of search results and click **Downloads** under it. Then you’ll be redirected to the drivers download page of your generation of X1 Carbon.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap669.png)
 4. Click **Operating systems**  to select the OS you’re currently using. Click **Expand Details**  to view the details of each device.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap670.png)
 5. Click **the downward triangle**  to view the details of that driver. Then you can click **the download button**  to download that driver. If you want to download multiple drivers, you can also click **the plus button**  to add it to your downloads list first.  
@@ -61,14 +61,14 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 6. Click **My downloads list**  to view all the drivers you want to download.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap672.png)
 7. Click **the Download button**  . Then follow the on-screen instruction to download these driver files.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap673.png)
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
  You can do it for free if you like, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -115,21 +115,22 @@ thumbnail: https://thmb.techidaily.com/16a9a32d76913419d0c86bdb7e9f6c144de6a2f54
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-conveying-content-tweets-and-tumbleloops/"><u>[New] 2024 Approved Conveying Content Tweets & Tumbleloops</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-battle-for-asgard-the-ragnarok-chronicles/"><u>[New] Battle for Asgard The Ragnarök Chronicles</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-instant-illusions-mastering-time-lapse-photography-on-samsung/"><u>[New] Instant Illusions Mastering Time-Lapse Photography on Samsung</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amd-chipset-drivers-download-for-windows-10-7-8-and-81/"><u>AMD Chipset Drivers Download for Windows 10, 7, 8 & 8.1</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-guide-to-downloading-and-installing-brother-hl-2280dw-printer-drivers-on-windows-version-11-10-8-and-7/"><u>Complete Guide to Downloading and Installing Brother HL-2280DW Printer Drivers on Windows (Version 11, 10, 8 & 7)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-hp-laserjet-5200-printer-drivers-compatible-with-windows-10-8-and-sx/"><u>Get the Latest HP LaserJet 5200 Printer Drivers: Compatible with Windows 10, 8 & SX</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-xbox-controllers-online-fast-driver-downloads-and-setup-tips/"><u>Get Your Xbox Controllers Online: Fast Driver Downloads and Setup Tips</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-elevate-snappy-moments-with-convenient-voice-customization-tips/"><u>In 2024, Elevate Snappy Moments with Convenient Voice Customization Tips</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-itel-a60-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Itel A60 Face Lock?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-version-of-wacom-intuos-graphics-tablet-drivers-download-and-installation-guide/"><u>Latest Version of Wacom Intuos Graphics Tablet Drivers: Download and Installation Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-local-sam-service-issues/"><u>Overcoming Local SAM Service Issues</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/resolving-csr8510-a10-driver-problems-on-windows-ultimate-fix-guide/"><u>Resolving CSR8510 A10 Driver Problems on Windows: Ultimate Fix Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/resolving-windows-7-network-card-drivers-problems-a-step-by-step-guide/"><u>Resolving Windows 7 Network Card Drivers Problems: A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-remarkable-resurgence-of-valves-gaming-powerhouse-the-steam-machine-returns/"><u>The Remarkable Resurgence of Valve's Gaming Powerhouse – The Steam Machine Returns!</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ate-editing-software-listings/"><u>Ultimate Editing Software Listings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/who-qualifies-for-nvidias-revolutionary-ai-foundations-platform-unlocking-potential-in-generative-ai/"><u>Who Qualifies for NVIDIA’s Revolutionary AI Foundations Platform, Unlocking Potential in Generative AI?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-logitech-g-hub-not-working-on-windows/"><u>[SOLVED] Logitech G HUB Not Working on Windows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-finding-those-who-fled-my-insta-friends/"><u>[Updated] Finding Those Who Fled My Insta Friends</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-chortle-circle-spooky-androids-with-a-twist/"><u>2024 Approved Chortle Circle Spooky Androids with a Twist</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-tutorial-downloading-and-configuring-the-printer-drivers-of-brother-mfc-l2700dw-on-windows-os/"><u>Complete Tutorial: Downloading and Configuring the Printer Drivers of Brother MFC-L2700DW on Windows OS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-killer-e2200-high-speed-gigabit-ethernet-network-adapter-drivers/"><u>Download the Killer E2200 High-Speed Gigabit Ethernet Network Adapter Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-troubleshooting-guide-for-i2c-human-interface-device-drivers/"><u>Easy Troubleshooting Guide for I2C Human Interface Device Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-to-follow-steps-to-obtain-your-asus-monitor-drivers/"><u>Easy-to-Follow Steps to Obtain Your ASUS Monitor Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-focusrite-scarlett-2i4-audio-interface-driver-download-for-pc/"><u>Free Focusrite Scarlett 2I4 Audio Interface Driver Download for PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-latest-software-update-for-your-hp-deskjet-amoled-inkjet-printer-on-windows-8-10-and-11/"><u>Get Latest Software Update for Your HP DeskJet Amoled Inkjet Printer on Windows 8, 10 & 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722969514387-get-your-free-hp-laserprinter-drivers-for-windows-7-here/"><u>Get Your Free HP LaserPrinter Drivers for Windows 7 Here!</u></a></li>
+<li><a href="https://win-great.techidaily.com/guide-on-transferring-a-windows-7-bootable-image-across-multiple-pcs/"><u>Guide on Transferring a Windows 7 Bootable Image Across Multiple PCs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-lg-360-camera-full-review-2023-update/"><u>In 2024, LG 360 Camera Full Review -2023 Update</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masters-of-illusion-top-vr-producers/"><u>In 2024, Masters of Illusion Top VR Producers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-the-latest-drivers-for-tp-links-wireless-network-adapter-optimized-for-windows-11-8-and-abstraction-and-other-aspects-of-cognitive-development/"><u>Install the Latest Drivers for TP-Link's Wireless Network Adapter: Optimized for Windows 11, 8 & Abstraction and Other Aspects of Cognitive Development</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211113763-9782385640156-manifestation-sacree/"><u>Manifestation sacrée | Free Book</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-infinix-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Infinix</u></a></li>
 </ul></div>
 

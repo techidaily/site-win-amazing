@@ -1,7 +1,7 @@
 ---
 title: The Decision Must Be Made Between Two Options, neither of Which Is Correct or Wrong but May Involve Different Values
-date: 2024-08-18T13:35:31.142Z
-updated: 2024-08-19T13:35:31.142Z
+date: 2024-12-24T20:05:59.952Z
+updated: 2024-12-27T02:09:17.238Z
 tags:
   - win11
   - win10
@@ -50,11 +50,19 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-81.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to**Intel(R) 82579V Gigabit Network Connection** to automatically download its correct version, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
@@ -92,6 +100,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-659.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  10) In the left pane, click**Offline Scan** . Then on the right panel, select **Upload Offline Scan File (on the computer with Internet access)** and click the**Continue** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-538.png)
@@ -100,6 +112,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-540.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  12) Click the**Download** button next to**Intel(R) 82579V Gigabit Network Connection** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-82.png)
@@ -107,6 +123,10 @@ OR
  13) Choose where you’d like to save the downloaded driver, and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-542.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Wait for the download process to be complete.
 
@@ -119,6 +139,10 @@ Wait for the download process to be complete.
  15) After the driver has been successfully installed, you should restart your computer for the changes to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 2 – Update the driver manually
 
@@ -140,6 +164,10 @@ This is an example of Windows 10.
  4) Under**Available Downloads** , you can see a number of drivers for different Windows versions. Find the one compatible with your Windows version and click**Download** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-86.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click**I accept the terms in the license agreement** .
 
@@ -164,8 +192,6 @@ This is an example of Windows 10.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,8 +199,21 @@ This is an example of Windows 10.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-professional-video-setup-ideal-stabilizers-for-youtubers/"><u>[Updated] In 2024, Professional Video Setup Ideal Stabilizers for YouTubers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-seamless-streams-addressing-instagrams-video-snags/"><u>2024 Approved Seamless Streams Addressing Instagram's Video Snags</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amd-radeon-gpu-drivers-compatible-with-windows-7-download-now/"><u>AMD Radeon GPU Drivers Compatible with Windows 7 - Download Now</u></a></li>
+<li><a href="https://discover-best.techidaily.com/convert-your-presentations-free-online-guide-to-turning-powerpoint-slides-into-avi-videos/"><u>Convert Your Presentations: Free Online Guide to Turning PowerPoint Slides Into AVI Videos</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-compatible-csr-bluetooth-drivers/"><u>Free Download: Compatible CSR Bluetooth Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-nvidia-graphics-card-drivers-installation-guide-for-windows-users-windows-1078/"><u>Free Nvidia Graphics Card Drivers: Installation Guide for Windows Users (Windows 10/7/8)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-updates-for-canon-print-scan-copy-mg2522/"><u>Get the Newest Updates for Canon Print, Scan, Copy MG2522</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-samsung-gear-360-replacements-latest-innovations-in-camera-tech/"><u>In 2024, Samsung Gear 360 Replacements Latest Innovations in Camera Tech</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-the-installation-of-intel-dptf-drivers-expert-tips-and-tricks-to-get-it-right/"><u>Mastering the Installation of Intel DPTF Drivers: Expert Tips and Tricks to Get It Right</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/razer-blackwidow-drivers-refresh-tutorial-easy-steps-and-tech-assistance/"><u>Razer BlackWidow Drivers Refresh Tutorial – Easy Steps & Tech Assistance</u></a></li>
+<li><a href="https://video-capture.techidaily.com/roundup-of-ranch-games-top-10-for-friends-and-family-for-2024/"><u>Roundup of Ranch Games Top 10 for Friends and Family for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-iphones-silent-messages-problem-discover-16-effective-tips/"><u>Solve iPhone's Silent Messages Problem: Discover 16 Effective Tips</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/virtual-reality-camera-quest-wholl-win-for-2024/"><u>Virtual Reality Camera Quest Who'll Win for 2024</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

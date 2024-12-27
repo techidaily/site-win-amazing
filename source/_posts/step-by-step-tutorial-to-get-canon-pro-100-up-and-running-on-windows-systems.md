@@ -1,7 +1,7 @@
 ---
 title: Step by Step Tutorial to Get Canon PRO 100 Up and Running on Windows Systems
-date: 2024-12-06T21:51:13.130Z
-updated: 2024-12-12T05:47:22.062Z
+date: 2024-12-22T04:52:08.048Z
+updated: 2024-12-26T16:14:48.638Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## To update your fingerprint driver in Windows
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Update your fingerprint driver automatically (Recommended)
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-48.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
@@ -63,14 +63,14 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-49.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.  
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Update fingerprint driver manually
@@ -102,18 +102,17 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-premier-iphone-x8-series-gif-apps-reviewed/"><u>[New] Premier iPhone X/8 Series GIF Apps Reviewed</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-breaking-the-mold-unique-post-vidcon-events-for-2024/"><u>[Updated] Breaking the Mold Unique Post-VidCon Events for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/before-making-the-leap-key-aspects-to-assess-in-fitness-trackers/"><u>Before Making the Leap: Key Aspects to Assess in Fitness Trackers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/compatible-with-windows-get-the-essential-downloads-for-the-brother-hl-l234/"><u>Compatible With Windows? Get the Essential Downloads For The Brother HL-L234</u></a></li>
-<li><a href="https://fox-where.techidaily.com/detailed-overview-of-assembly-pages-structure-and-best-practices/"><u>Detailed Overview of Assembly Pages: Structure and Best Practices</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ds-530-printer-and-its-compatible-64-bit-drivers-for-windows-10-download-and-installation-help/"><u>DS-530 Printer and Its Compatible 64-Bit Drivers for Windows 10 - Download & Installation Help</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-nvidia-geforce-rtx-3080ti-driver-software-compatible-with-win-10-8-and-7-platforms/"><u>Get the Newest NVIDIA GeForce RTX #3080Ti Driver Software Compatible with Win 10, 8 & 7 Platforms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harmonizing-photos-with-musical-scores-for-2024/"><u>Harmonizing Photos With Musical Scores for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/instant-access-to-elgato-driver-software-swift-download-techniques-for-users/"><u>Instant Access to Elgato Driver Software – Swift Download Techniques for Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-easy-update-downloading-amd-ati-radeon-hd-3450-drivers-now/"><u>Quick and Easy Update: Downloading AMD ATI Radeon HD 3450 Drivers Now!</u></a></li>
-<li><a href="https://win-special.techidaily.com/step-by-step-guide-identifying-and-fixing-hard-drive-problems-with-yl-software-yl-computing/"><u>Step-by-Step Guide: Identifying & Fixing Hard Drive Problems with YL Software - YL Computing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oneplus-ace-2-pro-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track OnePlus Ace 2 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-best-software-bundles-for-animation-modelers-for-2024/"><u>[New] Best Software Bundles for Animation Modelers for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-crafting-team-videos-to-foster-viewership-and-following-for-2024/"><u>[New] Crafting Team Videos to Foster Viewership and Following for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-top-10-power-upgrades-for-os-x-and-win-with-srt-systems/"><u>[Updated] Top 10 Power Upgrades for OS X and Win with SRT Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722960721205-comprehensive-driver-set-for-logitech-k400-plus-free-download-options-here/"><u>Comprehensive Driver Set for Logitech K400 Plus - Free Download Options Here!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-guide-latest-drivers-for-your-hp-designjet-f-series/"><u>Download Guide: Latest Drivers for Your HP Designjet F-Series</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-new-sas-driver-for-your-windows-pc-supports-windows-1087-systems/"><u>Get the New SAS Driver for Your Windows PC - Supports Windows 10/8/7 Systems</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/guide-on-how-to-enable-the-text-to-speech-function-on-iphone-for-2024/"><u>Guide on How to Enable the Text to Speech Function on iPhone for 2024</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/secure-your-savvy-purchases-smart-shoppers-guide-to-preventing-cyber-threats-courtese-of-malwarefox/"><u>Secure Your Savvy Purchases: Smart Shopper's Guide to Preventing Cyber Threats, Courtese of MalwareFox</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-up-oculus-rift-as-a-windows-pc-vr-setup/"><u>Setting up Oculus Rift as a Windows PC VR Setup</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-system-lenovo-thunderbolt-veilleur-de-nuit-driver-installation-instructions-and-tips/"><u>Update Your System: Lenovo Thunderbolt Veilleur De Nuit, Driver Installation Instructions and Tips.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/user-friendly-strategies-for-handling-problems-with-your-i2c-connected-human-interface-devices-hid-drivers/"><u>User-Friendly Strategies for Handling Problems with Your I2^C-Connected Human Interface Devices (HID) Drivers</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-oppo-reno-11f-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo Reno 11F 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

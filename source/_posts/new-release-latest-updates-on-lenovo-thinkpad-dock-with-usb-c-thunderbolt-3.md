@@ -1,7 +1,7 @@
 ---
 title: "[NEW RELEASE] Latest Updates on Lenovo ThinkPad Dock with USB-C (Thunderbolt 3)"
-date: 2024-08-18T13:35:05.275Z
-updated: 2024-08-19T13:35:05.275Z
+date: 2024-12-23T05:39:56.254Z
+updated: 2024-12-27T01:28:03.476Z
 tags:
   - win11
   - win10
@@ -37,20 +37,40 @@ thumbnail: https://thmb.techidaily.com/bb9b7157cde51ae69f835473474384e7538166f29
 2. On the top of the website, move your mouse cursor to**PC & TABLETS** . Then click**Support** . You’ll be redirected to the support page of Lenovo PC and Tablets.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap668.png)
 3. In the search bar, type**X1 Carbon** . Then locate**your generation** of X1 Carbon in the list of search results and click **Downloads** under it. Then you’ll be redirected to the drivers download page of your generation of X1 Carbon.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap669.png)
 4. Click **Operating systems**  to select the OS you’re currently using. Click **Expand Details**  to view the details of each device.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap670.png)
 5. Click **the downward triangle**  to view the details of that driver. Then you can click **the download button**  to download that driver. If you want to download multiple drivers, you can also click **the plus button**  to add it to your downloads list first.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap671.png)
 6. Click **My downloads list**  to view all the drivers you want to download.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap672.png)
 7. Click **the Download button**  . Then follow the on-screen instruction to download these driver files.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap673.png)
 8. After all the driver files are downloaded on your X1 Carbon, double-click the driver files one by one and follow the on-screen instructions to install the updated driver files on your X1 Carbon.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Download and update the drivers for your Lenovo X1 Carbon automatically
 
  If you don’t have the time, patience or computer skills to download and update the drivers for your Lenovo X1 Carbon manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .  You don’t need to know exactly what system your X1 Carbon is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all** .
@@ -61,24 +81,8 @@ thumbnail: https://thmb.techidaily.com/bb9b7157cde51ae69f835473474384e7538166f29
 2. Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap674.png)
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap675.png)  
  You can do it for free if you like, but it’s partly manual.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Please leave your comment below if you have any questions or suggestions!
@@ -93,8 +97,6 @@ thumbnail: https://thmb.techidaily.com/bb9b7157cde51ae69f835473474384e7538166f29
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +104,16 @@ thumbnail: https://thmb.techidaily.com/bb9b7157cde51ae69f835473474384e7538166f29
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/lobal-lens-local-tales-how-to-transform-your-travel-experiences-into-content/"><u>[New] Global Lens, Local Tales How to Transform Your Travel Experiences Into Content</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-audio-extraction-simplified-with-pazera-tools-in-the-new-era/"><u>[Updated] Audio Extraction Simplified with Pazera Tools in the New Era</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-timing-your-instagram-posts-for-optimal-results-for-2024/"><u>[Updated] Timing Your Instagram Posts for Optimal Results for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-the-latest-hp-printer-drivers-for-windows-11/"><u>Download & Install the Latest HP Printer Drivers for Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fixing-logitech-c615-drivers-simple-solutions-inside/"><u>Fixing Logitech C615 Drivers: Simple Solutions Inside</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/more-commonly-it-might-refer-to-a-compound-like-3-octylphosphonic-acid-where-the-phosphonic-group-is-attached-to-the-third-carbon-of-the-octane-chain/"><u>More Commonly, It Might Refer to a Compound Like 3-Octylphosphonic Acid, Where the Phosphonic Group Is Attached to the Third Carbon of the Octane Chain.</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-transform-your-photos-into-videos-with-these-10-online-tools-for-2024/"><u>New Transform Your Photos Into Videos with These 10 Online Tools for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/secrets-to-saving-and-sharing-your-roblox-experience-on-a-mac-for-2024/"><u>Secrets to Saving & Sharing Your Roblox Experience on a Mac for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/solution-found-fixing-the-igfxem-module-failure-issue/"><u>Solution Found: Fixing the 'IgfxEM Module Failure' Issue</u></a></li>
+</ul></div>
 
