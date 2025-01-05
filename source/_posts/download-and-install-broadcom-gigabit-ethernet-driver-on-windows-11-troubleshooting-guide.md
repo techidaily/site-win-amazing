@@ -1,7 +1,7 @@
 ---
 title: "Download and Install Broadcom Gigabit Ethernet Driver on Windows 11: Troubleshooting Guide"
-date: 2024-12-25T20:15:14.189Z
-updated: 2024-12-26T23:21:39.422Z
+date: 2025-01-03T17:47:52.108Z
+updated: 2025-01-05T16:41:09.522Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ If you’re using an Broadcom wireless adapter on your computer, you should keep
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## To update your Broadcom WiFi driver
@@ -34,7 +34,7 @@ If you’re using an Broadcom wireless adapter on your computer, you should keep
 2. [**Update your driver automatically**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Manually download the driver from your device manufacturer
@@ -50,7 +50,7 @@ If you’re using an Broadcom wireless adapter on your computer, you should keep
 **3)** Open the downloaded file and follow the on-screen instructions to install it on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update your driver automatically
@@ -68,7 +68,7 @@ If you’re using an Broadcom wireless adapter on your computer, you should keep
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b344dbcb3a78.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click the **Update**  button next to_your Broadcom wireless adapter_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
@@ -76,7 +76,7 @@ If you’re using an Broadcom wireless adapter on your computer, you should keep
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3b50bbe620f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free, but it’s partly manual.
@@ -101,14 +101,17 @@ If you’re using an Broadcom wireless adapter on your computer, you should keep
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blog-min.techidaily.com/effective-techniques-to-convert-h264-video-format-to-h265-with-smaller-file-sizes-and-no-quality-degradation/"><u>Effective Techniques to Convert H.264 Video Format to H.265 With Smaller File Sizes and No Quality Degradation</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722965426927-environmental-conditions-such-as-temperature-humidity-and-uv-exposure-affect-the-performance-of-self-healing-mechanisms-in-concrete/"><u>Environmental Conditions Such as Temperature, Humidity, and UV Exposure Affect the Performance of Self-Healing Mechanisms in Concrete.</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/essential-logitech-t630-mouse-drivers-for-windows-users-windows-7-8-and-10/"><u>Essential Logitech T630 Mouse Drivers for Windows Users (Windows 7, 8, and 10)</u></a></li>
-<li><a href="https://win11.techidaily.com/four-practical-alternatives-to-bitlocker-in-winoss/"><u>Four Practical Alternatives to BitLocker in WinOSs</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-fix-unrecognized-usb-devices-in-windows-10-step-by-step-solution/"><u>How to Fix Unrecognized USB Devices in Windows 10 - Step-by-Step Solution</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-asus-rog-phone-7-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Asus ROG Phone 7 FRP</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-direct-links-sharing-twitch-content-with-friends-on-fb/"><u>In 2024, Direct Links Sharing Twitch Content with Friends on FB</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/tips-for-minimizing-phone-camera-jitter-during-shoots/"><u>Tips for Minimizing Phone Camera Jitter During Shoots</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-or-fresh-install-of-logitech-g602-drivers-for-enhanced-pc-performance-windows/"><u>Update or Fresh Install of Logitech G602 Drivers for Enhanced PC Performance (Windows)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-innovative-tech-voice-changing-apps-reviewed/"><u>[New] 2024 Approved Innovative Tech Voice-Changing Apps Reviewed</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ssential-tips-for-youtube-short-fixes/"><u>[New] Essential Tips for YouTube Short Fixes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-breakdown-of-steps-perfecting-idevice-video-features-on-youtube-for-2024/"><u>[Updated] Breakdown of Steps Perfecting iDevice Video Features on YouTube for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-flashy-flights-prime-pc-and-mobile-game-hits/"><u>2024 Approved Flashy Flights Prime PC and Mobile Game Hits</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1726227569652-oggaiff-movavi/"><u>無限制網路自由轉化 OGG至AIFF - 使用 Movavi 格式變更器</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/cambia-tus-archivos-de-video-mp4-a-calidad-cd-para-escuchar-musica-sin-perdida-con-gratuito-convertidor-online-de-video-y-audio/"><u>Cambia Tus Archivos De Video MP4 a Calidad CD Para Escuchar Música Sin Pérdida Con Gratuito - Convertidor Online De Video Y Audio</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratis-conversao-on-line-de-mp3-em-wav-com-o-software-movavi/"><u>Gratis Conversão On-Line De MP3 Em WAV Com O Software Movavi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-risky-to-use-chatgpt-at-work-exploring-potential-consequences/"><u>Is It Risky to Use ChatGPT at Work? Exploring Potential Consequences</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4-dvdiso/"><u>MP4形式に簡単変換: DVD・ISOから字幕付きコピーガイド</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transformez-vos-videos-mov-en-fichiers-audio-flac-facilement-et-gratuitement-videoconveter/"><u>Transformez Vos Vidéos MOV en Fichiers Audio FLAC Facilement Et Gratuitement – VidéoConveter</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/yearly-roundup-high-fidelity-gadget-unpackers-on-youtube/"><u>Yearly Roundup High-Fidelity Gadget Unpackers on YouTube</u></a></li>
 </ul></div>
 

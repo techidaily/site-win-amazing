@@ -1,7 +1,7 @@
 ---
 title: "New Graphics Cards Drivers Available Now: Download the Latest RTX 2080 for Windows 10, 7 & 8"
-date: 2024-12-22T16:25:13.481Z
-updated: 2024-12-27T09:39:10.587Z
+date: 2025-01-02T21:14:48.070Z
+updated: 2025-01-05T16:44:56.611Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **There are two methods to update your Geforce RTX 2080 driver:**
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 **OR**
 
 [**Method 2** **– Manually:**](https://tools.techidaily.com/drivereasy/download/) You can update your Geforce RTX 2080 driver on your own. This requires some time, patience, and sometimes even computer skills.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Update your Geforce RTX 2080 driver automatically
 
@@ -48,20 +52,20 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap455.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Click **Update** next to your **Geforce RTX 2080** graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap454-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Download and install your Geforce RTX 2080 driver manually
@@ -74,16 +78,12 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap469.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Click the **DOWNLOAD** button to download the driver file.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap461.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4.**Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
@@ -108,18 +108,18 @@ _You can do it for free if you like, but it’s partly manual._
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-amazing.techidaily.com/easy-to-follow-tutorial-installing-the-logitech-g-pro-driving-force-on-windows-11-10-8-or-aturuating-the-logitech-g-pro-controller-with-guided-download-supp303/"><u>[Easy-to-Follow Tutorial]: Installing the Logitech G Pro Driving Force on Windows 11, 10, 8, or Aturuating the Logitech G Pro Controller with [Guided Download] Support for PC Gamers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-essential-ps3-simulators-for-windows-users-top-5/"><u>[New] 2024 Approved Essential PS3 Simulators for Windows Users (Top 5)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-strategies-for-recording-in-audacity/"><u>[New] Innovative Strategies for Recording in Audacity</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-ultimate-list-top-10-subtitle-editors-web/"><u>[Updated] Ultimate List Top 10 Subtitle Editors Web</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-how-does-imovie-set-dimensions/"><u>2024 Approved How Does iMovie Set Dimensions?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-video-invitation-maker-apps-for-iphone-and-android/"><u>Best Video Invitation Maker Apps for iPhone and Android</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/common-issues-and-solutions-reviving-your-samsung-bd-player/"><u>Common Issues & Solutions: Reviving Your Samsung BD Player</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-configure-logitechs-gaming-perfect-driving-force-gt-for-windows-pc-versions-7-8-10-and-11/"><u>Download and Configure Logitech's Gaming Perfect Driving Force GT for Windows PC - Versions 7, 8, 10 & 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ensure-peak-performance-download-the-latest-gigabyte-z370p-motherboard-drivers-now/"><u>Ensure Peak Performance: Download the Latest Gigabyte Z370P Motherboard Drivers Now</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-intel-wireless-network-adapter-driver-wi-fi-6-ax200-for-windows-10-and-11/"><u>Get the Latest Intel Wireless Network Adapter Driver (Wi-Fi 6 AX200) for Windows 10 and 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-best-of-gopro-cameras-side-by-side/"><u>In 2024, Exploring the Best of GoPro Cameras Side by Side</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/strategies-to-design-lively-and-uplifting-content-shows-for-2024/"><u>Strategies to Design Lively and Uplifting Content Shows for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-oppo-find-x6-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Oppo Find X6 Phone Network-Ready</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-buyers-guide-to-exceptional-hdr-photography-equipment/"><u>[New] A Buyer's Guide to Exceptional HDR Photography Equipment</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-streaming-showdown-the-podcast-challenge-to-youtubes-dominance-for-2024/"><u>[New] Streaming Showdown The Podcast Challenge to YouTube’s Dominance for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-crafting-powerful-partnerships-a-guide-to-choosing-youtube-allies-for-2024/"><u>[Updated] Crafting Powerful Partnerships A Guide to Choosing YouTube Allies for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/direct-link-to-download-focusrites-scarlett-2i2-drivers-on-windows-systems/"><u>Direct Link to Download Focusrite's Scarlett 2I2 Drivers on Windows Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-configure-realteks-high-quality-sound-driver-for-windows-10/"><u>Download and Configure Realtek's High-Quality Sound Driver for Windows 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-instructions-for-the-intel-wireless-ac-7260-device-driver-made-simple/"><u>Download Instructions for the Intel Wireless AC ^7260 Device Driver Made Simple</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/freshly-released-update-for-hp-laserjet-m506-printer-drivers/"><u>Freshly Released Update for HP LaserJet M506 Printer Drivers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-samsung-galaxy-f54-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Samsung Galaxy F54 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ipad-kindle-and-nook-showdown-which-tablet-e-reader-reigns-supreme/"><u>IPad, Kindle & Nook Showdown: Which Tablet E-Reader Reigns Supreme?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-guide-to-downloading-linksys-ae1200-drivers-no-hassle-perfect-fit/"><u>Quick Guide to Downloading Linksys AE1200 Drivers – No Hassle, Perfect Fit!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-xiaomi-14-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Xiaomi 14 FRP Bypass</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-your-kindle-easy-guides-and-software-for-removing-drm-from-azw-books/"><u>Unlocking Your Kindle: Easy Guides & Software for Removing DRM From AZW Books</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-printer-software-now-with-brother-mfc-l2690dws-new-driver-version/"><u>Update Your Printer Software Now with Brother MFC L2690DW's New Driver Version</u></a></li>
 </ul></div>
 

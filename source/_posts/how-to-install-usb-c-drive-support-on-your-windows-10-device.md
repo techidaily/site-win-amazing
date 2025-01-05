@@ -1,7 +1,7 @@
 ---
 title: How to Install USB-C Drive Support on Your Windows 10 Device
-date: 2024-12-24T09:00:34.699Z
-updated: 2024-12-26T17:18:47.894Z
+date: 2025-01-03T21:43:32.917Z
+updated: 2025-01-05T19:25:18.999Z
 tags:
   - win11
   - win10
@@ -42,16 +42,12 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-108.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type your printer model in the search box and click**Go** . In my case I type PIXMA PRO 100, and click**Go** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-109.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) On the product page, click the**Drivers & Downloads** tab.
@@ -59,18 +55,18 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-110.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) On the same page, under the**Drivers & Downloads** section, make sure the detected**Operating System** and**Language** are correct. Then click the**Drivers** tab, click**Select** \>**Download** to download the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-111-1024x299.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) After downloading, double click the downloaded file to run and follow the on-screen instructions to install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the driver
 
@@ -87,12 +83,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-112.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-113.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Note: you can do it for free if you like, but it’s partly manual.
 
@@ -119,17 +119,19 @@ Note: you can do it for free if you like, but it’s partly manual.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-best-youtube-to-mp3-converters-free-download-onlinewinmac/"><u>[Updated] Best YouTube to MP3 Converters Free Download [Online/Win/Mac]</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-heroic-showdown-gopro-writes-new-footage-rule-with-hero5-and-hero4-for-2024/"><u>[Updated] HEROic Showdown GoPro' Writes New Footage Rule with Hero5 and Hero4 for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-elevate-your-ride-with-these-10-sj4000-essentials/"><u>[Updated] In 2024, Elevate Your Ride with These 10 SJ4000 Essentials</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-identifying-and-tapping-into-youtubes-hidden-niches/"><u>2024 Approved Identifying and Tapping Into Youtube's Hidden Niches</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/creative-tims-advanced-vue-and-laravel-pro-dashboard-full-stack-application-with-vue-components-laravel-framework-and-json-api/"><u>Creative Tim's Advanced Vue and Laravel PRO Dashboard: Full-Stack Application with Vue Components, Laravel Framework, and JSON API</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-nvidia-graphics-drivers-compatible-with-windows-10-7-and-8/"><u>Download NVIDIA Graphics Drivers Compatible with Windows 10, 7 & 8</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-updated-intel-wireless-adapter-driver-for-windows-operating-systems-including-11107/"><u>Download Updated Intel Wireless Adapter Driver for Windows Operating Systems Including 11/10/7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-install-brother-mfc-7360n-printer-drivers-for-windows-10-8-and-7-step-by-step-guide/"><u>Easy Install: Brother MFC-7360N Printer Drivers for Windows 10, 8 & #7 - Step by Step Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-unrecognized-headphone-device-on-playback-in-windows-10-system/"><u>Fix: Unrecognized Headphone Device on Playback in Windows 10 System</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-downloader-brother-mfc-l2n90dw-printer-software-update/"><u>Free Downloader: Brother MFC-L2n90DW Printer Software Update</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Tecno Spark 10 4G? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-access-to-microsoft-drivers-for-your-windows-1187-pc/"><u>Quick Access to Microsoft Drivers for Your Windows 11/8/7 PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-updated-drivers-for-hp-scanjet-on-windows-systems-win1087/"><u>[FREE] Download Updated Drivers for HP Scanjet on Windows Systems (Win10/8/7)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-compreenas-comprehensive-walkthrough-for-creating-a-unified-skype-chat-room-accessible-by-users-of-different-operating-systems-for-2024/"><u>[New] Compreenas Comprehensive Walkthrough for Creating a Unified Skype Chat Room Accessible by Users of Different Operating Systems for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-for-beginners-best-film-and-point-shoot-cameras-reviewed/"><u>[New] For Beginners Best Film and Point-Shoot Cameras Reviewed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-secrets-of-professionals-mastering-video-recordingediting-with-adobe-connect/"><u>[Updated] Secrets of Professionals Mastering Video Recording/Editing with Adobe Connect</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/applications-for-crafting-dynamic-video-entrances-for-2024/"><u>Best Applications for Crafting Dynamic Video Entrances for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g04-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G04 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-the-latest-drivers-for-your-brother-mfc-l2e6wd-wireless-all-in-one-printer-on-a-windows-pc/"><u>How to Get the Latest Drivers for Your Brother MFC-L2e6WD Wireless All-in-One Printer on a Windows PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-the-newest-version-of-your-intel-centrino-advanced-n-6235-chipset-driver/"><u>How to Get the Newest Version of Your Intel Centrino Advanced-N 6235 Chipset Driver</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>How to identify missing or malfunctioning drivers with Windows Device Manager in Windows 10</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/how-to-make-manual-changes-to-your-pcs-registry-a-guide-by-yl-computing/"><u>How to Make Manual Changes to Your PC's Registry - A Guide by YL Computing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/killer-e2500-network-controller-software-free-downloads/"><u>Killer E2500 Network Controller Software - FREE Downloads</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mpow-drivers-for-wireless-connectivity-update-guide-for-pcs/"><u>MPOW Drivers for Wireless Connectivity: Update Guide for PCs</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-asus-rog-phone-8-pro-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Asus ROG Phone 8 Pro.</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-best-of-the-best-top-5-free-video-compression-apps-for-iphone-and-ipad-users/"><u>Updated Best of the Best Top 5 Free Video Compression Apps for iPhone and iPad Users</u></a></li>
 </ul></div>
 

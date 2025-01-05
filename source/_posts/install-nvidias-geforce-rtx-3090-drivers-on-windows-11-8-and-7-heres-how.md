@@ -1,7 +1,7 @@
 ---
 title: Install NVIDIA's GeForce RTX 3090 Drivers on Windows 11, 8 & 7 - Here's How
-date: 2024-08-18T13:31:03.285Z
-updated: 2024-08-19T13:31:03.285Z
+date: 2025-01-03T17:55:41.745Z
+updated: 2025-01-05T17:58:27.570Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: Download and install the RTX 3090 driver automatically (Recommended)
 
  If you’re not comfortable playing with device drivers, we recommend using **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a tool that detects, downloads and installs any driver updates your computer needs.
@@ -32,16 +36,26 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve installed the new graphics driver, restart your computer and enjoy the next-generation gaming experience.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Download and install the RTX 3090 driver manually
 
  If you have the time and computer skills, you can also download and install the RTX 3090 driver manually.
@@ -53,14 +67,13 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
  For**Download Type** , choose**Game Ready Driver (GRD)** for gaming purposes; or choose**Studio Driver (SD)** for graphic design.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-3090-official-dl.jpg)
 3. Click**DOWNLOAD** to get the install wizard. Then open the wizard and follow the on-screen instructions to install the driver.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/3090-official-dl.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/3090-official-dl.jpg)
+
 ---
 
  So these are the ways you can get the latest, correct driver for GeForce RTX 3090\. If you have any questions or suggestions, always feel free to drop a line.
@@ -71,8 +84,6 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -80,4 +91,26 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-seamless-transfer-of-high-definition-fb-media/"><u>[New] 2024 Approved Seamless Transfer of High Definition FB Media</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-4k-aerial-photography-guide-mi-drone-review/"><u>[New] The Ultimate 4K Aerial Photography Guide MI Drone Review</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-live-stream-titans-clash-twitch-vs-youtube-analysis/"><u>[Updated] Live-Stream Titans Clash Twitch Vs YouTube Analysis</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-of-wacom-intuos-pro-software-on-windows-10-devices/"><u>Easy Installation of Wacom Intuos Pro Software on Windows 10 Devices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fixing-xbox-accessory-drivers-solutions-for-compatibility-with-windows-10-11-and-8/"><u>Fixing Xbox Accessory Drivers: Solutions for Compatibility with Windows 10, 11, and 8</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-geforce-rtx-3080-driver-download-for-microsoft-windows-platforms-10-8-and-7/"><u>Free GeForce RTX 3080 Driver Download for Microsoft Windows Platforms (10, 8 & 7)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-free-logitech-g29-steering-wheel-drivers-for-win-10-8-and-7/"><u>Get Your Free Logitech G29 Steering Wheel Drivers for Win 10, 8 & 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-and-set-up-windows-7-bluetooth-driver-download-fast/"><u>How to Get and Set Up Windows 7 Bluetooth Driver Download Fast</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12-pro-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Realme 12 Pro 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-ultimate-viewer-writers-guide/"><u>In 2024, The Ultimate Viewer' Writers Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From Apple iPhone XS Max</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/new-release-brothers-scanning-device-drivers-on-windows-platform/"><u>New Release: Brother's Scanning Device Drivers on Windows Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/securing-your-education-savings-a-guide-to-the-microsoft-student-price-cut/"><u>Securing Your Education Savings: A Guide to the Microsoft Student Price Cut</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/speedy-installation-of-usb-cam-drivers-download-now-for-seamless-use/"><u>Speedy Installation of USB Cam Drivers - Download Now for Seamless Use</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-premier-selection-of-gratis-ai-powered-image-makers/"><u>The Premier Selection of Gratis AI-Powered Image Makers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-selection-of-premium-netgear-routers/"><u>The Ultimate Selection of Premium Netgear Routers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-intel-hd-graphics-4400-card-with-new-drivers-free-downloads-available/"><u>Update Your Intel HD Graphics 4400 Card with New Drivers – Free Downloads Available</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updated-canon-pixma-mg490-driver-installation-manual-for-windows-users/"><u>Updated Canon PIXMA MG490 Driver Installation Manual for Windows Users</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-how-to-enable-the-text-to-speech-function-on-iphone/"><u>Updated In 2024, How to Enable the Text to Speech Function on iPhone</u></a></li>
+</ul></div>
 

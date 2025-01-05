@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Resolving HP Officejet Pro 6978 Driver Malfunctions for Optimal Printing
-date: 2024-12-22T17:05:05.738Z
-updated: 2024-12-26T23:41:15.304Z
+date: 2025-01-01T20:37:19.647Z
+updated: 2025-01-05T18:10:03.946Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to update Validity fingerprint sensor drivers
 
  There’re mainly 3 ways for you to update the Validity fingerprint sensor drivers. Each of them has different features so you may pick the one you like most and see whether that answers your demand.
@@ -36,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 1 – Update your driver via Device Manager**
 
  Try to update your Validity fingerprint sensor driver from within Device Manager:
@@ -50,22 +50,18 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 2. After the Start screen shows up, click the**magnifier** icon located in the upper right corner.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-05-41.png)
 3. Type**device** into the search box. Then select**Device Manager** from a list of search results.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1098.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Here comes**Device Manager** . Click the**▷** symbol to the left of**Biometric Devices** to expand its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1073.png)
 5. Right-click on**Validity Sensors (WBF)** to open its context menu. Then select**Update Driver Software…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-11-03.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-18-21.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Wait till the download and installation process finishes.
 8. Click **Close** when it’s all done.
@@ -81,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Option 3 – Update your driver automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update your**Validity fingerprint sensor driver** manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Validity fingerprint sensor driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-36-48-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -125,24 +125,17 @@ thumbnail: https://thmb.techidaily.com/14ec252872982da41ad9f63f459b4e43e487f6392
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/esign-guide-youtube-banners-and-thumbnail-creation-for-2024/"><u>[New] Design Guide YouTube Banners & Thumbnail Creation for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-essential-economic-education-top-15-youtube-picks/"><u>[New] In 2024, Essential Economic Education Top 15 YouTube Picks</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-navigating-new-frontiers-metaverses-vs-omniverse/"><u>[Updated] 2024 Approved Navigating New Frontiers Metaverses Vs. Omniverse</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-average-income-for-youtubers-per-ad-displayed/"><u>[Updated] In 2024, Average Income for YouTubers per Ad Displayed?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-initial-steps-in-vlogging-essential-hardwaresoftware/"><u>[Updated] Initial Steps in Vlogging Essential Hardware/Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/airpods-isolated-cure-strategies/"><u>Airpods Isolated? Cure Strategies</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/choosing-between-druva-and-veeam-a-detailed-guide-on-finding-your-ideal-cloud-data-protection/"><u>Choosing Between Druva & Veeam: A Detailed Guide on Finding Your Ideal Cloud Data Protection</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/comprehensive-guide-to-fixing-and-updating-broadcom-gigabit-ethernet-drivers-in-windows-10/"><u>Comprehensive Guide to Fixing and Updating Broadcom Gigabit Ethernet Drivers in Windows 10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-the-latest-version-of-brother-hl-l2370dw-printer-driver-today/"><u>Download & Install The Latest Version of Brother HL-L2370DW Printer Driver Today</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-access-find-and-install-the-most-recent-video-card-drivers-today/"><u>Easy Access: Find and [Install] the Most Recent Video Card Drivers Today</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/experience-professional-gaming-download-the-driving-force-gt-controller-driver-for-windows-windows-71011/"><u>Experience Professional Gaming: Download the Driving Force GT Controller Driver for Windows (Windows 7/10/11)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-seamlessly-update-your-razer-blackwidows-drivers-comprehensive-support-guide/"><u>How to Seamlessly Update Your Razer BlackWidow's Drivers | Comprehensive Support Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-solutions-to-unlock-realme-phones-if-you-forgot-password-pin-pattern-by-drfone-android/"><u>In 2024, 6 Solutions to Unlock Realme Phones If You Forgot Password, PIN, Pattern</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/key-points-to-evaluate-when-selecting-a-dash-camera/"><u>Key Points to Evaluate When Selecting a Dash Camera</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-geforce-rtx-3080-driver-for-windows-11-secure-your-free-download-now/"><u>Latest GeForce RTX 3080 Driver for Windows 11 - Secure Your Free Download Now</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-razer-drivers-for-windows-operating-systems-download-and-installation-tips/"><u>Latest Razer Drivers for Windows Operating Systems – Download & Installation Tips</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722970132473-latest-version-of-gigabyte-network-card-drivers-download-without-delay/"><u>Latest Version of Gigabyte Network Card Drivers - Download Without Delay!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/offline-driver-installation-process-on-your-windows-pc/"><u>Offline Driver Installation Process on Your Windows PC</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-brainpower-of-moto-z2-detailed-insights-for-2024/"><u>[New] The Brainpower of Moto Z2 Detailed Insights for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-ranked-graphics-cards-for-optimal-online-streaming-quality/"><u>[New] Top-Ranked Graphics Cards for Optimal Online Streaming Quality</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1726224952353-mxf-mkv-movavi/"><u>網路上無料 MXF 到 MKV 同步 - 使用 Movavi 影片編碼器進行快速轉換</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/furdozo-szovetje-szegedultso-202/"><u>Fürdőző Szövetje Szegedültsó 202</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-vivo-y78plus-t1-edition-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Vivo Y78+ (T1) Edition FRP</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavi-vob-mp3-online-guide/"><u>Movavi의 단거나 비용 없이 VOB 파일을 MP3로 전환하기: 스프링 - Online Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/optimizing-your-podcasts-the-seo-blueprint/"><u>Optimizing Your Podcasts The SEO Blueprint</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/payment-methods-with-movavi-a-comprehensive-guide/"><u>Payment Methods with Movavi: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-unique.techidaily.com/quality-love-image-portfolio-professional-hd-visuals-from-yl-software-solutions/"><u>Quality Love Image Portfolio: Professional HD Visuals From YL Software Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-current-unavailability-issues-with-microsofts-windows-smartscreen-protection/"><u>Resolving Current Unavailability Issues with Microsoft's Windows SmartScreen Protection</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1726223424321-caf/"><u>モバイル向け音楽形式へ自由に変換!無料オンラインCAFオーサリングツール - ミュージックプロダクション</u></a></li>
 </ul></div>
 

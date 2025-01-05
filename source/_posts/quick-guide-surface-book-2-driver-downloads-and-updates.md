@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Surface Book 2 Driver Downloads and Updates"
-date: 2024-12-22T23:19:12.082Z
-updated: 2024-12-27T01:35:53.246Z
+date: 2024-12-31T16:15:30.111Z
+updated: 2025-01-05T16:46:42.705Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## To update Surface Book Drivers
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) –  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 1: Update your Surface Book drivers automatically (Recommended)**
@@ -56,23 +56,19 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7cabf4d114.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. **Restart**   your computer for the changes to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Option 2: Update your Surface Book drivers manually**
 
@@ -84,6 +80,10 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
 2. Scroll down to the Help list, then click**Install and update** \>**Download drivers and firmware for Surface** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7ccdf679a7.jpg)
 3. Select your model from the list of Surface products and follow the on-screen instructions to download the files that you need for driver updates.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Be sure to choose**ONLY** drivers that are compatible with your Windows version.
 4. Restart your computer for the changes to take effect.
@@ -109,19 +109,24 @@ To manually download & install your **Surface Book**  drivers, firstly you’ll 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-resolve-vanished-watch-video-icon-issue-2023/"><u>[Updated] 2024 Approved Resolve Vanished Watch Video Icon Issue, 2023</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-kinemaster-elevating-your-game-play-experience-on-android-devices/"><u>2024 Approved KineMaster Elevating Your Game Play Experience on Android Devices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premium-asmr-microphones-impressive-audio-at-economical-costs/"><u>2024 Approved Premium ASMR Microphones Impressive Audio at Economical Costs</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/windows-1011-bitlocker/"><u>专为 Windows 10/11 设计的顶级 Bitlocker 救回工具</u></a></li>
-<li><a href="https://win-help.techidaily.com/comprehensive-guide-and-visual-aid-mastering-crossplay-between-pc-and-android-systems-for-gaming-enthusiasts/"><u>Comprehensive Guide & Visual Aid: Mastering Crossplay Between PC and Android Systems for Gaming Enthusiasts</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-konica-minolta-printer-drivers-for-windows-users-windows-11-7-included/"><u>Get the Latest Konica Minolta Printer Drivers for Windows Users: Windows 11-7 Included</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-zte-nubia-z60-ultra-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to ZTE Nubia Z60 Ultra Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/intels-fast-and-easy-update-process-for-iris-plus-graphics-ebx00-how-to-get-started/"><u>Intel's Fast & Easy Update Process for Iris Plus Graphics Ebx_00: How To Get Started</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-acer-touchpad-drivers-for-windows-10-free-download/"><u>Latest Acer Touchpad Drivers for Windows 10 - Free Download</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722974837807-phase-change-heat-exchangers-facilitate-transitions-between-fluid-phases-like-liquid-vapor/"><u>Phase Change Heat Exchangers Facilitate Transitions Between Fluid Phases Like Liquid-Vapor.</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-connection-easy-usb-to-rs232-driver-downloads/"><u>Quick Connection: Easy USB to RS232 Driver Downloads</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-tecno-phantom-v-fold-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Tecno Phantom V Fold Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/top-6-slide-show-creation-apps-on-latest-iphones-for-2024/"><u>Top 6 Slide Show Creation Apps on Latest iPhones for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-intel-graphics-card-issues-a-step-by-step-guide-on-windows-systems/"><u>Troubleshooting Intel Graphics Card Issues: A Step-by-Step Guide on Windows Systems</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-illusions-unveiled-discerning-genuine-supporters-in-digital-platforms/"><u>[New] 2024 Approved Illusions Unveiled Discerning Genuine Supporters in Digital Platforms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-odins-last-hope-the-ragnarok-revelation/"><u>[New] In 2024, Odin's Last Hope The Ragnarok Revelation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-youtubes-monetary-system-monthly-or-quarterly/"><u>[New] In 2024, YouTube's Monetary System Monthly or Quarterly?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-daily-digital-domination-top-10-youtube-viewership-ranking/"><u>[Updated] In 2024, Daily Digital Domination Top 10 YouTube Viewership Ranking</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-best-practices-for-streamlining-webinars-on-windowsapple-os/"><u>2024 Approved Best Practices for Streamlining Webinars on Windows/Apple OS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-unveiling-the-past-essential-historical-yt-creators-for-students/"><u>2024 Approved Unveiling the Past Essential Historical YT Creators for Students</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/brother-hl-l2370dw-printer-driver-free-download-and-latest-updates/"><u>Brother HL-L2370DW Printer Driver: Free Download & Latest Updates</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-lenovo-x1-carbon-drivers-download-guide-for-windows-10-and-7/"><u>Get the Latest Lenovo X1 Carbon Drivers: Download Guide for Windows 10 and 7</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-ultrawide-view-with-the-newly-discounted-gigabytes-aorus-oled-gaming-monitor-for-only-969/"><u>Get the Ultrawide View with the Newly Discounted Gigabyte's Aorus OLED Gaming Monitor for Only $969</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-hands-on-acer-bluetooth-drivers-quick-and-painless-installation-steps-inside/"><u>Get Your Hands on Acer Bluetooth Drivers – Quick and Painless Installation Steps Inside!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/improve-your-work-efficiency-leveraging-snap-photography-techniques-for-2024/"><u>Improve Your Work Efficiency Leveraging Snap Photography Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-incognito-observer-of-online-chronicles/"><u>In 2024, Incognito Observer of Online Chronicles</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-simple-guide-to-record-unrooted-android-sounds/"><u>In 2024, Simple Guide to Record Unrooted Android Sounds</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-or-update-your-canon-mg3022-drivers-free-downloads-available-now/"><u>Install or Update Your Canon MG3022 Drivers - Free Downloads Available Now!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installing-the-latest-update-for-your-canoscan-lide-220-drivers-made-easy/"><u>Installing the Latest Update for Your CanoScan LiDE 220 Drivers Made Easy</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/newest-updates-available-for-hp-officejet-pro-9015-driver/"><u>Newest Updates Available for HP Officejet Pro 9015 Driver</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-simple-wacom-tablet-driver-installation-guide/"><u>Quick and Simple Wacom Tablet Driver Installation Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolved-troubleshooting-intel-graphics-drivers-on-windows-systems/"><u>Resolved: Troubleshooting Intel Graphics Drivers on Windows Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-compatibility-with-your-devices-update-tp-link-tl-ub400-bluetooth-adapter-driver-here/"><u>Ultimate Compatibility with Your Devices: Update TP-Link TL-UB400 Bluetooth Adapter Driver Here</u></a></li>
 </ul></div>
 

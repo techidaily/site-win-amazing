@@ -1,7 +1,7 @@
 ---
 title: "Solution: Liquid Penetrant Testing (LPT) Reveals Surface-Breaking Flaws in Non-Porous Materials but Cannot Detect Subsurface Defects"
-date: 2024-12-22T03:34:16.081Z
-updated: 2024-12-27T01:44:41.396Z
+date: 2025-01-04T23:16:26.973Z
+updated: 2025-01-05T18:06:16.181Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ Once you’re geared up with a**RTX 2070 SUPER** , you’ll need the latest grap
  Option 2: **[Install automatically (Recommended)](https://www.drivereasy.com/knowledge/download-update-rtx-2070-super-drivers-windows-10/#option2)**  – Download & install the drivers automatically and correctly. All you need is a just few clicks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Install the RTX 2070 SUPER drivers manually
@@ -46,18 +46,14 @@ To do so, you can follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2070-super-manually-1.jpg)
 2. At the search result page, click**DOWNLOAD** to download the installer. Then launch it and follow the on-screen instructions to install.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2070-super-manually-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Install the RTX 2070 SUPER drivers automatically (Recommended)
@@ -69,11 +65,15 @@ To do so, you can follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2070-super-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -101,24 +101,24 @@ To do so, you can follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-content-makers-compensation-breakdown-for-youtube-shorts/"><u>[New] 2024 Approved Content Makers' Compensation Breakdown for YouTube Shorts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-fast-fixes-streamlining-your-gotomeeting-record-keeping/"><u>[New] In 2024, Fast Fixes Streamlining Your GoToMeeting Record Keeping</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-rapidly-rendering-fortnite-cover-images-for-2024/"><u>[Updated] Rapidly Rendering Fortnite Cover Images for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/achieve-optimal-wi-fi-connectivity-download-the-newest-80211n-drivers-for-windows-platforms-windows-11-10-8-and-7/"><u>Achieve Optimal Wi-Fi Connectivity: Download the Newest 802.11N Drivers for Windows Platforms (Windows 11, 10, 8 & 7)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/asus-high-fidelity-audio-drivers-available-for-free-download/"><u>ASUS High-Fidelity Audio Drivers Available for Free Download</u></a></li>
-<li><a href="https://techtrends.techidaily.com/awake-and-alert-the-7-most-effective-alarm-clock-apps-reviewed/"><u>Awake and Alert: The 7 Most Effective Alarm Clock Apps Reviewed</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-asus-bluetooth-drivers-with-simplified-steps/"><u>Download and Update ASUS Bluetooth Drivers with Simplified Steps</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-brother-mfc-l2690dw-printer-driver-free-download-and-update-guide/"><u>Get the Newest Brother MFC-L2690DW Printer Driver | Free Download & Update Guide</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/heavy-dollar-for-airpods-max/"><u>Heavy Dollar for AirPods Max</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Infinix Note 30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-twitters-favorites-top-10-tiktok-vids/"><u>In 2024, Twitter's Favorites Top 10 TikTok Vids</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-hp-laserjet-m5ebdprinter-get-the-new-drivers-here/"><u>Latest HP LaserJet M5ebdprinter, Get the New Drivers Here!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oneplus-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your OnePlus Phone? Unlock It Now</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/nvidia-driver-downloads-secure-and-optimized-for-windows-11-7-and-8/"><u>NVIDIA Driver Downloads - Secure & Optimized for Windows 11, 7 and 8!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/seamless-integration-of-newest-amd-software-on-windows-platforms-insiders-secrets/"><u>Seamless Integration of Newest AMD Software on Windows Platforms: Insider's Secrets</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-setup-and-update-epson-ds-510-software-on-a-windows-laptop-or-desktop/"><u>Step by Step Tutorial: Setup & Update Epson DS-510 Software on a Windows Laptop or Desktop</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-resolution-to-update-your-amd-radeon-driver-without-errors/"><u>Step-by-Step Resolution to Update Your AMD Radeon Driver without Errors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-path-to-precise-personas-harnessing-chatgpt-capabilities/"><u>The Path to Precise Personas: Harnessing ChatGPT Capabilities</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-guide-fixing-issues-with-your-logitech-g433-microphone/"><u>Troubleshooting Guide: Fixing Issues with Your Logitech G433 Microphone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-consolidating-your-youtube-video-collection/"><u>[New] 2024 Approved Guide to Consolidating Your YouTube Video Collection</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-guide-to-adjusting-to-new-facebook-ranking-criteria-for-2024/"><u>[New] The Ultimate Guide to Adjusting to New Facebook Ranking Criteria for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-hp-laserjet-p3015-printer-drivers-on-windows-step-by-step-guide/"><u>Download & Install HP LaserJet P3015 Printer Drivers on Windows: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-updated-nvidia-mx1-gpu-drivers-on-your-pc-windows-supported/"><u>Download & Install Updated Nvidia MX1# GPU Drivers on Your PC - Windows Supported</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/empower-your-music-library-cds-in-wmp/"><u>Empower Your Music Library CDs in WMP</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fast-and-flexible-secure-your-ft232r-usb-uart-driver-with-a-simple-download/"><u>Fast and Flexible: Secure Your FT232R USB UART Driver with a Simple Download</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gigabyte-ethernet-drivers-get-your-most-recent-software-update-for-free/"><u>Gigabyte Ethernet Drivers: Get Your Most Recent Software Update for Free</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratuit-mov-file-naar-wav-omzetten-online-instantan/"><u>Gratuit MOV-File Naar WAV Omzetten - Online Instantan</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-90-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor 90 Pro via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-narzo-n53-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Realme Narzo N53 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installing-latest-wireless-network-adapter-drivers-for-windows-10-and-11/"><u>Installing Latest Wireless Network Adapter Drivers for Windows 10 & 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/macbook-pros-new-best-friend-inside-out-on-the-no-nonsense-wallet-friendly-procase-sleeve-review/"><u>MacBook Pro's New Best Friend? Inside Out on the No-Nonsense, Wallet-Friendly ProCase Sleeve Review</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mastering-seagate-backup-plus-expert-maintenance-and-performance-hacks/"><u>Mastering Seagate Backup Plus: Expert Maintenance & Performance Hacks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/netgear-driver-downloads-keep-your-routers-wi-fi-adapter-running-smoothly-with-the-latest-firmware/"><u>NETGEAR Driver Downloads - Keep Your Router's Wi-Fi Adapter Running Smoothly with the Latest Firmware</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolved-lack-of-default-printer-and-scanner-support-in-windows-10-operating-system/"><u>Resolved: Lack of Default Printer & Scanner Support in Windows 10 Operating System</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/revolutionize-your-brand-presence-on-igtv-with-these-top-10-strategies/"><u>Revolutionize Your Brand Presence on IGTV with These Top 10 Strategies</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/supercharge-your-design-with-these-canva-insider-tips/"><u>Supercharge Your Design with These Canva Insider Tips</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-ultimate-guide-to-affordable-and-independent-japan-studies/"><u>The Ultimate Guide to Affordable & Independent Japan Studies</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-guide-fixing-dts-audio-unavailable-on-your-selected-sound-hardware/"><u>Troubleshooting Guide: Fixing 'DTS Audio Unavailable' On Your Selected Sound Hardware</u></a></li>
 </ul></div>
 

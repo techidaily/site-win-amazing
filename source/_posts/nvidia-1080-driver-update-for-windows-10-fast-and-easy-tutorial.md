@@ -1,7 +1,7 @@
 ---
 title: "NVIDIA 1080 Driver Update for Windows 10: Fast & Easy Tutorial"
-date: 2024-12-25T07:00:08.151Z
-updated: 2024-12-27T07:49:47.555Z
+date: 2025-01-03T18:27:08.143Z
+updated: 2025-01-05T23:20:41.330Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How to Download the Drivers from NVIDIA Manually**
 
  Ensure that you download the correct version, as incorrect version of the driver would cause incompatibility issue. Following steps are for your reference.
@@ -35,12 +39,16 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 ![NVIDIA Drivers](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57ccd935a0f0a.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2\. Under Option 1, select “Product Type” to**GeForce** , “Product Series” to**GeForce 10 Series** , “Product” to**Geforce GTX 1080** , then select the Operating System to the specific version that you are using (Windows 10 32-bit or Windows 10 64-bit). If you are not sure what Windows version that you have, see[How to Quickly Get Operating System Version](https://tools.techidaily.com/drivereasy/download/) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_581410198d290.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3\. Click on**SEARCH** button. Then you will be directed to the download page.
 
@@ -48,15 +56,7 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_581412f0a2c64.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Searching and Downloading drivers manually can take forever. And it is possible to download the incompatible drivers. So instead of downloading Windows 10 drivers for Geforce GTX 1080 manually, you can use[Driver Easy](https://tools.techidaily.com/drivereasy/download/) to help you automatically. With Driver Easy, you can expect that much time and energy will be saved on updating drivers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Download Drivers with just 2 Clicks**
 
@@ -67,7 +67,7 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58eca1022f7b7.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2\. Click**Update** button to download the driver that you wish to install.
@@ -75,7 +75,7 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58eca27c67b42.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With Free version, after download completes, you are required to install the driver manually. If you want to have the driver installed automatically, you can consider upgrading to the Paid version. The Paid version will provide you with higher download speed and full features. Moreover, you will enjoy free technical support. You can[contact our professional support team](https://tools.techidaily.com/drivereasy/download/) for further assistance regarding any driver issue you’ve met. And you will have 30-day money back guarantee. Just feel free to ask for a full refund if you are not satisfied with the product.
@@ -95,17 +95,20 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-best-ios-apps-to-play-your-favorite-psp-games-for-2024/"><u>[New] Best iOS Apps to Play Your Favorite PSP Games for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-revolutionary-audio-adjustment-software-best-of-the-free-kind-for-valorant/"><u>[New] Revolutionary Audio Adjustment Software – Best of the Free Kind for Valorant</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-guide-to-installing-the-latest-amd-ryzen-drivers/"><u>Effortless Guide to Installing the Latest AMD Ryzen Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-focusrite-scarlett-solo-studio-condenser-compatible-with-windows-pc/"><u>Free Download: Focusrite Scarlett Solo Studio Condenser - Compatible with Windows PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-free-hp-deskjet-ink-advantage-printer-driver-version-update-on-windows/"><u>Get Your Free HP Deskjet Ink Advantage Printer Driver Version Update on Windows</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-fix-samsung-printer-connection-problems-on-windows-solutions-and-tips/"><u>How to Fix Samsung Printer Connection Problems on Windows: Solutions and Tips</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/incorporating-tracks-into-online-visual-narratives/"><u>Incorporating Tracks Into Online Visual Narratives</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-gigabyte-z370p-driver-version-for-optimal-performance-free-downloads-available/"><u>Latest Gigabyte Z370P Driver Version for Optimal Performance – Free Downloads Available</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/nouvelle-version-de-abbyy-finereader-15-facilitez-la-digitisation-rapide-et-efficace-les-informations-essentielles/"><u>Nouvelle Version De ABBYY FineReader 15 : Facilitez La Digitisation Rapide Et Efficace - Les Informations Essentielles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unleash-creativity-with-top-windows-11-sketchers/"><u>Unleash Creativity with Top Windows 11 Sketchers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-is-one-airpod-louder-than-the-other-try-these-4-fixes/"><u>Why Is One AirPod Louder Than the Other? Try These 4 Fixes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-cutting-edge-uhd-capture-the-15-leaders-for-2024/"><u>[New] Cutting-Edge UHD Capture – The 15 Leaders for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-in-depth-exploration-of-theta-s-capabilities/"><u>[Updated] 2024 Approved In-Depth Exploration of Theta S Capabilities</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-comprehensive-tutorial-on-windows-1011s-audio-upgrade/"><u>A Comprehensive Tutorial on Windows 10/11'S Audio Upgrade</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-infinix-gt-10-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Infinix GT 10 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-on-your-computer-a-leap-in-performance-from-the-basic-site/"><u>ChatGPT on Your Computer - A Leap in Performance From the Basic Site</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/curving-images-without-complication-a-guide/"><u>Curving Images without Complication A Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-newest-nvidia-geforce-rtx-3080-ti-drivers-compatible-with-windows-11-10-and-8/"><u>Download the Newest NVIDIA GeForce RTX 3080 Ti Drivers: Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-setup-of-your-soundmax-device-with-windows-pc-using-latest-drivers/"><u>Easy Setup of Your SoundMAX Device with Windows PC Using Latest Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-epson-ds-c530-software-for-seamless-printing-on-windows-11-x64-machines/"><u>Get the Latest Epson DS-C530 Software for Seamless Printing on Windows 11 X64 Machines</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-usb400-bluetooth-driver-for-your-tp-link-device-easy-installation-guide/"><u>Get the Newest USB400 Bluetooth Driver for Your TP-Link Device – Easy Installation Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-free-asrock-ab350-pro4-windows-drivers-today-with-one-simple-step/"><u>Get Your Free ASRock AB350 Pro4 Windows Drivers Today with One Simple Step</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-nvidia-geforce-rtx-3090-drivers-compatible-with-windows-11-8-and-7-download-now/"><u>Latest NVIDIA GeForce RTX 3090 Drivers: Compatible with Windows 11, 8 & 7 - Download Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-update-enhanced-usb-30-gigabite-net-adapter-driver-compatible-with-windows-os/"><u>Latest Update: Enhanced USB 3.0 Gigabite NET Adapter Driver Compatible with Windows OS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/professional-winxdvd-solution-cutting-edge-dvd-to-mp4-ripter-smart-video-improvement-and-iphone-porting-utility/"><u>Professional WinXDVD Solution: Cutting-Edge DVD to MP4 Ripter, Smart Video Improvement & iPhone Porting Utility</u></a></li>
+<li><a href="https://facebook.techidaily.com/trump-deactivation-on-ice-at-facebook-oversight/"><u>Trump Deactivation on Ice at Facebook Oversight</u></a></li>
 </ul></div>
 

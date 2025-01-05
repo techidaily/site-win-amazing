@@ -1,7 +1,7 @@
 ---
 title: How to Obtain and Update Your Canon MX492 Driver Pack for Windows Operating Systems
-date: 2024-12-22T21:10:36.500Z
-updated: 2024-12-26T18:04:43.488Z
+date: 2024-12-30T22:06:56.635Z
+updated: 2025-01-05T22:01:21.078Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 
  Note: the screenshots below come from Windows 10, and the fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Method 1: Download MFC-L2740DW driver manually
 
  You can manually download MFC-L2740DW driver from the Brother website, and install it in your computer.  Before getting started, you should know clearly the operating system running in your computer.  You can Run_**msinfo32.exe**_ and check the_**OS name**_ .
@@ -41,18 +45,14 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c713bda5e.jpg)
 3. Click the**driver** in the**Drivers** section to download.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90c73e819aa.jpg)
 4. Run the downloaded file and install it in your computer.
 
- This method requires time and computer skills. If it doesn’t work for you, don’t worry. We have other solutions.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ This method requires time and computer skills. If it doesn’t work for you, don’t worry. We have other solutions.
 
 ### Method 2: Update MFC-L2740DW driver automatically
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 3. Click the**Update** button next to the flagged printer to automatically download the correct version of the driver (you can do this with the**FREE** version). Then install the driver in your computer.  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cee2c1202.jpg)
@@ -82,7 +82,7 @@ You can also directly update the  MFC-L2740DW driver via Device Manager, where y
  and **R**  at the same time to invoke the Run box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. Type**devmgmt.msc** and click**OK** .  
@@ -92,12 +92,12 @@ You can also directly update the  MFC-L2740DW driver via Device Manager, where y
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ce12a7cab.png)
 4. Choose**Search automatically for updated driver software** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ce3ebb24f.jpg)
 5. Follow the on-screen instructions to finish the update.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
   So that’s it. Hope this post will help you understand how to update**MFC-L2740DW driver** . If you have any questions, feel free to add a comment and we’ll see what more we can better help.
 
@@ -119,22 +119,18 @@ You can also directly update the  MFC-L2740DW driver via Device Manager, where y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-essential-tips-for-editing-your-videos-in-youtube-studio/"><u>[New] 2024 Approved Essential Tips for Editing Your Videos in YouTube Studio</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-enhancing-igtv-with-translation-captions/"><u>[New] In 2024, Enhancing IGTV with Translation Captions</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-mastering-snapchat-posts-top-15-game-changers/"><u>[Updated] 2024 Approved Mastering Snapchat Posts Top 15 Game-Changers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-twitter-video-series-breakdown-area-format-duration-for-2024/"><u>[Updated] Twitter Video Series Breakdown Area, Format, Duration for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-how-to-successfully-record-and-manage-internet-radio/"><u>2024 Approved How to Successfully Record and Manage Internet Radio</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/capture-quality-sound-on-savings-premier-bargains-awaiting-on-tribit-audio-products-this-prime-day/"><u>Capture Quality Sound on Savings: Premier Bargains Awaiting on Tribit Audio Products This Prime Day</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722972142977-download-and-update-amd-radeon-rx-580-graphics-driver-simple-steps/"><u>Download & Update AMD Radeon RX 580 Graphics Driver - Simple Steps!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/epson-stylus-nx420-driver-download-for-windows-7810/"><u>Epson Stylus NX420 Driver Download for Windows 7/8/10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-hp-officejet-5255-driver-for-optimal-performance/"><u>Get the Newest HP Officejet 5255 Driver for Optimal Performance</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-address-and-repair-missing-file-msodll-in-windows-computers/"><u>How to Address and Repair 'Missing File: MSO.DLL' In Windows Computers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/parties-have-the-autonomy-to-choose-arbitrators-with-specific-expertise-relevant-to-their-dispute-something-not-possible-in-traditional-litigation/"><u>Parties Have the Autonomy to Choose Arbitrators with Specific Expertise Relevant to Their Dispute, Something Not Possible in Traditional Litigation.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/shining-spots-on-screen-top-video-lights-strategies-for-2024/"><u>Shining Spots on Screen Top Video Lights Strategies for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-comprehensive-guide-to-patching-epson-xp-640-drivers-for-enhanced-functionality-on-windows-systems/"><u>The Comprehensive Guide to Patching Epson XP-640 Drivers for Enhanced Functionality on Windows Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ultimate-guide-steps-to-install-the-latest-asus-wireless-network-drivers/"><u>Ultimate Guide: Steps to Install the Latest ASUS Wireless Network Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-to-the-most-recent-nvidia-rtx-3080-ti-graphics-card-drivers-for-modern-windows-versions/"><u>Update to the Most Recent NVIDIA RTX 3080 Ti Graphics Card Drivers for Modern Windows Versions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/updated-epson-stylus-nx420-driver-pack-for-smooth-printing-on-windows-78-and-10/"><u>Updated Epson Stylus NX420 Driver Pack for Smooth Printing on Windows 7/8 and 10</u></a></li>
-<li><a href="https://article-posts.techidaily.com/voice-to-text-an-all-inclusive-guide-to-googles-document-feature-for-2024/"><u>Voice to Text An All-Inclusive Guide to Google's Document Feature for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-screenflix-recorder-insider-report-for-2024/"><u>[Updated] ScreenFlix Recorder Insider Report for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/bypassing-the-restriction-saving-and-watching-videos-free-of-movavi-watermarks/"><u>Bypassing the Restriction: Saving and Watching Videos Free of Movavi Watermarks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/conversione-gratuita-da-mp4-a-m2ts-su-internet-guida-definitiva-con-movavi/"><u>Conversione Gratuita Da MP4 a M2TS Su Internet: Guida Definitiva Con Movavi</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-unleashing-comedy-in-the-virtual-realm-making-hits-with-metaverse-memes/"><u>In 2024, Unleashing Comedy in the Virtual Realm - Making Hits with Metaverse Memes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-note-30-5g-video-recovery-recover-deleted-videos-from-infinix-note-30-5g-by-fonelab-android-recover-video/"><u>Infinix Note 30 5G Video Recovery - Recover Deleted Videos from Infinix Note 30 5G</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-instagram-the-art-of-rewinding-videos/"><u>Mastering Instagram The Art of Rewinding Videos</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavis-free-video-conversion-tool-effortless-changing-of-avi-to-m4v-for-no-charge/"><u>Movavi's Free Video Conversion Tool: Effortless Changing of AVI to M4V for No Charge!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/online-pre-conversion-von-wmv-nach-mp4-gratis-bei-movavi-schnelle-und-einfache-losung/"><u>Online Pre-Conversion Von WMV Nach MP4 Gratis Bei Movavi - Schnelle Und Einfache Lösung!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/sadece-250-turlu-daha-kalan-sonuclarla-cok-seviyorsun-fayda-sizinle-oncelik-gorunmek-ve-yuklenmesi/"><u>Sadece 250 Türlü Daha Kalan Sonuçlarla Çok Seviyorsun - Fayda Sizinle Öncelik Görünmek Ve Yüklenmesi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-10-applicazioni-piu-efficaci-per-personalizzare-i-pdf-nel-2024/"><u>Top 10 Applicazioni Più Efficaci Per Personalizzare I PDF Nel 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-redred2-errgfxstate-issue-a-comprehensive-guide/"><u>Troubleshooting the RED_RED2 ERR_GFX_STATE Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlock-the-secrets-to-lengthy-exposure-with-iphone/"><u>Unlock the Secrets to Lengthy Exposure with iPhone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unveiling-your-pcs-powershell-version-on-windows-10-a-simple-guide/"><u>Unveiling Your PC’s PowerShell Version on Windows 10: A Simple Guide</u></a></li>
 </ul></div>
 

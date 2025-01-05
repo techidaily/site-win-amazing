@@ -1,7 +1,7 @@
 ---
 title: Get the Latest Graphics Accelerator for Your PC - NVIDIA GeForce RTX 2E 2070 Drivers
-date: 2024-12-26T02:11:35.086Z
-updated: 2024-12-26T17:32:23.440Z
+date: 2025-01-02T18:31:15.318Z
+updated: 2025-01-05T19:13:47.231Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/08c04182a5370a9894bbb7d5aedb620a94eb3a5d1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **There are two methods to download & update the drivers for your Surface Book 2:**
 
 [**Method 1 – Manually:**](https://tools.techidaily.com/drivereasy/download/) You can download and update the drivers for your Surface Book 2 on your own. This requires some time, patience, and sometimes even computer skills.
@@ -47,25 +43,33 @@ thumbnail: https://thmb.techidaily.com/08c04182a5370a9894bbb7d5aedb620a94eb3a5d1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap715.png)
 3. Scroll down until you see**Surface Book 2** on the table. Then click its drivers download link to continue.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap716.png)
 4. Click**Download** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap717.png)
 5. To update your Surface Book 2 with the latest drivers and firmware, **select the .msi file name that matches your operating system version** . Then click**Next** to start downloading.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap718.png)  
  For example, if the build of Windows 10 you’ve installed is build 17763, you should select  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **SurfaceBook2\_Win10\_17763\_1805009\_0.msi** . If you’re not sure about the version of Windows 10 you’ve installed, go to**Start** \>**Settings** \>**System** \>**About** to view **the OS Build number** .
 6. Double-click the downloaded file and follow the on-screen instructions to install its drivers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Download and update the drivers for your Surface Book 2 automatically
 
@@ -78,15 +82,11 @@ thumbnail: https://thmb.techidaily.com/08c04182a5370a9894bbb7d5aedb620a94eb3a5d1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap719.png)
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap720.png)  
  You can do it for free if you like, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -111,17 +111,22 @@ thumbnail: https://thmb.techidaily.com/08c04182a5370a9894bbb7d5aedb620a94eb3a5d1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-sailing-the-skies-easily-how-to-pair-drones-and-propellers/"><u>[New] In 2024, Sailing the Skies Easily How to Pair Drones and Propellers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-master-psd-color-dynamics/"><u>[New] Master PSD Color Dynamics</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-samsungs-vision-innovations-in-image-editor-software/"><u>[Updated] Samsung’s Vision Innovations in Image Editor Software</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-shutter-free-skyline-images-top-drone-camera-stabilizers/"><u>2024 Approved Shutter-Free Skyline Images Top Drone Camera Stabilizers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-walkthrough-on-setting-up-your-western-digital-ses-device-driver-post-2e11/"><u>Complete Walkthrough on Setting Up Your Western Digital SES Device Driver (Post-2e11)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-easy-to-update-surface-device-drivers-a-step-by-step-guide/"><u>Download and Easy-to-Update Surface Device Drivers: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-resolve-amazon-prime-video-unresponsive-problems-easily/"><u>How To Resolve 'Amazon Prime Video Unresponsive' Problems Easily</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-the-official-epson-wf-2940-printer-drivers-for-compatible-windows-systems-7-81-and-10/"><u>Install the Official Epson WF-2940 Printer Drivers for Compatible Windows Systems (7, 8.1, & 10)</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-video-orientation-made-easy-a-quick-start-guide/"><u>New 2024 Approved Video Orientation Made Easy A Quick Start Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/optimize-your-gaming-experience-with-new-amd-radeon-hd-7870-graphics-card-drivers-compatible-with-windows-11/"><u>Optimize Your Gaming Experience with New AMD Radeon HD 7870 Graphics Card Drivers Compatible with Windows 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/processor-strengths-finding-the-right-tablet-pc-based-on-your-needs/"><u>Processor Strengths: Finding the Right Tablet PC Based on Your Needs</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721955708309-turn-by-turn-navigation/"><u>Turn-by-Turn Navigation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-google-chats-mastery-key-elements-4-ways/"><u>[New] 2024 Approved Google Chats Mastery Key Elements, #4 Ways</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-comprehensive-guide-to-advanced-fcp-features-for-2024/"><u>[Updated] Comprehensive Guide to Advanced FCP Features for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/aligning-windows-to-default-vision/"><u>Aligning Windows to Default Vision</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discovering-clarity-and-performance-in-4k-a-closer-look-at-benq-bl2711u/"><u>Discovering Clarity and Performance in 4K - A Closer Look at BenQ BL2711U</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-amd-chipset-drivers-compatible-versions-for-windows-107881/"><u>Download AMD Chipset Drivers: Compatible Versions for Windows 10/7/8/8.1</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-razer-mamba-drivers-instantly-and-enhance-your-gaming-today/"><u>Download Razer Mamba Drivers Instantly & Enhance Your Gaming Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-updating-your-surface-dock-device-driver/"><u>Easy Installation Guide: Updating Your Surface Dock Device Driver</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fixing-compatibility-solutions-for-realtek-alc887-sound-drivers-in-windows/"><u>Fixing Compatibility: Solutions for Realtek ALC887 Sound Drivers in Windows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-simple-way-to-get-your-wacom-intuos-device-ready-for-use-with-updated-drivers/"><u>Quick & Simple Way to Get Your Wacom Intuos Device Ready for Use with Updated Drivers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-y100a-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo Y100A</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-non-detection-of-logitech-keyboards-by-your-windows-10-device/"><u>Resolving Non-Detection of Logitech Keyboards by Your Windows 10 Device</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/samsung-m2070fw-printerscanner-drivers-fast-reliable-download-options/"><u>Samsung M2070FW Printer/Scanner Drivers - Fast, Reliable Download Options</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-printing-experience-with-hp-officejet-5255-latest-driver-downloads-available-now/"><u>Seamless Printing Experience with HP OfficeJet 5255 - Latest Driver Downloads Available Now</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/uncomplicated-methodology-win-os-clownvoice-tweaking-guide/"><u>Uncomplicated Methodology Win-OS Clownvoice Tweaking Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-asus-motherboard-download-and-easy-installation-process-for-windows-users/"><u>Update Your ASUS Motherboard: Download & Easy Installation Process for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-identifying-5-unexpected-ui-shifts/"><u>Windows 11: Identifying 5 Unexpected UI Shifts</u></a></li>
 </ul></div>
 

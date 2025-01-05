@@ -1,7 +1,7 @@
 ---
 title: "Easy Setup: Freshest Intel Wireless AC 3160 Driver Download Steps"
-date: 2024-08-18T13:31:17.910Z
-updated: 2024-08-19T13:31:17.910Z
+date: 2025-01-02T22:54:46.884Z
+updated: 2025-01-05T19:12:35.966Z
 tags:
   - win11
   - win10
@@ -70,6 +70,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-658.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Offline Scan** . On the right panel, select**Offline Scan (on the computer without Internet access)** and click the**Continue** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-528.png)
@@ -77,6 +81,10 @@ OR
  5) Click **Browse** to choose where you want to save your offline scan result. Then click the**Offline Scan** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-531.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Click **OK** .
 
@@ -92,6 +100,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-659.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  10) In the left pane, click**Offline Scan** . Then on the right panel, select **Upload Offline Scan File (on the computer with Internet access)** and click the**Continue** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-538.png)
@@ -104,6 +116,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-671.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  13) Choose where you’d like to save the downloaded driver, and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-542.png)
@@ -112,6 +128,10 @@ Wait for the download process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-672.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  14) Save your downloaded driver file in a USB flash drive and transfer it to your computer that has no Internet access. Then you should install the driver on that computer manually.
 
  To view more details of the install process, please refer to **[https://www.drivereasy.com/help55/offline-scan/](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -119,6 +139,10 @@ Wait for the download process to be complete.
  15) After the driver has been successfully installed, you should restart your computer for the changes to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 2 – Update the driver manually
 
@@ -159,8 +183,6 @@ Wait for the download process to be complete.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,8 +190,24 @@ Wait for the download process to be complete.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-integrate-twitter-and-snapchat-posting-tweets-as-snaps/"><u>[New] 2024 Approved Integrate Twitter & Snapchat Posting Tweets as Snaps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-essential-steps-to-design-impressive-facebook-slideshows-for-2024/"><u>[New] Essential Steps to Design Impressive Facebook Slideshows for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-from-airwaves-to-e-readers-how-to-save-web-tv-shows/"><u>[New] From Airwaves To E-Readers How to Save Web TV Shows</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-maximize-visual-and-auditory-impact-in-windows-10-photos-app-for-2024/"><u>[New] Maximize Visual & Auditory Impact in Windows 10 Photos App for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/pening-doors-creating-an-account-on-youtube/"><u>[New] Opening Doors Creating an Account on YouTube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722958279444-comprehensive-walkthrough-get-the-latest-version-of-the-epson-et-3760-driver-for-microsoft-windows-systems/"><u>Comprehensive Walkthrough: Get the Latest Version of the Epson ET-3760 Driver for Microsoft Windows Systems!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-asus-atk0110-bios-and-acpi-drivers-at-no-cost-for-optimal-functionality/"><u>Download ASUS ATK0110 BIOS & ACPI Drivers at No Cost for Optimal Functionality</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effective-methods-for-driver-update-of-your-usb-to-serial-communication-chip/"><u>Effective Methods for Driver Update of Your USB-to-Serial Communication Chip</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-samsung-usb-drivers-direct-download-and-installation-guide/"><u>Free Samsung USB Drivers: Direct Download & Installation Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-windows-compatible-audio-card-driver-installation-packages/"><u>Free Windows-Compatible Audio Card Driver Installation Packages</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722973516866-get-the-latest-lenovo-ideapad-vehicle-your-ultimate-guide-to-driver-updates-on-windows-10/"><u>Get the Latest Lenovo IdeaPad Vehicle, Your Ultimate Guide to Driver Updates on Windows 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-canon-printing-machine-ready-dr-c225-driver-downloads-for-modern-windows-os/"><u>Get Your Canon Printing Machine Ready: DR-C225 Driver Downloads for Modern Windows OS</u></a></li>
+<li><a href="https://win-dash.techidaily.com/instant-download-guide-to-compatible-keyboard-drivers-for-your-windows-7-pc/"><u>Instant Download Guide to Compatible Keyboard Drivers for Your Windows 7 PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-fix-for-xbox-controller-compatibility-issues-on-windows-7-8-and-11/"><u>Step-by-Step Fix for Xbox Controller Compatibility Issues on Windows 7, 8, and 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/successful-guide-installing-the-epson-xp-830-printer-driver-faqs-answered/"><u>Successful Guide: Installing the Epson XP-830 Printer Driver - FAQs Answered</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-vivo-g2-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Vivo G2 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-hp-deskjet-2600-printer-get-the-newest-windows-compatible-drivers-for-7810-systems/"><u>Update Your HP DeskJet 2600 Printer - Get the Newest Windows Compatible Drivers for 7/8/10 Systems</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Up-to-Date NVIDIA RTX 2080 Driver Downloads: Optimized for Windows 10, 7 & 8"
-date: 2024-12-21T11:10:06.649Z
-updated: 2024-12-27T08:35:12.513Z
+date: 2025-01-04T18:27:40.214Z
+updated: 2025-01-05T22:56:18.375Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2 ways to install/update your RTX 3080 driver
 
 **[Option 1: Automatically (Recommended)](https://www.drivereasy.com/knowledge/geforce-rtx-3080-driver-latest-download-for-windows-10-8-7/#option1)**  – Download, install and update drivers with just a few clicks
@@ -33,7 +37,7 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 **[Option 2: Manually](https://tools.techidaily.com/drivereasy/download/)**  – Some computer skills are required.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Install/Update your RTX 3080 driver automatically (Recommended)
@@ -48,7 +52,7 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -56,13 +60,13 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 4. Once you’ve installed/updated your graphics driver, restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Install/Update your RTX 3080 driver manually
@@ -76,10 +80,6 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
  For**Download Type** , choose**Game Ready Driver (GRD)** for gaming purposes; or choose**Studio Driver (SD)** for graphic design.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-3080-driver-official-dl.jpg)
 3. Click**Download** . Then run the install wizard to install the graphics driver.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3080-driver-dl.jpg)
 
@@ -102,19 +102,19 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-google-chats-mastery-key-elements-4-ways/"><u>[New] 2024 Approved Google Chats Mastery Key Elements, #4 Ways</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-essential-software-for-enthusiasts-top-5-ps1-emulators-for-2024/"><u>[New] Essential Software for Enthusiasts Top 5 PS1 Emulators for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-starting-simple-how-to-create-your-own-twitter-for-2024/"><u>[New] Starting Simple How to Create Your Own Twitter for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-tiktok-bgs-exploring-affordable-eye-catching-visuals/"><u>[New] TikTok BGs Exploring Affordable, Eye-Catching Visuals</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ve-sharpness-camera-tips-without-a-tripod-for-2024/"><u>Achieve Sharpness Camera Tips Without a Tripod for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/direct-download-for-updated-nvidia-rtx-2080-graphics-card-software-supported-by-windows-1078/"><u>Direct Download for Updated NVIDIA RTX 2080 Graphics Card Software – Supported by Windows 10/7/8</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/epson-ds-530-driver-update-install-on-windows-11-64-bit-step-by-step-guide/"><u>Epson DS-530 Driver Update: Install on Windows 11 (64-Bit) – Step by Step Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-canon-mx340-driver-updates-for-windows-11-8-and-7/"><u>Get the Newest Canon MX340 Driver Updates for Windows 11, 8 & 7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-fetch-and-update-hp-laptop-driver-software-on-windows-systems/"><u>How to Fetch and Update HP Laptop Driver Software on Windows Systems</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-iphone-8-plus-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock From the iPhone 8 Plus Without Previous Owner?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Asus ROG Phone 8? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722976569335-secure-and-speedy-download-of-official-acer-bluetooth-drivers-get-started/"><u>Secure & Speedy Download of Official Acer Bluetooth Drivers - Get Started</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tailor-made-ai-the-complete-guide-to-crafted-gpt/"><u>Tailor-Made AI: The Complete Guide to Crafted GPT</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-ultimate-walkthrough-for-installing-latest-ati-radeon-drivers-in-windows-environment/"><u>The Ultimate Walkthrough for Installing Latest ATI Radeon Drivers in Windows Environment</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-transformative-editing-mastering-blend-mode-applications/"><u>[New] 2024 Approved Transformative Editing Mastering Blend Mode Applications</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-free-srt-tools-the-most-reliable-high-quality-apps-listed/"><u>[Updated] In 2024, Free SRT Tools The Most Reliable, High-Quality Apps Listed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-ai-barriers-the-power-of-transfer-learning/"><u>Breaking Down AI Barriers: The Power of Transfer Learning</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-sas-software-on-windows-10-8-or-7-a-comprehensive-guide/"><u>Download and Update SAS Software on Windows 10, 8, or 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208689449-fixing-a-laptop-that-wont-exit-the-startup-display-issue-solution-included/"><u>Fixing a Laptop That Won't Exit the Startup Display Issue - Solution Included!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-radeon-hd-3450-up-to-date-driver-downloads-and-easy-update-tips/"><u>Get Your Radeon HD 3450 Up to Date: Driver Downloads & Easy Update Tips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-obtain-and-install-new-drivers-for-your-hp-laserjet-pro-m452dn-printer-today/"><u>How to Obtain and Install New Drivers for Your HP LaserJet Pro M452dn Printer Today</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-how-to-amplify-and-modify-your-instagram-voice/"><u>In 2024, How to Amplify and Modify Your Instagram Voice</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-flawlessly-post-srt-files-in-multiple-social-environments/"><u>In 2024, How to Flawlessly Post SRT Files in Multiple Social Environments</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-epson-xp-330-software-and-drivers-for-optimal-printing-performance/"><u>Latest Epson XP-330 Software & Drivers for Optimal Printing Performance</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/mod-to-mp4-video-conversion-made-easy-with-this-no-cost-tool/"><u>MOD-to-MP4 Video Conversion Made Easy with This No-Cost Tool!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-shift-key/"><u>Troubleshooting Guide: Fixing a Nonfunctional Shift Key</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-canon-mp560-drivers-step-by-step-tutorial-for-a-smooth-process/"><u>Update Your Canon MP560 Drivers - Step-by-Step Tutorial for a Smooth Process</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-mac-os-slideshow-creator-turn-memories-into-stunning-videos/"><u>Updated 2024 Approved Mac OS Slideshow Creator Turn Memories Into Stunning Videos</u></a></li>
 </ul></div>
 

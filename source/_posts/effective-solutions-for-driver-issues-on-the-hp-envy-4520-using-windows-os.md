@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Driver Issues on the HP Envy 4520 Using Windows OS
-date: 2024-08-18T13:31:00.060Z
-updated: 2024-08-19T13:31:00.060Z
+date: 2025-01-04T16:54:20.182Z
+updated: 2025-01-05T17:19:23.615Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/04a734a9937eba2d7e4ad06c3d50be8d29a9cd1ed
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8.1 and Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Method 1: Download and update CSR8510 A10 driver manually
 
  You can update your CSR8510 A10 driver via Device Manager where you can view and manage hardware devices and software drivers in your computer. Here’s what you need to do:
@@ -40,16 +44,27 @@ thumbnail: https://thmb.techidaily.com/04a734a9937eba2d7e4ad06c3d50be8d29a9cd1ed
 3. Double click**Bluetooth** to expand the category.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be13adaeb501.jpg)
 4. Right click on your**CSR8510 A10 driver** (it may be displayed as**Unknown device** ), and click**Update** **driver** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be13c8c01780.jpg)
 5. Choose**Search automatically for update driver software** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be13cd36976a.jpg)
 6. Then follow the on-screen instructions to finish.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This requires time and computer skills. If this method doesn’t work for you, don’t worry. There’s something else to try.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Download and update CSR8510 A10 driver automatically (Recommended)
 
  If you don’t have time or patience, you can update driver for CSR8510 A10 Bluetooth dongle automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -60,16 +75,14 @@ thumbnail: https://thmb.techidaily.com/04a734a9937eba2d7e4ad06c3d50be8d29a9cd1ed
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be13ced57bc2.jpg)
 3. Click the**Update** button next to the flagged CSR8510 A10 device to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** and get a 30-day money back guarantee).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be13d72eba35.jpg)
 4. Restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Note: If you have any problems while using Driver Easy, feel free to contact our support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -84,8 +97,6 @@ thumbnail: https://thmb.techidaily.com/04a734a9937eba2d7e4ad06c3d50be8d29a9cd1ed
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,4 +104,23 @@ thumbnail: https://thmb.techidaily.com/04a734a9937eba2d7e4ad06c3d50be8d29a9cd1ed
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-the-m1-pro-vs-the-m1-max-showdown-what-sets-them-apart/"><u>[New] The M1 Pro Vs. The M1 Max Showdown - What Sets Them Apart?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-top-5-tiktok-fonts-for-higher-engagement-in-23/"><u>[New] Top 5 TikTok Fonts for Higher Engagement in '23</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/choosing-between-wirecast-and-obs-for-streaming-for-2024/"><u>Choosing Between Wirecast and OBS for Streaming for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/connect-and-enjoy-pc-game-control-installing-xbox-360-controllers-compatibility-software/"><u>Connect and Enjoy PC Game Control: Installing Xbox 360 Controllers Compatibility Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-setup-secure-your-razer-mamba-drivers-today/"><u>Effortless Setup: Secure Your Razer Mamba Drivers Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-set-up-the-latest-hp-printer-drivers-for-windows-operating-systems/"><u>Find and Set Up the Latest HP Printer Drivers for Windows Operating Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-turn-off-windows-update-in-windows-10-easily/"><u>How to Turn Off Windows Update in Windows 10 [EASILY]</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-photosmart-7520-easy-download-of-your-official-printing-software/"><u>HP Photosmart 7520: Easy Download of Your Official Printing Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-inshot-vs-other-editors-comprehensive-analysis/"><u>In 2024, InShot vs Other Editors Comprehensive Analysis</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-mp280-printer-driver-installers-compatible-with-windows-1187/"><u>Latest MP280 Printer Driver Installers Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/msi-z3-pro-motherboard-driver-pack-secure-download-now/"><u>MSI Z3# Pro Motherboard Driver Pack - Secure Download Now</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfecting-time-sync-in-video-postings-on-youtube/"><u>Perfecting Time Sync in Video Postings on YouTube</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-connectivity-find-download-and-update-drivers-for-netgear-wireless-adapters-today/"><u>Seamless Connectivity: Find, Download & Update Drivers for NETGEAR Wireless Adapters Today!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-and-remedying-microsoft-shop-failure-code-0x80073cf3/"><u>Unveiling and Remedying Microsoft Shop Failure (Code 0X80073CF3)</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-surprising-gem-how-ios-18-stole-the-show-at-wwdc-beyond-artificer/"><u>Unveiling the Surprising Gem: How iOS 18 Stole the Show at WWDC - Beyond Artificer</u></a></li>
+</ul></div>
 

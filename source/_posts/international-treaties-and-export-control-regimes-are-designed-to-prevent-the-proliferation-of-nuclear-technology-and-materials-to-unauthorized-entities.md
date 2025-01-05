@@ -1,7 +1,7 @@
 ---
 title: International Treaties and Export Control Regimes Are Designed to Prevent the Proliferation of Nuclear Technology and Materials to Unauthorized Entities.
-date: 2024-08-18T13:32:40.957Z
-updated: 2024-08-19T13:32:40.957Z
+date: 2025-01-01T20:04:37.790Z
+updated: 2025-01-05T19:55:31.404Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Wondering whether or not to update the driver for your **HP OfficeJet Pro 8720**
 1. **[Update your HP OfficeJet Pro 8720 printer driver automatically (Recommended)](https://www.drivereasy.com/knowledge/hp-officejet-pro-8720-driver-download-update-for-windows/#O1)**
 2. **[Update your HP OfficeJet Pro 8720 printer driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: Update your HP OfficeJet Pro 8720 automatically(Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -38,6 +42,10 @@ Wondering whether or not to update the driver for your **HP OfficeJet Pro 8720**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a171125168.jpg)
@@ -47,8 +55,9 @@ Wondering whether or not to update the driver for your **HP OfficeJet Pro 8720**
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Update your HP OfficeJet Pro 8720 **printer**  driver manually
 
 **Warning** : Downloading the wrong driver or installing it incorrectly can compromise our PC’s stability and even cause the whole system to crash. So please proceed at your own peril.
@@ -56,19 +65,20 @@ Wondering whether or not to update the driver for your **HP OfficeJet Pro 8720**
 1. Go to **[HP’s official website for driver downloads](https://support.hp.com/hk-en/drivers)**  , and click **Printer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17620c2da6d.jpg)
 2. Type **HP OfficeJet Pro 8720** into the box and click **Submit** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a01155946b.png)
 3. Make sure the selected operating system is **the right version for your Windows OS** (Windows 10, 64-bit in my example) and click **Download** in**the first result** .  
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a0206ca291.jpg)
 4. Run the wizard and follow the onscreen instructions to finish the install.
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 5. Restart your computer for the changes to take effect.
 
 ---
@@ -83,8 +93,6 @@ Wondering whether or not to update the driver for your **HP OfficeJet Pro 8720**
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +100,18 @@ Wondering whether or not to update the driver for your **HP OfficeJet Pro 8720**
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-two-screen-titans-is-splitcam-supreme/"><u>[Updated] In 2024, Two-Screen Titans Is SplitCam Supreme?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-stealthy-strategies-for-anonymous-instagram-broadcasts/"><u>[Updated] Stealthy Strategies for Anonymous Instagram Broadcasts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-logitech-drivers-fast-compatible-with-windows-systems/"><u>Download Logitech Drivers Fast: Compatible with Windows Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/downloading-the-latest-drivers-for-your-gigabyte-wb867d-motherboard-expansion-card/"><u>Downloading the Latest Drivers for Your Gigabyte WB867D Motherboard Expansion Card</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/finding-and-obtaining-free-image-frame-content/"><u>Finding and Obtaining Free Image Frame Content</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-updated-hp-laserjet-pro-m404n-drivers-for-your-printer/"><u>Get Updated HP LaserJet Pro M404n Drivers for Your Printer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-motorola-edge-2023-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Motorola Edge 2023.</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722497484799-immerse-in-warmth-an-in-depth-look-at-minecrafts-campfire-tales-character-pack/"><u>Immerse in Warmth: An In-Depth Look at Minecraft's Campfire Tales Character Pack</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-picks-top-10-budget-friendly-jpeg-to-gif-apps/"><u>In 2024, Expert Picks Top 10 Budget-Friendly JPEG to GIF Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-methods-for-smooth-volume-diminishment-in-lumafusion/"><u>In 2024, Methods for Smooth Volume Diminishment in Lumafusion</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/newest-patch-available-for-your-thinkpads-thunderbolt-port-accessory/"><u>Newest Patch Available for Your ThinkPad's Thunderbolt Port Accessory</u></a></li>
+</ul></div>
 

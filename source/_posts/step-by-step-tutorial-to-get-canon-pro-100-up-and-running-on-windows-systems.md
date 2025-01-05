@@ -1,7 +1,7 @@
 ---
 title: Step by Step Tutorial to Get Canon PRO 100 Up and Running on Windows Systems
-date: 2024-12-22T04:52:08.048Z
-updated: 2024-12-26T16:14:48.638Z
+date: 2025-01-04T17:39:22.047Z
+updated: 2025-01-05T17:48:56.533Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## To update your fingerprint driver in Windows
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Update your fingerprint driver automatically (Recommended)
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-48.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
@@ -63,14 +63,14 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-49.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.  
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Update fingerprint driver manually
@@ -102,17 +102,17 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-best-software-bundles-for-animation-modelers-for-2024/"><u>[New] Best Software Bundles for Animation Modelers for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-crafting-team-videos-to-foster-viewership-and-following-for-2024/"><u>[New] Crafting Team Videos to Foster Viewership and Following for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-top-10-power-upgrades-for-os-x-and-win-with-srt-systems/"><u>[Updated] Top 10 Power Upgrades for OS X and Win with SRT Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722960721205-comprehensive-driver-set-for-logitech-k400-plus-free-download-options-here/"><u>Comprehensive Driver Set for Logitech K400 Plus - Free Download Options Here!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-guide-latest-drivers-for-your-hp-designjet-f-series/"><u>Download Guide: Latest Drivers for Your HP Designjet F-Series</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-new-sas-driver-for-your-windows-pc-supports-windows-1087-systems/"><u>Get the New SAS Driver for Your Windows PC - Supports Windows 10/8/7 Systems</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/guide-on-how-to-enable-the-text-to-speech-function-on-iphone-for-2024/"><u>Guide on How to Enable the Text to Speech Function on iPhone for 2024</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/secure-your-savvy-purchases-smart-shoppers-guide-to-preventing-cyber-threats-courtese-of-malwarefox/"><u>Secure Your Savvy Purchases: Smart Shopper's Guide to Preventing Cyber Threats, Courtese of MalwareFox</u></a></li>
-<li><a href="https://windows11.techidaily.com/setting-up-oculus-rift-as-a-windows-pc-vr-setup/"><u>Setting up Oculus Rift as a Windows PC VR Setup</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-system-lenovo-thunderbolt-veilleur-de-nuit-driver-installation-instructions-and-tips/"><u>Update Your System: Lenovo Thunderbolt Veilleur De Nuit, Driver Installation Instructions and Tips.</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/user-friendly-strategies-for-handling-problems-with-your-i2c-connected-human-interface-devices-hid-drivers/"><u>User-Friendly Strategies for Handling Problems with Your I2^C-Connected Human Interface Devices (HID) Drivers</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-oppo-reno-11f-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo Reno 11F 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-harnessing-viral-power-your-pathway-to-youtube-fame/"><u>[Updated] In 2024, Harnessing Viral Power Your Pathway to YouTube Fame</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-new-insight-sony-s6500-bd-reader-update-for-2024/"><u>[Updated] New Insight Sony S6500 BD Reader Update for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/acer-driver-issues-in-windows-fixed/"><u>Acer Driver Issues in Windows [Fixed]</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-facebooks-success-a-look-at-its-foundations-popularity-factors-and-key-features/"><u>Decoding Facebook's Success: A Look at Its Foundations, Popularity Factors, and Key Features</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722973745543-download-and-install-the-right-drivers-for-your-csr-bluetooth-hardware-today/"><u>Download and Install the Right Drivers for Your CSR Bluetooth Hardware Today!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/expert-guide-smooth-installation-of-latest-epson-drivers-on-windows-systems/"><u>Expert Guide: Smooth Installation of Latest Epson Drivers on Windows Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722960312330-get-the-latest-lenovo-t430-driver-updates-for-windows-operating-systems-windows-10-8-7-instantly/"><u>Get the Latest Lenovo T430 Driver Updates for Windows Operating Systems (Windows 10, 8, 7) Instantly!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-the-latest-logitech-g910-keyboard-drivers-and-software-on-windows-devices/"><u>Install the Latest Logitech G910 Keyboard Drivers & Software on Windows Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-guide-to-growing-instagram-video-audiences-for-2024/"><u>The Guide to Growing Instagram Video Audiences for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/top-7-free-dvd-player-applications-compatible-with-windows-11-watch-movies-at-no-charge/"><u>Top 7 Free DVD Player Applications Compatible with Windows 11: Watch Movies at No Charge</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/form-viewing-experience-with-these-leading-top-ranked-cost-free-and-on-demand-video-downloaders-for-2024/"><u>Transform Viewing Experience with These Leading Top-Ranked, Cost-Free & On-Demand Video Downloaders for 2024</u></a></li>
 </ul></div>
 

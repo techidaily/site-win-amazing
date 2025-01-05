@@ -1,7 +1,7 @@
 ---
 title: "Quick How-To: Updating Your ScanSnap S1100 Driver with Ease"
-date: 2024-08-18T13:32:15.078Z
-updated: 2024-08-19T13:32:15.078Z
+date: 2025-01-01T22:49:58.941Z
+updated: 2025-01-05T20:52:13.617Z
 tags:
   - win11
   - win10
@@ -78,6 +78,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-531.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-532.png)
@@ -86,11 +90,19 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-534.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy on that computer (the one with Internet access).
 
  9) Run Driver Easy and click**Tools** in the left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-659.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  10) In the left pane, click**Offline Scan** . Then on the right panel, select **Upload Offline Scan File (on the computer with Internet access)** and click the**Continue** button.
 
@@ -99,6 +111,10 @@ OR
  11) Click**Browse** to locate your offline scan file. Once you find it, double-click on it and then click**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-540.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  12) Click the**Download** button next to**Intel Dual Band Wireless-AC 3160** .
 
@@ -130,9 +146,17 @@ Wait for the download process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-658-1024x326.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) On the next page, pay attention to the left section and find the EXE file corresponding to your Windows version. Once you’ve found the correct one, click the**Download** button below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-661.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**I accept the terms in the license agreement** .
 
@@ -159,8 +183,6 @@ Wait for the download process to be complete.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,8 +190,21 @@ Wait for the download process to be complete.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-crafting-the-ultimate-quadcopter-engine-arsenal/"><u>[New] Crafting the Ultimate Quadcopter Engine Arsenal</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-step-into-visual-storytelling-xp-edition-installation/"><u>[Updated] Step Into Visual Storytelling XP Edition Installation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-intel-hd-graphics-driver-compatible-with-windows-11-and-latest-updates/"><u>Download & Update Intel HD Graphics Driver: Compatible with Windows 11 and Latest Updates</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-tecno-spark-10-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Tecno Spark 10 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-install-hp-officejet-5740-drivers-for-windows-11-windows-10-and-windows-8-users/"><u>Easy Install HP OfficeJet 5740 Drivers for Windows 11, Windows 10 & Windows 8 Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-for-the-non-functional-engine-of-a-steelseries-gg-mouse-on-windows-computers/"><u>Effective Fixes for the Non-Functional Engine of a SteelSeries GG Mouse on Windows Computers</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-vivo-x100-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Vivo X100 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-art-of-ai-discover-7-proven-prompting-methods-for-successful-interactions/"><u>Master the Art of AI: Discover 7 Proven Prompting Methods for Successful Interactions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/maximize-performance-install-new-nvidia-game-ready-graphics-card-drivers-for-pc/"><u>Maximize Performance: Install New NVIDIA Game Ready Graphics Card Drivers for PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-simple-guide-to-downloading-targus-docking-station-drivers-for-free/"><u>Quick and Simple Guide to Downloading Targus Docking Station Drivers for Free</u></a></li>
+<li><a href="https://fox-links.techidaily.com/streamlining-your-drone-footage-with-advanced-techniques-for-2024/"><u>Streamlining Your Drone Footage with Advanced Techniques for 2024</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/trasferisci-facilmente-i-tuoi-file-tra-due-iphone-senza-necessita-di-connettivita-wi-fi/"><u>Trasferisci Facilmente I Tuoi File Tra Due iPhone Senza Necessità Di Connettività Wi-Fi</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshoot-and-resolve-your-ralink-rt3290-driver-woes-in-win10-8-and-7/"><u>Troubleshoot and Resolve Your Ralink RT3290 Driver Woes in Win10, 8 & 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-asus-touchpad-driver-fast-with-easy-steps-for-windows-11-users/"><u>Update Your ASUS Touchpad Driver Fast with Easy Steps for Windows 11 Users</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->

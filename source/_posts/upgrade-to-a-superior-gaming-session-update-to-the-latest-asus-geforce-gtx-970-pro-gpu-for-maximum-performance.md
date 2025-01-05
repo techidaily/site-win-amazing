@@ -1,7 +1,7 @@
 ---
 title: Upgrade To a Superior Gaming Session - Update to the Latest ASUS GeForce GTX 970 Pro GPU for Maximum Performance
-date: 2024-12-23T11:07:59.422Z
-updated: 2024-12-27T06:31:16.900Z
+date: 2025-01-03T18:34:48.279Z
+updated: 2025-01-05T18:15:51.286Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ If you’re using Arduino products to create your own work but failed to connect
 
  That’s why most of the problems can be solved by installing/updating drivers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to download Arduino Nano driver?
 
 There are two ways you can update your Arduino Nano drivers.
@@ -60,7 +56,7 @@ OR
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select **Browse my computer for driver software** .  
@@ -68,13 +64,13 @@ OR
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update drivers**
@@ -91,11 +87,15 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/nano.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -118,24 +118,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-secrets-to-blurring-iphone-photos-a-comprehensive-guide/"><u>[New] Unveiling the Secrets to Blurring iPhone Photos A Comprehensive Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tweaking-your-tweets-audience-engagement-techniques/"><u>[Updated] 2024 Approved Tweaking Your Tweets Audience Engagement Techniques</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-attenuating-audio-gradually-in-fl-projects/"><u>[Updated] In 2024, Attenuating Audio Gradually in FL Projects</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-money-making-top-13-strategies-for-novice-reddit-users/"><u>[Updated] Mastering Money-Making Top 13 Strategies for Novice Reddit Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/combatting-efail-error-code-0x80004005-in-virtualbox/"><u>Combatting E_FAIL (Error Code: 0X80004005) in Virtualbox</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-guide-to-downloading-and-installing-intel-management-engine-drivers-windows-compatible/"><u>Easy Guide to Downloading and Installing Intel Management Engine Drivers - Windows Compatible</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-ways-to-update-your-dell-webcams-software-correctly/"><u>Effortless Ways to Update Your Dell Webcam's Software Correctly</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fixing-persistent-audio-during-video-pauses-on-youtube-in-firefoxchrome/"><u>Fixing Persistent Audio During Video Pauses on YouTube in Firefox/Chrome</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-new-microsoft-bluetooth-drivers-compatible-with-win-10-11-8-and-eight-versions/"><u>Get the New Microsoft Bluetooth Drivers: Compatible with Win 10, 11, 8 & Eight Versions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-epson-xp-440-driver-software-without-hassle/"><u>Get the Newest Epson XP-440 Driver Software Without Hassle</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-successfully-install-and-fix-issues-with-your-amd-ryzen-system-utilities/"><u>How to Successfully Install and Fix Issues with Your AMD Ryzen System Utilities</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-p1606dn-printer-drivers-latest-downloads-and-updates-for-pc/"><u>HP P1606DN Printer Drivers: Latest Downloads and Updates for PC</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-a-compreehensive-look-at-itunes-video-capture/"><u>In 2024, A Compreehensive Look at iTunes Video Capture</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-apple-iphone-15-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On Apple iPhone 15 Pro Max? Heres the Best Fixes</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/lenovo-100s-drivers-update-easily/"><u>Lenovo 100S Drivers Update Easily</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/quick-and-easy-incorrante-audio-into-fb-profiles-ios-android/"><u>Quick & Easy Incorrante Audio Into FB Profiles (iOS, Android)</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/soluzione-al-problema-impossibilita-di-eseguire-il-backup-del-sistema-operativo-su-ununita-usb-esterna/"><u>Soluzione Al Problema: Impossibilità Di Eseguire Il Backup Del Sistema Operativo Su Un'unità USB Esterna</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-installing-canon-mf4500-printing-drivers-for-optimal-performance/"><u>Step-by-Step Guide to Installing Canon MF4500 Printing Drivers for Optimal Performance</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-fixing-lg-printer-driver-issues-in-various-windows-os/"><u>Troubleshooting and Fixing LG Printer Driver Issues in Various Windows OS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-innovative-approaches-to-elevate-your-obs-studio-workflow/"><u>[Updated] 2024 Approved Innovative Approaches to Elevate Your OBS Studio Workflow</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-key-to-rising-roi-in-facebooks-animated-advertising-sector/"><u>2024 Approved The Key to Rising ROI in Facebook's Animated Advertising Sector</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/access-official-nvidia-drivers-for-rtx-3070-ti-download-now-and-enhance-your-windows-1187-experience/"><u>Access Official NVIDIA Drivers for RTX 3070 Ti: Download Now and Enhance Your Windows (11/8/7) Experience</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-your-scansnap-s1300i-scanner-with-simple-steps/"><u>Download & Update Your ScanSnap S1300i Scanner with Simple Steps!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-setup-of-focusrite-scarlett-solo-on-windows-download-instructions-here/"><u>Easy Setup of Focusrite Scarlett Solo on Windows - Download Instructions Here!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fix-realtek-rtl8811au-driver-issue/"><u>Fix Realtek RTL8811AU Driver Issue</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/gateway-to-grandeur-embarking-on-a-classic-lit-journey-for-2024/"><u>Gateway to Grandeur Embarking on a Classic Lit Journey for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-vivo-x-flip-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Vivo X Flip online without jailbreak</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/nvidia-980-ti-gaming-graphics-card-update-your-drivers-now/"><u>NVIDIA 980 Ti Gaming Graphics Card - Update Your Drivers Now!</u></a></li>
+<li><a href="https://win-great.techidaily.com/schritt-fur-schritt-leitfaden-zum-klonen-eines-m2-ssd-auf-eine-sata-ssd-mit-aktiviertem-sicheren-startvorgang/"><u>Schritt-Für-Schritt-Leitfaden Zum Klonen Eines M.2 SSD Auf Eine SATA SSD Mit Aktiviertem Sicheren Startvorgang</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-fixing-cod-black-ops-cold-war-launch-issues-on-pc/"><u>Troubleshooting Tips: Fixing Cod: Black Ops Cold War Launch Issues on PC</u></a></li>
 </ul></div>
 

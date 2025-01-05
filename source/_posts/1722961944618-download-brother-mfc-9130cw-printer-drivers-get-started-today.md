@@ -1,7 +1,7 @@
 ---
 title: Download Brother MFC-9130CW Printer Drivers - Get Started Today
-date: 2024-12-24T00:15:43.993Z
-updated: 2024-12-26T17:09:50.022Z
+date: 2024-12-31T20:41:39.774Z
+updated: 2025-01-05T20:46:03.143Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ You can also download your MFC-9130CW printer driver from Brother and then insta
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1ded12ab55b.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**Search “_mfc 9130cw_“.
@@ -54,11 +54,11 @@ You can also download your MFC-9130CW printer driver from Brother and then insta
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1defbcaf0a3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Open the downloaded file and follow the on-screen instructions to install it on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update your printer driver with Device Manager
 
@@ -67,7 +67,7 @@ You can also use Device Manager to update your printer driver. To do so:**1)**Pr
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0912dd92d53.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**Double click**Print queues**. Right click**Brother MFC-9130CW**, then click**Update driver**.
@@ -81,7 +81,7 @@ You can also use Device Manager to update your printer driver. To do so:**1)**Pr
 **5)** Wait for your system to update the driver for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Update your printer driver automatically
@@ -90,13 +90,13 @@ If you don’t have the time, patience or skills to update your driver manually,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a66b4a3dfe.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the **Update**  button next to_Brother MFC-9130CW_ to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df338bb01c.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’ve updated your driver with Driver Easy but your driver issues persist, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
 
@@ -118,14 +118,19 @@ If you don’t have the time, patience or skills to update your driver manually,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-enhanced-perceptions-the-ultimate-list-of-pcs-best-vr-playback-devices/"><u>[New] Enhanced Perceptions The Ultimate List of PC's Best VR Playback Devices</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-unlocking-potential-through-virtualization/"><u>[Updated] In 2024, Unlocking Potential Through Virtualization</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/10plus-best-instagram-video-editor-for-pc-online-android/"><u>10+ Best Instagram Video Editor for PC, Online, Android</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amd-rx-6800-graphics-card-driver-download-for-various-windows-versions/"><u>AMD RX 6800 Graphics Card Driver Download for Various Windows Versions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-microsoft-windows-compatible-bluetooth-drivers-supported-for-win-10-11-8-and-7/"><u>Download & Update Microsoft Windows Compatible Bluetooth Drivers: Supported for Win 10, 11, 8, and 7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hps-thunderbolt-station-g2-find-the-right-driver-for-120w-and-230w-models-here/"><u>HP's Thunderbolt Station G2: Find the Right Driver for 120W & 230W Models Here</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/instant-access-to-razer-mamba-drivers-a-quick-download-process/"><u>Instant Access to Razer Mamba Drivers – A Quick Download Process</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-honor-magic-5-pro-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Honor Magic 5 Pro FRP Without Computer</u></a></li>
-<li><a href="https://techidaily.com/sign-wbk-file-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .wbk file Online for Free</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/iscovering-the-ultimate-10-vr-video-experience-on-youtube/"><u>[New] Discovering the Ultimate 10-VR Video Experience on YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-turn-any-surface-into-a-broadcasting-space-with-vlcs-webcam-feature/"><u>[New] In 2024, Turn Any Surface Into a Broadcasting Space with VLC’s Webcam Feature</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-navigating-through-top-ps2-games-on-android-devices-a-compre-written-in-english-for-2024/"><u>[New] Navigating Through Top PS2 Games on Android Devices - A Compre Written in English for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-tiktok-video-safeguarding-on-smartphones-uncovered-for-2024/"><u>[New] TikTok Video Safeguarding on Smartphones Uncovered for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-venmo-photo-frame-guidelines/"><u>[Updated] 2024 Approved Venmo Photo Frame Guidelines</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-advice-for-efficiently-creating-srt-files/"><u>[Updated] Expert Advice for Efficiently Creating SRT Files</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722970858652-arbitration-can-be-less-formal-than-court-proceedings-potentially-reducing-the-time-and-cost-associated-with-dispute-resolution/"><u>Arbitration Can Be Less Formal than Court Proceedings, Potentially Reducing the Time and Cost Associated with Dispute Resolution.</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/create-the-stranger-things-upside-down-effect-video-for-2024/"><u>Create the Stranger Things Upside Down Effect Video for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-insignia-device-drivers-on-windows-a-swift-and-straightforward-guide/"><u>Download Insignia Device Drivers on Windows: A Swift & Straightforward Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-downloads-canoscan-lide-120-scan-tool-and-version-enhancements/"><u>Free Downloads: CanoScan LiDE 120 Scan Tool & Version Enhancements</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-toshiba-bluetooth-software-safe-download-links-here/"><u>Get the Latest Toshiba Bluetooth Software - Safe Download Links Here!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722968918489-seamless-integration-download-and-setup-for-top-tier-intel-thunderbolt-controller-drivers/"><u>Seamless Integration: Download & Setup for Top-Tier Intel Thunderbolt Controller Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/secure-audio-in-private-for-xbox-players/"><u>Secure Audio in Private for Xbox Players</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-xiaomi-redmi-note-12-pro-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Xiaomi Redmi Note 12 Pro 5G with and without jailbreak | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Updating Your Canon PIXMA MG2522 with the Newest Printing Software"
-date: 2024-12-26T10:52:44.644Z
-updated: 2024-12-27T10:35:42.765Z
+date: 2024-12-30T17:38:32.001Z
+updated: 2025-01-05T21:32:23.685Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Table of contents
@@ -38,16 +38,12 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to get the correct driver?
 
  There are two ways you can get the right driver for your Logitech G402 mouse:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Option 1 – Download and install the driver manually**
 
@@ -56,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2 – Automatically install the Logitech G402 driver
@@ -73,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-19-38.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update**  button next to the Logicool HID-compliant Cordless Mouse to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-51.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -124,24 +124,17 @@ Lastly, you may want to try your wireless mouse on metal surfaces.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-leveraging-youtube-content-for-igtv-prominence/"><u>[New] 2024 Approved Leveraging YouTube Content for IGTV Prominence</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-hearing-beginnings-mastering-volume-control-in-adobe-audition/"><u>[New] Hearing Beginnings Mastering Volume Control in Adobe Audition</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-edit-like-a-pro-with-these-top-5-mac-videography-suites/"><u>[Updated] Edit Like a Pro with These Top 5 Mac Videography Suites</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-dell-latitude-e6420-drivers-instantly-and-with-ease/"><u>Download Dell Latitude E6420 Drivers Instantly and With Ease</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-latest-epson-wf-2940-printer-driver-for-windows-7-81-and-10/"><u>Download the Latest Epson WF-2940 Printer Driver for Windows 7, 8.1 & 10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-ultimate-guide-to-installing-bluetooth-drivers-on-windows/"><u>Download the Ultimate Guide to Installing Bluetooth Drivers on Windows</u></a></li>
-<li><a href="https://win-great.techidaily.com/effective-strategies-for-uploading-local-folders-to-microsofts-onedrive-a-step-by-step-guide/"><u>Effective Strategies for Uploading Local Folders to Microsoft's OneDrive: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/effective-ways-to-modify-tracks-tempo-on-spotify/"><u>Effective Ways to Modify Tracks Tempo on Spotify</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/expert-advice-the-process-of-upgrading-intelamd-cpu-drivers-on-windows-108/"><u>Expert Advice: The Process of Upgrading Intel/AMD CPU Drivers on Windows 10/8</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expose-hidden-folders-in-macos-a-user-friendly-guide-using-the-terminal/"><u>Expose Hidden Folders in macOS: A User-Friendly Guide Using the Terminal</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fast-track-fixes-swift-update-process-for-wacom-intuos-graphics-device/"><u>Fast-Track Fixes: Swift Update Process for Wacom Intuos Graphics Device</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/find-and-download-compatible-drivers-for-hp-laserjet-pro-m126dn-printers/"><u>Find and Download Compatible Drivers for HP Laserjet Pro M126DN Printers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-mpow-bluetooth-software-for-windows-11-8-and-7-easy-steps/"><u>Get the Newest MPOW Bluetooth Software for Windows 11, 8, and 7 - Easy Steps</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722964669257-get-updated-amd-radeon-graphics-drivers-for-your-windows-7-pc-today/"><u>Get Updated AMD Radeon Graphics Drivers for Your Windows 7 PC Today!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/guide-install-epson-xp-430-printer-driver-on-windows-pc-complete-steps/"><u>Guide: Install Epson XP-430 Printer Driver on Windows PC - Complete Steps</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-google-pixel-8-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Google Pixel 8 FRP Bypass Instantly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pixel-watch-series-vs-apples-latest-smarttime-geniuses-a-battle-of-innovation-find-out-who-deserves-your-attention/"><u>Pixel Watch Series Vs. Apple's Latest Smarttime Geniuses: A Battle of Innovation - Find Out Who Deserves Your Attention</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/recordingrealm-expedition-unveiling-snapcastpro-2023-for-2024/"><u>RecordingRealm Expedition Unveiling 'SnapCastPro' 2023 for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/xsplit-vs-obs-which-one-simplifies-live-broadcast/"><u>XSplit Vs. OBS – Which One Simplifies Live Broadcast?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-exclusive-guide-to-top-youtube-to-webm-conversion-software/"><u>[New] 2024 Approved Exclusive Guide to Top YouTube-to-WebM Conversion Software</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-beyond-clickbait-whats-real-about-instagram-reels/"><u>[New] In 2024, Beyond Clickbait What's Real About Instagram Reels?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/recise-time-stamping-on-youtube-a-practical-approach-for-2024/"><u>[New] Precise Time-Stamping on YouTube A Practical Approach for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-spotlight-secrets-perfecting-vlogger-lights/"><u>[Updated] In 2024, Spotlight Secrets Perfecting Vlogger Lights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-mobile-shots-ios-11s-camera-innovations/"><u>[Updated] Mastering Mobile Shots IOS 11'S Camera Innovations</u></a></li>
+<li><a href="https://fox-within.techidaily.com/6loh5paz5ogi5b6p5oqa5ben77ya5lplusu5ps556ob56kf5b6m6yen5paw5bu656ul5pah5lu257o757wx/"><u>資料恢復技巧：修改磁碟後重新建立文件系統</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-now-complete-guide-for-the-intel-ac-wireless-driver-installation/"><u>Download Now! Complete Guide for the Intel AC ^Wireless Driver Installation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-nvidia-gpu-drivers-free-downloads-and-installation-tips/"><u>Latest NVIDIA GPU Drivers: Free Downloads and Installation Tips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/overcoming-windows-driver-glitches-for-a-seamless-arduino-uno-experience/"><u>Overcoming Windows Driver Glitches for a Seamless Arduino Uno Experience</u></a></li>
+<li><a href="https://facebook.techidaily.com/top-8-functionalities-of-facebook-for-effective-team-collaboration/"><u>Top 8 Functionalities of Facebook for Effective Team Collaboration</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-premium-byb-e430s-features-an-insightful-review-of-its-ergonomic-led-light/"><u>Unveiling the Premium BYB E430's Features – An Insightful Review of Its Ergonomic LED Light</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-printer-secure-brother-hl-l2370dw-driver-installation-guide/"><u>Update Your Printer: Secure Brother HL-L2370DW Driver Installation Guide</u></a></li>
 </ul></div>
 
