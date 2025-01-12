@@ -1,7 +1,7 @@
 ---
 title: Ultimate Walkthrough for Installing the Latest Drivers on Acer Nitro 5 Laptops
-date: 2024-08-13T09:54:47.976Z
-updated: 2024-08-14T09:54:47.976Z
+date: 2025-01-10T16:12:48.896Z
+updated: 2025-01-11T21:04:16.166Z
 tags:
   - win11
   - win10
@@ -44,9 +44,6 @@ Updating your printer driver can:
 1. [**Update my Epson printer driver manually**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Update my Epson printer driver automatically (Recommended)**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 1: Update my Epson printer driver manually
 
 **A WORD OF WARNING** : Downloading the wrong driver or installing it incorrectly will compromise our PC’s stability and even cause the whole system to crash. So please proceed at your own peril. If you’re not comfortable playing around with drivers, or worrying about any risks in the process, jump to [**Method 2**](https://tools.techidaily.com/drivereasy/download/) .
@@ -54,33 +51,34 @@ Updating your printer driver can:
 Before heading to download the latest driver package from**Epson**‘s official website, we’ll first have to uninstall the older driver first. To do so:  
 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R** at the same time. Then copy & paste **devmgmt.msc**  into the box and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 2. Double-click on **Printer queues** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a5b86a48f2.jpg)
 3. Right-click on**your Epson printer**  and click **Uninstall device** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now let’s get started with the manual Epson driver download & install procedure:
 
 1. Go to **[Epson’s official website](https://epson.com/usa)**  and check out the section for driver downloads.
 2. Enter**the model of your Epson printer** and click**Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb8391737cc4.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**the link for your product** among the search results.
 4. Make sure**the detected Operating System is correct** . Then click**Drivers and Utilities Combo Package** \>**Download** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb839f55c7e4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Double-click on the downloaded file and follow the instructions on the wizard to finish the install.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. **Restart** your computer for the changes to take effect.
 
 ---
@@ -96,12 +94,19 @@ Before heading to download the latest driver package from**Epson**‘s official 
 1. **Download**   and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b09636ab48.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb83b9f0aa46.jpg)  
 You can also click **Update**  to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. **Restart** your computer for the changes to take effect.
 
 ---
@@ -116,8 +121,6 @@ You can also click **Update**  to do it for free if you like, but it’s partly 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +128,26 @@ You can also click **Update**  to do it for free if you like, but it’s partly 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-top-11-auditory-capture-devices-reviewed-here/"><u>[New] 2024 Approved Top 11 Auditory Capture Devices Reviewed Here</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-how-to-edit-youtube-videos-in-windows-movie-maker-for-2024/"><u>[Updated] How to Edit YouTube Videos in Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/alternate-avenues-10-great-games-like-gta-v/"><u>Alternate Avenues 10 Great Games Like GTA V</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-the-newest-version-of-hp-deskjet-eprint-inkjet-3700-drivers/"><u>Download & Install the Newest Version of HP DeskJet ePrint Inkjet 3700 Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-to-downloading-and-installing-hp-officejet-pro-8610-drivers-for-various-windows-versions-1087xpvista/"><u>Easy Guide to Downloading & Installing HP Officejet Pro 8610 Drivers for Various Windows Versions (10/8/7/XP/Vista)</u></a></li>
+<li><a href="https://win11.techidaily.com/encrypted-transfer-protecting-data-through-windows-os/"><u>Encrypted Transfer: Protecting Data Through Windows OS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-epson-wf-2760-driver-software-compatible-with-windows-11-10-and-8/"><u>Free Epson WF 2760 Driver Software: Compatible with Windows 11, 10 and 8</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-poco-x5-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Poco X5 FRP Locks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-new-drivers-for-your-hp-laserjet-pro-400-printer-p1007-model/"><u>How to Install New Drivers for Your HP LaserJet Pro 400 Printer - P1007 Model</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-iphone-8-plus-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From iPhone 8 Plus</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-upgrade-razer-blackwidow-gamepad-firmware-with-official-support-resources/"><u>How to Upgrade Razer BlackWidow Gamepad Firmware with Official Support Resources</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-ultimate-list-top-15-affordable-online-image-enhancers/"><u>In 2024, The Ultimate List Top 15 Affordable Online Image Enhancers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-zoom-presentations-with-stunning-visuals/"><u>In 2024, Transform Your Zoom Presentations with Stunning Visuals</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-amd-smbus-driver-update-fast-simple-installation-steps/"><u>Latest AMD SMBus Driver Update: Fast, Simple Installation Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-gpu-usage-for-smoother-gameplay-of-cyberpunk-2077-on-windows-11-fixes-and-tips/"><u>Maximizing GPU Usage for Smoother Gameplay of Cyberpunk 2077 on Windows 11 - Fixes & Tips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-dell-audio-driver-installation-made-simple/"><u>Seamless Dell Audio Driver Installation Made Simple</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-swift-driver-updates-for-lenovo-x240/"><u>Step-by-Step Guide: Swift Driver Updates for Lenovo X240</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722882231103-toshiba-55lf711u20-55-smart-tv-with-alexa-built-in-perfect-for-prime-video-lovers/"><u>Toshiba 55LF711U20 55 Smart TV with Alexa Built-In - Perfect for Prime Video Lovers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/unleash-next-level-gameplay-secure-your-intel-z270-pro-gaming-motherboard-and-gpus/"><u>Unleash Next-Level Gameplay – Secure Your Intel Z270 Pro Gaming Motherboard and GPUs</u></a></li>
+</ul></div>
 

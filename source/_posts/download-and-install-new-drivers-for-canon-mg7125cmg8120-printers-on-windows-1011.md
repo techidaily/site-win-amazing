@@ -1,7 +1,7 @@
 ---
 title: Download & Install New Drivers for Canon MG7125C/MG8120 Printers on Windows 10/11
-date: 2024-08-13T09:50:47.340Z
-updated: 2024-08-14T09:50:47.340Z
+date: 2025-01-05T22:26:53.744Z
+updated: 2025-01-12T12:15:48.777Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/f04df6c23b871cbbd0c17b0eb3921c505712d724d
  Want to download and update**Epson WF 3620 driver** for your printer? You’ve come to the right place! This post will show you how to download and update Epson WorkForce WF-3620 driver in Windows 10/8/7.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to update driver for Epson WF 3620 printer
 
 1. [**Update Epson WF 3620 driver manually**](https://tools.techidaily.com/drivereasy/download/)
@@ -41,14 +42,13 @@ Follow these steps:
 3. Find your printer in Device Manager. It can display in**Print queues** ,**Printers** , or**Other devices.**
 4. Right click on your**Epson WF 3620 printer** , and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c3ac0fc97.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. If you see a notification popup, check the box next to**Delete the driver software for this device** , then click**Uninstall** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c412411da.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c412411da.jpg)
 
  After uninstalling, you can now download the printer driver from official website.
 
@@ -56,10 +56,12 @@ Follow these steps:
 2. Type**WF-3620** in the search box, and select your printer model.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c49506f41.jpg)
 3. In the**Downloads** tab, make sure the detected**Operating System** is correct. Then click**Download** to download the driver package.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c4d2efa90.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c4d2efa90.jpg)
 4. Run the downloaded file and follow the on-screen instructions to finish the installation.
 
  This method requires time and computer skills. If this method doesn’t work for you, don’t worry. You can try[method 2](https://tools.techidaily.com/drivereasy/download/) .
@@ -77,10 +79,12 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c53c6a756.jpg)
 3. You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click**Update All** to automatically download and install the correct version of_**ALL**_ the drivers that are missing or out of date on your system.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c6040133d.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer to take effect.
 
  Note: If you have any problems while using Driver Easy, feel free to contact our support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -88,13 +92,9 @@ Follow these steps:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## When should I update Epson WF 3620 driver
 
  Printer drivers is an essential program that ensures your printer can communicate with your computer.
@@ -117,8 +117,6 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +124,26 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-tailored-walkthrough-watching-facebook-videos-seamlessly-on-apple-tv/"><u>[Updated] In 2024, Tailored Walkthrough Watching Facebook Videos Seamlessly on Apple TV</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-essentials-of-efficient-video-tagging-methods/"><u>[Updated] In 2024, The Essentials of Efficient Video Tagging Methods</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-unlocking-viral-success-boost-your-business-with-tiktok-for-2024/"><u>[Updated] Unlocking Viral Success Boost Your Business with TikTok for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-sns-hdr-pro-analysis-worth-its-weight-in-gold/"><u>2024 Approved SNS HDR Pro Analysis Worth Its Weight in Gold?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/amd-ryzen-processor-how-to-safely-install-latest-drivers/"><u>AMD Ryzen Processor: How To Safely Install Latest Drivers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-elite-list-of-mac-devices-insights-comprehensive-guide/"><u>Discover the Elite List of Mac Devices : Insights Comprehensive Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-brother-hl-l2380dw-driver-for-windows-10-and-11/"><u>Download Brother HL-L2380DW Driver for Windows 10 & 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-logitech-hd-c525-webcam-drivers-and-software-compatible-with-windows/"><u>Download Logitech HD C525 Webcam Drivers & Software Compatible with Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-to-installing-epson-xp-245-drivers-on-your-pc-with-windows-7-8-or-10/"><u>Easy Guide to Installing Epson XP-245 Drivers on Your PC with Windows 7, 8 or 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-gaming-performance-with-the-latest-geforce-rtx-2080-ti-drivers/"><u>Enhance Gaming Performance with the Latest GeForce RTX 2080 Ti Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-and-secure-corsair-keyboard-software-for-windows-download-now/"><u>Free & Secure Corsair Keyboard Software for Windows - Download Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-or-install-new-drivers-on-your-asus-laptop-a-step-by-step-guide/"><u>How to Update or Install New Drivers on Your ASUS Laptop - A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-samsung-galaxy-m34-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Samsung Galaxy M34 to Roku | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-11-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 11 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-make-taskview-harder-to-find-in-win-11/"><u>Methods to Make TaskView Harder to Find in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-error-code-31-a-troubleshooting-manual/"><u>Navigating Through Windows Error Code 31: A Troubleshooting Manual</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/redonner-vie-a-votre-systeme-windows-restauration-sur-un-nouveau-disque-dur-en-2-etapes/"><u>Redonner Vie À Votre Système Windows : Restauration Sur Un Nouveau Disque Dur en 2 Étapes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-getting-the-right-driver-for-your-epson-xp-830-printer/"><u>Step by Step Tutorial: Getting the Right Driver for Your Epson XP-830 Printer</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-guide-for-fixing-intel-hd-graphics-630-driver-problems-in-windows-systems-completed/"><u>Troubleshooting Guide for Fixing Intel HD Graphics 630 Driver Problems in Windows Systems [COMPLETED]</u></a></li>
+</ul></div>
 

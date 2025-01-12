@@ -1,7 +1,7 @@
 ---
 title: Targus Docking Solutions - Fast, Easy Downloads for Seamless Connectivity [FREE]
-date: 2025-01-04T20:00:29.107Z
-updated: 2025-01-05T23:23:13.417Z
+date: 2025-01-10T00:44:16.215Z
+updated: 2025-01-11T22:19:23.007Z
 tags:
   - win11
   - win10
@@ -48,6 +48,14 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap40.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the Targus Docking Station driver for now, hit the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-361.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at**<support@drivereasy.com>** .
@@ -55,10 +63,6 @@ OR
  If you’re interested in the benefits of Driver Easy, you can take a quick look at the demo video below:
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: Manually update your Targus Docking Station driver
 
@@ -69,11 +73,7 @@ OR
 3. Select**Drivers & Manuals** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-367.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Type the**model name** or**serial number** of your Targus device into the search box to locate the corresponding drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-368.png) Alternatively, you may select**Category** and then**Product** to look for the drivers of your Docking Station.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-160.png)
@@ -83,26 +83,26 @@ OR
 
 7. In the pop-up window, click**Browse…** and choose a destination folder where you want to decompress the file. Then, click**Extract** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-376.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Wait till the decompression process finishes. Then**copy** the full path of the destination folder. (The path will be different based on your choice in the last step. )![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-20_15-47-31.png)
 9. On your keyboard, press the **Windows Logo Key** and **R**  at the same time to open the**Run**  box. Type **devmgmt.msc** and click **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap13-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 10. In the**Device Manager** window, locate your Targus Docking Station and then right-click on it to open the context menu. Select**Update driver** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap14-1.png)
 11. If prompted, click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-384.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 12. **Paste** the full path copied in**Step 8** onto the address bar. Remember to check the **Include subfolders** box. Then hit the **Next** button.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-387.png)
 13. Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -125,22 +125,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-the-pinnacle-guide-to-uncomplicated-online-live-streams-for-2024/"><u>[New] The Pinnacle Guide to Uncomplicated Online Live Streams for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-beyond-vidcon-a-guide-to-the-most-important-youtube-events/"><u>[Updated] 2024 Approved Beyond VidCon - A Guide to the Most Important YouTube Events</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-discover-why-these-games-are-virtual-gold/"><u>[Updated] Discover Why These Games Are Virtual Gold</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-dslr-or-mirrorless-for-high-quality-video-recording/"><u>[Updated] DSLR or Mirrorless for High-Quality Video Recording?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-windows-hdri-tools-for-editors/"><u>2024 Approved Windows HDRI Tools for Editors</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/asus-zephyrus-g14-unveiled-a-revolutionary-approach-to-balancing-performance-with-mobility/"><u>Asus Zephyrus G14 Unveiled - A Revolutionary Approach to Balancing Performance with Mobility</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/efficiently-update-your-epson-perfection-v39-drivers-for-windows-versions-7-8-and-10/"><u>Efficiently Update Your Epson Perfection V39 Drivers for Windows Versions: 7, 8 & 10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722973993003-effortless-update-get-your-realtek-asio-driver-for-windows-11-today/"><u>Effortless Update: Get Your Realtek Asio Driver for Windows 11 Today!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-logitech-mouse-driver-downloads-compatible-with-windows-os/"><u>Free Logitech Mouse Driver Downloads Compatible with Windows OS</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-most-recent-geforce-aturbidtrue)geforce(a)-210-drivers-specifically-tuned-for-windows-11/"><u>Get the Most Recent GeForce Aturbid=true>GeForce</A> 210 Drivers Specifically Tuned for Windows 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-free-download-ultimate-guide-to-installing-the-logitech-g-pro-gamepad-on-any-os/"><u>Get Your [Free Download]: Ultimate Guide to Installing the Logitech G Pro Gamepad on Any OS</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-officejet-pro-9015-driver-update-how-to-get-the-newest-version-instantly/"><u>HP OfficeJet Pro 9015 Driver Update - How to Get the Newest Version Instantly</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-nubia-z50s-pro-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Nubia Z50S Pro</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/installation-guide-set-up-epson-wf-2750-printing-solutions/"><u>Installation Guide: Set Up Epson WF-2750 Printing Solutions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722979057680-realtek-aiot-drivers-compatible-with-windows-11-free-and-fast-downloads/"><u>Realtek AIoT Drivers Compatible with Windows 11 - Free & Fast Downloads!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-evolution-continues-differentiating-between-gpt-4-gpt-4x-and-phi-models-from-microsoft/"><u>The Evolution Continues: Differentiating Between GPT-4, GPT-4X, and Phi Models From Microsoft</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-tecno-spark-10-4g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Tecno Spark 10 4G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-20-mindfulness-tracks-legal-and-copyright-free-downloads-for-2024/"><u>[New] 20 Mindfulness Tracks Legal and Copyright-Free Downloads for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-best-tools-for-sub-to-srt-transition-rated-8-through-17/"><u>[Updated] 2024 Approved Best Tools for Sub to SRT Transition, Rated #8 Through #17</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-capture-attention-incorporating-borders-to-insta-videos/"><u>[Updated] 2024 Approved Capture Attention Incorporating Borders to Insta-Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-webcam-and-screen-capture-unison-techniques-for-2024/"><u>[Updated] Mastering Webcam & Screen Capture Unison Techniques for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/dvd-mp4/"><u>DVDコピーワラジ脱出 MP4への変換手順</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-beats-sound-card-trouble-heres-the-solution-for-windows-users/"><u>HP Beats Sound Card Trouble? Here's the Solution for Windows Users!</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-13-pro-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 13 Pro Waze | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/keep-your-brother-mfc-380dw-running-smoothly-on-windows-update-to-the-newest-drivers/"><u>Keep Your Brother MFC-#380DW Running Smoothly on Windows - Update to the Newest Drivers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/no-monetary-investment-how-to-acquire-fcp-for-2024/"><u>No Monetary Investment? How to Acquire FCP for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/rtl8188cu-drivers-download-and-installation-guide-for-windows-10-and-7/"><u>RTL8188CU Drivers: Download and Installation Guide for Windows 10 & 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-amd-ryzen-drivers-update-protect-your-system-with-ease/"><u>Step-by-Step AMD Ryzen Drivers Update - Protect Your System with Ease</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-your-amd-vega-64-driver-on-a-windows-pc-resolved/"><u>Step-by-Step Guide: Updating Your AMD Vega 64 Driver on a Windows PC [RESOLVED]</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-solving-hp-monitor-drivers-problems-in-windows-10-8-and-7/"><u>Troubleshooting & Solving HP Monitor Drivers Problems in Windows 10, 8, and 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-to-effortless-connectivity-download-your-lexar-usb-driver-instantly/"><u>Upgrade to Effortless Connectivity: Download Your Lexar USB Driver Instantly!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtubes-updated-strategy-for-content-creators-for-2024/"><u>YouTube's Updated Strategy for Content Creators for 2024</u></a></li>
 </ul></div>
 

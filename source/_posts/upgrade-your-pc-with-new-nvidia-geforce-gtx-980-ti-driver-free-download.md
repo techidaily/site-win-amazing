@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your PC with New NVIDIA GeForce GTX 980 Ti Driver [Free Download]
-date: 2024-08-13T09:54:28.892Z
-updated: 2024-08-14T09:54:28.892Z
+date: 2025-01-06T21:53:44.243Z
+updated: 2025-01-12T04:02:47.013Z
 tags:
   - win11
   - win10
@@ -47,8 +47,6 @@ thumbnail: https://thmb.techidaily.com/e85b07a038fb75437a0c598bbd5152a02fef6e44f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -56,8 +54,28 @@ thumbnail: https://thmb.techidaily.com/e85b07a038fb75437a0c598bbd5152a02fef6e44f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-professional-analysis-full-potential-of-screenflow-for-mac/"><u>[New] Professional Analysis Full Potential of ScreenFlow for Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-ride-with-these-top-10-macwindows-srt-boosters/"><u>[New] Transform Your Ride with These Top 10 Mac/Windows SRT Boosters</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-visuals-to-mp3s-simplified-transformation-process-for-2024/"><u>[Updated] Instagram Visuals to Mp3s - Simplified Transformation Process for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>5 Easy Ways to Change Location on YouTube TV On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/amplify-your-message-facebook-engagement-secrets/"><u>Amplify Your Message Facebook Engagement Secrets</u></a></li>
+<li><a href="https://win11.techidaily.com/asuss-innovation-unleashed-exploring-s15-oled-and-bape-edition/"><u>Asus's Innovation Unleashed: Exploring S15 OLED and BAPE Edition</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/facebook-video-downloader-application-for-mobilewinmac-for-2024/"><u>Facebook Video Downloader Application for Mobile/Win/Mac for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-freeze-panes-not-working-in-excel-2010-stellar-by-stellar-guide/"><u>Fixed Freeze Panes not Working in Excel 2010 | Stellar</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-troubleshoot-and-solve-xbox-controller-connectivity-errors-on-windows-oses/"><u>How To Troubleshoot and Solve Xbox Controller Connectivity Errors on Windows OSes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-or-update-windows-zebra-printer-drivers-here/"><u>Install or Update Windows Zebra Printer Drivers Here</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/intel-nvme-controller-software-how-to-download-and-install-with-ease/"><u>Intel NVMe Controller Software - How to Download and Install with Ease</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/optimize-your-pc-with-intel-irisplus-graphics-655-drivers-for-enhanced-performance-on-windows-systems/"><u>Optimize Your PC with Intel Iris+ Graphics 655 Drivers for Enhanced Performance on Windows Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simplify-setup-obtain-targus-docking-station-driver-software-quickly/"><u>Simplify Setup: Obtain Targus Docking Station Driver Software Quickly</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-fix-guide-for-hps-beats-sound-card-drivers-on-windows-1087-now-solved/"><u>Step by Step Fix Guide for HP's Beats Sound Card Drivers on Windows 10/8/7 - Now Solved</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-repairing-your-lg-display-on-various-windows-versions/"><u>Troubleshooting and Repairing Your LG Display on Various Windows Versions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/wi-fi-driver-update-processes-for-windows-1110-users-ensure-compatibility-and-speed/"><u>Wi-Fi Driver Update Processes for Windows 11/10 Users: Ensure Compatibility and Speed</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: The Arbitration Process Can Be Tailored to Fit the Needs of the Parties Involved, Allowing for Flexibility in Scheduling and Procedural Rules.
-date: 2024-08-13T09:52:38.550Z
-updated: 2024-08-14T09:52:38.550Z
+date: 2025-01-04T16:24:54.138Z
+updated: 2025-01-12T08:31:36.054Z
 tags:
   - win11
   - win10
@@ -27,9 +27,6 @@ OR
 
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Option 1 – Update GTX 1660 Ti drivers automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update your GTX 1660 Ti driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -43,23 +40,21 @@ OR
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-317.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-318.png)
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2 – Update GTX 1660 Ti drivers manually
 
  Here’s your guide to updating your **GTX 1660 Ti** driver manually:
@@ -81,19 +76,25 @@ The ultimate burning program for all your needs!</a>
 **Language** : <Your preferred language>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-323-1024x393.png)
+
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**DOWNLOAD** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-326.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Click DOWNLOAD again to start the download.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-327.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Double-click on the downloaded file and follow the on-screen instructions to finish the install.
@@ -114,8 +115,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +122,26 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-efficient-techniques-to-preserve-webcam-dialogues/"><u>[New] 2024 Approved Efficient Techniques to Preserve Webcam Dialogues</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/urry-up-get-professional-valorant-thumbnail-skills-now-for-2024/"><u>[New] Hurry Up, Get Professional Valorant Thumbnail Skills Now for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-tutorial-on-capturing-epic-moments-in-valorant-step-by-step/"><u>「Ultimate Tutorial on Capturing Epic Moments in Valorant - Step by Step!」</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-brother-hl-printer-drivers-compatible-with-windows-11/"><u>Download Brother HL Printer Drivers - Compatible with Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/efficient-setup-of-nexiq-usb-link-drivers-free-download-and-installation-instructions/"><u>Efficient Setup of Nexiq USB-Link Drivers - Free Download and Installation Instructions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-best-out-of-your-sound-blaster-z-with-easy-driver-installation-on-windows-11/"><u>Get the Best Out of Your Sound Blaster Z with Easy Driver Installation on Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-word-2003-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i add my signature to Word 2003</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-itel-p55plus-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Itel P55+ Phone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-visual-archive-top-hd-video-recorders-unveiled/"><u>In 2024, The Visual Archive Top HD Video Recorders Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-look-at-what-you-should-know-about-samsungs-tv-app-ecosystem/"><u>In-Depth Look at What You Should Know About Samsung's TV App Ecosystem</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/keeping-your-hp-z440-performance-peak-driver-download-and-update-guide/"><u>Keeping Your HP Z440 Performance Peak: Driver Download and Update Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/lenovo-monitor-driver-updates-how-to-download-and-ensure-smooth-performance/"><u>Lenovo Monitor Driver Updates: How to Download and Ensure Smooth Performance</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/lenovo-thinkpad-t420-driver-downloads-fast-and-easy-installation-guide/"><u>Lenovo ThinkPad T420 Driver Downloads: Fast & Easy Installation Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11s-multimedia-control-panel/"><u>Mastering Windows 11'S Multimedia Control Panel</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-secure-access-newly-released-easycap-drivers-today/"><u>Quick and Secure: Access Newly Released EasyCAP Drivers Today!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/selling-success-on-facebook-ideas-and-strategies-to-try/"><u>Selling Success on Facebook Ideas and Strategies to Try</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-on-downloading-and-upgrading-your-asus-laptop-drivers/"><u>Step-by-Step Tutorial on Downloading and Upgrading Your ASUS Laptop Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-iphone-image-failure-in-windows-os/"><u>Steps to Resolve iPhone Image Failure in Windows OS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-to-the-current-brother-hl-l2350dw-printer-driver-version-step-by-step-guide/"><u>Upgrade to the Current Brother HL-L2350DW Printer Driver Version: Step-by-Step Guide</u></a></li>
+</ul></div>
 

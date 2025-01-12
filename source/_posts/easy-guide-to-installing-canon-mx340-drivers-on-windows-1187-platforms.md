@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Installing Canon MX340 Drivers on Windows 11/8/7 Platforms
-date: 2024-12-29T20:21:14.743Z
-updated: 2025-01-05T18:45:27.865Z
+date: 2025-01-07T00:53:08.416Z
+updated: 2025-01-11T23:08:01.267Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ If you’re using Arduino products to create your own work but failed to connect
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why you need the driver?
 
  As we know, Arduino is an open-source electronics platform let users design and create their own work. But when you need to connect it with a Windows computer, you’ll need a correct and appropriate driver.
@@ -41,7 +45,7 @@ OR
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-download-and-install-arduino-nano-driver-in-windows-solved/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 1 –** **Download and install the driver manually**
@@ -53,12 +57,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ar.jpg)
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
@@ -67,14 +71,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9725918e348.png)
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update drivers**
@@ -90,12 +90,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/nano.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -118,21 +118,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-ideal-vr-solutions-for-drone-flying/"><u>[New] In 2024, Ideal VR Solutions for Drone Flying</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-leveraging-powerpoints-automatic-transcription-feature/"><u>[New] In 2024, Leveraging PowerPoint’s Automatic Transcription Feature</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nlocking-money-with-youtube-shorts-necessities-and-possible-earnings-for-2024/"><u>[New] Unlocking Money with YouTube Shorts Necessities and Possible Earnings for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-virtual-adventures-await-in-latest-windows-10-gaming-and-apps-for-2024/"><u>[New] Virtual Adventures Await in Latest Windows 10 Gaming & Apps for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/outube-earnings-unveiled-average-adsense-payments-per-thousand-views/"><u>[New] Youtube Earnings Unveiled Average AdSense Payments Per Thousand Views</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-is-luminances-hdr-suitable-for-production/"><u>[Updated] In 2024, Is Luminance's HDR Suitable for Production?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-smart-way-to-scale-and-slash-iphone-videos/"><u>[Updated] The Smart Way to Scale & Slash iPhone Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-ultimate-pathway-to-advanced-hd-video-on-windows-pcs/"><u>2024 Approved The Ultimate Pathway to Advanced HD Video on Windows PCs</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-drivers-for-gigabyte-gc-wb867d-i-motherboard/"><u>Download Drivers for Gigabyte GC-WB867D-I Motherboard</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/easy-steps-to-upgrade-your-systems-ram-a-comprehensive-guide-by-yl-computing/"><u>Easy Steps to Upgrade Your System's RAM - A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-logitech-rx250-drivers-here-windows-7-to-10-supported-edition/"><u>Get Your Logitech RX250 Drivers Here: Windows 7 to 10 Supported Edition</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-fix-samsung-all-in-one-printer-drivers-in-windows-systems/"><u>How to Fix Samsung All-in-One Printer Drivers in Windows Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/insignia-usb-to-rj45-ethernet-adapter-drivers-download-guide/"><u>Insignia USB to RJ45 Ethernet Adapter Drivers: Download Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-or-upgrade-to-newest-hp-deskjet-2540-software-and-drivers/"><u>Install or Upgrade to Newest HP DeskJet 2540 Software and Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-update-instructions-for-your-hp-laserjet-1320-driver-on-microsofts-operating-system/"><u>Step-by-Step Update Instructions for Your HP LaserJet 1320 Driver on Microsoft's Operating System</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ultimate-mpow-bluetooth-compatibility-upgrade-download-and-update-for-windows-1187/"><u>Ultimate MPOW Bluetooth Compatibility Upgrade - Download & Update for Windows 11/8/7</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-top-five-revolutionary-facebook-enhancements/"><u>[New] 2024 Approved Top Five Revolutionary Facebook Enhancements</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-periscopes-unveiling-no-cost-entry-and-steps-to-signup/"><u>[New] Periscope's Unveiling No Cost Entry & Steps to Signup</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-avoiding-misdated-memories-with-exact-times/"><u>[Updated] Avoiding Misdated Memories with Exact Times</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-tips-for-effective-mov-file-saving-on-windows-11/"><u>[Updated] In 2024, Tips for Effective MOV File Saving on Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-broadcom-netlink-gigabit-ethernet-driver-on-windows-10-solved/"><u>Download and Update Broadcom NetLink Gigabit Ethernet Driver on Windows 10: Solved!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-methods-for-installing-the-latest-microsoft-mouse-drivers-on-pc-and-laptop-windows-versions/"><u>Easy Methods for Installing the Latest Microsoft Mouse Drivers on PC and Laptop Windows Versions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-steps-to-get-and-update-your-lenovo-thinkpad-drivers-securely-online/"><u>Easy Steps to Get and Update Your Lenovo ThinkPad Drivers Securely Online</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-install-updated-lenovo-display-drivers-a-step-by-step-guide-with-free-download-options/"><u>Find and Install Updated Lenovo Display Drivers: A Step-by-Step Guide with Free Download Options</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-hp-officejet-pro-6970-printer-drivers-on-windows-free-download/"><u>Get the Latest HP Officejet Pro ^6970 Printer Drivers on Windows - Free Download</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-nvidia-quadro-rtx-8000-graphics-driver-supports-windows-11107/"><u>Get the Newest Nvidia Quadro RTX 8000 Graphics Driver - Supports Windows 11/10/7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-hp-officejet-4650-ready-windows-driver-software-download/"><u>Get Your HP OfficeJet 4650 Ready: Windows Driver Software Download</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-reinstate-windows-photo-viewer-quickly-on-your-windows-10-pc/"><u>In 2024, Reinstate Windows Photo Viewer Quickly on Your Windows 10 PC</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-art-of-crafting-impressive-hdr-images-using-lightroom/"><u>In 2024, The Art of Crafting Impressive HDR Images Using Lightroom</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-autocorrect-top-6-strategies-for-perfect-iphone-typing/"><u>Mastering Autocorrect: Top 6 Strategies for Perfect iPhone Typing</u></a></li>
+<li><a href="https://win-net.techidaily.com/numark-party-mix-map-download-dj-controller-essentials-for-dex-3-and-dex-3-re-perfect-your-parties/"><u>Numark Party Mix Map Download: DJ Controller Essentials for Dex 3 & Dex 3 RE - Perfect Your Parties!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-download-guide-keep-your-canon-mp560-printers-drivers-up-to-date/"><u>Quick Download Guide: Keep Your Canon MP560 Printer's Drivers Up-to-Date</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/realtek-hdac-9500-chipset-drivers-for-windows-11-instant-setup/"><u>Realtek HD/AC-9500 Chipset Drivers for Windows 11: Instant Setup</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/shine-strategy-top-tools-to-brighten-streams-for-2024/"><u>Shine Strategy Top Tools to Brighten Streams for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-for-secure-xbox-360-controller-driver-downloads/"><u>Step-by-Step Tutorial for Secure Xbox 360 Controller Driver Downloads</u></a></li>
 </ul></div>
 

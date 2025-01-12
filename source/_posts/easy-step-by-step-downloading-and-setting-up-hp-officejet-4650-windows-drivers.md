@@ -1,7 +1,7 @@
 ---
 title: "Easy Step-by-Step: Downloading and Setting up HP Officejet 4650 Windows Drivers"
-date: 2024-08-18T13:28:26.272Z
-updated: 2024-08-19T13:28:26.272Z
+date: 2025-01-10T05:37:36.902Z
+updated: 2025-01-12T09:20:57.128Z
 tags:
   - win11
   - win10
@@ -36,10 +36,24 @@ Follow these steps:
 2. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c379a3ed4.jpg)
 3. Find your printer in Device Manager. It can display in**Print queues** ,**Printers** , or**Other devices.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right click on your**Epson WF 3620 printer** , and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c3ac0fc97.png)
 5. If you see a notification popup, check the box next to**Delete the driver software for this device** , then click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c412411da.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After uninstalling, you can now download the printer driver from official website.
 
@@ -66,11 +80,20 @@ Follow these steps:
 3. You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click**Update All** to automatically download and install the correct version of_**ALL**_ the drivers that are missing or out of date on your system.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2c6040133d.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer to take effect.
 
  Note: If you have any problems while using Driver Easy, feel free to contact our support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When should I update Epson WF 3620 driver
 
@@ -94,8 +117,6 @@ Follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,8 +124,19 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capture-kings-arena/"><u>[New] Capture King's Arena</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-pro-tips-for-high-quality-ps3-game-screenshots/"><u>[Updated] In 2024, Pro Tips for High-Quality PS3 Game Screenshots</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-investing-in-mobility-do-portable-monitors-deliver-value-insights-on-the-top-4-models/"><u>1. Investing in Mobility: Do Portable Monitors Deliver Value? Insights on the Top 4 Models</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-the-lenovo-yoga-tab-13-the-ultimate-entertainment-focused-android-tablet-unveiled-by-zdnet/"><u>Experience the Lenovo Yoga Tab 13: The Ultimate Entertainment-Focused Android Tablet Unveiled by ZDNet</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hassle-free-setup-for-your-hp-devices-with-instant-driver-downloads/"><u>Hassle-Free Setup for Your HP Devices with Instant Driver Downloads</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-tecno-pop-7-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Tecno Pop 7 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-and-install-display-drivers-on-your-windows-pc/"><u>How to Update and Install Display Drivers on Your Windows PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlock-hidden-features-of-the-youtube-creator-space/"><u>In 2024, Unlock Hidden Features of the YouTube Creator Space</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/scansnap-s1300i-driver-update-made-easy-step-by-step-instructions/"><u>ScanSnap S1300i Driver Update Made Easy: Step-by-Step Instructions!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-guide-to-repairing-hp-monitor-driver-misfires-in-windows-11-8-and-e7-systems/"><u>The Ultimate Guide to Repairing HP Monitor Driver Misfires in Windows 11, 8 & E7 Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-repairing-amd-fx-8350-drivers-issues-on-windows-operating-system/"><u>Troubleshooting & Repairing AMD FX-8350 Drivers Issues on Windows Operating System</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

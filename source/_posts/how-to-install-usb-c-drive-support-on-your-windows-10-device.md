@@ -1,7 +1,7 @@
 ---
 title: How to Install USB-C Drive Support on Your Windows 10 Device
-date: 2025-01-03T21:43:32.917Z
-updated: 2025-01-05T19:25:18.999Z
+date: 2025-01-08T05:43:01.569Z
+updated: 2025-01-12T08:22:41.379Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ OR
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1 – Download and install the driver manually
 
  As a printer manufacturer, Canon provides printer drivers for their products on the website. To get the Canon PIXMA Pro 100 driver:
@@ -42,31 +46,31 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-108.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type your printer model in the search box and click**Go** . In my case I type PIXMA PRO 100, and click**Go** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-109.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) On the product page, click the**Drivers & Downloads** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-110.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) On the same page, under the**Drivers & Downloads** section, make sure the detected**Operating System** and**Language** are correct. Then click the**Drivers** tab, click**Select** \>**Download** to download the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-111-1024x299.png)
 
- 5) After downloading, double click the downloaded file to run and follow the on-screen instructions to install the driver.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ 5) After downloading, double click the downloaded file to run and follow the on-screen instructions to install the driver.
 
 ## Option 2 – Automatically update the driver
 
@@ -82,16 +86,12 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-112.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-113.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Note: you can do it for free if you like, but it’s partly manual.
@@ -119,19 +119,21 @@ Note: you can do it for free if you like, but it’s partly manual.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-amazing.techidaily.com/free-download-updated-drivers-for-hp-scanjet-on-windows-systems-win1087/"><u>[FREE] Download Updated Drivers for HP Scanjet on Windows Systems (Win10/8/7)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-compreenas-comprehensive-walkthrough-for-creating-a-unified-skype-chat-room-accessible-by-users-of-different-operating-systems-for-2024/"><u>[New] Compreenas Comprehensive Walkthrough for Creating a Unified Skype Chat Room Accessible by Users of Different Operating Systems for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-for-beginners-best-film-and-point-shoot-cameras-reviewed/"><u>[New] For Beginners Best Film and Point-Shoot Cameras Reviewed</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-secrets-of-professionals-mastering-video-recordingediting-with-adobe-connect/"><u>[Updated] Secrets of Professionals Mastering Video Recording/Editing with Adobe Connect</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/applications-for-crafting-dynamic-video-entrances-for-2024/"><u>Best Applications for Crafting Dynamic Video Entrances for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g04-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G04 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-the-latest-drivers-for-your-brother-mfc-l2e6wd-wireless-all-in-one-printer-on-a-windows-pc/"><u>How to Get the Latest Drivers for Your Brother MFC-L2e6WD Wireless All-in-One Printer on a Windows PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-the-newest-version-of-your-intel-centrino-advanced-n-6235-chipset-driver/"><u>How to Get the Newest Version of Your Intel Centrino Advanced-N 6235 Chipset Driver</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>How to identify missing or malfunctioning drivers with Windows Device Manager in Windows 10</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/how-to-make-manual-changes-to-your-pcs-registry-a-guide-by-yl-computing/"><u>How to Make Manual Changes to Your PC's Registry - A Guide by YL Computing</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/killer-e2500-network-controller-software-free-downloads/"><u>Killer E2500 Network Controller Software - FREE Downloads</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mpow-drivers-for-wireless-connectivity-update-guide-for-pcs/"><u>MPOW Drivers for Wireless Connectivity: Update Guide for PCs</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-asus-rog-phone-8-pro-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Asus ROG Phone 8 Pro.</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-best-of-the-best-top-5-free-video-compression-apps-for-iphone-and-ipad-users/"><u>Updated Best of the Best Top 5 Free Video Compression Apps for iPhone and iPad Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-diverse-video-realms-sites-outshining-youtube-for-2024/"><u>[New] Diverse Video Realms Sites Outshining Youtube for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-online-streaming-capture-a-comprehensive-guide/"><u>[New] Online Streaming Capture A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unlock-your-full-viewing-experience-with-these-3-strategies-to-download-youtube-srt/"><u>[New] Unlock Your Full Viewing Experience with These 3 Strategies to Download YouTube SRT</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-aligning-apple-android-and-computer-schedules-for-zoom-syncing/"><u>[Updated] 2024 Approved Aligning Apple, Android, and Computer Schedules for Zoom Syncing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-computers-optimal-machines-for-media-creation/"><u>[Updated] In 2024, Cutting-Edge Computers Optimal Machines for Media Creation</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-mastering-audio-diminishment-in-lumafusion/"><u>2024 Approved Mastering Audio Diminishment in Lumafusion</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/essential-guide-to-downloading-and-installing-usb-c-drivers-on-windows-11-systems/"><u>Essential Guide to Downloading and Installing USB-C Drivers on Windows 11 Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-epson-v500-driver-software-here/"><u>Get the Latest Epson V500 Driver Software Here!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-seamlessly-upgrade-and-acquire-microsoft-drivers-for-your-windows-operating-systems-7-8-and-10/"><u>How To Seamlessly Upgrade & Acquire Microsoft Drivers for Your Windows Operating Systems: 7, 8, and 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722972957517-install-new-drivers-for-your-hp-scanjet-on-windows-step-by-step-download-tutorial/"><u>Install New Drivers for Your HP Scanjet on Windows - Step-by-Step Download Tutorial</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-fix-basic-printerscanner-support-in-windows-11-operating-system-enhanced/"><u>Latest Fix: Basic Printer/Scanner Support in Windows 11 Operating System Enhanced</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/cle-creator-the-duo-of-media-elements-for-2024/"><u>Pinnacle Creator The Duo of Media Elements for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/seamless-multi-screen-browsing-in-chrome-using-pip-for-2024/"><u>Seamless Multi-Screen Browsing in Chrome Using PIP for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-download-of-official-insignia-usb-ethernet-adapter-utility/"><u>Secure Download of Official Insignia USB-Ethernet Adapter Utility</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-movies-to-binge-on-right-now-according-to-lifewire-picks/"><u>The Ultimate List of Movies to Binge on Right Now, According to Lifewire Picks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-lg-printer-connections-fixing-driver-problems-in-windows-versions-1187/"><u>Troubleshooting LG Printer Connections: Fixing Driver Problems in Windows (Versions 11/8/7)</u></a></li>
 </ul></div>
 

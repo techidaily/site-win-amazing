@@ -1,7 +1,7 @@
 ---
 title: Installation Tutorial for WD SES External Hard Drives (Versions From 2011)
-date: 2025-01-01T17:49:38.420Z
-updated: 2025-01-05T21:23:29.720Z
+date: 2025-01-06T01:07:01.708Z
+updated: 2025-01-11T16:56:00.073Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
 3. [**Update Brother printer drivers with Driver Easy automatically (Recommended)**](https://www.drivereasy.com/knowledge/brother-printer-drivers-download-easily-quickly/#WAY3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 1: Download Brother printer latest drivers from Brother official website
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Click **Agree to the EULA and Download** .  
@@ -69,16 +69,16 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-15.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) When it’s done, double-click the downloaded **.exe**  file and follow the on-screen instructions to install the driver on your computer.  
 
 ### Way 2: Update Brother printer drivers via Device Manager
   
  1) Press the **Windows logo**  key ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b42dbb955df7.png) \+ **R**  key at the same time to open the Run box.  
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Type **devmgmt.msc**  in the box and hit **Enter**  to open **Device** **Manager** .  
   
@@ -90,17 +90,13 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
 **![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-13.jpg)**
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click **Search automatically for updated driver software** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-8.jpg)
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Now Windows will detect the update automatically for you. Just follow the on-screen instructions.
@@ -121,6 +117,10 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-32.jpg)
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:**  Some Brother printers have built-in drivers to support basic functions.  
  How to install the built-in drivers — [Manual to Install Brother Built-in Drivers](https://tools.techidaily.com/drivereasy/download/) .
@@ -145,17 +145,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/approved-constructing-youtube-playlists-made-simple/"><u>2024 Approved Constructing YouTube Playlists Made Simple</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/achieving-professional-quality-with-instagrams-virtual-screens/"><u>Achieving Professional Quality with Instagram's Virtual Screens</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-easy-update-surface-drivers-made-simple/"><u>Download & Easy Update: Surface Drivers Made Simple</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fast-track-to-productivity-download-drivers-for-your-microsoft-ergo-4000-keyboard-today/"><u>Fast-Track to Productivity: Download Drivers for Your Microsoft Ergo 4000 Keyboard Today</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-explore-top-quality-behringer-audio-drivers/"><u>Free Download: Explore Top-Quality Behringer Audio Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-logitech-t630-installation-software-for-windows-users-windows-7810/"><u>Free Logitech T630 Installation Software for Windows Users (Windows 7/8/10)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-google-pixel-fold-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Google Pixel Fold Phone with Broken Screen</u></a></li>
-<li><a href="https://fox-http.techidaily.com/iconic-lecture-labels-maker-pro-for-2024/"><u>Iconic Lecture Labels Maker Pro for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-7-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-loneliness-with-the-help-of-chatgpts-support/"><u>Navigating Loneliness with the Help of ChatGPT's Support</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/resolving-dts-audio-issues-when-your-speaker-isnt-working/"><u>Resolving DTS Audio Issues When Your Speaker Isn't Working</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/successfully-dealing-with-asus-pce-ac56-drivers-a-step-by-step-fix-for-windows-users-1187/"><u>Successfully Dealing with ASUS PCE-AC56 Drivers: A Step-by-Step Fix for Windows Users (11/8/7)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-a-straightforward-path-learn-how-to-use-ez-grabber-effectively/"><u>[New] 2024 Approved A Straightforward Path Learn How To Use EZ Grabber Effectively</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-add-auditory-components-to-premiere-pro-videos/"><u>[New] Add Auditory Components to Premiere Pro Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-harmonizing-posts-with-instagram-music/"><u>[New] Harmonizing Posts with Instagram Music</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-smart-strategies-to-modify-user-numbers-on-tiktok/"><u>[New] Smart Strategies to Modify User Numbers on TikTok</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/best-eco-savvy-movie-capture-tools-usage-methods/"><u>Best Eco-Savvy Movie Capture Tools Usage Methods</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-geforce-gtx-460-drivers-on-windows-fast-and-simple-guide/"><u>Download GeForce GTX 460 Drivers on Windows: Fast & Simple Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-magicard-rio-pro-driver-compatible-with-windows-11-81-and-7-new-release/"><u>Download Magicard Rio Pro Driver: Compatible with Windows 11, 8.1 & 7 - New Release</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-tutorial-for-arduino-nano-software-on-windows-systems/"><u>Effortless Installation Tutorial for Arduino Nano Software on Windows Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-logitech-webcam-software-update-for-windows-users/"><u>Free Logitech Webcam Software Update for Windows Users</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210490138-9780762479214-how-to-study-magic/"><u>How to Study Magic | Free Book</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-solution-to-windows-error-0x80070570-step-by-step-fixes/"><u>Mastering the Solution to Windows 'Error 0X80070570': Step-by-Step Fixes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/overcoming-difficulties-in-pci-hardware-based-encryptiondecryption-interface/"><u>Overcoming Difficulties in PCI Hardware-Based Encryption/Decryption Interface</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-brother-mfc-7860dw-fresh-windows-driver-download-for-optimal-printing-performance/"><u>Update Your Brother MFC-#7860DW: Fresh Windows Driver Download for Optimal Printing Performance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: HP Officejet Pro 6968 Installable Software & Drivers for PCs
-date: 2024-12-29T20:26:49.950Z
-updated: 2025-01-05T18:19:18.885Z
+date: 2025-01-09T19:10:10.020Z
+updated: 2025-01-12T10:47:58.405Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ If you’re using Arduino products to create your own work but failed to connect
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why you need Arduino Mega 2560 driver?
 
  As we know, Arduino is an open-source electronics platform let users design and create their own work. But when you need to connect it with a Windows computer, you’ll need a correct and appropriate driver.
@@ -29,10 +33,6 @@ If you’re using Arduino products to create your own work but failed to connect
  It is because drivers are software components that make devices and the operating system talk to each other. Both system and device are updating to catch up with the changing world, so is drivers. If the operating system changes the way it speaks to devices and drivers haven’t updated, devices can’t receive correct commands and cause problems.
 
  That’s why most of the problems can be solved by installing/updating drivers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to download Arduino Mega 2560 driver?
 
@@ -44,10 +44,6 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/download-driver-for-arduino-mega-2560-easily-quickly/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 1 –** **Download and install the driver manually**
 
  The screenshots below are from Windows 10, but the steps are also valid for other Windows system.
@@ -57,21 +53,29 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ar.jpg)
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select **Browse my computer for driver software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9725918e348.png)
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
- If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
 
 ### **Option 2 – Automatically update drivers**
 
@@ -86,15 +90,11 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/mega2560-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -118,18 +118,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-all-you-need-to-know-understanding-video-aspect-ratios-on-youtube/"><u>[New] 2024 Approved All You Need to Know Understanding Video ASPECT RATIOS on YOUTUBE</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-seamless-volume-reduction-for-apple-and-microsoft-systems/"><u>[New] Seamless Volume Reduction for Apple and Microsoft Systems</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-starting-strong-key-equipment-for-youtube-success/"><u>[New] Starting Strong Key Equipment for YouTube Success</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-eight-high-res-cinematography-systems/"><u>2024 Approved Best Eight High-Res Cinematography Systems</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-simple-steps-to-master-no-cost-time-tracking/"><u>2024 Approved Simple Steps to Master No-Cost Time Tracking</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-slow-it-down-a-comprehen/"><u>2024 Approved Slow It Down A Comprehen</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722962928512-boost-your-windows-experience-with-the-new-brother-hl-2240-printer-driver/"><u>Boost Your Windows Experience with the New Brother HL-2240 Printer Driver</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-newest-drivers-for-nvidia-quadro-rtx-8000-on-windows-1087-get-them-now/"><u>Download the Newest Drivers for NVIDIA Quadro RTX 8000 on Windows 10/8/7 – Get Them Now!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/drive-upgrade-nvidias-new-geforce-210-version/"><u>Drive Upgrade: NVIDIA's New GeForce 210 Version</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fixing-connectivity-how-to-overcome-ralink-rt3290-drivers-challenges-in-widows-operating-systems-xpvista/"><u>Fixing Connectivity: How to Overcome Ralink RT3290 Drivers Challenges in Widows Operating Systems (XP/Vista)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-update-get-the-latest-geforce-rtx-cufflinks-3080-ti-graphics-card-driver-for-win-11-8-and-7/"><u>Free Update: Get the Latest GeForce RTX Cufflinks 3080 Ti Graphics Card Driver for Win 11, 8 & 7</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-poco-c51-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Poco C51 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/transform-slow-motion-to-quick-with-android-aids-for-2024/"><u>Transform Slow Motion to Quick with Android Aids for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-converters-cornerstone-for-srt-transformations/"><u>[New] The Converter's Cornerstone for SRT Transformations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-writing-dialogue-with-impact-in-film-scripts-for-2024/"><u>[New] Writing Dialogue with Impact in Film Scripts for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-achieving-gradual-sound-boosts-with-lumafusion/"><u>[Updated] Achieving Gradual Sound Boosts with Lumafusion</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-expert-guide-to-snagging-twitter-gifs-pc-for-2024/"><u>[Updated] Expert Guide to Snagging Twitter GIFs (PC) for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/courts-follow-a-standardized-set-of-rules-and-procedures-while-arbitration-can-be-customized-for-each-case-through-the-arbitration-agreement/"><u>Courts Follow a Standardized Set of Rules and Procedures, While Arbitration Can Be Customized for Each Case Through the Arbitration Agreement.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-intel-wireless-bluetooth-drivers-for-windows-7-with-ease/"><u>Download the Intel Wireless Bluetooth Drivers for Windows 7 with Ease!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-your-gefornce-gtx-750-drivers-with-one-click-convenience-step-by-step-tutorial/"><u>Download Your GeFornce GTX 750 Drivers with One-Click Convenience - Step by Step Tutorial</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-dell-audio-driver-updates-instantly-free-guide-available-online/"><u>Get the Latest Dell Audio Driver Updates Instantly – Free Guide Available Online</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Poco C55? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-poker-playpersonalized-projections/"><u>In 2024, POKER PLAYPERSONALIZED PROJECTIONS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/instant-access-to-intel-thunderbolt-drives-download-and-installation-made-simple/"><u>Instant Access to Intel Thunderbolt Drives - Download & Installation Made Simple</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-qualcomm-atheros-ar3011-bluetooth-30-drivers-available-now-download-instantly/"><u>Latest Qualcomm Atheros AR3011 Bluetooth 3.0 Drivers Available Now, Download Instantly!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-fixes-for-when-your-igfxem-module-crashes-unexpectedly/"><u>Quick Fixes for When Your IgfxEM Module Crashes Unexpectedly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015998543-windows-10/"><u>Windows 지스 10에서 소음이 끊어질 수 있는 문제 해결</u></a></li>
 </ul></div>
 

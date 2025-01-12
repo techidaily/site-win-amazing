@@ -1,7 +1,7 @@
 ---
 title: Essential HP OfficeJet 5255 Software Update - Free Download and Installation Instructions
-date: 2025-01-04T20:29:56.528Z
-updated: 2025-01-05T23:08:23.720Z
+date: 2025-01-08T20:27:57.607Z
+updated: 2025-01-11T19:55:00.018Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to update Validity fingerprint sensor drivers
 
@@ -47,20 +51,16 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 3. Type**device** into the search box. Then select**Device Manager** from a list of search results.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1098.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Here comes**Device Manager** . Click the**▷** symbol to the left of**Biometric Devices** to expand its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1073.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Right-click on**Validity Sensors (WBF)** to open its context menu. Then select**Update Driver Software…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-11-03.png)
 6. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-18-21.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Wait till the download and installation process finishes.
@@ -69,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 9. Now your driver has been updated by Windows successfully. Don’t forget to**restart** your computer for the changes to take effect even if you’re not asked to.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 2 – Update your driver from official websites**
 
@@ -91,11 +95,7 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Validity fingerprint sensor driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-36-48-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -126,22 +126,24 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-iphone-hdr-excellence-comprehensive-tutorial/"><u>[Updated] IPhone HDR Excellence Comprehensive Tutorial</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-sync-your-speech-with-visuals-the-art-of-ppt-voiceovers/"><u>[Updated] Sync Your Speech with Visuals The Art of PPT Voiceovers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-background-guide-for-online-video-calls-for-2024/"><u>[Updated] The Ultimate Background Guide for Online Video Calls for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/asus-releases-intel-baseline-update-resolves-stability-issues-for-gamers-on-raptor-lakerefresh-processors/"><u>Asus Releases Intel Baseline Update: Resolves Stability Issues for Gamers on Raptor Lake/Refresh Processors</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/boost-gaming-results-with-an-updated-asus-radeon-r9-fury-x/"><u>Boost Gaming Results with an Updated ASUS Radeon R9 Fury X</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/comprehensive-guide-on-revamping-your-intel-centrino-advanced-n-wifi-card-ahp-with-latest-drivers/"><u>Comprehensive Guide on Revamping Your Intel Centrino Advanced-N WiFi Card (AHP) with Latest Drivers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/rting-youtube-journeys-into-animated-expressions-a-comprehensive-guide-for-mobiledesktop-users-for-2024/"><u>Converting YouTube Journeys Into Animated Expressions A Comprehensive Guide for Mobile/Desktop Users for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-epson-xp-310-driver-updates-to-enhance-your-printing-experience/"><u>Get the Newest Epson XP-310 Driver Updates to Enhance Your Printing Experience</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-13-pro-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 13 Pro</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-find-download-and-setup-epson-es-400-driver-for-seamless-scanning-on-windows-operating-system/"><u>How To Find, Download & Setup Epson ES-400 Driver For Seamless Scanning On Windows Operating System</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/improve-your-speakers-performance-free-msi-drivers-downloads-for-windows-machines/"><u>Improve Your Speakers' Performance: Free MSI Drivers Downloads for Windows Machines</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/no-cost-solutions-obtaining-and-installing-the-latest-nvidia-3d-vision-drivers-for-windows/"><u>No-Cost Solutions: Obtaining and Installing the Latest Nvidia 지능 3D Vision Drivers for Windows</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ssional-insights-expert-level-youtube-video-tweaks/"><u>Professional Insights Expert-Level Youtube Video Tweaks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/selecting-the-safest-and-most-suitable-mobile-devices-for-children-a-comprehensive-review/"><u>Selecting the Safest & Most Suitable Mobile Devices for Children: A Comprehensive Review</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-comfort-of-cumuluspro-mats-for-ergonomic-desks-the-ultimate-evaluation/"><u>Unveiling the Comfort of CumulusPRO Mats for Ergonomic Desks: The Ultimate Evaluation</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-now-the-latest-version-of-brother-scanning-software-for-windows-computers/"><u>Update Now: The Latest Version of Brother Scanning Software for Windows Computers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/windows-11-compatible-get-and-install-nvidia-1080-drivers-fast-and-easy/"><u>Windows 11 Compatible: Get and Install NVIDIA 1080 Drivers Fast & Easy!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-charismatic-communicator-overview-part-8-for-2024/"><u>[New] Charismatic Communicator Overview, Part 8 for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-innovative-ways-for-sound-capture-in-modern-windows-11-pcs/"><u>[New] Explore Innovative Ways for Sound Capture in Modern Windows 11 PCs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ail-the-next-best-thing-youtube-studio-editing-mastery-for-2024/"><u>[New] Nail the Next Best Thing YouTube Studio Editing Mastery for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-onscreen-excellence-flexible-talent-access/"><u>[New] Onscreen Excellence Flexible Talent Access</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-superior-smartphones-that-dominate-in-video-recording/"><u>2024 Approved Superior Smartphones That Dominate in Video Recording</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-setup-for-logitech-k350-keys-fetch-the-drivers-here/"><u>Complete Setup for Logitech K350 Keys - Fetch the Drivers Here</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-installation-instructions-for-the-epson-xp-410-driver-on-windows-systems/"><u>Download & Installation Instructions for the Epson XP-410 Driver on Windows Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-official-hp-officejet-3830-software-and-drivers-for-windows-pcs/"><u>Download the Official HP OfficeJet 3830 Software & Drivers for Windows PCs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvd-styler-dvd/"><u>DVD Styler 初学者ガイド: スムーズなダウンロードからDVDライティングまで</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-upgrades-finding-and-applying-the-latest-software-for-epson-xp-440-devices/"><u>Effortless Upgrades: Finding & Applying the Latest Software for Epson XP-440 Devices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-free-download-for-your-realtek-usbpc-card-reader-on-windows-11/"><u>Get the Latest [Free Download] for Your RealTek USB/PC Card Reader on Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-fix-logitech-f710-driver-issue-on-windows-111087/"><u>How to Fix Logitech F710 Driver Issue on Windows 11/10/8/7</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-tecno-spark-go-2023-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Tecno Spark Go (2023) without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-fix-for-bluetooth-issues-download-techkey-adapter-drivers-compatible-with-all-windows-versions/"><u>Quick Fix for Bluetooth Issues - Download Techkey Adapter Drivers Compatible with All Windows Versions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-and-fast-download-of-lenovo-laptop-model-x230-essential-drivers/"><u>Secure and Fast Download of Lenovo Laptop Model X230 Essential Drivers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/showing-the-mouse-trail-how-to-save-your-display-with-a-visible-cursor-in-windows-10/"><u>Showing the Mouse Trail: How to Save Your Display with a Visible Cursor in Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-customizing-your-windows-11-notepad-appearance/"><u>Step-by-Step: Customizing Your Windows 11 Notepad Appearance</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-non-attached-usb-device-dilemma-in-virtualbox-environment/"><u>Tackling Non-Attached USB Device Dilemma in VirtualBox Environment</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-tutorial-on-rejuvenating-windows-11107-usb-audio-device-drivers/"><u>The Ultimate Tutorial on Rejuvenating Windows 11/10/7 USB Audio Device Drivers</u></a></li>
 </ul></div>
 

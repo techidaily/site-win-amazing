@@ -1,7 +1,7 @@
 ---
 title: Get the Latest ASUS PCE-AC68 WiFi Card Drivers for FREE Today
-date: 2025-01-02T16:20:32.404Z
-updated: 2025-01-05T18:31:39.810Z
+date: 2025-01-08T13:35:10.700Z
+updated: 2025-01-12T15:15:49.464Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 
 [**Method 2 – Automatically:**](https://tools.techidaily.com/drivereasy/download/) This option is **much quicker and easier** . **All**   you need to do is **just a couple of mouse clicks** !
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Download and update the drivers for your Surface Book 2 manually
 
  You can download the updated driver files from the official website of Microsoft. Then install them on your Surface Book 2 on your own. Here is how to do it:
@@ -47,11 +43,15 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap715.png)
 3. Scroll down until you see**Surface Book 2** on the table. Then click its drivers download link to continue.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap716.png)
 4. Click**Download** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap717.png)
@@ -61,15 +61,11 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
  For example, if the build of Windows 10 you’ve installed is build 17763, you should select  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **SurfaceBook2\_Win10\_17763\_1805009\_0.msi** . If you’re not sure about the version of Windows 10 you’ve installed, go to**Start** \>**Settings** \>**System** \>**About** to view **the OS Build number** .
 6. Double-click the downloaded file and follow the on-screen instructions to install its drivers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Download and update the drivers for your Surface Book 2 automatically
 
@@ -82,11 +78,15 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap719.png)
 3. Click **Update**  next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.** You get **full support**  and a **30-day money back**  guarantee).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap720.png)  
  You can do it for free if you like, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -111,17 +111,20 @@ thumbnail: https://thmb.techidaily.com/7edef45fd75169561f9bad79743f47061c9d71920
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-photo-sharpening-mastery-with-1-10-online-editors/"><u>[New] 2024 Approved Photo Sharpening Mastery with #1-10 Online Editors</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ecoding-the-language-of-asmr-videos-for-2024/"><u>[New] Decoding the Language of ASMR Videos for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-how-to-screenshot-on-mac-5-simple-ways/"><u>[New] In 2024, How to Screenshot on Mac - 5 Simple Ways</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-achieving-broadcast-excellence-from-recordings-to-livestreams-on-obs/"><u>[Updated] 2024 Approved Achieving Broadcast Excellence From Recordings to Livestreams on OBS</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/boost-your-fps-and-resolve-stuttering-issues-a-comprehensive-guide-for-valorant-gamers/"><u>Boost Your FPS & Resolve Stuttering Issues: A Comprehensive Guide for Valorant Gamers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-tips-on-how-to-refresh-samsung-mobile-usb-drivers/"><u>Easy Tips on How to Refresh Samsung Mobile USB Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ensure-optimal-performance-how-to-find-and-install-updates-for-epson-wf-3720-drivers/"><u>Ensure Optimal Performance: How to Find and Install Updates for Epson WF-3720 Drivers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-master-the-art-of-trailer-creation-for-enhanced-income/"><u>In 2024, Master the Art of Trailer Creation for Enhanced Income</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-artistic-journey-animating-scenes-with-windows-movie-maker/"><u>In 2024, The Artistic Journey Animating Scenes with Windows Movie Maker</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-focusrite-scarlett-solo-driver-for-windows-now-step-by-step-tutorial-inside/"><u>Install Focusrite Scarlett Solo Driver for Windows Now – Step-by-Step Tutorial Inside</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-successfully-downloading-and-setting-up-arduino-nano-on-your-pc/"><u>Step-by-Step Guide: Successfully Downloading & Setting Up Arduino Nano on Your PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-15-free-protective-boot-loaders-you-should-try-today/"><u>The Ultimate List of 15 Free Protective Boot Loaders You Should Try Today</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-tricks-to-faster-and-smoother-instagram-media/"><u>[New] 2024 Approved Tricks to Faster and Smoother Instagram Media</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-how-to-screen-capture-google-meet-quick-mobile-guide/"><u>[New] In 2024, How to Screen Capture Google Meet Quick Mobile Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-ultimate-film-previews-collection-for-2024/"><u>[New] Ultimate Film Previews Collection for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-amplify-youtube-visibility-crafting-effective-descriptions-and-tags/"><u>[Updated] In 2024, Amplify YouTube Visibility Crafting Effective Descriptions & Tags</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-old-tech-new-memories-portraits-from-iphone-x/"><u>[Updated] Old Tech, New Memories Portraits From iPhone X</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fixing-xbox-accessory-controller-acc-drivers-in-windows-10-8-and-7-solved/"><u>Fixing Xbox Accessory Controller (ACC) Drivers in Windows 10, 8 & 7: Solved!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-focusrite-scarlett-2i2-windows-drivers-here/"><u>Get Your Focusrite Scarlett 2I2 Windows Drivers Here!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hassle-free-downloads-and-setup-of-your-hp-devices-essential-drivers/"><u>Hassle-Free Downloads & Setup of Your HP Device's Essential Drivers!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-easily-install-updated-drivers-for-your-tp-link-usb-400-bluetooth-transmitter/"><u>How To Easily Install Updated Drivers For Your TP-Link USB 400 Bluetooth Transmitter</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-redmi-12-5g-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Redmi 12 5G</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-and-download-amd-vega-graphics-card-drivers-for-ultimate-gaming-experience/"><u>How to Update and Download AMD Vega Graphics Card Drivers for Ultimate Gaming Experience</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-pagewide-pro-477dw-driver-update-for-windows-operating-systems-11-10-and-8-download-now/"><u>HP PageWide Pro 477DW Driver Update for Windows Operating Systems: 11, 10, and 8 – Download Now!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-your-digital-library-using-funimate/"><u>In 2024, Streamline Your Digital Library Using Funimate</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/journey-through-time-discovering-7-classic-windows-traits-in-11/"><u>Journey Through Time: Discovering 7 Classic Windows Traits in 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/streamline-your-pc-with-fast-download-of-amd-ryzen-5-2600-drivers/"><u>Streamline Your PC with Fast Download of AMD Ryzen 5 2600 Drivers</u></a></li>
 </ul></div>
 
