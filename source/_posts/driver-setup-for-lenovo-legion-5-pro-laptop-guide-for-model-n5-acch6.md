@@ -1,7 +1,7 @@
 ---
 title: "Driver Setup for Lenovo Legion 5 Pro Laptop: Guide for Model N5, ACCH6"
-date: 2025-01-10T22:02:44.577Z
-updated: 2025-01-11T18:49:56.486Z
+date: 2025-01-16T05:27:35.167Z
+updated: 2025-01-18T00:46:56.238Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to update your Intel NVMe driver
@@ -40,22 +40,22 @@ There are two ways you can update your driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 1 – Update the driver manually
 
 **Intel** keeps updating the NVMe drivers. To get them, you need to go to the **[Intel Support](https://downloadcenter.intel.com/product/35125/Memory-and-Storage)**  website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10, 64 bit) and download the driver manually.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-162.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file (usually with the EXE extension) and follow the on-screen instructions to install the driver.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Intel NVMe driver
@@ -71,11 +71,11 @@ There are two ways you can update your driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update yourIntel NVMe driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-163.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -110,24 +110,22 @@ There are two ways you can update your driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-exploring-youtubes-ownership-vs-cc-freedom/"><u>[New] Exploring YouTube's Ownership Vs. CC Freedom</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-brilliant-asus-monitor-ultrahd-true-black/"><u>[Updated] 2024 Approved Brilliant Asus Monitor UltraHD, True Black</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-superior-hd-video-capture-options-reviewed-here/"><u>[Updated] 2024 Approved Superior HD Video Capture Options Reviewed Here</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asus-usb-bt500-bluetooth-drivers-download-compatible-with-win-11108/"><u>Asus USB-BT500 Bluetooth Drivers: Download Compatible with Win 11/10/8</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/avoiding-common-hashtag-faux-pas-on-instagram/"><u>Avoiding Common Hashtag Faux Pas on Instagram</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatbots-and-their-art-of-conversational-simulation/"><u>Chatbots and Their Art of Conversational Simulation</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-set-of-hp-laserjet-1018-printing-drivers-free-download/"><u>Complete Set of HP LaserJet 1018 Printing Drivers - Free Download</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-logitech-speakers-software-compatible-with-windows-11-7-and-8/"><u>Download Logitech Speakers Software Compatible with Windows 11, 7 & 8</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-updated-intel-wireless-adapter-driver-for-windows-operating-systems-including-11107/"><u>Download Updated Intel Wireless Adapter Driver for Windows Operating Systems Including 11/10/7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-install-brother-mfc-7360n-printer-drivers-for-windows-10-8-and-7-step-by-step-guide/"><u>Easy Install: Brother MFC-7360N Printer Drivers for Windows 10, 8 & #7 - Step by Step Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-downloader-brother-mfc-l2n90dw-printer-software-update/"><u>Free Downloader: Brother MFC-L2n90DW Printer Software Update</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-update-of-your-canoscan-lide-120-scanner-driver-here/"><u>Get the Latest Update of Your CanoScan LiDE-120 Scanner Driver Here!</u></a></li>
-<li><a href="https://change-location.techidaily.com/honor-70-lite-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor 70 Lite 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Realme C67 4G? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/intel-iris-xe-graphics-drivers-download-for-windows-11-update-now/"><u>Intel® Iris® Xe Graphics Drivers Download for Windows 11 - Update Now!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/mastering-the-mighty-spartans-move-set/"><u>Mastering the Mighty Spartan's Move Set</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-fix-how-to-successfully-install-new-driver-for-your-pcs-motherboard-on-windows/"><u>Quick Fix: How to Successfully Install New Driver for Your PC's Motherboard on Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ultimate-guide-finding-and-installing-ralink-network-adapter-drivers-on-windows/"><u>Ultimate Guide: Finding and Installing Ralink Network Adapter Drivers on Windows</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/webcam-integration-for-flawless-gameplay-logs-for-2024/"><u>Webcam Integration for Flawless Gameplay Logs for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-simplified-image-editing-getting-rid-of-background-in-one-click/"><u>[New] 2024 Approved Simplified Image Editing Getting Rid of Background in One Click</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-enhancing-narratives-a-guide-to-using-b-roll/"><u>[New] Enhancing Narratives A Guide to Using B-Roll</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-audio-clarity-10-pro-tips-for-high-quality-recordings/"><u>[Updated] In 2024, Audio Clarity 10 Pro Tips for High-Quality Recordings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-principled-steps-in-logging-live-youtube-videos/"><u>2024 Approved Principled Steps in Logging Live YouTube Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/benchmarking-the-future-in-depth-analysis-on-top-gaming-laptops-in-202/"><u>Benchmarking The Future: In-Depth Analysis on Top Gaming Laptops in 202</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-drivers-for-hp-officejet-4650-printer-on-windows-pc/"><u>Download & Install Drivers for HP Officejet 4650 Printer on Windows PC</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/echoes-of-evolution-the-african-language-odyssey/"><u>Echoes of Evolution: The African Language Odyssey</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-wifi-performance-fresh-driver-installation-tips-for-windows-1110-users/"><u>Enhance WiFi Performance: Fresh Driver Installation Tips for Windows 11/10 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-asrock-ab350-pro4-driver-pack-for-free-seamless-installation-on-windows/"><u>Get Your ASRock AB350 Pro4 Driver Pack for Free: Seamless Installation on Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-and-setup-the-latest-windows-display-driver-for-your-dell-monitor/"><u>How To Download And Setup The Latest Windows Display Driver For Your Dell Monitor</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-12-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi 12 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/improve-your-gameplay-download-and-install-steelseries-windows-graphics-driver/"><u>Improve Your Gameplay: Download & Install SteelSeries Windows Graphics Driver</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-gopro-hero5-time-lapse-photography/"><u>In 2024, The Ultimate Guide to GoPro Hero5 Time-Lapse Photography</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-acers-newest-touchpad-drivers-wlan-f3u-optimized-for-windows-free/"><u>Install Acer's Newest Touchpad Drivers (WLAN-F3U) - Optimized for Windows ([Free])</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/new-driver-enhancement-for-high-speed-internet-access-with-usb-30-ethernet-adapter/"><u>New Driver Enhancement for High-Speed Internet Access with USB 3.0 Ethernet Adapter</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-oppo-a38-by-drfone-android/"><u>Top 10 Password Cracking Tools For Oppo A38</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/wireless-driver-updates-for-windows-10-and-11-ensuring-your-network-connectivity/"><u>Wireless Driver Updates for Windows 10 & 11: Ensuring Your Network Connectivity</u></a></li>
 </ul></div>
 

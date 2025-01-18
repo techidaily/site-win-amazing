@@ -1,7 +1,7 @@
 ---
 title: Effortlessly Enhance Your System with New Intel Iris + Graphics 640 Drivers - Easy Installation Steps Inside!
-date: 2024-08-13T09:44:01.879Z
-updated: 2024-08-14T09:44:01.879Z
+date: 2025-01-16T20:57:51.233Z
+updated: 2025-01-17T18:40:28.075Z
 tags:
   - win11
   - win10
@@ -19,12 +19,13 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 
  Looking to update your Intel Iris Plus Graphics 640 driver but not sure where to get the latest download? If yes, then you’ve come to the right place. In this post, you’ll have two ways to download and install the driver efficiently.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why should I update the Intel Iris Plus Graphics 640 driver
 
  Updating drivers is beneficial to the stability of your hardware devices, whether it is a printer, video card, or audio output device. By rolling out new drivers, original equipment manufacturers (OEM) improve the functionality of their products and correct technical issues reported by users. Therefore, if you ever encounter any problems relating to your graphics card (such as game crashing), try to update the corresponding driver and see whether that gets you out of trouble. Or if you want to make the most of your GPU, keeping the drivers up to date is also important.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to update the Intel Iris Plus Graphics 640 driver
 
@@ -39,9 +40,9 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1 – Automatically update the driver
 
  If you don’t have the time, patience or computer skills to update your Intel Iris Plus Graphics 640 driver manually,**you can do it automatically with** **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -51,14 +52,12 @@ OR
  You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update Intel Iris Plus Graphics 640 driver, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-24_12-24-30.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -67,8 +66,9 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2 – Update the driver manually
 
 If you opt for updating the driver manually, here’s the procedure:
@@ -76,11 +76,13 @@ If you opt for updating the driver manually, here’s the procedure:
 1. Click **[here](https://downloadcenter.intel.com/product/98911/Intel-Iris-Plus-Graphics-640)**  to visit the download page of Intel Iris Plus Graphics 640 driver.
 2. Click**Intel® Graphics – Windows® 10 DCH Drivers** .![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-24_12-31-07.jpg)
 3. Pay attention to the left section and click the**download** button below the**EXE** file available for download. (You can otherwise download the ZIP file. Note that it’s compressed so you’ll need to extract it before installing the driver on PC.)  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Also, if you want to download a certain version of drivers, you can click the desired one beneath**Other Versions** .![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-24_12-33-59.jpg)
 4. Once you’ve downloaded the correct file, double-click on it and follow the onscreen instructions to install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. **Reboot** your PC for the changes to take effect.
 
 ---
@@ -97,8 +99,6 @@ If you opt for updating the driver manually, here’s the procedure:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +106,21 @@ If you opt for updating the driver manually, here’s the procedure:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-streamlined-social-media-management-our-picks-of-the-best-8-planners/"><u>[New] 2024 Approved Streamlined Social Media Management Our Picks of the Best 8 Planners</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mov-to-ogg-movavi/"><u>無料のオンライン MOV to OGG コンバータ - Movavi で使いやすく改良</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/app-store-showdown-ios-vs-google-play-which-reigns-supreme/"><u>App Store Showdown: IOS Vs. Google Play – Which Reigns Supreme?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/compact-computers-on-the-go-minisforum-s10ns-poe-and-networking-capabilities-featuring-alder-lake-cpus/"><u>Compact Computers on the Go: Minisforum S10n's PoE and Networking Capabilities Featuring Alder Lake CPUs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easily-update-your-canon-mg3420-printer-download-the-latest-windows-1087-drivers-today/"><u>Easily Update Your Canon MG3420 Printer: Download the Latest Windows 10/8/7 Drivers Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-download-and-installation-of-epson-xp-430-drivers-for-windows-comprehensive-tutorial/"><u>Easy Download & Installation of Epson XP-430 Drivers for Windows: Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-madden-nfl-20-pc-game-crash-issues-a-step-by-step-guide/"><u>Fixing Madden NFL 20 PC Game Crash Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-updated-drivers-for-your-hp-deskjet-2540-free-downloads-available-now/"><u>Get the Updated Drivers for Your HP DeskJet 2540 - FREE Downloads Available Now!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-microsoft-store-not-opening-issue-solved/"><u>How to Fix Microsoft Store Not Opening Issue – Solved</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-revive-unify-linker-writes-for-pcs/"><u>How to Revive Unify Linker' Writes for PCs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/nvidia-rtx-2e70-super-drivers-install-and-update-instructions-for-windows-1011-users/"><u>NVIDIA RTX 2E70 Super Drivers: Install & Update Instructions for Windows 10/11 Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726026561850-pc/"><u>PCゲームのスクリーンレコーディングを最速で行う方法</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-guide-easy-downloads-for-zebra-gk420d-device-driver/"><u>Quick Guide: Easy Downloads for Zebra GK420D Device Driver</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oneplus-11r-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for OnePlus 11R Bricked Devices | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "NVIDIA 1080 Driver Update for Windows 10: Fast & Easy Tutorial"
-date: 2025-01-04T19:31:46.020Z
-updated: 2025-01-12T00:42:11.504Z
+date: 2025-01-16T23:38:10.017Z
+updated: 2025-01-18T01:05:31.702Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **How to Download the Drivers from NVIDIA Manually**
 
  Ensure that you download the correct version, as incorrect version of the driver would cause incompatibility issue. Following steps are for your reference.
@@ -38,12 +34,16 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 
 ![NVIDIA Drivers](https://images.drivereasy.com/wp-content/uploads/2016/09/img_57ccd935a0f0a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2\. Under Option 1, select “Product Type” to**GeForce** , “Product Series” to**GeForce 10 Series** , “Product” to**Geforce GTX 1080** , then select the Operating System to the specific version that you are using (Windows 10 32-bit or Windows 10 64-bit). If you are not sure what Windows version that you have, see[How to Quickly Get Operating System Version](https://tools.techidaily.com/drivereasy/download/) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_581410198d290.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3\. Click on**SEARCH** button. Then you will be directed to the download page.
@@ -53,13 +53,13 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_581412f0a2c64.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Searching and Downloading drivers manually can take forever. And it is possible to download the incompatible drivers. So instead of downloading Windows 10 drivers for Geforce GTX 1080 manually, you can use[Driver Easy](https://tools.techidaily.com/drivereasy/download/) to help you automatically. With Driver Easy, you can expect that much time and energy will be saved on updating drivers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Download Drivers with just 2 Clicks**
@@ -70,13 +70,13 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58eca1022f7b7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2\. Click**Update** button to download the driver that you wish to install.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58eca27c67b42.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  With Free version, after download completes, you are required to install the driver manually. If you want to have the driver installed automatically, you can consider upgrading to the Paid version. The Paid version will provide you with higher download speed and full features. Moreover, you will enjoy free technical support. You can[contact our professional support team](https://tools.techidaily.com/drivereasy/download/) for further assistance regarding any driver issue you’ve met. And you will have 30-day money back guarantee. Just feel free to ask for a full refund if you are not satisfied with the product.
 
@@ -95,24 +95,22 @@ Keep the NVIDIA GeForce GTX 1080 drivers on Windows 10 up-to-date, then you will
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-5-best-ways-to-make-money-on-youtube-shorts-today/"><u>[Updated] 2024 Approved The 5 Best Ways to Make Money on YouTube Shorts Today</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-crafting-compelling-thumbnails-to-captivate-youtube-viewers-and-encourage-clicks-for-2024/"><u>[Updated] Crafting Compelling Thumbnails to Captivate YouTube Viewers and Encourage Clicks for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-navigating-the-in-stream-ad-landscape-on-facebook/"><u>[Updated] Navigating the In-Stream Ad Landscape on Facebook</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-new-drivers-for-canon-mg7125cmg8120-printers-on-windows-1011/"><u>Download & Install New Drivers for Canon MG7125C/MG8120 Printers on Windows 10/11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-epson-workforce-ds-30-printer-driver-for-windows-11-8-and-7/"><u>Download the Epson WorkForce DS-30 Printer Driver for Windows 11, 8 & 7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-guide-to-obtain-and-install-nvidia-3d-vision-drivers-at-no-cost-for-windows-users/"><u>Easy Guide to Obtain and Install Nvidia 3D Vision Drivers at No Cost for Windows Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-unresponsive-audio-streams-online/"><u>Effective Solutions for Unresponsive Audio Streams Online</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-enhanced-performance-downloading-and-updating-nvidia-quadro-rtx-4000-drivers/"><u>Get Enhanced Performance: Downloading & Updating NVIDIA Quadro RTX 4000 Drivers</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/is-conferencing-worth-your-time-discover-effective-strategies-with-massmail-tools/"><u>Is Conferencing Worth Your Time? Discover Effective Strategies with MassMail Tools!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-thunderbolt-software-updates-and-downloads-for-pcs-with-windows-os/"><u>Latest Thunderbolt Software Updates and Downloads for PCs with Windows OS</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/optimize-your-pc-now-swift-installation-of-updated-intel-iris-540-video-card-drivers/"><u>Optimize Your PC Now: Swift Installation of Updated Intel Iris 540 Video Card Drivers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-m34-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy M34</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-honor-v-purse-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Honor V Purse to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-and-installing-the-latest-versions-of-xp-pen-device-drivers/"><u>Step-by-Step Guide: Updating and Installing the Latest Versions of XP-Pen Device Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-obtaining-the-latest-driver-update-for-amd-ati-radeon-hd-3450/"><u>Step-by-Step Tutorial: Obtaining the Latest Driver Update for AMD ATI Radeon HD 3450</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-rated-apple-watch-series-8-band-options/"><u>Top-Rated Apple Watch Series 8 Band Options</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/upgrade-to-enhanced-functionality-with-steelseries-keyboard-driver/"><u>Upgrade to Enhanced Functionality with SteelSeries Keyboard Driver</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209983476-9781420967265-your-invisible-power/"><u>Your Invisible Power | Free Book</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-updated-drivers-for-hp-scanjet-on-windows-systems-win1087/"><u>[FREE] Download Updated Drivers for HP Scanjet on Windows Systems (Win10/8/7)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-guide-to-the-best-ps3-gaming-on-pc/"><u>[Updated] The Ultimate Guide to the Best PS3 Gaming on PC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-8-best-video-calling-app-for-windows-for-2024/"><u>[Updated] Top 8 Best Video Calling App for Windows for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-how-to-outsmart-youtube-sanctions/"><u>2024 Approved How to Outsmart Youtube Sanctions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-selective-alarm-tunes-elite-download-spots/"><u>2024 Approved Selective Alarm Tunes Elite Download Spots</u></a></li>
+<li><a href="https://games-able.techidaily.com/discover-the-best-hats-and-pads-for-decks/"><u>Discover the Best Hats & Pads for Decks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-updated-drivers-for-your-hp-laserjet-p1nk7-enhanced-performance-and-features/"><u>Download Updated Drivers for Your HP LaserJet P1nk7 - Enhanced Performance & Features</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-install-the-newest-epson-wf-3620-drivers-for-win-1087-troubleshooting-tips-included/"><u>Find & Install the Newest Epson WF-3620 Drivers for Win 10/8/7 - Troubleshooting Tips Included</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-the-latest-drivers-for-your-brother-mfc-l2e6wd-wireless-all-in-one-printer-on-a-windows-pc/"><u>How to Get the Latest Drivers for Your Brother MFC-L2e6WD Wireless All-in-One Printer on a Windows PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-or-upgrade-your-brother-mfc-7860dw-driver-with-ease-on-windows-os/"><u>Install or Upgrade Your Brother MFC-7860DW Driver with Ease on Windows OS</u></a></li>
+<li><a href="https://facebook.techidaily.com/instructions-handling-minors-in-facebook-groups/"><u>Instructions: Handling Minors in Facebook Groups</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/killer-e2500-network-controller-software-free-downloads/"><u>Killer E2500 Network Controller Software - FREE Downloads</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-call-management-how-to-tackle-inability-to-take-calls-on-the-samsung-galaxy-watch-series/"><u>Mastering Call Management: How to Tackle Inability to Take Calls on the Samsung Galaxy Watch Series</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mpow-drivers-for-wireless-connectivity-update-guide-for-pcs/"><u>MPOW Drivers for Wireless Connectivity: Update Guide for PCs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/principles-of-documentary-storytelling/"><u>Principles of Documentary Storytelling</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/razer-mamba-driver-download-quick-and-easy-methods-unveiled/"><u>Razer Mamba Driver Download: Quick & Easy Methods Unveiled</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo Y100 5G | Dr.fone</u></a></li>
 </ul></div>
 

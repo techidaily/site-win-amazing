@@ -1,7 +1,7 @@
 ---
 title: Step by Step Tutorial to Get Canon PRO 100 Up and Running on Windows Systems
-date: 2025-01-08T16:24:46.351Z
-updated: 2025-01-12T01:28:10.717Z
+date: 2025-01-14T19:06:57.396Z
+updated: 2025-01-18T01:00:49.107Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## To update your fingerprint driver in Windows
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Update your fingerprint driver automatically (Recommended)
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-48.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
@@ -63,14 +63,14 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-49.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.  
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Update fingerprint driver manually
@@ -102,19 +102,24 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-key-picks-the-best-6-online-communities-for-enterprise-expansion/"><u>[New] 2024 Approved Key Picks The Best 6 Online Communities for Enterprise Expansion</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-essential-list-of-premium-free-srt-translators/"><u>[New] The Essential List of Premium FREE SRT Translators</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-game-of-thrones-ringtones-premier-download-websites-ranked-for-2024/"><u>[Updated] Game of Thrones Ringtones Premier Download Websites Ranked for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-perfecting-presentations-with-zoom-screenshares/"><u>[Updated] Perfecting Presentations with Zoom Screenshares</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-voice-maestros-toolkit-free-applications-to-enrich-your-auditory-palette-for-2024/"><u>[Updated] The Voice Maestro's Toolkit Free Applications to Enrich Your Auditory Palette for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722963240455-easy-access-to-up-to-date-drivers-for-epson-xp-440-download-instructions-here/"><u>Easy Access to Up-to-Date Drivers for Epson XP-440 - Download Instructions Here!</u></a></li>
-<li><a href="https://fox-access.techidaily.com/future-proof-your-data-with-top-30-free-unlimited-1tbplus-options/"><u>Future-Proof Your Data with Top 30 Free, Unlimited (1TB+) Options</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-hands-on-the-best-gigabyte-sound-card-driver-complimentary-download/"><u>Get Your Hands on the Best Gigabyte Sound Card Driver - Complimentary Download</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-oppo-reno-10-proplus-5g-easily-by-drfone-android/"><u>How To Unlock a Oppo Reno 10 Pro+ 5G Easily?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-deskjet-2755e-printer-software-download-for-windows-pcs/"><u>HP DeskJet 2755E Printer Software Download for Windows PCs</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-hp-officejet-4500-printer-software-free-download/"><u>Latest HP OfficeJet 4500 Printer Software - Free Download</u></a></li>
-<li><a href="https://games-able.techidaily.com/mute-mastery-for-a-peaceful-xbox-experience/"><u>Mute Mastery for a Peaceful Xbox Experience</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722965982541-obtain-intel-centrino-wireless-1000n-6205-card-driver-software-here/"><u>Obtain Intel Centrino Wireless 1000N (6205) Card Driver Software Here</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-to-download-and-enhance-rndis-drivers-in-windows-now-fixed/"><u>Step-by-Step Tutorial to Download & Enhance RNDIS Drivers in Windows Now Fixed!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-beatback-bungalow-recordings-downloads-and-reviews/"><u>[Updated] 2024 Approved Beatback Bungalow Recordings Downloads & Reviews</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-maximizing-memories-the-ultimate-guide-for-overwatch-players/"><u>[Updated] 2024 Approved Maximizing Memories The Ultimate Guide for Overwatch Players</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-lgs-lg-360-camera-update-unveiled-and-analyzed-for-2024/"><u>[Updated] LG's LG 360 Camera Update Unveiled & Analyzed for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/addressing-hardware-audio-driver-failures-the-case-of-the-realtek-alc887-on-pcs/"><u>Addressing Hardware Audio Driver Failures: The Case of the Realtek ALC887 on PCs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/asus-maximus-x-hero-simplified-process-to-enhance-with-latest-drivers/"><u>ASUS Maximus X Hero - Simplified Process to Enhance with Latest Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/completed-fix-inclusion-of-core-printer-and-scanner-supports-for-windows-11-users/"><u>Completed Fix: Inclusion of Core Printer and Scanner Supports for Windows 11 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-brother-mfc-l2740dw-drivers-step-by-step-for-windows-users/"><u>Download & Install Brother MFC-L2740DW Drivers: Step by Step for Windows Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-your-scansnap-s1300i-scanner-simple-steps/"><u>Download and Update Your ScanSnap S1300i Scanner - Simple Steps!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-bluetooth-controllers-working-download-drivers-here/"><u>Get Your Bluetooth Controllers Working - Download Drivers Here</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-and-update-toshiba-nb205-laptop-drivers-on-windows-pcs/"><u>How to Download and Update Toshiba NB205 Laptop Drivers on Windows PCs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-obtain-and-upgrade-intel-ac-9560-wi-fi-card-software-download-guide/"><u>How to Obtain and Upgrade Intel AC 9560 Wi-Fi Card Software - Download Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-common-youtube-shorts-when-thumbnails-disappear-without-notice/"><u>In 2024, Common YouTube Shorts When Thumbnails Disappear Without Notice</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-streamlining-your-video-creation-into-profit-youtube-edition/"><u>In 2024, Streamlining Your Video Creation Into Profit - Youtube Edition</u></a></li>
+<li><a href="https://fox-links.techidaily.com/integrating-soundscapes-with-fusion-studios-tips-for-2024/"><u>Integrating Soundscapes with Fusion Studio's Tips for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-internet-archiving-a-guide-to-using-the-wayback-machine/"><u>Mastering Internet Archiving: A Guide to Using the Wayback Machine</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/overwatch-recording-made-simple-with-us/"><u>Overwatch Recording Made Simple with Us</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/streamlining-online-recording-of-webcamplusscreen/"><u>Streamlining Online Recording of Webcam+Screen</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-app-compatible-netatmo-weather-station-a-review-of-elegance-and-functionality/"><u>The Ultimate App-Compatible Netatmo Weather Station: A Review of Elegance & Functionality</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-solutions-for-xbox-controllers-driver-problems-on-win11win8win7/"><u>Troubleshooting and Solutions for Xbox Controllers' Driver Problems on Win11/Win8/Win7</u></a></li>
 </ul></div>
 

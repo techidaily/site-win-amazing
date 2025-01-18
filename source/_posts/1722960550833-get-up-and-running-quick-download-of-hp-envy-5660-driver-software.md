@@ -1,7 +1,7 @@
 ---
 title: "Get Up & Running: Quick Download of HP Envy 5660 Driver Software!"
-date: 2025-01-10T04:34:44.746Z
-updated: 2025-01-11T17:23:48.508Z
+date: 2025-01-14T21:27:45.784Z
+updated: 2025-01-18T02:48:00.348Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/2b0be1d254da9a28eb7fb0462b3c66de235332cf8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 options to update **HP ENVY 5660 drivers**
@@ -42,12 +42,20 @@ If you’re not confident playing around with drivers manually, you can do it au
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e00c0171da.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Update **HP ENVY 5660**  driver manually
 
@@ -56,18 +64,10 @@ If you’re not confident playing around with drivers manually, you can do it au
 1. Go to **[HP’s official website for driver downloads](https://support.hp.com/hk-en/drivers)**  , and click**Printer** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17620c2da6d.jpg)
 2. Type**HP ENVY 5660** into the box and click**Submit** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1762cc8910c.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Make sure the selected operating system is **the right version for your Windows OS** (Windows 10, 64-bit in my example) and click**Download** in**the first result** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b176382863d2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Double-click on the downloaded file and follow the onscreen instructions to finish the install.
@@ -95,18 +95,18 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-classification-guide-to-diverse-video-cameras/"><u>[New] In 2024, Classification Guide to Diverse Video Cameras</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-unlocking-the-power-of-your-everyday-webcam-for-2024/"><u>[New] Unlocking the Power of Your Everyday Webcam for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-visualizing-sim-life-masterful-tactics-for-accurate-gameplay-recording-in-sims-4/"><u>[New] Visualizing Sim Life Masterful Tactics for Accurate Gameplay Recording in Sims 4</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-professional-video-recorder-for-windows-pcs/"><u>[Updated] Professional Video Recorder for Windows PCs</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/add-fun-to-youtube-comments-a-quick-guide-to-emojis/"><u>Add Fun to YouTube Comments A Quick Guide to Emojis</u></a></li>
-<li><a href="https://some-tips.techidaily.com/groundbreaking-ai-processor-developer-ceremorphic-reveals-strategies-post-stealth-mode/"><u>Groundbreaking AI Processor Developer Ceremorphic Reveals Strategies Post-Stealth Mode</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-hp-wifi-driver-on-your-pc-running-windows-os/"><u>Install HP Wifi Driver on Your PC Running Windows OS</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/iseebell-vs-other-budget-video-doorbells-comprehensive-reviews-and-buyers-guide/"><u>ISeeBell vs Other Budget Video Doorbells: Comprehensive Reviews & Buyer's Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/keep-your-lenovo-x260-laptop-running-smoothly-with-the-newest-windows-10-drivers/"><u>Keep Your Lenovo X260 Laptop Running Smoothly with the Newest Windows 10 Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-windows-drivers-for-your-brother-mfc-l2740dw-all-set-to-go/"><u>Latest Windows Drivers for Your Brother MFC-L2740DW All Set to Go!</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/step-by-step-process-for-a-fresh-start-factory-restoring-your-lenovo-computer-with-windows-11/"><u>Step-by-Step Process for a Fresh Start: Factory Restoring Your Lenovo Computer with Windows 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-itel-a60-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Itel A60 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722972091996-update-to-intels-hd-graphics-4400-drivers-now-free-and-easy-to-get/"><u>Update to Intel's HD Graphics 4400 Drivers Now - Free & Easy to Get</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-percussion-prospector-find-and-test-free-software/"><u>[New] 2024 Approved The Percussion Prospector – Find & Test Free Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-achieve-professional-results-with-simple-webcam-tech/"><u>[New] Achieve Professional Results with Simple WebCam Tech</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-story-upgrade-how-to-add-music-effectively-for-2024/"><u>[New] Instagram Story Upgrade How to Add Music Effectively for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-ultimate-list-most-captivating-phone-based-idlers/"><u>[Updated] In 2024, Ultimate List Most Captivating Phone-Based Idlers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-realme-gt-5-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Realme GT 5 Pro Phone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gtx-1650-super-graphics-card-drivers-download-for-windows-10-and-11/"><u>GTX 1650 Super Graphics Card Drivers Download for Windows 10 and 11</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/how-to-embrace-tiktok-as-a-macbook-enthusiast/"><u>How to Embrace TikTok as a MacBook Enthusiast</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-officejet-pro-8610-universal-driver-update-and-installation-guide-for-windows-users/"><u>HP Officejet Pro 8610: Universal Driver Update and Installation Guide for Windows Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-honor-magic-5-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Honor Magic 5 Through Google Earth?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-intel-iris-xe-graphics-driver-download-for-windows-1011/"><u>Latest Intel Iris Xe Graphics Driver Download for Windows 10/11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-tips-ensuring-smooth-operation-of-your-amd-rx-560-across-different-windows-systems/"><u>Troubleshooting Tips: Ensuring Smooth Operation of Your AMD RX 560 Across Different Windows Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-tecno-spark-10c-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Tecno Spark 10C Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

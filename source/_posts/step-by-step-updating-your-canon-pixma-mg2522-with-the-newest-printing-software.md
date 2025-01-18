@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Updating Your Canon PIXMA MG2522 with the Newest Printing Software"
-date: 2025-01-06T15:27:47.298Z
-updated: 2025-01-12T00:12:30.486Z
+date: 2025-01-15T22:16:42.761Z
+updated: 2025-01-17T19:55:52.688Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Table of contents
@@ -38,12 +38,16 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to get the correct driver?
 
  There are two ways you can get the right driver for your Logitech G402 mouse:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 1 – Download and install the driver manually**
 
@@ -65,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-19-38.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the **Update**  button next to the Logicool HID-compliant Cordless Mouse to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-51.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -85,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Fix Logitech M402 Mouse not Working Issues?
@@ -124,17 +124,17 @@ Lastly, you may want to try your wireless mouse on metal surfaces.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-spectral-synchronization-kit/"><u>2024 Approved Spectral Synchronization Kit</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722974143741-amd-smbus-driver-upgrades-made-simple-quick-downloads-available-here/"><u>AMD SMBus Driver Upgrades Made Simple – Quick Downloads Available Here!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-installation-xbox-360-controllers-drivers-compatible-download-guide/"><u>Easy Installation: Xbox 360 Controllers Drivers Compatible Download Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Lava Yuva 2? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-poco-f5-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Poco F5 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/insignia-ns-pcy5bma2-drivers-easy-download-and-installation-instructions-for-windows-11-10-and-7/"><u>Insignia NS-PCY5BMA2 Drivers: Easy Download & Installation Instructions for Windows 11, 10 & 7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-synaptics-trackpad-software-upgrade-and-download-guide/"><u>Latest Synaptics Trackpad Software Upgrade and Download Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/resolving-startech-device-drivers-troubles-in-windows-10-8-or-7-effective-methods/"><u>Resolving StarTech Device Drivers Troubles in Windows 10, 8 or 7 - Effective Methods!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-gopro-video-editing-quik-review-and-pc-alternatives/"><u>The Ultimate Guide to GoPro Video Editing Quik Review and PC Alternatives</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/which-artificial-intelligence-wins-an-in-depth-comparison-of-chatgpt-vs-microsoft-bing-vs-google-bard/"><u>Which Artificial Intelligence Wins? An In-Depth Comparison of ChatGPT Vs. Microsoft Bing Vs. Google Bard</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-advanced-hd-screen-capture-gadgets/"><u>[New] In 2024, Advanced HD Screen Capture Gadgets</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-expert-tutorial-quick-hassle-free-ios-snapshots/"><u>[New] In 2024, Expert Tutorial Quick, Hassle-Free iOS Snapshots</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-and-permanent-tiktok-bio-linking-methods/"><u>[New] Seamless & Permanent TikTok Bio Linking Methods</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-ultimate-srt-file-craftsmanship-manual/"><u>[New] The Ultimate SRT File Craftsmanship Manual</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-samsung-printer-up-and-running-in-windows-with-easy-to-install-drivers/"><u>Get Your Samsung Printer Up & Running in Windows with Easy-to-Install Drivers!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-roccat-mouse-driver-a-step-by-step-guide/"><u>How to Install Roccat Mouse Driver: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/identifying-whether-its-a-blizzard-battlenet-crash-or-your-own-tech-glitch/"><u>Identifying Whether It's a Blizzard Battle.net Crash or Your Own Tech Glitch</u></a></li>
+<li><a href="https://article-files.techidaily.com/impeccable-photo-cleanup-with-top-6-iphone-tools-for-objection-exclusion-for-2024/"><u>Impeccable Photo Cleanup with Top 6 iPhone Tools for Objection Exclusion for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/moveavi-mp3-wav/"><u>Moveavi에서 제공하는 MP3, WAV 비용 없이 구문 변환 도구 - 원격 사용</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quickly-get-your-brother-hl-3170cdw-drivers-installed-with-ease/"><u>Quickly Get Your Brother HL-3170cdw Drivers Installed with Ease</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/m-like-never-before-turning-on-youtubes-av1/"><u>Stream Like Never Before Turning On YouTube's AV1</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/windows-1110-updated-drivers-for-enhanced-performance-on-nvidia-rtx-2080-super-gpus/"><u>Windows 11/10 Updated Drivers for Enhanced Performance on Nvidia RTX #2080 Super GPUs</u></a></li>
 </ul></div>
 

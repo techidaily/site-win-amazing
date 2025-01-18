@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Installing Canon MX340 Drivers on Windows 11/8/7 Platforms
-date: 2025-01-07T00:53:08.416Z
-updated: 2025-01-11T23:08:01.267Z
+date: 2025-01-15T22:03:14.242Z
+updated: 2025-01-17T16:45:13.462Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ If you’re using Arduino products to create your own work but failed to connect
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why you need the driver?
 
  As we know, Arduino is an open-source electronics platform let users design and create their own work. But when you need to connect it with a Windows computer, you’ll need a correct and appropriate driver.
@@ -33,6 +29,10 @@ If you’re using Arduino products to create your own work but failed to connect
  It is because drivers are software components that make devices and the operating system talk to each other. Both system and device are updating to catch up with the changing world, so is drivers. If the operating system changes the way it speaks to devices and drivers haven’t updated, devices can’t receive correct commands and cause problems.
 
  That’s why most of the problems can be solved by installing/updating drivers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to download Arduino Nano driver?
 
@@ -44,10 +44,6 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-download-and-install-arduino-nano-driver-in-windows-solved/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 1 –** **Download and install the driver manually**
 
  The screenshots below are from Windows 10, but the steps are also valid for other Windows system.
@@ -58,11 +54,15 @@ OR
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
@@ -71,11 +71,11 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9725918e348.png)
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
- If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
 
 ### **Option 2 – Automatically update drivers**
 
@@ -90,12 +90,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/nano.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -118,24 +118,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-top-five-revolutionary-facebook-enhancements/"><u>[New] 2024 Approved Top Five Revolutionary Facebook Enhancements</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-periscopes-unveiling-no-cost-entry-and-steps-to-signup/"><u>[New] Periscope's Unveiling No Cost Entry & Steps to Signup</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-avoiding-misdated-memories-with-exact-times/"><u>[Updated] Avoiding Misdated Memories with Exact Times</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-tips-for-effective-mov-file-saving-on-windows-11/"><u>[Updated] In 2024, Tips for Effective MOV File Saving on Windows 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-broadcom-netlink-gigabit-ethernet-driver-on-windows-10-solved/"><u>Download and Update Broadcom NetLink Gigabit Ethernet Driver on Windows 10: Solved!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-methods-for-installing-the-latest-microsoft-mouse-drivers-on-pc-and-laptop-windows-versions/"><u>Easy Methods for Installing the Latest Microsoft Mouse Drivers on PC and Laptop Windows Versions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-steps-to-get-and-update-your-lenovo-thinkpad-drivers-securely-online/"><u>Easy Steps to Get and Update Your Lenovo ThinkPad Drivers Securely Online</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/find-and-install-updated-lenovo-display-drivers-a-step-by-step-guide-with-free-download-options/"><u>Find and Install Updated Lenovo Display Drivers: A Step-by-Step Guide with Free Download Options</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-hp-officejet-pro-6970-printer-drivers-on-windows-free-download/"><u>Get the Latest HP Officejet Pro ^6970 Printer Drivers on Windows - Free Download</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-nvidia-quadro-rtx-8000-graphics-driver-supports-windows-11107/"><u>Get the Newest Nvidia Quadro RTX 8000 Graphics Driver - Supports Windows 11/10/7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-hp-officejet-4650-ready-windows-driver-software-download/"><u>Get Your HP OfficeJet 4650 Ready: Windows Driver Software Download</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-reinstate-windows-photo-viewer-quickly-on-your-windows-10-pc/"><u>In 2024, Reinstate Windows Photo Viewer Quickly on Your Windows 10 PC</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-the-art-of-crafting-impressive-hdr-images-using-lightroom/"><u>In 2024, The Art of Crafting Impressive HDR Images Using Lightroom</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-autocorrect-top-6-strategies-for-perfect-iphone-typing/"><u>Mastering Autocorrect: Top 6 Strategies for Perfect iPhone Typing</u></a></li>
-<li><a href="https://win-net.techidaily.com/numark-party-mix-map-download-dj-controller-essentials-for-dex-3-and-dex-3-re-perfect-your-parties/"><u>Numark Party Mix Map Download: DJ Controller Essentials for Dex 3 & Dex 3 RE - Perfect Your Parties!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-download-guide-keep-your-canon-mp560-printers-drivers-up-to-date/"><u>Quick Download Guide: Keep Your Canon MP560 Printer's Drivers Up-to-Date</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/realtek-hdac-9500-chipset-drivers-for-windows-11-instant-setup/"><u>Realtek HD/AC-9500 Chipset Drivers for Windows 11: Instant Setup</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/shine-strategy-top-tools-to-brighten-streams-for-2024/"><u>Shine Strategy Top Tools to Brighten Streams for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-for-secure-xbox-360-controller-driver-downloads/"><u>Step-by-Step Tutorial for Secure Xbox 360 Controller Driver Downloads</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nlocking-youtubes-hidden-view-tracking-method/"><u>[New] Unlocking YouTube’s Hidden View Tracking Method</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-navigating-video-transformations-in-vlc-from-mp4-variety/"><u>[Updated] In 2024, Navigating Video Transformations in VLC From MP4 Variety</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-truthful-insights-into-recordcast-functionality/"><u>[Updated] In 2024, Truthful Insights Into RecordCast Functionality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovations-highlighted-in-s3700s-2023-review/"><u>[Updated] Innovations Highlighted in S3700's 2023 Review</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/brother-l2540dw-driver-download-and-installation-instructions-for-windows-users/"><u>Brother L2540DW Driver Download & Installation Instructions for Windows Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-canon-all-in-one-printer-driver-for-windows-11-10-and-8/"><u>Download and Install Canon All-in-One Printer Driver for Windows 11, 10 & 8</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-guide-to-revamping-lenovo-power-drivers-for-optimal-performance/"><u>Effortless Guide to Revamping Lenovo Power Drivers for Optimal Performance</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-perfect-guide-to-excel-in-tiktok-live-shopping-for-2024/"><u>New Perfect Guide To Excel in TikTok Live Shopping for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-wireless-power-problems-on-ios-devices-discover-these-7-effective-fixes-for-iphone/"><u>Overcome Wireless Power Problems on iOS Devices: Discover These 7 Effective Fixes for iPhone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/startech-driver-issues-in-windows-1087-solved/"><u>StarTech Driver Issues in Windows 10/8/7 [Solved]</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tablet-titans-clash-a-side-by-side-analysis-of-the-new-ipad-air-4-and-galaxy-tab-s7plus-for-tech-enthusiasts/"><u>Tablet Titans Clash: A Side-by-Side Analysis of the New iPad Air 4 and Galaxy Tab S7+ for Tech Enthusiasts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/top-sports-cameras-for-high-pace-activities-for-2024/"><u>Top Sports Cameras for High Pace Activities for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722971016793-windows-11-nvidia-geforce-210/"><u>Windows 11용 NVIDIA GeForce 210 - 지금까지의 가장 최고의 드라이버를 사용하세요!</u></a></li>
 </ul></div>
 

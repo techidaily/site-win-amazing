@@ -1,7 +1,7 @@
 ---
 title: HP Officejet Pro 6968 Installable Software & Drivers for PCs
-date: 2025-01-09T19:10:10.020Z
-updated: 2025-01-12T10:47:58.405Z
+date: 2025-01-12T16:00:04.325Z
+updated: 2025-01-17T20:47:30.784Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ If you’re using Arduino products to create your own work but failed to connect
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why you need Arduino Mega 2560 driver?
 
@@ -53,18 +49,18 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ar.jpg)
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select **Browse my computer for driver software** .  
@@ -72,7 +68,7 @@ OR
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
@@ -90,11 +86,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/mega2560-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -118,20 +118,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-converters-cornerstone-for-srt-transformations/"><u>[New] The Converter's Cornerstone for SRT Transformations</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-writing-dialogue-with-impact-in-film-scripts-for-2024/"><u>[New] Writing Dialogue with Impact in Film Scripts for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-achieving-gradual-sound-boosts-with-lumafusion/"><u>[Updated] Achieving Gradual Sound Boosts with Lumafusion</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-expert-guide-to-snagging-twitter-gifs-pc-for-2024/"><u>[Updated] Expert Guide to Snagging Twitter GIFs (PC) for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/courts-follow-a-standardized-set-of-rules-and-procedures-while-arbitration-can-be-customized-for-each-case-through-the-arbitration-agreement/"><u>Courts Follow a Standardized Set of Rules and Procedures, While Arbitration Can Be Customized for Each Case Through the Arbitration Agreement.</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-intel-wireless-bluetooth-drivers-for-windows-7-with-ease/"><u>Download the Intel Wireless Bluetooth Drivers for Windows 7 with Ease!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-your-gefornce-gtx-750-drivers-with-one-click-convenience-step-by-step-tutorial/"><u>Download Your GeFornce GTX 750 Drivers with One-Click Convenience - Step by Step Tutorial</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-dell-audio-driver-updates-instantly-free-guide-available-online/"><u>Get the Latest Dell Audio Driver Updates Instantly – Free Guide Available Online</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 to other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Poco C55? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-poker-playpersonalized-projections/"><u>In 2024, POKER PLAYPERSONALIZED PROJECTIONS</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/instant-access-to-intel-thunderbolt-drives-download-and-installation-made-simple/"><u>Instant Access to Intel Thunderbolt Drives - Download & Installation Made Simple</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-qualcomm-atheros-ar3011-bluetooth-30-drivers-available-now-download-instantly/"><u>Latest Qualcomm Atheros AR3011 Bluetooth 3.0 Drivers Available Now, Download Instantly!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-fixes-for-when-your-igfxem-module-crashes-unexpectedly/"><u>Quick Fixes for When Your IgfxEM Module Crashes Unexpectedly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015998543-windows-10/"><u>Windows 지스 10에서 소음이 끊어질 수 있는 문제 해결</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-novices-companion-to-av1-technology/"><u>[New] 2024 Approved Novice’s Companion to AV1 Technology</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/downloadupdate-your-surface-book-2-drivers-simple-steps-inside/"><u>Download/Update Your Surface Book 2 Drivers - Simple Steps Inside!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721937046359-explore-the-finest-replacements-for-chatgpt-top-picks-revealed/"><u>Explore the Finest Replacements for ChatGPT - Top Picks Revealed</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/getting-started-with-iphone-driver-installation-on-microsofts-latest-operating-system/"><u>Getting Started with iPhone Driver Installation on Microsoft's Latest Operating System</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-realme-narzo-n55-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Realme Narzo N55?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-the-newest-version-of-your-intel-centrino-advanced-n-6235-chipset-driver/"><u>How to Get the Newest Version of Your Intel Centrino Advanced-N 6235 Chipset Driver</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-from-ideas-to-influence-an-insider-look-at-strategic-instagram-videos/"><u>In 2024, From Ideas to Influence An Insider Look at Strategic Instagram Videos</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-amd-rx-6800-drivers-on-windows-complete-tutorial-windows-111087-support/"><u>Install AMD RX 6800 Drivers on Windows: Complete Tutorial (Windows 11/10/8/7 Support)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/intels-z270-driver-bundle-download-optimized-control-panels-and-cutting-edge-gaming-graphics-software/"><u>Intel's Z270 Driver Bundle [Download]: Optimized Control Panels & Cutting-Edge Gaming Graphics Software!</u></a></li>
+<li><a href="https://fox-within.techidaily.com/keep-your-scanners-functional-check-for-updates-with-yl-software-expertise/"><u>Keep Your Scanners Functional: Check for Updates with YL Software Expertise</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-user-exchanges-on-twitch-live/"><u>Navigating User Exchanges on Twitch Live</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-essential-info-on-ios-18-arrival-date-price-none-key-improvements-and-more/"><u>The Essential Info on IOS 18 Arrival - Date, Price (None), Key Improvements & More</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-is-auto-gpt-and-how-does-it-differ-from-chatgpt/"><u>What Is Auto-GPT, and How Does It Differ From ChatGPT?</u></a></li>
 </ul></div>
 

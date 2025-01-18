@@ -1,7 +1,7 @@
 ---
 title: Seamless Driver Update for Your SATA AHCI Controller
-date: 2025-01-05T22:44:24.269Z
-updated: 2025-01-11T20:49:44.306Z
+date: 2025-01-11T20:27:34.282Z
+updated: 2025-01-17T19:03:07.803Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ You have a Corsair gaming mouse but it doesn’t work properly. It could be frus
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s the iCUE?
 
  iCUE (Intelligent Corsair Utility Engine) is a Corsair interface. It’s a powerful, intelligent software which can connect all your compatible products together and let you control almost everything in a single interface.  
@@ -34,11 +38,19 @@ There are two ways to download iCUE.
 1. [Download and install iCUE through the homepage](https://tools.techidaily.com/drivereasy/download/)
 2. [Download iCUE from the product page](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Download and install iCUE through the homepage
 
 1. Go to the[iCUE homepage](https://www.corsair.com/uk/en/icue) .
 2. Click**DOWNLOAD NOW** . Follow the on-screen instructions to finish the installation.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Download iCUE from the product page
 
@@ -49,18 +61,14 @@ There are two ways to download iCUE.
 3. Scroll down and click**DOWNLOADS** . Then click the link to download iCUE.![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Double-click on the downloaded file and follow the on-screen instructions to install the software.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What to do if your mouse still has issues?
 
@@ -76,19 +84,11 @@ There are two ways to download iCUE.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-84.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the devices to automatically download the correct version of their drivers, then you can manually install the drivers (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-91.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -113,18 +113,24 @@ There are two ways to download iCUE.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-fast-and-furious-how-to-turbocharge-instagram-videos-for-2024/"><u>[New] Fast and Furious How to Turbocharge Instagram Videos for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-list-android-3d-viewing-tools/"><u>2024 Approved A-List Android 3D Viewing Tools</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-finding-value-in-sport-photography-cameras-for-the-price-conscious/"><u>2024 Approved Finding Value in Sport Photography – Cameras for the Price-Conscious</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/avoid-printing-problems-master-easy-setup-of-epson-xp-830-with-its-essential-driver-download-guide/"><u>Avoid Printing Problems: Master Easy Setup of Epson XP-830 with Its Essential Driver Download Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/avoiding-hiccups-with-the-dell-mouse-driver-your-comprehhren-solution/"><u>Avoiding Hiccups with the Dell Mouse Driver - Your Comprehhren Solution</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complimentary-installation-files-for-gigabye-speakers-and-headphones/"><u>Complimentary Installation Files for Gigabye Speakers & Headphones</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/configuration-de-la-source-sans-medias-sur-une-cle-usb-pour-windows-11-10-8-7-les-4-etapes-a-suivre/"><u>Configuration De La Source Sans Médias Sur Une Clé USB Pour Windows 11, 10, 8, 7 - Les 4 Étapes À Suivre</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/gamers-dilemma-oculus-htc-and-sonys-vr-dominance/"><u>Gamers' Dilemma Oculus, HTC & Sony's VR Dominance</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-corsair-keyboard-up-and-running-on-windows-free-driver-downloads-available/"><u>Get Your CORSAIR Keyboard Up and Running on Windows - Free Driver Downloads Available</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-seamless-sync-link-insta-and-tiktok-with-ease/"><u>In 2024, Seamless Sync Link Insta & TikTok with Ease</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-seeking-the-finest-cinematography-talents/"><u>In 2024, Seeking the Finest Cinematography Talents</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mastering-the-download-of-asus-atk0100-acpi-drivers-your-complete-guide/"><u>Mastering the Download of ASUS ATK0100 ACPI Drivers: Your Complete Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-mastering-visual-communication-a-guide-to-adding-captions-on-tiktok/"><u>[New] Mastering Visual Communication A Guide to Adding Captions on TikTok</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-unleash-your-inner-documentarian-comprehensive-guide-for-recording-sims-4-gameplay-triumphantly/"><u>[Updated] 2024 Approved Unleash Your Inner Documentarian Comprehensive Guide for Recording Sims 4 Gameplay Triumphantly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-mastering-economy-in-gaming-top-business-sim-titles/"><u>[Updated] In 2024, Mastering Economy in Gaming Top Business Sim Titles</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-navigating-cross-platform-shares-igtv-and-facebook/"><u>[Updated] In 2024, Navigating Cross-Platform Shares IGTV & Facebook</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-key-to-rapid-likes-smart-bio-hacks-that-really-work-on-tinder/"><u>[Updated] In 2024, The Key to Rapid Likes? Smart Bio Hacks that Really Work on Tinder</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-inside-the-tech-top-reviews-for-home-videotaping-tools-for-2024/"><u>[Updated] Inside the Tech Top Reviews for Home Videotaping Tools for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-vsg-hd-screen-snapper-reports-extensive-breakdown-for-2024/"><u>[Updated] VSG HD Screen Snapper Reports Extensive Breakdown for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722970778846-answer/"><u>Answer</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/dealing-with-the-infamous-alc887-driver-quandary-fixing-sound-issues-in-windows-systems/"><u>Dealing with the Infamous ALC887 Driver Quandary: Fixing Sound Issues in Windows Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-samsung-galaxy-xcover-6-pro-tactical-edition-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Samsung Galaxy XCover 6 Pro Tactical Edition Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722965727500-download-corsair-drivers-for-windows-computer-easily/"><u>Download Corsair Drivers for Windows Computer Easily</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-bluetooth-adapter-software-for-windows-computers-compatible-with-all-versions/"><u>Download the Latest Bluetooth Adapter Software for Windows Computers | Compatible with All Versions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-to-download-and-install-epson-workforce-ds-30-driver-on-your-pc-with-windows-11-8-or-7/"><u>Easy Guide to Download and Install Epson WorkForce DS 30 Driver on Your PC with Windows 11, 8, or 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-how-to-get-the-latest-corsair-drivers-for-windows-machines/"><u>Effortless Installation: How to Get the Latest Corsair Drivers for Windows Machines</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-major-networking-sites-insights-into-facebook-twitter-instagram-and-youtube/"><u>Exploring Major Networking Sites: Insights Into Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-canon-mp280-printer-drivers-compatible-with-windows-10-8-and-7/"><u>Free Canon MP280 Printer Drivers Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-printer-and-scanner-drivers-in-the-latest-version-of-windows-11/"><u>How to Install Printer and Scanner Drivers in the Latest Version of Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/improve-connectivity-free-csr-bluetooth-drivers-downloads-at-hand/"><u>Improve Connectivity: Free CSR Bluetooth Drivers Downloads at Hand!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimizing-fade-infade-out-routines-for-2024/"><u>Optimizing Fade-In/Fade-Out Routines for 2024</u></a></li>
 </ul></div>
 
