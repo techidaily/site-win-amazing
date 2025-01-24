@@ -1,7 +1,7 @@
 ---
 title: "Driver Setup for Lenovo Legion 5 Pro Laptop: Guide for Model N5, ACCH6"
-date: 2025-01-16T05:27:35.167Z
-updated: 2025-01-18T00:46:56.238Z
+date: 2025-01-21T18:03:12.740Z
+updated: 2025-01-24T06:38:41.321Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to update your Intel NVMe driver
@@ -40,6 +40,10 @@ There are two ways you can update your driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1 – Update the driver manually
 
 **Intel** keeps updating the NVMe drivers. To get them, you need to go to the **[Intel Support](https://downloadcenter.intel.com/product/35125/Memory-and-Storage)**  website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10, 64 bit) and download the driver manually.
@@ -47,16 +51,12 @@ There are two ways you can update your driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-162.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file (usually with the EXE extension) and follow the on-screen instructions to install the driver.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Intel NVMe driver
 
@@ -71,11 +71,11 @@ There are two ways you can update your driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update yourIntel NVMe driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-163.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -110,22 +110,20 @@ There are two ways you can update your driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-simplified-image-editing-getting-rid-of-background-in-one-click/"><u>[New] 2024 Approved Simplified Image Editing Getting Rid of Background in One Click</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-enhancing-narratives-a-guide-to-using-b-roll/"><u>[New] Enhancing Narratives A Guide to Using B-Roll</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-audio-clarity-10-pro-tips-for-high-quality-recordings/"><u>[Updated] In 2024, Audio Clarity 10 Pro Tips for High-Quality Recordings</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-principled-steps-in-logging-live-youtube-videos/"><u>2024 Approved Principled Steps in Logging Live YouTube Videos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/benchmarking-the-future-in-depth-analysis-on-top-gaming-laptops-in-202/"><u>Benchmarking The Future: In-Depth Analysis on Top Gaming Laptops in 202</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-drivers-for-hp-officejet-4650-printer-on-windows-pc/"><u>Download & Install Drivers for HP Officejet 4650 Printer on Windows PC</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/echoes-of-evolution-the-african-language-odyssey/"><u>Echoes of Evolution: The African Language Odyssey</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/enhance-wifi-performance-fresh-driver-installation-tips-for-windows-1110-users/"><u>Enhance WiFi Performance: Fresh Driver Installation Tips for Windows 11/10 Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-asrock-ab350-pro4-driver-pack-for-free-seamless-installation-on-windows/"><u>Get Your ASRock AB350 Pro4 Driver Pack for Free: Seamless Installation on Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-download-and-setup-the-latest-windows-display-driver-for-your-dell-monitor/"><u>How To Download And Setup The Latest Windows Display Driver For Your Dell Monitor</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-12-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi 12 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/improve-your-gameplay-download-and-install-steelseries-windows-graphics-driver/"><u>Improve Your Gameplay: Download & Install SteelSeries Windows Graphics Driver</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-gopro-hero5-time-lapse-photography/"><u>In 2024, The Ultimate Guide to GoPro Hero5 Time-Lapse Photography</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-acers-newest-touchpad-drivers-wlan-f3u-optimized-for-windows-free/"><u>Install Acer's Newest Touchpad Drivers (WLAN-F3U) - Optimized for Windows ([Free])</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/new-driver-enhancement-for-high-speed-internet-access-with-usb-30-ethernet-adapter/"><u>New Driver Enhancement for High-Speed Internet Access with USB 3.0 Ethernet Adapter</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-oppo-a38-by-drfone-android/"><u>Top 10 Password Cracking Tools For Oppo A38</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/wireless-driver-updates-for-windows-10-and-11-ensuring-your-network-connectivity/"><u>Wireless Driver Updates for Windows 10 & 11: Ensuring Your Network Connectivity</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-simplified-strategies-for-muting-or-disabling-youtube-channels-computermobile/"><u>[New] 2024 Approved Simplified Strategies for Muting or Disabling Youtube Channels (Computer/Mobile)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-screen-shutter-tips-free-windows-edition/"><u>[Updated] 2024 Approved Screen Shutter Tips Free Windows Edition</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-mastering-image-transitions-with-ease-and-style/"><u>[Updated] Mastering Image Transitions with Ease and Style</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/asmr-apps-for-android-and-ios/"><u>Best ASMR Apps for Android and iOS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/best-practices-upgrading-to-current-geforce-210-drivers-on-windows-10-computers/"><u>Best Practices: Upgrading to Current GeForce 210 Drivers on Windows 10 Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/eliminate-game-lags-unfreeze-fall-guys-for-a-smooth-pc-gaming-experience/"><u>Eliminate Game Lags: Unfreeze Fall Guys for a Smooth PC Gaming Experience</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fixing-the-invisible-router-problem-in-windows-10-environments/"><u>Fixing the Invisible Router Problem in Windows 10 Environments</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-asus-atk0110-power-management-drivers-download-now/"><u>Free ASUS ATK0110 Power Management Drivers - Download Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-targus-displaylink-software-windows-11-8-and-7-compatible-versions-available-for-download/"><u>Get the Newest Targus DisplayLink Software: Windows 11, 8 & 7 Compatible Versions Available for Download</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-insightful-illustration-how-to-record-and-preserve-your-playthroughs-in-roblox-using-macos/"><u>In 2024, Insightful Illustration How to Record & Preserve Your Playthroughs in Roblox Using MacOS</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-streamlining-your-show-formatting-podcast-xml-successfully/"><u>In 2024, Streamlining Your Show Formatting Podcast XML Successfully</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-acer-touchpad-drivers-for-windows-10-free-download/"><u>Latest Acer Touchpad Drivers for Windows 10 - Free Download</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977329005-master-the-setup-downloading-and-configuring-sandisk-ssd-driver-software-efficiently/"><u>Master the Setup: Downloading and Configuring Sandisk SSD Driver Software Efficiently</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-effective-techniques-for-lenovo-driver-software-upgrades/"><u>Quick and Effective Techniques for Lenovo Driver Software Upgrades</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-motorola-moto-g23-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Motorola Moto G23 Phone Pattern Lock</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Fix: How to Get Your Samsung Blu-Ray Player Up and Running Again"
-date: 2024-08-18T12:30:43.861Z
-updated: 2024-08-19T12:30:43.861Z
+date: 2025-01-18T05:57:12.583Z
+updated: 2025-01-24T01:02:04.940Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/e2da78d08e286d9059a644d8b709c84167652f494
 
 Couldn’t find your optical Blu-ray drive after upgrading your operating system? Try to watch a Blu-ray video but your Blu-ray Player is not recognizing discs? Don’t worry, you’re not alone and this problem should be easy to fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  There’re 5 fixes for you to try. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -32,14 +29,15 @@ Couldn’t find your optical Blu-ray drive after upgrading your operating system
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Try another media player
 
  Sometimes it’s the media player software that causes trouble. Microsoft media player is no longer supports Blu-rays and DVDs. So if you’re using this media player to play discs, you couldn’t make it work. You can try another media player from the market. In some cases, the manufacturer of the Blu-ray player has a recommendation. You can use that one if you like.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your Blu-ray drivers
 
@@ -72,14 +70,15 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your firmware
 
  When the manufacturer-specific firmware is outdated or corrupted, you might meet this issue. Your motherboard driver needs to communicate with your Blu-ray Player. But when the motherboard driver is outdated or missing, it will cause trouble. So it’s always recommended to[keep your drivers up-to-date](https://tools.techidaily.com/drivereasy/download/) .
@@ -87,19 +86,22 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Reinstall your Blu-ray drivers
 
  If updating the driver doesn’t help, you could try to do a reinstall. This way could clear all the corrupted files and make your Blu-ray Player work like a charm.
 
 1. Press the**Windows logo** key +**R** to evoke the Run box.
 2. Type**devmgmt.msc** and press the**Enter** key to open the**Device Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 3. Right-click on the device and click**Uninstall Device** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Unplug the external Blu-ray drive.
 5. Shut down your computer completely.
 6. Wait for 30 seconds, then plug in the external Blu-ray drive.
@@ -107,9 +109,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Repair corrupted registry entries
 
  Editing registry value could be a dangerous move. It could cause your computer to crash. It’s highly recommended to do a[backup](https://tools.techidaily.com/drivereasy/download/) before you start.
@@ -118,6 +117,11 @@ OR
 2. Type**regedit** and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/registry.jpg)
 3. Copy and paste the text into the address bar and press the Enter key.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Class\\ {4D36E965-E325-11CE-BFC1-08002BE10318}**
 4. Find**UpperFilters** and**LowerFilters** on the right panel. Right-click on them and click**Delete** .
 5. Reboot your computer to take the effect.
@@ -132,8 +136,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +143,18 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-zipping-to-captions-direct-method-for-srt-file-creation/"><u>[New] Zipping to Captions Direct Method for .Srt File Creation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-streamline-media-storage-with-3-tactics/"><u>[Updated] 2024 Approved Streamline Media Storage with 3 Tactics</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-ultimate-font-generator-apps-for-discord-on-mobile-platforms/"><u>[Updated] In 2024, Ultimate Font Generator Apps for Discord on Mobile Platforms</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-tips-and-tricks-for-exceptional-steam-playback-footage/"><u>[Updated] Tips and Tricks for Exceptional Steam Playback Footage</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-how-to-on-setting-up-your-insignia-video-adapter-for-perfect-display-connection/"><u>Complete How-To on Setting Up Your Insignia Video Adapter for Perfect Display Connection</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-fix-audio-drivers-solving-the-issue-with-realteks-alc8/"><u>How to Fix Audio Drivers: Solving the Issue with Realtek's ALC8</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-tailoring-your-way-to-youtube-subtitles-srt/"><u>In 2024, Step-by-Step Tailoring Your Way to YouTube Subtitles (SRT)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/precision-and-performance-gamers-equipment-showcase-for-2024/"><u>Precision & Performance Gamer's Equipment Showcase for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-download-of-intels-thunderbolt-drivers-easy-instructions-included/"><u>Quick Download of Intel's Thunderbolt Drivers – Easy Instructions Included</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/surface-drivers-upgrade-made-easy-tips-and-tricks-for-seamless-downloads/"><u>Surface Drivers Upgrade Made Easy: Tips & Tricks for Seamless Downloads</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/windows-users-enhance-your-sound-recording-with-focusrite-scarlett-nv-2i2-drivers-for-free/"><u>Windows Users, Enhance Your Sound Recording with Focusrite Scarlett Nv 2I2 Drivers for Free!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Install USB-C Drive Support on Your Windows 10 Device
-date: 2025-01-15T03:26:49.590Z
-updated: 2025-01-17T21:18:17.802Z
+date: 2025-01-17T18:00:13.390Z
+updated: 2025-01-23T16:48:36.367Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ OR
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Option 1 – Download and install the driver manually
@@ -46,31 +46,27 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-108.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type your printer model in the search box and click**Go** . In my case I type PIXMA PRO 100, and click**Go** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-109.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) On the product page, click the**Drivers & Downloads** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-110.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) On the same page, under the**Drivers & Downloads** section, make sure the detected**Operating System** and**Language** are correct. Then click the**Drivers** tab, click**Select** \>**Download** to download the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-111-1024x299.png)
 
  5) After downloading, double click the downloaded file to run and follow the on-screen instructions to install the driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the driver
 
@@ -87,12 +83,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-112.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-113.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Note: you can do it for free if you like, but it’s partly manual.
 
@@ -119,17 +119,19 @@ Note: you can do it for free if you like, but it’s partly manual.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-enlightened-storytelling-the-art-of-professional-shots/"><u>[New] Enlightened Storytelling The Art of Professional Shots</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-digital-artisans-exclusive-summit/"><u>[New] In 2024, Digital Artisans' Exclusive Summit</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-newbie-to-pro-your-complete-guide-to-creator-studio-for-2024/"><u>[Updated] From Newbie to Pro Your Complete Guide to Creator Studio for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-evaluating-wirecast-other-options-to-consider/"><u>[Updated] In 2024, Evaluating WireCast Other Options To Consider</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-setup-instructions-for-downloading-the-epson-wf-3640-driver-windows-version/"><u>Complete Setup Instructions for Downloading the Epson WF-3640 Driver (Windows Version)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fixing-the-notorious-graphics-driver-issues-expert-tips-and-tricks/"><u>Fixing the Notorious Graphics Driver Issues - Expert Tips and Tricks</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-find-and-update-your-windows-device-with-the-latest-epson-xp-430-driver-software-detailed-steps-included/"><u>How to Find and Update Your Windows Device with the Latest Epson XP-430 Driver Software (Detailed Steps Included)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-13-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 13 Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/installing-the-logitech-brio-camera-drivers-on-your-pc-windows-1187-guide/"><u>Installing the Logitech Brio Camera Drivers on Your PC – Windows 11/8/7 Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/personalized-user-experience-with-advanced-cookiebot-technology/"><u>Personalized User Experience with Advanced Cookiebot Technology</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/petsafe-automatic-feeder-for-pets-perfectly-balanced-six-serving-daily-routine/"><u>PetSafe Automatic Feeder for Pets: Perfectly Balanced, Six-Serving Daily Routine</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-tips-to-resolve-slime-rancher-amidst-pc-system-crashes/"><u>Ultimate Troubleshooting Tips to Resolve Slime Rancher Amidst PC System Crashes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-comparing-social-platforms-facebook-live-vs-youtube-live-and-twitter-periscope/"><u>[Updated] In 2024, Comparing Social Platforms Facebook LIVE Vs. YouTube Live & Twitter Periscope</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-anticipated-shifts-in-social-media-marketing-fb-ad-trends-of-24/"><u>[Updated] In 2024, The Anticipated Shifts in Social Media Marketing FB Ad Trends of '24</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-clueless-to-confident-configuring-zoom-made-simple/"><u>2024 Approved From Clueless to Confident Configuring Zoom Made Simple</u></a></li>
+<li><a href="https://techidaily.com/boosting-the-load-time-of-your-windows-11-operating-system-efficiently/"><u>Boosting the Load Time of Your Windows 11 Operating System Efficiently</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-compatible-drivers-for-your-brother-hl-l2360dw-printer-today/"><u>Download & Install: Compatible Drivers for Your Brother HL-L2360DW Printer Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fixes-and-solutions-for-asus-pce-ac56-wireless-adapter-drivers-on-windows-10-8-and-7/"><u>Fixes and Solutions for ASUS PCE-AC56 Wireless Adapter Drivers on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-and-fast-access-to-qualcomm-atheros-ar938x-drivers-start-your-download-today/"><u>Free & Fast Access to Qualcomm Atheros AR938X Drivers - Start Your Download Today</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-integrate-a-video-player-onto-your-flipbook-pages-for-streaming-flv-movies/"><u>How to Integrate a Video Player Onto Your FlipBook Pages for Streaming Flv Movies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-frame-rate-dips-in-sifu-on-a-windows-machine/"><u>How to Overcome Frame Rate Dips in Sifu on a Windows Machine</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/igfx-module-error-resolved-working-solution-unveiled/"><u>IGFX Module Error Resolved: Working Solution Unveiled</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-clearer-visuals-with-iphone-video-focus/"><u>In 2024, Unlock Clearer Visuals with iPhone Video Focus</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/keeping-your-connection-secure-latest-wireless-driver-updates-for-microsoft-operating-systems/"><u>Keeping Your Connection Secure: Latest Wireless Driver Updates for Microsoft Operating Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-and-quick-download-of-realtek-asiode-drivers-compatible-with-windows-11/"><u>Secure and Quick Download of RealTek Asiode Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-unboxing-adventure-boosting-customer-delight-for-2024/"><u>The Ultimate Unboxing Adventure Boosting Customer Delight for 2024</u></a></li>
 </ul></div>
 

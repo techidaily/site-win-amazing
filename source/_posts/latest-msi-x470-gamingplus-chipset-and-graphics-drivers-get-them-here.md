@@ -1,7 +1,7 @@
 ---
 title: Latest MSI X470 Gaming+ Chipset & Graphics Drivers - Get Them Here
-date: 2025-01-15T04:45:27.285Z
-updated: 2025-01-18T07:25:29.500Z
+date: 2025-01-22T22:08:42.689Z
+updated: 2025-01-24T04:37:41.242Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: The traditional way
 
  You can download the motherboard drivers from its[official manufacturer website](https://www.msi.com/Motherboard/support/X470-GAMING-PLUS#down-driver) and install them manually.
@@ -33,20 +37,16 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 2. Expand each category and download the driver accordingly.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/driver-list.jpg)
 3. Extract the downloaded file and run the driver installation application. You may need to run it as an administrator to do this. While some of the drivers require you to install it in Device manager.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Once complete, restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Update all MSI X470 GAMING PLUS automatically (Recommended)
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 4. Restart your computer for the changes to take full effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -99,24 +99,15 @@ thumbnail: https://thmb.techidaily.com/5b4d01ebebfd0c2dd6853b7b90449cefc701dfbe2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitters-visuals-on-the-social-media-giant-fb/"><u>[New] In 2024, Twitters' Visuals on the Social Media Giant FB</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-boost-sound-level-for-twitters-quiet-vids/"><u>[Updated] Boost Sound Level for Twitter's Quiet Vids</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-precise-time-stamping-on-youtube-a-practical-approach/"><u>[Updated] Precise Time-Stamping on YouTube A Practical Approach</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-quick-tips-efficient-file-shifting-to-computer/"><u>[Updated] Quick Tips Efficient File Shifting to Computer</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-unmatched-visual-quality-in-the-best-4k-panels-ranked-1-10/"><u>2024 Approved Unmatched Visual Quality in the Best 4K Panels, Ranked #1-10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/wmvswf-movavi/"><u>完全無料: オンラインでWMVファイルをSWFに変換する - Movaviツール</u></a></li>
-<li><a href="https://techtrends.techidaily.com/facebook-alternatives-using-messenger-independently-of-your-main-profile/"><u>Facebook Alternatives: Using Messenger Independently of Your Main Profile</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-online-mp4-to-swf-converter-moveave/"><u>Free Online MP4 to SWF Converter - Moveave</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/gratuit-capture-decran-enregistrateur-video-moviescribe/"><u>Gratuit Capture D'écran Enregistrateur Vidéo - MovieScribe</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-an-in-depth-examination-of-vivavideo-app/"><u>In 2024, An In-Depth Examination of VivaVideo App</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1726225578324-jpg-png/"><u>JPG, PNG 등을 포함한 다양한 형식으로 원시 이미지를 관리하는 강력한 온라인 도구</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mastering-mp4-editing-made-easy-with-movavis-user-friendly-software/"><u>Mastering MP4 Editing Made Easy with Movavi's User-Friendly Software</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/mastering-the-inbuilt-file-recovery-tool-in-microsofts-latest-operating-system-windows-11/"><u>Mastering the Inbuilt 'File Recovery' Tool in Microsoft's Latest Operating System, Windows 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/online-swf-to-mp4-converter-download-movavis-fast-and-simple-solution-for-free/"><u>Online SWF to MP4 Converter - Download Movavi's Fast and Simple Solution for Free!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/transformacion-gratuita-de-archivos-aif-a-formatos-wav-online-con-el-servicio-web-de-movavi/"><u>Transformación Gratuita De Archivos .aif a Formatos WAV Online Con El Servicio Web De Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/trasforma-filetraccia-wav-a-formato-wmv-online-e-gratuitamente-con-movavi/"><u>Trasforma Filetraccia WAV a Formato WMV Online E Gratuitamente Con Movavi</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/trasforma-i-tuoi-file-flac-in-formato-wma-online-gratuitamente-con-convertiflacwma/"><u>Trasforma I Tuoi File FLAC in Formato WMA Online Gratuitamente Con ConvertiFlacWma</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-12-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 12 With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/king-youtubes-monetization-potential/"><u>Unlocking YouTube's Monetization Potential</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-pro-screencast-strategies-secrets-for-video-creators/"><u>[New] Pro Screencast Strategies Secrets for Video Creators</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-getting-started-with-azures-speech-to-text-feature-for-2024/"><u>[Updated] Getting Started with Azure's Speech-to-Text Feature for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-stand-out-your-top-10-guide-to-youtubes-best-music-videos/"><u>[Updated] How to Stand Out Your Top 10 Guide to YouTube's Best Music Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-top-live-streaming-technologies-for-broadcinas/"><u>[Updated] In 2024, Top Live Streaming Technologies for Broadcinas</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-access-to-newly-released-realtek-audio-drivers-optimized-for-windows-11107-users/"><u>Easy Access to Newly-Released Realtek Audio Drivers - Optimized for Windows 11/10/7 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-of-updated-epson-wf-3620-windows-drivers-guides-for-windows-11-8-and-7-users/"><u>Easy Installation of Updated Epson WF- 3620 Windows Drivers: Guides for Windows 11, 8 & 7 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guide-to-fixing-problems-with-lg-usb-drivers-in-modern-windows-versions/"><u>Guide to Fixing Problems with LG USB Drivers in Modern Windows Versions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-download-of-hp-laserjet-pro-m452dn-software-and-drivers-for-smooth-printing/"><u>Secure Download of HP LaserJet Pro M452dn Software & Drivers for Smooth Printing</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-review-corner-innovations-and-breakthroughs-in-pc-components/"><u>Tom's Review Corner: Innovations and Breakthroughs in PC Components</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-samsung-galaxy-fold-5x-oled-case-and-screen-protector-reviews/"><u>Top Rated Samsung Galaxy Fold 5X OLED Case and Screen Protector Reviews</u></a></li>
 </ul></div>
 

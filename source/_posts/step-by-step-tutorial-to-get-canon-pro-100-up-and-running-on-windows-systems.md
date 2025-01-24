@@ -1,7 +1,7 @@
 ---
 title: Step by Step Tutorial to Get Canon PRO 100 Up and Running on Windows Systems
-date: 2025-01-14T19:06:57.396Z
-updated: 2025-01-18T01:00:49.107Z
+date: 2025-01-17T05:27:36.199Z
+updated: 2025-01-23T21:01:29.935Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## To update your fingerprint driver in Windows
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Update your fingerprint driver automatically (Recommended)
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-48.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
@@ -63,14 +63,14 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-49.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.  
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Update fingerprint driver manually
@@ -102,24 +102,20 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-beatback-bungalow-recordings-downloads-and-reviews/"><u>[Updated] 2024 Approved Beatback Bungalow Recordings Downloads & Reviews</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-maximizing-memories-the-ultimate-guide-for-overwatch-players/"><u>[Updated] 2024 Approved Maximizing Memories The Ultimate Guide for Overwatch Players</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-lgs-lg-360-camera-update-unveiled-and-analyzed-for-2024/"><u>[Updated] LG's LG 360 Camera Update Unveiled & Analyzed for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/addressing-hardware-audio-driver-failures-the-case-of-the-realtek-alc887-on-pcs/"><u>Addressing Hardware Audio Driver Failures: The Case of the Realtek ALC887 on PCs</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/asus-maximus-x-hero-simplified-process-to-enhance-with-latest-drivers/"><u>ASUS Maximus X Hero - Simplified Process to Enhance with Latest Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/completed-fix-inclusion-of-core-printer-and-scanner-supports-for-windows-11-users/"><u>Completed Fix: Inclusion of Core Printer and Scanner Supports for Windows 11 Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-brother-mfc-l2740dw-drivers-step-by-step-for-windows-users/"><u>Download & Install Brother MFC-L2740DW Drivers: Step by Step for Windows Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-your-scansnap-s1300i-scanner-simple-steps/"><u>Download and Update Your ScanSnap S1300i Scanner - Simple Steps!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-bluetooth-controllers-working-download-drivers-here/"><u>Get Your Bluetooth Controllers Working - Download Drivers Here</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-download-and-update-toshiba-nb205-laptop-drivers-on-windows-pcs/"><u>How to Download and Update Toshiba NB205 Laptop Drivers on Windows PCs</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-obtain-and-upgrade-intel-ac-9560-wi-fi-card-software-download-guide/"><u>How to Obtain and Upgrade Intel AC 9560 Wi-Fi Card Software - Download Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-common-youtube-shorts-when-thumbnails-disappear-without-notice/"><u>In 2024, Common YouTube Shorts When Thumbnails Disappear Without Notice</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-streamlining-your-video-creation-into-profit-youtube-edition/"><u>In 2024, Streamlining Your Video Creation Into Profit - Youtube Edition</u></a></li>
-<li><a href="https://fox-links.techidaily.com/integrating-soundscapes-with-fusion-studios-tips-for-2024/"><u>Integrating Soundscapes with Fusion Studio's Tips for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-internet-archiving-a-guide-to-using-the-wayback-machine/"><u>Mastering Internet Archiving: A Guide to Using the Wayback Machine</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/overwatch-recording-made-simple-with-us/"><u>Overwatch Recording Made Simple with Us</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/streamlining-online-recording-of-webcamplusscreen/"><u>Streamlining Online Recording of Webcam+Screen</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-app-compatible-netatmo-weather-station-a-review-of-elegance-and-functionality/"><u>The Ultimate App-Compatible Netatmo Weather Station: A Review of Elegance & Functionality</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-solutions-for-xbox-controllers-driver-problems-on-win11win8win7/"><u>Troubleshooting and Solutions for Xbox Controllers' Driver Problems on Win11/Win8/Win7</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-simplified-guide-turning-videos-upside-down-with-vlc/"><u>[New] Simplified Guide Turning Videos Upside Down with VLC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-complete-visual-storytellers-guide-to-vsco-app-for-2024/"><u>[Updated] Complete Visual Storyteller's Guide to VSCO App for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-essential-techniques-for-yt-video-tweaking-with-wm-maker-for-2024/"><u>[Updated] Essential Techniques for YT Video Tweaking with WM Maker for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-10-best-video-tools-perfect-your-webcam-vids/"><u>2024 Approved 10 Best Video Tools Perfect Your Webcam Vids</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-the-latest-version-of-brother-hl-l2370dw-printer-driver-today/"><u>Download & Install The Latest Version of Brother HL-L2370DW Printer Driver Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-epson-stylus-nx420-drivers-compatible-with-windows-7-8-and-10/"><u>Download the Latest Epson Stylus NX420 Drivers Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/experience-professional-gaming-download-the-driving-force-gt-controller-driver-for-windows-windows-71011/"><u>Experience Professional Gaming: Download the Driving Force GT Controller Driver for Windows (Windows 7/10/11)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722974843735-free-corsair-k70-mouse-software-and-drivers-get-latest-version/"><u>Free Corsair K70 Mouse Software and Drivers - Get Latest Version</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-oneplus-nord-ce-3-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 OnePlus Nord CE 3 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-razer-drivers-for-windows-operating-systems-download-and-installation-tips/"><u>Latest Razer Drivers for Windows Operating Systems – Download & Installation Tips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722970132473-latest-version-of-gigabyte-network-card-drivers-download-without-delay/"><u>Latest Version of Gigabyte Network Card Drivers - Download Without Delay!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/offline-driver-installation-process-on-your-windows-pc/"><u>Offline Driver Installation Process on Your Windows PC</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/al-audibility-techniques-to-enhance-recording-quality/"><u>Optimal Audibility Techniques to Enhance Recording Quality</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-we-encountered-an-error-in-oculus-app-setup/"><u>Overcoming We Encountered an Error in Oculus App Setup</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Installation Tutorial for WD SES External Hard Drives (Versions From 2011)
-date: 2025-01-16T19:45:03.659Z
-updated: 2025-01-17T21:11:03.688Z
+date: 2025-01-22T01:20:57.327Z
+updated: 2025-01-24T11:03:40.686Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
 3. [**Update Brother printer drivers with Driver Easy automatically (Recommended)**](https://www.drivereasy.com/knowledge/brother-printer-drivers-download-easily-quickly/#WAY3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 1: Download Brother printer latest drivers from Brother official website
@@ -45,14 +45,14 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-34.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Downloads** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-15.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Choose your operating system under **Downloads**  dialog. Then click **Search** .  
   
@@ -64,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-22.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Click **Agree to the EULA and Download** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-15.jpg)
@@ -71,14 +75,14 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
 
  7) When it’s done, double-click the downloaded **.exe**  file and follow the on-screen instructions to install the driver on your computer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Way 2: Update Brother printer drivers via Device Manager
   
  1) Press the **Windows logo**  key ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b42dbb955df7.png) \+ **R**  key at the same time to open the Run box.  
   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Type **devmgmt.msc**  in the box and hit **Enter**  to open **Device** **Manager** .  
   
@@ -100,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
 **Note:**  If you see the   **The best driver software for your device is already installed**  message, choose other way to update your Brother printer driver. That’s because sometimes Microsoft might not detect the update for some reasons.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 3: Update Brother printer drivers with one-click via Driver Easy automatically (Recommended)
@@ -117,10 +121,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-32.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:**  Some Brother printers have built-in drivers to support basic functions.  
  How to install the built-in drivers — [Manual to Install Brother Built-in Drivers](https://tools.techidaily.com/drivereasy/download/) .
@@ -145,21 +145,18 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-vivid-chromatic-tweaker/"><u>[New] In 2024, Vivid Chromatic Tweaker</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-essential-guide-to-using-finalcut-pro-in-youtube-editing/"><u>[New] The Essential Guide to Using FinalCut Pro in YouTube Editing</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-zenith-of-zest-elevate-with-elite-yoga-videos/"><u>[Updated] 2024 Approved Zenith of Zest Elevate with Elite Yoga Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-top-mac-capture-techniques-overview-char-limit-156-for-2024/"><u>[Updated] Top Mac Capture Techniques Overview (Char Limit 156) for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-why-does-my-photo-booth-videos-keep-freezing/"><u>[Updated] Why Does My Photo Booth Videos Keep Freezing?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-kyocera-windows-printer-drivers-easy-steps/"><u>Download & Install KYOCERA Windows Printer Drivers - Easy Steps</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-geforce-rtx-ebx-3070-driver-for-windows-1110-free-download/"><u>Get the Latest GeForce RTX Ebx 3070 Driver for Windows 11/10 - Free Download</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-updated-gpu-drivers-enhance-your-windows-11-experience-with-gtx-1650-super/"><u>Get Updated GPU Drivers: Enhance Your Windows 11 Experience with GTX 1650 Super</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/immediate-screenshot-on-a-mac/"><u>Immediate Screenshot on a MAC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-the-epson-wf-3540-drivers-on-windows-a-step-by-step-guide/"><u>Install the Epson WF-3540 Drivers on Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-guide-installing-targus-displayport-drivers-on-windows-10-8-and-7/"><u>Latest Guide: Installing Targus DisplayPort Drivers on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/prime-graphic-hubs-offered-free-with-unmatched-quality-and-design-tools/"><u>Prime Graphic Hubs Offered Free, With Unmatched Quality & Design Tools</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/resolving-intel-dptf-driver-installation-issues-a-comprehensive-guide/"><u>Resolving Intel DPTF Driver Installation Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/skycam-conflict-dji-phantom-vs-gopro-hero5-black-for-2024/"><u>SkyCam Conflict DJI Phantom Vs GoPro HERO5 Black for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-successfully-downloading-and-updating-windows-drivers-for-your-dell-latitude-e6430/"><u>Step-by-Step Tutorial: Successfully Downloading & Updating Windows Drivers for Your Dell Latitude E6430</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-no-cost-antivirus-programs-your-guide/"><u>Top Rated No-Cost Antivirus Programs : Your Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-15-best-tools-to-capture-classroom-learning-moments/"><u>[New] 15 Best Tools to Capture Classroom Learning Moments</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-tasty-trailblazers-culinary-youtube-icons/"><u>[New] 2024 Approved Tasty Trailblazers Culinary YouTube Icons</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-scouring-influencers-tailoring-your-niches-insta-community/"><u>[New] Scouring Influencers Tailoring Your Niche's Insta Community</u></a></li>
+<li><a href="https://fox-info.techidaily.com/best-in-class-meme-modification-software-for-2024/"><u>Best in Class Meme Modification Software for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-logitech-g203-driver-for-windows-71011/"><u>Download Logitech G203 Driver for Windows 7/10/11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/explore-the-best-free-image-layers-and-enhancers-on-iosandroid-for-2024/"><u>Explore the Best, FREE Image Layers & Enhancers on iOS/Android for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-logitech-driving-force-gt-wheel-setup-guide-and-downloads-for-win-7-10-and-11/"><u>Free Logitech Driving Force GT Wheel Setup Guide & Downloads for Win 7, 10 & 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-realtek-device-driver-for-windows-11-here/"><u>Get Your Realtek Device Driver for Windows 11 Here</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/manipulating-media-with-mastery-tools/"><u>Manipulating Media with Mastery Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-best-online-strategies-and-tools-for-mastering-prompt-engineering/"><u>The Best Online Strategies and Tools for Mastering Prompt Engineering</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/this-gives-us/"><u>This Gives Us:</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/youtube-video-not-showing-fixed/"><u>YouTube Video Not Showing [FIXED]</u></a></li>
 </ul></div>
 

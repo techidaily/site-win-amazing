@@ -1,7 +1,7 @@
 ---
 title: Install HP Thunderbolt Dock G2 - Download Suitable Software for Both 120 and 230 Watt Versions
-date: 2025-01-17T06:08:33.441Z
-updated: 2025-01-18T01:28:16.298Z
+date: 2025-01-18T04:55:34.480Z
+updated: 2025-01-24T13:54:25.857Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## To update your Thunderbolt drivers
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326c
 2. [**Update your Thunderbolt drivers automatically**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Download the Thunderbolt drivers from your device manufacturer website
@@ -46,7 +46,7 @@ You can download your Thunderbolt drivers from your device manufacturer website 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29c6b4ddf40.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Go to the product driver download page, then download the correct and latest Thunderbolt drivers to your computer.
@@ -56,7 +56,7 @@ You can download your Thunderbolt drivers from your device manufacturer website 
 **3)**Open the downloaded file and follow the on-screen instructions to install it on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update your Thunderbolt drivers automatically
@@ -65,13 +65,13 @@ If you don’t have the time, patience or skills to update the Thunderbolt drive
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a66b4a3dfe.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Click the **Update**  button next to your _Thunderbolt device_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29c95e8c019.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’ve updated your driver with Driver Easy but your driver issues persist, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
 
@@ -92,22 +92,18 @@ If you don’t have the time, patience or skills to update the Thunderbolt drive
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-gazing-into-clarity-in-depth-on-the-hp-z32x-monitor/"><u>[New] Gazing Into Clarity In-Depth on the HP Z32X Monitor</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-overcoming-windows-10-photo-viewer-challenges-quick-fixes/"><u>[New] Overcoming Windows 10 Photo Viewer Challenges Quick Fixes</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/culinary-mayhem-redux-insights-and-revelations-from-playing-overcooked-2/"><u>Culinary Mayhem Redux: Insights and Revelations From Playing Overcooked! 2</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-hp-laserjet-1320-printer-drivers-for-windows-systems/"><u>Download & Update HP LaserJet 1320 Printer Drivers for Windows Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-microsoft-surface-pro-4-drivers-on-your-windows-pc/"><u>Download and Install Microsoft Surface Pro 4 Drivers on Your Windows PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-canon-printer-mf8200c-drivers-compatible-with-windows-7-81-and-10/"><u>Download Canon Printer MF8200C Drivers: Compatible with Windows 7, 8.1 & 10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-techniques-for-updating-your-nvidia-gtx-groovy5-driver-version/"><u>Effortless Techniques for Updating Your NVIDIA GTX Groovy_5 Driver Version</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/freshly-released-rtx-2080-graphics-card-drivers-for-windows-operating-systems-windows-1078/"><u>Freshly Released RTX 2080 Graphics Card Drivers for Windows Operating Systems (Windows 10/7/8)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-benchmark-analysis-djis-drone-phantom-3/"><u>In 2024, Benchmark Analysis DJI's Drone Phantom 3</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/insignia-vgausb-converter-installation-guide-free-download-and-setup-process/"><u>Insignia VGA/USB Converter Installation Guide | Free Download & Setup Process</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/maintaining-genetic-diversity-requires-balancing-the-introduction-of-new-germplasm-with-the-selection-for-desired-traits/"><u>Maintaining Genetic Diversity Requires Balancing the Introduction of New Germplasm with the Selection for Desired Traits.</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-through-failures-the-top-5-times-facebook-faltered-for-users/"><u>Navigating Through Failures: The Top 5 Times Facebook Faltered for Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722963967601-quick-install-hp-stream-device-drivers-download-now/"><u>Quick-Install HP Stream Device Drivers - Download Now!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-cctv-mp4-encoding-seamless-conversion-of-surveillance-videos-for-enhanced-viewing-experience/"><u>Ultimate Guide to CCTV MP4 Encoding: Seamless Conversion of Surveillance Videos for Enhanced Viewing Experience</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unexpected-tiktok-refund-alert-bambu-labs-a1-3d-printer-customers-receive-replacements-including-safe-new-units/"><u>Unexpected TikTok Refund Alert: Bambu Lab's A1 3D Printer Customers Receive Replacements Including Safe New Units</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-perfecting-your-teammates-backdrops-in-teams-calls/"><u>[New] 2024 Approved Perfecting Your Teammates' Backdrops in Teams Calls</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-is-there-a-perfect-fps-for-everyone-comparing-30-and-60/"><u>[New] Is There a 'Perfect' FPS for Everyone? Comparing 30 and 60</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ultimate-selection-childrens-drone-choices-for-2024/"><u>[New] Ultimate Selection Children's Drone Choices for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/boost-your-audio-experience-with-nahimic-drivers-a-step-by-step-setup/"><u>Boost Your Audio Experience with Nahimic Drivers - A Step-by-Step Setup</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/brother-hl-l2370dw-drivers-free-download-and-latest-version-update/"><u>Brother HL-L2370DW Drivers: Free Download and Latest Version Update</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/brother-mfc-l2690dw-printer-update-and-download-drivers-here/"><u>Brother MFC-L2690DW Printer: Update and Download Drivers Here!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/diagnosing-and-solving-peripheral-detection-errors-on-windows-10-systems/"><u>Diagnosing and Solving Peripheral Detection Errors on Windows 10 Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hassle-free-guide-to-amd-ryzen-driver-installation-and-upgrades/"><u>Hassle-Free Guide to AMD Ryzen Driver Installation & Upgrades</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-users-quick-start-how-to-seamlessly-install-your-devices-latest-drivers/"><u>HP User's Quick Start: How to Seamlessly Install Your Device’s Latest Drivers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-video-mastery-start-here-essential-seo-gadgets/"><u>In 2024, Video Mastery Start Here - Essential SEO Gadgets</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-honor-x50-gt-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Honor X50 GT – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-artificial-intelligence-how-to-implement-nvidias-next-gen-rtx-chatbot-on-desktops/"><u>Unleashing Artificial Intelligence: How to Implement NVIDIA’s Next-Gen RTX Chatbot on Desktops</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-the-secrets-behind-alan-wake-2s-postponed-debut/"><u>Unlocking The Secrets Behind Alan Wake 2'S Postponed Debut</u></a></li>
 </ul></div>
 
