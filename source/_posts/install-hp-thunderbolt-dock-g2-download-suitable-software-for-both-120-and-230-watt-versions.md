@@ -1,7 +1,7 @@
 ---
 title: Install HP Thunderbolt Dock G2 - Download Suitable Software for Both 120 and 230 Watt Versions
-date: 2025-01-18T04:55:34.480Z
-updated: 2025-01-24T13:54:25.857Z
+date: 2025-01-25T17:14:14.984Z
+updated: 2025-01-31T16:33:59.899Z
 tags:
   - win11
   - win10
@@ -27,17 +27,13 @@ thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## To update your Thunderbolt drivers
 
 1. [**Download the Thunderbolt drivers from your device manufacturer website**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Update your Thunderbolt drivers automatically**](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Download the Thunderbolt drivers from your device manufacturer website
 
@@ -46,7 +42,7 @@ You can download your Thunderbolt drivers from your device manufacturer website 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29c6b4ddf40.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Go to the product driver download page, then download the correct and latest Thunderbolt drivers to your computer.
@@ -56,7 +52,7 @@ You can download your Thunderbolt drivers from your device manufacturer website 
 **3)**Open the downloaded file and follow the on-screen instructions to install it on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Update your Thunderbolt drivers automatically
@@ -65,12 +61,16 @@ If you don’t have the time, patience or skills to update the Thunderbolt drive
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a66b4a3dfe.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the **Update**  button next to your _Thunderbolt device_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b29c95e8c019.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’ve updated your driver with Driver Easy but your driver issues persist, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
@@ -92,18 +92,24 @@ If you don’t have the time, patience or skills to update the Thunderbolt drive
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-perfecting-your-teammates-backdrops-in-teams-calls/"><u>[New] 2024 Approved Perfecting Your Teammates' Backdrops in Teams Calls</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-is-there-a-perfect-fps-for-everyone-comparing-30-and-60/"><u>[New] Is There a 'Perfect' FPS for Everyone? Comparing 30 and 60</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-ultimate-selection-childrens-drone-choices-for-2024/"><u>[New] Ultimate Selection Children's Drone Choices for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/boost-your-audio-experience-with-nahimic-drivers-a-step-by-step-setup/"><u>Boost Your Audio Experience with Nahimic Drivers - A Step-by-Step Setup</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/brother-hl-l2370dw-drivers-free-download-and-latest-version-update/"><u>Brother HL-L2370DW Drivers: Free Download and Latest Version Update</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/brother-mfc-l2690dw-printer-update-and-download-drivers-here/"><u>Brother MFC-L2690DW Printer: Update and Download Drivers Here!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/diagnosing-and-solving-peripheral-detection-errors-on-windows-10-systems/"><u>Diagnosing and Solving Peripheral Detection Errors on Windows 10 Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hassle-free-guide-to-amd-ryzen-driver-installation-and-upgrades/"><u>Hassle-Free Guide to AMD Ryzen Driver Installation & Upgrades</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-users-quick-start-how-to-seamlessly-install-your-devices-latest-drivers/"><u>HP User's Quick Start: How to Seamlessly Install Your Device’s Latest Drivers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-video-mastery-start-here-essential-seo-gadgets/"><u>In 2024, Video Mastery Start Here - Essential SEO Gadgets</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-honor-x50-gt-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Honor X50 GT – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleashing-artificial-intelligence-how-to-implement-nvidias-next-gen-rtx-chatbot-on-desktops/"><u>Unleashing Artificial Intelligence: How to Implement NVIDIA’s Next-Gen RTX Chatbot on Desktops</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlocking-the-secrets-behind-alan-wake-2s-postponed-debut/"><u>Unlocking The Secrets Behind Alan Wake 2'S Postponed Debut</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-essential-techniques-for-designing-youtube-video-thumbnails-for-2024/"><u>[New] Essential Techniques for Designing YouTube Video Thumbnails for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-masterpieces-in-editing-filmoras-loved-features/"><u>[New] Masterpieces in Editing - Filmora's Loved Features</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-techniques-to-elevate-your-channels-visibility/"><u>[Updated] In 2024, Essential Techniques to Elevate Your Channel's Visibility</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-optimal-choices-in-monitors-for-ps5-gamers/"><u>[Updated] In 2024, Optimal Choices in Monitors for PS5 Gamers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-demystifying-vector-images-an-introduction-to-categories-and-software/"><u>2024 Approved Demystifying Vector Images An Introduction to Categories & Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/boosting-your-pc-a-step-by-step-process-to-update-asus-maximus-x-hero-drivers/"><u>Boosting Your PC: A Step-by-Step Process to Update ASUS Maximus X Hero Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/efficiently-update-your-epson-perfection-v39-drivers-for-windows-versions-7-8-and-10/"><u>Efficiently Update Your Epson Perfection V39 Drivers for Windows Versions: 7, 8 & 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722973993003-effortless-update-get-your-realtek-asio-driver-for-windows-11-today/"><u>Effortless Update: Get Your Realtek Asio Driver for Windows 11 Today!</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/essential-steps-to-recover-from-a-failed-hard-drive-tips-by-yl-computing/"><u>Essential Steps to Recover From a Failed Hard Drive - Tips by YL Computing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/geforce-rtx-3080-ti-drivers-new-release-for-windows-11-8-and-7-download-free-today/"><u>GeForce RTX 3080 Ti Drivers: New Release for Windows 11, 8, and 7 – Download Free Today</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-most-recent-geforce-aturbidtrue)geforce(a)-210-drivers-specifically-tuned-for-windows-11/"><u>Get the Most Recent GeForce Aturbid=true>GeForce</A> 210 Drivers Specifically Tuned for Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-free-download-ultimate-guide-to-installing-the-logitech-g-pro-gamepad-on-any-os/"><u>Get Your [Free Download]: Ultimate Guide to Installing the Logitech G Pro Gamepad on Any OS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-officejet-pro-9015-driver-update-how-to-get-the-newest-version-instantly/"><u>HP OfficeJet Pro 9015 Driver Update - How to Get the Newest Version Instantly</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-v30t-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Realme V30T Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-social-media-synergy-twitters-most-shared-tiktoks/"><u>In 2024, The Social Media Synergy Twitter’s Most Shared TikToks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installation-guide-set-up-epson-wf-2750-printing-solutions/"><u>Installation Guide: Set Up Epson WF-2750 Printing Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722979057680-realtek-aiot-drivers-compatible-with-windows-11-free-and-fast-downloads/"><u>Realtek AIoT Drivers Compatible with Windows 11 - Free & Fast Downloads!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-robocop-rogue-city-glitches-a-guide-to-stable-play-on-your-computer/"><u>Solving RoboCop: Rogue City Glitches – A Guide to Stable Play on Your Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-win11s-narrator-command-efficiency/"><u>Unlocking Win11's Narrator Command Efficiency</u></a></li>
 </ul></div>
 

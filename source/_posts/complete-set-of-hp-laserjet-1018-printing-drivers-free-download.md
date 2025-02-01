@@ -1,7 +1,7 @@
 ---
 title: Complete Set of HP LaserJet 1018 Printing Drivers - Free Download
-date: 2024-08-18T12:33:14.458Z
-updated: 2024-08-19T12:33:14.459Z
+date: 2025-01-26T23:36:49.096Z
+updated: 2025-01-31T23:38:20.307Z
 tags:
   - win11
   - win10
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/33f7a6674447c8f7173ff1c687707de6ab2b192d4
  If you’d like to download or update your HP LaserJet 1018 driver, you’ve come to the right place. After reading this, you’ll know exactly what to do.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these methods
 
  Here are 2 methods you can try to update the driver; just select the one you need.
@@ -30,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/33f7a6674447c8f7173ff1c687707de6ab2b192d4
 * **[Method 2 – Download and install the driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1 – Automatically update the HP LaserJet 1018 driver
 
  If you don’t have the time, patience or computer skills to update the HP LaserJet 1018 driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -44,16 +46,14 @@ thumbnail: https://thmb.techidaily.com/33f7a6674447c8f7173ff1c687707de6ab2b192d4
 
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-229.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the **Update**  button next to the HP LaserJet 1018 driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-228.png)
 
  You can do it for free if you like, but it’s partly manual.
@@ -61,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/33f7a6674447c8f7173ff1c687707de6ab2b192d4
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2 – Download and install the driver manually
 
  HP keeps updating the HP LaserJet 1018 driver. To get it, follow the instructions below:
@@ -75,14 +76,15 @@ thumbnail: https://thmb.techidaily.com/33f7a6674447c8f7173ff1c687707de6ab2b192d4
 
 **3)**  Click **Software, Drivers and Firmware** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-233-1024x438.png)
 
 **4)** Find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit), then click**Download** the driver manually.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-234-1024x565.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
@@ -94,8 +96,6 @@ thumbnail: https://thmb.techidaily.com/33f7a6674447c8f7173ff1c687707de6ab2b192d4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,4 +103,20 @@ thumbnail: https://thmb.techidaily.com/33f7a6674447c8f7173ff1c687707de6ab2b192d4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-decoding-the-science-of-captivating-time-lapses-using-gopro/"><u>[New] 2024 Approved Decoding the Science of Captivating Time-Lapses Using GoPro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028514717-pcmdsd/"><u>「高解像度PCMフォーマットへの変換：DSD音源を最適化するための手引き」</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-lava-agni-2-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Lava Agni 2 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-xiaomi-redmi-note-13-proplus-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Xiaomi Redmi Note 13 Pro+ 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-acer-display-drivers-latest-versions-available/"><u>Download Acer Display Drivers - Latest Versions Available</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-surface-book-drivers-with-simple-steps/"><u>Download and Update Surface Book Drivers with Simple Steps</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-free-nvidia-3d-vision-driver-update-installed-on-any-version-of-windows-today/"><u>Get Your Free Nvidia 3D Vision Driver Update Installed on Any Version of Windows Today!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-hp-designjet-500-up-and-running-free-updated-drivers-for-download-now/"><u>Get Your HP Designjet 500 Up and Running: Free, Updated Drivers for Download Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-the-new-logitech-c920-webcam-driver-for-windows-11-10-and-8-systems/"><u>How to Get the New Logitech C920 Webcam Driver for Windows 11, 10, and 8 Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-high-quality-win11-screen-capture-pro/"><u>In 2024, High-Quality Win11 Screen Capture Pro</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-wirecast-for-high-quality-youtube-broadcasts/"><u>In 2024, Navigating WireCast for High-Quality YouTube Broadcasts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-updating-your-rtx-sper-graphics-card-driver-on-windows-11/"><u>Step-by-Step Guide to Updating Your RTX ˈsʊpər Graphics Card Driver on Windows 11</u></a></li>
+</ul></div>
 

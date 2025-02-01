@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Updating Your Canon PIXMA MG2522 with the Newest Printing Software"
-date: 2025-01-18T14:17:43.610Z
-updated: 2025-01-24T02:53:36.763Z
+date: 2025-01-24T22:38:26.355Z
+updated: 2025-01-31T18:07:59.675Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Table of contents
 
 * [How to get the correct driver?](https://tools.techidaily.com/drivereasy/download/)  
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to get the correct driver?
@@ -42,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
  There are two ways you can get the right driver for your Logitech G402 mouse:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 1 – Download and install the driver manually**
@@ -52,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2 – Automatically install the Logitech G402 driver
@@ -70,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-19-38.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the **Update**  button next to the Logicool HID-compliant Cordless Mouse to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -78,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/ecca9631290670220c5819761baf650aa5dd08f70
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-51.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -124,22 +124,15 @@ Lastly, you may want to try your wireless mouse on metal surfaces.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-disappear-and-reappear-avoiding-shadowbans-on-tiktok/"><u>[Updated] Disappear and Reappear Avoiding Shadowbans on TikTok</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-saga-selection-the-top-10-best-action-adventure-games/"><u>[Updated] Saga Selection The Top 10 Best Action-Adventure Games</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-step-by-step-revenue-building-for-youtube-creators-for-2024/"><u>[Updated] Step-by-Step Revenue Building for YouTube Creators for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-xiaomi-14-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Xiaomi 14 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/boosting-online-presence-through-effective-webpage-strategies-seo-techniques-for-success/"><u>Boosting Online Presence Through Effective Webpage Strategies: SEO Techniques for Success</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722959246849-download-and-install-hp-envy-5660-drivers-with-ease-step-by-step-guide/"><u>Download & Install HP Envy 5660 Drivers with Ease – Step-by-Step Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/elevate-your-pc-gaming-update-to-the-latest-gtx-1660-ti-gpu-drivers-now/"><u>Elevate Your PC Gaming: Update to the Latest GTX 1660 Ti GPU Drivers Now</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ensure-smooth-performance-update-targus-displaylink-drivers-in-windows-10-8-and-(br)7-today/"><u>Ensure Smooth Performance: Update Targus DisplayLink Drivers in Windows 10, 8 & <Br>7 Today!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722972045739-get-your-sades-headset-drivers-for-windows-trustworthy-and-risk-free-downloads/"><u>Get Your Sades Headset Drivers for Windows: Trustworthy and Risk-Free Downloads!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-install-microsoft-sound-drivers-on-your-pc-step-by-step-guide/"><u>How to Install Microsoft Sound Drivers on Your PC – Step by Step Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-resolve-connectivity-issues-for-lg-hardware-via-usb-in-windows-operating-systems/"><u>How to Resolve Connectivity Issues for LG Hardware via USB in Windows Operating Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-securely-download-and-install-brother-l2absolutely-here-are-five-new-seo-friendly-titles-similar-to-brother-mfc-l2700dw-driver-download-and-install-f73/"><u>How To: Securely Download and Install Brother L2absolutely! Here Are Five New SEO-Friendly Titles Similar to Brother MFC-L2700DW Driver Download & Install for Windows:</u></a></li>
-<li><a href="https://win-special.techidaily.com/recovery-media-creation-steps/"><u>Recovery Media Creation Steps</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/simple-guide-hp-envy-5540-driver-downloads-updates-and-installation/"><u>Simple Guide: HP Envy 5540 Driver Downloads, Updates & Installation</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-best-free-imovie-replacements-you-need-to-know-about-for-2024/"><u>The Best Free iMovie Replacements You Need to Know About for 2024</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/troubleshooting-unrecognized-peripherals-on-your-pc-expert-advice-from-yl-computing/"><u>Troubleshooting Unrecognized Peripherals on Your PC - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y78-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y78 5G Users</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-maximize-video-discoverability-key-youtube-seo-techniques/"><u>[Updated] 2024 Approved Maximize Video Discoverability Key YouTube SEO Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-audio-capture-essentials-mastering-mac-setup-for-2024/"><u>[Updated] Audio Capture Essentials Mastering Mac Setup for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-geforce-gtx-1660-super-graphics-card-drivers-latest-versions/"><u>Download & Update GeForce GTX 1660 Super Graphics Card Drivers - Latest Versions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-epson-wf-3640-printer-driver-for-pc/"><u>Download the Latest Epson WF-3640 Printer Driver for PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-drivers-for-your-hp-z440-workstation-install-now/"><u>Get the Newest Drivers for Your HP Z440 Workstation – Install Now!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-find-n3-flip-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Find N3 Flip to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-12plus-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Realme 12+ 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-nvidia-rtx-2060-super-graphics-card-drivers-compatible-with-windows-10-and-11-download-now/"><u>Latest NVIDIA RTX 2060 Super Graphics Card Drivers Compatible with Windows 10 and 11 - Download Now</u></a></li>
+<li><a href="https://video-capture.techidaily.com/precision-players-list-the-finest-fps-gaming-for-2024/"><u>Precision Players’ List – The Finest FPS Gaming for 2024</u></a></li>
 </ul></div>
 

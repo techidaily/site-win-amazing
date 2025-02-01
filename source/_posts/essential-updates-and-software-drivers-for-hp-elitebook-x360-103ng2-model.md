@@ -1,7 +1,7 @@
 ---
 title: Essential Updates & Software Drivers for HP EliteBook X360 103nG2 Model
-date: 2024-08-18T12:33:17.614Z
-updated: 2024-08-19T12:33:17.614Z
+date: 2025-01-24T23:23:55.685Z
+updated: 2025-01-31T23:10:23.009Z
 tags:
   - win11
   - win10
@@ -15,16 +15,14 @@ thumbnail: https://thmb.techidaily.com/e0fa8a626f9ce04b93030cf87348bad1dbf4f9d0f
 
 ## Get the Latest Intel Wireless AC 9560 Driver Software Here
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-473.png)
 
  Want to download and update the Intel Wireless AC 9560 driver in your computer? You’ve come to the right place! This post shows you how to download and install**Intel Wireless AC 9560 adapter driver** as easy as pie.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
 **Note** : Updating your wireless network adapter requires the Internet connection. If you don’t have the WiFi connection, try Ethernet connection or **[Offline Scan](https://tools.techidaily.com/drivereasy/download/)**  provided by Driver Easy which enables you to update network adapter drivers with no Internet connection.
@@ -38,8 +36,9 @@ OR
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/intel-wireless-ac-9560-driver-download-update/#f2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1 – Download and install the driver manually
 
  Intel keeps updating drivers. To get them, you need to go to the Intel download center, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 10 64 bit) and download the driver manually.
@@ -48,16 +47,10 @@ OR
 
  2) Type**AC 9560** in the search bar and select**Intel Wireless-AC 9560** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-476.png)
 
  3) Choose your operating system in the drop-down menu next to**Filter by** . In my case it’s Windows 10 64 bit.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-474.png)
 
  4) Click**Windows 10 WiFi Drivers for Intel Wireless Adapters** to download the driver.
@@ -69,8 +62,9 @@ OR
  If this method didn’t work for you, don’t worry. There is another solution.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2 – Automatically update Intel wireless AC 9560 drivers
 
  If you don’t have the time, patience or computer skills to update the Intel AC 9560 driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -85,9 +79,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-477.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-478.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
 
@@ -105,8 +107,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +114,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-capturing-brilliance-with-the-q500-drone/"><u>[New] 2024 Approved Capturing Brilliance with the Q500 Drone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-framemaster-pro-advanced-windowsmac-screen-capture/"><u>[Updated] 2024 Approved FrameMaster Pro Advanced Windows/Mac Screen Capture</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-superior-webcam-gear-for-podcasters/"><u>[Updated] 2024 Approved Superior Webcam Gear for Podcasters</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-gaming-gear-keyboards-for-less-than-100/"><u>[Updated] Essential Gaming Gear Keyboards for Less Than $100</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-poco-c65-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-acid-pro-evaluation-and-alternative-software/"><u>Comprehensive ACID Pro Evaluation & Alternative Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-connect-your-vizio-television-to-wi-fi-effectively/"><u>Expert Advice: Connect Your Vizio Television to Wi-Fi Effectively</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-razer-drivers-for-your-windows-system-versions-include-win-10-8-7-xp-vista/"><u>Get the Latest Razer Drivers for Your Windows System (Versions Include Win 10, 8, 7, XP, Vista)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-realtek-rtl8188cu-wifi-drivers-compatible-with-windows-10-and-7-free-download/"><u>Get the Latest Realtek RTL8188CU WiFi Drivers Compatible with Windows 10 & 7 – Free Download</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977206995-hassle-free-installation-get-your-logitech-drivers-in-a-flash/"><u>Hassle-Free Installation: Get Your Logitech Drivers in a Flash</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-get-the-most-recent-driver-updates-for-your-synaptics-touchpad-effortlessly/"><u>How to Get the Most Recent Driver Updates for Your Synaptics Touchpad Effortlessly</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-google-pixel-8-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Google Pixel 8 Pro</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-successfully-integrate-toshiba-printers-with-windows-systems/"><u>How to Successfully Integrate Toshiba Printers with Windows Systems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-honor-magic-5-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Honor Magic 5 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installing-your-dell-wd19-printer-drivers-made-simple/"><u>Installing Your Dell WD19 Printer Drivers Made Simple</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/samsung-ssd-drivers-for-enhanced-performance-where-to-find-them/"><u>Samsung SSD Drivers for Enhanced Performance - Where to Find Them!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updated-guide-to-downloading-usb-c-drivers-for-windows-11-users/"><u>Updated Guide to Downloading USB-C Drivers for Windows 11 Users</u></a></li>
+</ul></div>
 

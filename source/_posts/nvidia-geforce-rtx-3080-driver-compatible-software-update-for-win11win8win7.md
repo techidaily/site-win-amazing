@@ -1,7 +1,7 @@
 ---
 title: "NVIDIA GeForce RTX 3#080 Driver: Compatible Software Update for Win11/Win8/Win7"
-date: 2025-01-18T00:35:29.236Z
-updated: 2025-01-23T16:17:41.187Z
+date: 2025-01-29T00:09:25.300Z
+updated: 2025-01-31T18:14:34.389Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ Or
 [**Method 2** **– Manually:**](https://tools.techidaily.com/drivereasy/download/) You can update your Geforce RTX 3080 Ti driver on your own. This requires some time, patience, and sometimes even computer skills.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Update your Geforce RTX 3080 Ti driver automatically
@@ -55,13 +55,13 @@ Or
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Download and install your Geforce RTX 3080 Ti driver manually
@@ -74,14 +74,14 @@ Or
 3. Click the **DOWNLOAD** button to download the driver file.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Download & Update NVIDIA GeForce RTX 3080 Ti driver manually 1](https://images.drivereasy.com/wp-content/uploads/2021/06/Download-Update-NVIDIA-GeForce-RTX-3080-Ti-driver-manually-1.jpg)
 4. **Double-click** the downloaded driver file and follow the on-screen instructions to install the updated driver on your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Restart your computer for the changes to take effect.
@@ -107,22 +107,22 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-tackling-problems-with-instagrams-video-feature/"><u>[New] In 2024, Tackling Problems with Instagram's Video Feature</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-tips-for-successful-youtube-audios/"><u>[New] In 2024, Tips for Successful Youtube Audios</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-vlc-player-tips-10-hidden-features/"><u>[Updated] 2024 Approved VLC Player Tips 10 Hidden Features</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-a-beginners-strategy-boosting-business-via-telegram-marketing/"><u>[Updated] A Beginner’s Strategy Boosting Business via Telegram Marketing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-solo-sounders-plight-resolved-guide-for-2024/"><u>[Updated] Solo Sounder's Plight Resolved Guide for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1-direct-microsoft-software-installers-available-immediately-on-the-microsoft-store/"><u>1. Direct Microsoft Software Installers Available Immediately on the Microsoft Store</u></a></li>
-<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amd-chip-support-packages-download-for-windows-11-7-8-and-81-users/"><u>AMD Chip Support Packages – Download for Windows 11, 7, 8 & 8.1 Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/dell-xps-13-drivers-download-and-update-easily/"><u>Dell XPS 13 Drivers Download & Update Easily</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-supported-logitech-c270-driver-pack-and-installation-guide-for-windows-10-and-11/"><u>Download Supported Logitech C270 Driver Pack & Installation Guide for Windows 10 and 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-steps-to-quickly-install-the-latest-intel-iris-plus-gvt-2397-graphics-driver-seamless-experience/"><u>Easy Steps to Quickly Install the Latest Intel Iris Plus GVT-2397 Graphics Driver - Seamless Experience</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-ways-to-download-and-keep-your-surface-drivers-up-to-date/"><u>Easy Ways to Download and Keep Your Surface Drivers Up-to-Date</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/insightful-examination-of-wirecast-and-its-peers/"><u>Insightful Examination of WireCast & Its Peers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-the-most-recent-tp-link-wireless-network-driver-software-for-windows-11-8-and-7-get-it-today/"><u>Install the Most Recent TP-Link Wireless Network Driver Software for Windows 11, 8 & 7 – Get It Today!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/newest-software-patch-now-available-enhance-your-logitech-extreme-3d-experience/"><u>Newest Software Patch Now Available: Enhance Your Logitech Extreme 3D Experience</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/wireless-free-approach-to-updating-your-windows-drivers/"><u>Wireless-Free Approach to Updating Your Windows Drivers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-examining-key-features-in-vr-headsets/"><u>[New] Examining Key Features in VR Headsets</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-future-in-your-hand-top-10-cutting-edge-recorder-apps-for-2024/"><u>[New] The Future in Your Hand Top 10 Cutting-Edge Recorder Apps for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-viral-success-the-most-loved-ae-themes-for-social-media-for-2024/"><u>[Updated] Viral Success The Most Loved AE Themes for Social Media for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/apples-m1-pro-versus-the-powerhouse-m1-max-what-to-note-for-2024/"><u>Apple's M1 Pro Versus the Powerhouse M1 Max - What to Note for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-canon-printer-mx490-drivers-on-windows-a-complete-guide/"><u>Download and Install Canon Printer MX490 Drivers on Windows: A Complete Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-updating-and-downloading-drivers-for-your-xp-pen/"><u>Easy Guide: Updating and Downloading Drivers for Your XP-Pen</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/essential-driver-update-for-hp-scanjet-install-now-for-compatibility-with-windows-11-8-and/"><u>Essential Driver Update for HP Scanjet: Install Now for Compatibility with Windows 11, 8 &</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-insights-the-best-approaches-to-live-cricket-broadcasting/"><u>Expert Insights The Best Approaches to Live Cricket Broadcasting</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-epson-ds-530-driver-downloads-for-windows-10-x64-systems/"><u>Free Epson DS-530 Driver Downloads for Windows 10 X64 Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-updates-how-to-install-razer-naga-driver-for-windows/"><u>Get the Newest Updates: How to Install Razer Naga Driver for Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/getting-started-with-logitech-mx-master-finding-and-installing-the-right-software/"><u>Getting Started with Logitech MX Master: Finding and Installing the Right Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-and-update-epson-printer-drivers-for-windows-11/"><u>How to Download & Update Epson Printer Drivers for Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-honor-80-pro-straight-screen-edition-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Honor 80 Pro Straight Screen Edition Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722967364525-unlock-full-potential-exclusive-msi-z37-grocking-board-drivers-get-them-at-no-cost/"><u>Unlock Full Potential: Exclusive MSI Z37 Grocking Board Drivers – Get Them at No Cost!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unmatched-subtitle-expertise-top-10-leaders-in-video-caption-manipulation-for-2024/"><u>Unmatched Subtitle Expertise – Top 10 Leaders in Video Caption Manipulation for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-trailer-making-made-easy-top-tools-for-mac-and-windows/"><u>Updated Trailer Making Made Easy Top Tools for Mac and Windows</u></a></li>
 </ul></div>
 

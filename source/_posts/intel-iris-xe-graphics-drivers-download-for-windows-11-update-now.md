@@ -1,7 +1,7 @@
 ---
 title: Intel® Iris® Xe Graphics Drivers Download for Windows 11 - Update Now!
-date: 2024-08-18T12:33:13.435Z
-updated: 2024-08-19T12:33:13.435Z
+date: 2025-01-29T16:01:30.416Z
+updated: 2025-01-31T21:10:31.310Z
 tags:
   - win11
   - win10
@@ -25,32 +25,37 @@ thumbnail: https://thmb.techidaily.com/f0922cdea4398af9eb93c3915c9d932ac3a495368
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Download and install the RTX 3090 driver automatically (Recommended)
 
  If you’re not comfortable playing with device drivers, we recommend using **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a tool that detects, downloads and installs any driver updates your computer needs.
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
- (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve installed the new graphics driver, restart your computer and enjoy the next-generation gaming experience.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Download and install the RTX 3090 driver manually
 
  If you have the time and computer skills, you can also download and install the RTX 3090 driver manually.
@@ -60,23 +65,13 @@ thumbnail: https://thmb.techidaily.com/f0922cdea4398af9eb93c3915c9d932ac3a495368
 1. First go to the[**NVIDIA driver download page**](https://tools.techidaily.com/drivereasy/download/) .
 2. Set the**Product Type** ,**Product Series** and**Product** accordingly. Make sure you choose the correct**Operating System** . Then click**SEARCH.**  
  For**Download Type** , choose**Game Ready Driver (GRD)** for gaming purposes; or choose**Studio Driver (SD)** for graphic design.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-3090-official-dl.jpg)
 3. Click**DOWNLOAD** to get the install wizard. Then open the wizard and follow the on-screen instructions to install the driver.  
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3090-official-dl.jpg)
 
 ---
@@ -89,8 +84,6 @@ thumbnail: https://thmb.techidaily.com/f0922cdea4398af9eb93c3915c9d932ac3a495368
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +91,24 @@ thumbnail: https://thmb.techidaily.com/f0922cdea4398af9eb93c3915c9d932ac3a495368
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-ideal-mac-screenshot-guide-5-streamlined-and-effective-methods/"><u>[New] 2024 Approved Ideal Mac Screenshot Guide 5 Streamlined and Effective Methods</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-proven-strategies-to-skyrocket-your-fb-search-results-rankings/"><u>[Updated] In 2024, Proven Strategies to Skyrocket Your FB Search Results Rankings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-optimize-your-communication-scheduling-and-planning-with-ease-google/"><u>[Updated] Optimize Your Communication Scheduling & Planning with Ease (Google)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photoshop-alternatives-on-android/"><u>[Updated] Photoshop Alternatives on Android</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-latest-msi-audio-driver-software-for-windows-systems/"><u>Download Latest MSI Audio Driver Software for Windows Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-updated-amd-rx-6800-xt-drivers-for-optimal-performance-on-windows-pcs-windows-111087/"><u>Download Updated AMD RX 6800 XT Drivers for Optimal Performance on Windows PCs (Windows 11/10/8/7)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/driver-for-xbox-360-controller-download/"><u>Driver for Xbox 360 Controller Download</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/elevate-your-pcs-performance-with-the-asus-radeon-hd-970-pro-for-gamers/"><u>Elevate Your PC's Performance with the ASUS Radeon HD 970 Pro for Gamers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhancing-performance-of-your-dell-2330ddn-monochrome-laser-printer/"><u>Enhancing Performance of Your Dell 2330D/Dn Monochrome Laser Printer</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/free-voice-modification-tools-enhance-your-auditory-presentation/"><u>Free Voice Modification Tools – Enhance Your Auditory Presentation</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722965621359-get-your-lenovo-x220-up-and-running-efficient-driver-downloads/"><u>Get Your Lenovo X220 Up and Running - Efficient Driver Downloads</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/m-audio-fast-track-driver-installation-complete-guide-for-windows-users-windows-11-7-8-and-81/"><u>M-Audio Fast Track Driver Installation: Complete Guide for Windows Users (Windows 11, 7, 8 & 8.1)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/al-youtube-playback-adjusting-speed-settings-for-2024/"><u>Optimal YouTube Playback Adjusting Speed Settings for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/purchase-locations-for-amds-latest-processors-ryzen-7-9700x-and-ryzen-5-9600x/"><u>Purchase Locations for AMD's Latest Processors: Ryzen 7 9700X & Ryzen 5 9600X</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-tutorial-on-saving-android-text-chats-onto-your-desktop-system/"><u>Step-by-Step Tutorial on Saving Android Text Chats Onto Your Desktop System</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-the-latest-and-greatest-mkv-conversion-tools-ranking-1-13/"><u>The Ultimate Guide to the Latest & Greatest MKV Conversion Tools - Ranking #1-#13</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/understanding-and-lowering-disk-usage-spikes-caused-by-telemetry-in-windows-11/"><u>Understanding and Lowering Disk Usage Spikes Caused by Telemetry in Windows 11</u></a></li>
+</ul></div>
 

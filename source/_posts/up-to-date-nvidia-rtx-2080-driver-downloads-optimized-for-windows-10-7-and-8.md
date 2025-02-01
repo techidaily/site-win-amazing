@@ -1,7 +1,7 @@
 ---
 title: "Up-to-Date NVIDIA RTX 2080 Driver Downloads: Optimized for Windows 10, 7 & 8"
-date: 2025-01-20T05:00:12.592Z
-updated: 2025-01-24T01:55:24.478Z
+date: 2025-01-27T18:46:17.762Z
+updated: 2025-02-01T00:06:36.857Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2 ways to install/update your RTX 3080 driver
@@ -37,7 +37,7 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 **[Option 2: Manually](https://tools.techidaily.com/drivereasy/download/)**  – Some computer skills are required.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Install/Update your RTX 3080 driver automatically (Recommended)
@@ -51,19 +51,15 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Once you’ve installed/updated your graphics driver, restart your computer.
 
-**The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ### Option 2: Install/Update your RTX 3080 driver manually
 
@@ -77,10 +73,14 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-3080-driver-official-dl.jpg)
 3. Click**Download** . Then run the install wizard to install the graphics driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3080-driver-dl.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -102,24 +102,21 @@ Congratulation on scoring the new**NVIDIA GeForce RTX 3080** !
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-amazing.techidaily.com/fixed-diagnose-and-restore-functionality-for-your-logitech-g433-microphone/"><u>[FIXED] Diagnose and Restore Functionality for Your Logitech G433 Microphone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-discover-the-premier-5-ios-podcast-clients/"><u>[New] In 2024, Discover the Premier 5 iOS Podcast Clients</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-picture-perfection-on-the-move-easy-lut-adjustment/"><u>2024 Approved Picture Perfection on the Move Easy LUT Adjustment</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722985933409-boost-your-drop-rate-successfully-and-swiftly-tricks-unveiled-for-dayz-fps-game/"><u>Boost Your Drop Rate Successfully & Swiftly: Tricks Unveiled for DayZ FPS Game!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-wi-fi-drivers-on-windows-7-quick-guide/"><u>Download and Update Wi-Fi Drivers on Windows 7 - Quick Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-to-install-lenovo-thinkpad-x230-drivers-for-immediate-use-download-now/"><u>Easy-to-Install Lenovo ThinkPad X230 Drivers for Immediate Use – Download Now</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enablingdisabling-picture-in-picture-a-step-by-step-guide-for-iphones/"><u>Enabling/Disabling Picture-in-Picture A Step-by-Step Guide for iPhones</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-guide-downloading-and-updating-your-sapphire-gpu-drivers-for-optimal-performance-on-windows/"><u>Free Guide: Downloading & Updating Your Sapphire GPU Drivers for Optimal Performance on Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-officejet-pro-8720-drivers-and-updates-for-windows-operating-systems-how-to-download-them/"><u>HP OfficeJet Pro 8720 Drivers & Updates for Windows Operating Systems: How to Download Them</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/mac-recording-hub-essential-insights/"><u>Mac Recording Hub Essential Insights</u></a></li>
-<li><a href="https://win-blog.techidaily.com/no-more-crashes-in-multiversus-mastering-the-top-8-strategies-for-reliable-gaming/"><u>No More Crashes in MultiVersus: Mastering the Top 8 Strategies for Reliable Gaming</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722962751716-ptcd-is-used-for-pre-operative-jaundice-relief-but-does-not-treat-the-underlying-carcinoma/"><u>PTCD Is Used for Pre-Operative Jaundice Relief but Does Not Treat the Underlying Carcinoma.</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/simplified-installation-of-samsung-m2070fw-driver/"><u>Simplified Installation of Samsung M2070FW Driver</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-installation-hp-envy-5660-printer-software-get-yours-free/"><u>Step-by-Step Installation: HP Envy 5660 Printer Software – Get Yours Free!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-comprehensive-manual-to-revamping-your-dell-docking-stations-software/"><u>The Comprehensive Manual to Revamping Your DELL Docking Station's Software</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-y100t-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo Y100t Phone Network-Ready</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo Y78+? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/wmv-to-mkv-movavi/"><u>オンライン無料のWMV to MKV変換器 - Movaviプロジェクト特典版</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-comprehensive-scrutiny-of-elite-parrot-ar-20/"><u>[Updated] 2024 Approved Comprehensive Scrutiny of Elite Parrot AR 2.0</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fast-lanes-for-jumbled-youtube-playlist-arrangement/"><u>[Updated] In 2024, Fast Lanes for Jumbled YouTube Playlist Arrangement</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-jailbreak-comedy-hour-best-fb-moments-of-amusement-and-awe/"><u>[Updated] Jailbreak Comedy Hour Best FB Moments of Amusement and Awe</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-best-mp4-devices-roundup-for-2024/"><u>[Updated] The Best MP4 Devices Roundup for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-apple-iphone-7-plus-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing Apple iPhone 7 Plus iCloud Activation Lock</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beyond-the-headsets-the-essence-of-virtual-reality/"><u>Beyond the Headsets The Essence of Virtual Reality</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-hp-officejet-pro-8715-printer-drivers-for-windows-11-10-and-8/"><u>Download the Latest HP OfficeJet Pro 8715 Printer Drivers for Windows 11, 10 & 8</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-steps-for-downloading-your-acer-predator-xb271hu-essential-drivers/"><u>Easy Steps for Downloading Your Acer Predator XB271HU Essential Drivers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/enhancing-smooth-playback-stop-frame-gaps-in-obs-for-2024/"><u>Enhancing Smooth Playback Stop Frame Gaps in OBS for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-of-charge-hp-audio-device-drivers-quick-setup-instructions/"><u>Free of Charge HP Audio Device Drivers - Quick Setup Instructions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-nvidia-gpu-up-to-date-free-driver-downloads-for-windows-users-vista-7-10/"><u>Get Your NVIDIA GPU Up-to-Date: Free Driver Downloads for Windows Users (Vista, 7, 10)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hassle-free-drivers-the-key-to-seamless-windows-updates/"><u>Hassle-Free Drivers: The Key to Seamless Windows Updates</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-update-and-download-for-amd-radeon-rx-470-drivers-improve-your-gaming-experience-now/"><u>Seamless Update & Download for AMD Radeon RX 470 Drivers: Improve Your Gaming Experience Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/sharpen-your-deduction-skills-through-these-engaging-ai-murder-mysteries-and-puzzles-4-best-brain-boosting-challenges/"><u>Sharpen Your Deduction Skills Through These Engaging AI Murder Mysteries & Puzzles - #4 Best Brain-Boosting Challenges</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/swift-installation-guide-boost-your-audio-with-nahimic/"><u>Swift Installation Guide: Boost Your Audio with Nahimic</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726029335591-youtube/"><u>YouTube投稿用の高速ビデオ圧縮技術</u></a></li>
 </ul></div>
 

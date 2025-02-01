@@ -1,7 +1,7 @@
 ---
 title: Installation Tutorial for WD SES External Hard Drives (Versions From 2011)
-date: 2025-01-22T01:20:57.327Z
-updated: 2025-01-24T11:03:40.686Z
+date: 2025-01-24T16:10:54.631Z
+updated: 2025-01-31T19:13:41.920Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
 3. [**Update Brother printer drivers with Driver Easy automatically (Recommended)**](https://www.drivereasy.com/knowledge/brother-printer-drivers-download-easily-quickly/#WAY3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 1: Download Brother printer latest drivers from Brother official website
@@ -41,13 +41,13 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-35.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or you can browse your product .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-34.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Downloads** .  
   
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Click **Agree to the EULA and Download** .  
@@ -73,16 +73,20 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-15.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) When it’s done, double-click the downloaded **.exe**  file and follow the on-screen instructions to install the driver on your computer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 2: Update Brother printer drivers via Device Manager
   
  1) Press the **Windows logo**  key ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b42dbb955df7.png) \+ **R**  key at the same time to open the Run box.  
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Type **devmgmt.msc**  in the box and hit **Enter**  to open **Device** **Manager** .  
   
@@ -102,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
  5) Now Windows will detect the update automatically for you. Just follow the on-screen instructions.
 
 **Note:**  If you see the   **The best driver software for your device is already installed**  message, choose other way to update your Brother printer driver. That’s because sometimes Microsoft might not detect the update for some reasons.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Way 3: Update Brother printer drivers with one-click via Driver Easy automatically (Recommended)
 
@@ -145,18 +145,17 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-15-best-tools-to-capture-classroom-learning-moments/"><u>[New] 15 Best Tools to Capture Classroom Learning Moments</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-tasty-trailblazers-culinary-youtube-icons/"><u>[New] 2024 Approved Tasty Trailblazers Culinary YouTube Icons</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-scouring-influencers-tailoring-your-niches-insta-community/"><u>[New] Scouring Influencers Tailoring Your Niche's Insta Community</u></a></li>
-<li><a href="https://fox-info.techidaily.com/best-in-class-meme-modification-software-for-2024/"><u>Best in Class Meme Modification Software for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-logitech-g203-driver-for-windows-71011/"><u>Download Logitech G203 Driver for Windows 7/10/11</u></a></li>
-<li><a href="https://article-posts.techidaily.com/explore-the-best-free-image-layers-and-enhancers-on-iosandroid-for-2024/"><u>Explore the Best, FREE Image Layers & Enhancers on iOS/Android for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-logitech-driving-force-gt-wheel-setup-guide-and-downloads-for-win-7-10-and-11/"><u>Free Logitech Driving Force GT Wheel Setup Guide & Downloads for Win 7, 10 & 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-realtek-device-driver-for-windows-11-here/"><u>Get Your Realtek Device Driver for Windows 11 Here</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/manipulating-media-with-mastery-tools/"><u>Manipulating Media with Mastery Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-best-online-strategies-and-tools-for-mastering-prompt-engineering/"><u>The Best Online Strategies and Tools for Mastering Prompt Engineering</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/this-gives-us/"><u>This Gives Us:</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/youtube-video-not-showing-fixed/"><u>YouTube Video Not Showing [FIXED]</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-mastering-quick-youtube-comment-removal-techniques/"><u>[New] 2024 Approved Mastering Quick YouTube Comment Removal Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-techniques-to-effortlessly-attain-professional-graphic-content/"><u>[New] In 2024, Techniques to Effortlessly Attain Professional Graphic Content</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-navigating-the-boundaries-of-video-posting-on-facebook-for-2024/"><u>[New] Navigating the Boundaries of Video Posting on Facebook for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-art-of-conveying-content-mastering-onestream-livestreams/"><u>[Updated] 2024 Approved The Art of Conveying Content Mastering OneStream Livestreams</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-comparative-guide-to-content-mastery-on-youtube/"><u>[Updated] In 2024, The Comparative Guide to Content Mastery on YouTube</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-tecno-phantom-v-flip-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Tecno Phantom V Flip</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/brother-hl-l2370dw-printer-drivers-download-and-update-instructions/"><u>Brother HL-L2370DW Printer Drivers - Download and Update Instructions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722973745543-download-and-install-the-right-drivers-for-your-csr-bluetooth-hardware-today/"><u>Download and Install the Right Drivers for Your CSR Bluetooth Hardware Today!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-logitech-g27-racing-wheel-software-compatible-with-windows-11107/"><u>Download Logitech G27 Racing Wheel Software: Compatible with Windows 11/10/7</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/gratuitous-goal-games-capturing-kicks-without-costs/"><u>Gratuitous Goal Games Capturing Kicks Without Costs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-fix-how-to-securely-obtain-and-set-up-epson-xp-830-software/"><u>Quick Fix: How to Securely Obtain and Set Up Epson XP-830 Software</u></a></li>
 </ul></div>
 

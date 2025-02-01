@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Updating Graphics and Chipset Drivers on Your Dell XPS 15 in Windows"
-date: 2024-08-18T12:34:22.975Z
-updated: 2024-08-19T12:34:22.975Z
+date: 2025-01-27T18:22:05.389Z
+updated: 2025-01-31T22:33:39.672Z
 tags:
   - win11
   - win10
@@ -19,18 +19,12 @@ Searching all over the Internet for your **Asus VG248QE** driver so that your mo
 
  Check out this guide and you’ll be enjoying the life-like viewing experience as promised in no time! 😉
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## About **Asus VG248QE driver**
 
  In fact, ASUS’s official website doesn’t provide a monitor driver for our **Asus VG248QE** gaming monitor simply because it doesn’t need one. Like most typical monitors, our **Asus VG248QE** gaming monitor is perfectly compatible with our computer and doesn’t need a separate monitor driver to have the designated viewing effects.
 
  But if you are running into problems like   **Asus VG248QE showing as generic PnP monitor**  and**no 144hz** , as many users have reported, it’s highly recommended you**update your graphics driver** for the best performance of your monitor.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to update your graphics driver
 
  Both methods below work in**Windows 10** ,**8.1** and**7** . You don’t have to try both, just browse through the list and take your pick:
@@ -39,8 +33,9 @@ Searching all over the Internet for your **Asus VG248QE** driver so that your mo
 2. **[Update your graphics driver manually](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Update your graphics driver automatically (Recommended)
 
  If you’re not confident playing around with drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -53,18 +48,26 @@ Searching all over the Internet for your **Asus VG248QE** driver so that your mo
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472685de9c9.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Update your graphics driver manually
 
 **Warning** : Downloading the wrong driver or installing it incorrectly can compromise our PC’s stability and even cause the whole system to crash. So please proceed at your own peril.
@@ -72,11 +75,13 @@ Searching all over the Internet for your **Asus VG248QE** driver so that your mo
 Here’re we go:
 
 1. On your keyboard, press **the Windows logo key** and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Locate and double-click on **Display adapters** (aka. **Graphics card** , **Video card** ) and you can see your**brand and model of graphics card** right below.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (**Intel(R) HD Graphics 4000** in my case).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b47105a562f6.jpg)
 3. Go to the official website and check out the **Support** section for **driver downloads** .
@@ -97,8 +102,6 @@ Here’re we go:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +109,23 @@ Here’re we go:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-eye-candy-extravaganza-highest-watched-videos-in-a-day/"><u>[New] 2024 Approved Eye Candy Extravaganza Highest Watched Videos in a Day</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-beginners-guide-to-av1-codec-for-2024/"><u>[New] Beginner's Guide to AV1 Codec for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-captivating-stories-in-motion-best-video-theme-choices/"><u>[New] In 2024, Captivating Stories in Motion Best Video Theme Choices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-close-up-cinematography-through-zooming/"><u>[New] In 2024, Mastering Close-Up Cinematography Through Zooming</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/mac-carbon-copy-cloner-windows/"><u>「無料で使えるMac用データバックアップツール: Carbon Copy Cloner Windows版代わり」</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-updated-driver-for-your-hp-officejet-4500-printer/"><u>Download Updated Driver for Your HP Officejet 지적기 4500 Printer</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/essential-guide-downloading-and-installing-msis-latest-bluetooth-drivers-for-win-11win-10-pcs/"><u>Essential Guide: Downloading and Installing MSI's Latest Bluetooth Drivers for Win 11/Win 10 PCs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-and-secure-installation-of-corsair-keyboard-drivers-on-windows/"><u>Free and Secure Installation of Corsair Keyboard Drivers on Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-instant-setup-free-targus-docking-station-driver-download/"><u>Get Instant Setup: Free Targus Docking Station Driver Download</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-7-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 7 To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-realme-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Realme Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installing-zexmte-bluetooth-adapter-software-compatible-with-windows-operating-systems/"><u>Installing ZexMTE Bluetooth Adapter Software: Compatible with Windows Operating Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/prevent-crashes-by-avoiding-unnecessary-app-closures-on-android-devices/"><u>Prevent Crashes by Avoiding Unnecessary App Closures on Android Devices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-compatibility-hp-officejet-pro-er-6968-drivers-for-all-operating-systems/"><u>Seamless Compatibility: HP OfficeJet Pro Er 6968 Drivers for All Operating Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-launch-issues-with-tekken-8-on-your-pc/"><u>Troubleshooting Steps: Resolving Launch Issues with Tekken 8 on Your PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-your-audio-experience-with-quick-logitech-headset-driver-updates/"><u>Upgrade Your Audio Experience with Quick Logitech Headset Driver Updates</u></a></li>
+</ul></div>
 

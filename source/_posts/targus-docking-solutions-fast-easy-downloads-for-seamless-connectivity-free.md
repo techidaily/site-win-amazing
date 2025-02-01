@@ -1,7 +1,7 @@
 ---
 title: Targus Docking Solutions - Fast, Easy Downloads for Seamless Connectivity [FREE]
-date: 2025-01-19T17:06:12.909Z
-updated: 2025-01-24T10:13:30.744Z
+date: 2025-01-27T23:28:19.251Z
+updated: 2025-02-01T00:21:00.459Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to update Targus Docking Station drivers
 
@@ -53,7 +49,7 @@ OR
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update the Targus Docking Station driver for now, hit the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-361.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -72,37 +68,41 @@ OR
 2. In the top right of this web page, click**Support** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-365.png)
 3. Select**Drivers & Manuals** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-367.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Type the**model name** or**serial number** of your Targus device into the search box to locate the corresponding drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-368.png) Alternatively, you may select**Category** and then**Product** to look for the drivers of your Docking Station.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-160.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. After locating the corresponding driver for your product, click on the**Download** button below.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-372.png)
 6. Right-click on the file (with a ZIP extension) you’ve just downloaded to open the context menu. Then click**Extract All…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-375.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. In the pop-up window, click**Browse…** and choose a destination folder where you want to decompress the file. Then, click**Extract** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-376.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Wait till the decompression process finishes. Then**copy** the full path of the destination folder. (The path will be different based on your choice in the last step. )![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-20_15-47-31.png)
 9. On your keyboard, press the **Windows Logo Key** and **R**  at the same time to open the**Run**  box. Type **devmgmt.msc** and click **OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap13-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 10. In the**Device Manager** window, locate your Targus Docking Station and then right-click on it to open the context menu. Select**Update driver** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap14-1.png)
 11. If prompted, click**Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-384.png)
 
 12. **Paste** the full path copied in**Step 8** onto the address bar. Remember to check the **Include subfolders** box. Then hit the **Next** button.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-387.png)
 13. Now Windows will search for the driver and install it automatically. When everything’s done, click**Finish** . Then **restart** your computer for the changes to take effect even if you’re not asked to.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -125,15 +125,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-intuitive-platform-for-video-collaboration-streamxpert/"><u>[New] In 2024, Intuitive Platform for Video Collaboration - StreamXpert</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-understanding-cloud-pricing-models-and-savings-strategies/"><u>[Updated] 2024 Approved Understanding Cloud Pricing Models & Savings Strategies</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/4k-movmp4hevcmkv/"><u>高効率で滑らかな4K再生: MOV、MP4、HEVC、MKVファイルの最適化テクニック</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-essential-hp-software-updates-and-assistance-programs/"><u>Download Essential HP Software Updates & Assistance Programs</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/dynamic-title-creation-the-game-changer-for-2024/"><u>Dynamic Title Creation The Game Changer for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-guide-to-revamping-lenovo-pc-power-driver-software/"><u>Effortless Guide to Revamping Lenovo PC Power Driver Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-scanjet-driver-updates-available-install-now-for-enhanced-performance-on-windows-systems/"><u>HP Scanjet Driver Updates Available - Install Now for Enhanced Performance on Windows Systems</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-snap-tastic-facebooks-fleeting-media/"><u>In 2024, Snap-Tastic Facebook's Fleeting Media</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-realtek-usb-c-reader-software-compatible-with-windows-11-free-download/"><u>Latest Realtek USB-C Reader Software Compatible with Windows 11 – Free Download</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/live-streaming-made-easy-discover-manycam-the-ultimate-virtual-camera-software/"><u>Live Streaming Made Easy: Discover ManyCam - The Ultimate Virtual Camera Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-imovie-why-does-it-alter-my-videos/"><u>[New] IMovie Why Does It Alter My Videos?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-prime-choices-webcams-on-windows-10-for-2024/"><u>[New] Prime Choices Webcams on Windows 10 for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-video-to-mp3-transform-your-shares-into-music-beats-for-2024/"><u>[Updated] FB Video-to-MP3 Transform Your Shares Into Music Beats for 2024</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/a-guide-to-selecting-top-ranked-software-for-hard-drive-partition-repair/"><u>A Guide to Selecting Top-Ranked Software for Hard Drive Partition Repair</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-ultimate-convertor-for-avi-and-3g2-files-your-go-to-solution/"><u>Discover the Ultimate Convertor for AVI and 3G2 Files: Your Go-To Solution!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-downloading-and-setup-for-linksys-wusb6300-network-adapter-drivers/"><u>Easy Downloading and Setup for Linksys WUSB6300 Network Adapter Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/getting-your-microsoft-sculpt-keyboard-up-to-date-with-a-hassle-free-driver-update-process/"><u>Getting Your Microsoft Sculpt Keyboard Up-to-Date with a Hassle-Free Driver Update Process</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-and-install-drivers-on-your-hp-envy-laptop-effortless-guide/"><u>How to Download & Install Drivers on Your HP ENVY Laptop | Effortless Guide!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-leave-a-life360-group-on-zte-blade-a73-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On ZTE Blade A73 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/masterclass-securing-visibility-by-safelisting-your-business-email-addresses/"><u>Masterclass: Securing Visibility by Safelisting Your Business Email Addresses</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-download-of-zexmt-usb-bluetooth-adapter-drivers-supporting-win-11-7-and-8/"><u>Quick Download of ZexMT USB Bluetooth Adapter Drivers Supporting Win 11, 7 & 8</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-setup-obtaining-logitech-m525-keyboards-software-and-drivers/"><u>Step-by-Step Setup: Obtaining Logitech M525 Keyboard's Software & Drivers</u></a></li>
 </ul></div>
 

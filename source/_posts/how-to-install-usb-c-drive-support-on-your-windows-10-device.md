@@ -1,7 +1,7 @@
 ---
 title: How to Install USB-C Drive Support on Your Windows 10 Device
-date: 2025-01-17T18:00:13.390Z
-updated: 2025-01-23T16:48:36.367Z
+date: 2025-01-29T22:06:41.330Z
+updated: 2025-01-31T16:43:47.382Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ OR
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 1 – Download and install the driver manually
 
  As a printer manufacturer, Canon provides printer drivers for their products on the website. To get the Canon PIXMA Pro 100 driver:
@@ -47,7 +43,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-108.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Type your printer model in the search box and click**Go** . In my case I type PIXMA PRO 100, and click**Go** .
@@ -55,7 +51,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-109.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) On the product page, click the**Drivers & Downloads** tab.
@@ -66,7 +62,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-111-1024x299.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) After downloading, double click the downloaded file to run and follow the on-screen instructions to install the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the driver
 
@@ -82,16 +86,12 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-112.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-113.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Note: you can do it for free if you like, but it’s partly manual.
@@ -119,19 +119,21 @@ Note: you can do it for free if you like, but it’s partly manual.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-comparing-social-platforms-facebook-live-vs-youtube-live-and-twitter-periscope/"><u>[Updated] In 2024, Comparing Social Platforms Facebook LIVE Vs. YouTube Live & Twitter Periscope</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-the-anticipated-shifts-in-social-media-marketing-fb-ad-trends-of-24/"><u>[Updated] In 2024, The Anticipated Shifts in Social Media Marketing FB Ad Trends of '24</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-clueless-to-confident-configuring-zoom-made-simple/"><u>2024 Approved From Clueless to Confident Configuring Zoom Made Simple</u></a></li>
-<li><a href="https://techidaily.com/boosting-the-load-time-of-your-windows-11-operating-system-efficiently/"><u>Boosting the Load Time of Your Windows 11 Operating System Efficiently</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-compatible-drivers-for-your-brother-hl-l2360dw-printer-today/"><u>Download & Install: Compatible Drivers for Your Brother HL-L2360DW Printer Today</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fixes-and-solutions-for-asus-pce-ac56-wireless-adapter-drivers-on-windows-10-8-and-7/"><u>Fixes and Solutions for ASUS PCE-AC56 Wireless Adapter Drivers on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-and-fast-access-to-qualcomm-atheros-ar938x-drivers-start-your-download-today/"><u>Free & Fast Access to Qualcomm Atheros AR938X Drivers - Start Your Download Today</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/how-to-integrate-a-video-player-onto-your-flipbook-pages-for-streaming-flv-movies/"><u>How to Integrate a Video Player Onto Your FlipBook Pages for Streaming Flv Movies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-frame-rate-dips-in-sifu-on-a-windows-machine/"><u>How to Overcome Frame Rate Dips in Sifu on a Windows Machine</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/igfx-module-error-resolved-working-solution-unveiled/"><u>IGFX Module Error Resolved: Working Solution Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-clearer-visuals-with-iphone-video-focus/"><u>In 2024, Unlock Clearer Visuals with iPhone Video Focus</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/keeping-your-connection-secure-latest-wireless-driver-updates-for-microsoft-operating-systems/"><u>Keeping Your Connection Secure: Latest Wireless Driver Updates for Microsoft Operating Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/secure-and-quick-download-of-realtek-asiode-drivers-compatible-with-windows-11/"><u>Secure and Quick Download of RealTek Asiode Drivers Compatible with Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-unboxing-adventure-boosting-customer-delight-for-2024/"><u>The Ultimate Unboxing Adventure Boosting Customer Delight for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-prime-collection-of-gopro-complements/"><u>[New] 2024 Approved The Prime Collection of GoPro Complements</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-from-the-field-to-social-sharing-gopro-streams-on-facebookperiscope/"><u>[New] In 2024, From the Field to Social Sharing GoPro Streams on Facebook/Periscope</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-learn-the-insider-tricks-of-screening-instagram-stories/"><u>[New] Learn the Insider Tricks of Screening Instagram Stories</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-galaxy-s23-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Galaxy S23 has native MKV support?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978126346-effortless-update-for-logitech-m325-drivers-get-it-now/"><u>Effortless Update for Logitech M325 Drivers – Get It Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-hp-all-in-one-deskjet-vee-3755-printer-drivers-install-on-windows-10-8-and-7-systems/"><u>Get the Newest HP All-in-One (DeskJet Vee) 3755 Printer Drivers: Install on Windows 10, 8 & 7 Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-updated-canon-pixma-mg2522-driver-software-for-smooth-printing-experience/"><u>Get Updated Canon PIXMA MG2522 Driver Software for Smooth Printing Experience</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722972446975-get-your-killer-e2200-network-cards-latest-gigabit-ethernet-drivers-here/"><u>Get Your Killer E2200 Network Card's Latest Gigabit Ethernet Drivers Here</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-your-hp-printer-drivers-instructions-for-windows-10-and-11-systems/"><u>How to Update Your HP Printer Drivers: Instructions for Windows 10 & 11 Systems</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-best-practices-for-saving-screen-and-webcam-chats/"><u>In 2024, Best Practices for Saving Screen and Webcam Chats</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-or-update-canon-pixma-ts3222-printer-software-easy-and-quick-guide/"><u>Install or Update Canon PIXMA TS3222 Printer Software, Easy and Quick Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ipad-pro-vs-macbook-air-a-comprehensive-guide-to-choosing-between-m4-and-m3-models/"><u>IPad Pro Vs. MacBook Air: A Comprehensive Guide to Choosing Between M4 and M3 Models</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-fix-for-the-not-registered-on-class-glitch-in-windows/"><u>The Ultimate Fix for the Not Registered on Class Glitch in Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-walkthrough-for-successfully-installing-new-ati-graphics-drivers-on-windows-machines/"><u>The Ultimate Walkthrough for Successfully Installing New ATI Graphics Drivers on Windows Machines</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/top-20-cheerful-facebook-incarceration-gems-for-a-happy-mood-enhancement/"><u>Top 20 Cheerful Facebook Incarceration Gems for a Happy Mood Enhancement</u></a></li>
 </ul></div>
 
