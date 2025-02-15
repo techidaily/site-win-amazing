@@ -1,7 +1,7 @@
 ---
 title: "Install Epson Stylus NX420 Windows Drivers: Updated Version for Windows 7, 8 & 10"
-date: 2024-08-18T12:39:56.698Z
-updated: 2024-08-19T12:39:56.698Z
+date: 2025-02-13T00:32:11.256Z
+updated: 2025-02-15T00:53:59.562Z
 tags:
   - win11
   - win10
@@ -33,16 +33,10 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 
  2) Click the**Scan for hardware changes** button on the top bar. This will allow Windows to help you scan for possible faulty device drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d25f77a789.jpg)
 
  3) If you see any device driver with certain mark next to it, such as a yellow exclamation mark, a question mark, etc., right click it and choose**Update Driver Software…** .We are updating **Base System Device** , yours could be different.
   
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d26d86670e.jpg)
   
  If you don’t see a device driver with the unusual mark, and you just want to update certain device driver, that’s okay, just right click the device driver that you want to update and choose**Update Driver Software…** .
@@ -51,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 
  4) Then choose**Search automatically for updated driver software** .
   
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_583d275459f1b-600x437.jpg)
 
  5) As we mentioned above, this model of computer is rather old, so there is a big chance that you are not getting the latest version of the device drivers in this way, and you will be very likely to see the following notification:
@@ -71,16 +61,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
   
  2) Then you will be lead to a webpage where you can download the needed drivers for your operating system. Click the arrow icon as shown on the screen shot and then choose accordingly the OS that you are having now. You can choose**Windows 8.1 (64-bit)** or**Windows 8.1 (32-bit)** from the list of choice. Then select **Drivers & Software** option.
   
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58452eb9a31d0.jpg)
 
  3) Scroll down a little bit, you will be seeing a list of device drivers, choose the ones that you need and click the**down arrow icon** on the right side to get them downloaded.
   
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58452f19c617b-1024x227.jpg)
 
  If you know what device drivers that you are looking for, you can straightly type the device name into the**keyword** search box and hit**Enter** to get the result you need.
@@ -89,16 +73,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  4) Open[**Device Manager**](https://tools.techidaily.com/drivereasy/download/) . Then locate the device that you want to update, right click it and choose**Uninstall** .
   
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58453032d36ec.jpg)
 
  If prompted with the following notification, tick the box for **Delete the driver software for this device** , and then choose**OK** to continue.
   
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584531253c0bf.png)
 
  5) Go to the folder where you store the downloaded device driver file, right click the setup file and choose**Properties** .
@@ -119,9 +97,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
   
  There are only two steps required in[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) , step one, press the**Scan Now** button so it helps you scan for needed drivers. And step two, press the**Update** button to get the device drivers you need updated!
   
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e89bb942da7.jpg)
 
  If you want to experience the ONE-click-update-all-driver feature, as well as driver backup and driver restore, plus the professional tech support team, why not take a look at this amazing[**professional version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/) ? If you are not satisfied with your purchase, you can always ask for a refund thirty days within the purchase. Guarantee!
@@ -134,8 +109,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +116,28 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-explore-the-best-9-online-platforms-featuring-advanced-3d-typography/"><u>[New] Explore the Best 9 Online Platforms Featuring Advanced 3D Typography</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-elite-10-drone-fleet-capturing-visuals-in-new-light/"><u>[Updated] In 2024, Elite 10-Drone Fleet Capturing Visuals in New Light</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-unveiling-samsungs-revolutionary-galaxy-z-flip-6-the-future-of-foldable-phones/"><u>1. Unveiling Samsung's Revolutionary Galaxy Z Flip 6: The Future of Foldable Phones</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/choosing-the-right-green-screen-tool-for-your-mac/"><u>Choosing the Right Green Screen Tool for Your Mac</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-configure-wacom-intuos-pro-drivers-for-optimal-performance-on-windows-11/"><u>Download and Configure Wacom Intuos Pro Drivers for Optimal Performance on Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-to-downloading-the-latest-epson-wf-3620-printer-driver-software-for-windows-1087/"><u>Easy Guide to Downloading the Latest Epson WF-3620 Printer Driver Software for Windows 10/8/7</u></a></li>
+<li><a href="https://win-blog.techidaily.com/football-manager-2021-pc-stability-issues-solved-techniques-and-advice/"><u>Football Manager 2021 PC Stability Issues - Solved Techniques and Advice</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722969011872-free-insignia-usb-to-ethernet-converter-drivers-download-now/"><u>Free Insignia USB-to-Ethernet Converter Drivers – Download Now</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-mpow-bluetooth-drivers-for-windows-11-8-and-7-free-download-and-updates/"><u>Latest MPOW Bluetooth Drivers for Windows 11, 8 & 7 – Free Download & Updates</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/lenovo-t430s-laptop-drivers-update-quickly-and-easily-on-windows/"><u>Lenovo T430s Laptop Drivers Update Quickly & Easily on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-gpts-error-correction-top-6-strategies-for-success/"><u>Mastering GPT's Error Correction: Top 6 Strategies for Success</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-fix-for-bcm2045a0-device-drivers-solutions-at-your-fingertips/"><u>Quick Fix for BCM2045A0 Device Drivers – Solutions at Your Fingertips!</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/speed-up-your-storytelling-time-lapse-video-editing-in-final-cut-pro-for-2024/"><u>Speed Up Your Storytelling Time Lapse Video Editing in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-gamepad-connection-issues-on-windows-operating-systems-w10w8w7/"><u>Troubleshooting Gamepad Connection Issues on Windows Operating Systems (W10/W8/W7)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-successfully-essential-tips-for-windows-updates-and-drivers/"><u>Upgrade Successfully: Essential Tips for Windows Updates and Drivers</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: How to Install USB-C Drive Support on Your Windows 10 Device
-date: 2025-01-29T22:06:41.330Z
-updated: 2025-01-31T16:43:47.382Z
+date: 2025-02-09T00:42:36.142Z
+updated: 2025-02-14T22:03:36.603Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ OR
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 1 – Download and install the driver manually
 
  As a printer manufacturer, Canon provides printer drivers for their products on the website. To get the Canon PIXMA Pro 100 driver:
@@ -42,16 +46,12 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-108.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type your printer model in the search box and click**Go** . In my case I type PIXMA PRO 100, and click**Go** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-109.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) On the product page, click the**Drivers & Downloads** tab.
@@ -63,14 +63,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-111-1024x299.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) After downloading, double click the downloaded file to run and follow the on-screen instructions to install the driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the driver
 
@@ -86,12 +82,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-112.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-113.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Note: you can do it for free if you like, but it’s partly manual.
@@ -119,21 +119,22 @@ Note: you can do it for free if you like, but it’s partly manual.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-prime-collection-of-gopro-complements/"><u>[New] 2024 Approved The Prime Collection of GoPro Complements</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-from-the-field-to-social-sharing-gopro-streams-on-facebookperiscope/"><u>[New] In 2024, From the Field to Social Sharing GoPro Streams on Facebook/Periscope</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-learn-the-insider-tricks-of-screening-instagram-stories/"><u>[New] Learn the Insider Tricks of Screening Instagram Stories</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-galaxy-s23-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Galaxy S23 has native MKV support?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722978126346-effortless-update-for-logitech-m325-drivers-get-it-now/"><u>Effortless Update for Logitech M325 Drivers – Get It Now</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-hp-all-in-one-deskjet-vee-3755-printer-drivers-install-on-windows-10-8-and-7-systems/"><u>Get the Newest HP All-in-One (DeskJet Vee) 3755 Printer Drivers: Install on Windows 10, 8 & 7 Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-updated-canon-pixma-mg2522-driver-software-for-smooth-printing-experience/"><u>Get Updated Canon PIXMA MG2522 Driver Software for Smooth Printing Experience</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722972446975-get-your-killer-e2200-network-cards-latest-gigabit-ethernet-drivers-here/"><u>Get Your Killer E2200 Network Card's Latest Gigabit Ethernet Drivers Here</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-update-your-hp-printer-drivers-instructions-for-windows-10-and-11-systems/"><u>How to Update Your HP Printer Drivers: Instructions for Windows 10 & 11 Systems</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-best-practices-for-saving-screen-and-webcam-chats/"><u>In 2024, Best Practices for Saving Screen and Webcam Chats</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-or-update-canon-pixma-ts3222-printer-software-easy-and-quick-guide/"><u>Install or Update Canon PIXMA TS3222 Printer Software, Easy and Quick Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ipad-pro-vs-macbook-air-a-comprehensive-guide-to-choosing-between-m4-and-m3-models/"><u>IPad Pro Vs. MacBook Air: A Comprehensive Guide to Choosing Between M4 and M3 Models</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-fix-for-the-not-registered-on-class-glitch-in-windows/"><u>The Ultimate Fix for the Not Registered on Class Glitch in Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-ultimate-walkthrough-for-successfully-installing-new-ati-graphics-drivers-on-windows-machines/"><u>The Ultimate Walkthrough for Successfully Installing New ATI Graphics Drivers on Windows Machines</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/top-20-cheerful-facebook-incarceration-gems-for-a-happy-mood-enhancement/"><u>Top 20 Cheerful Facebook Incarceration Gems for a Happy Mood Enhancement</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-15-inspiring-youtube-guides-for-aspiring-singers-and-instrumentalists/"><u>[Updated] In 2024, 15 Inspiring YouTube Guides for Aspiring Singers and Instrumentalists</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-webcam-tricks-for-smooth-video-on-hp-devices/"><u>2024 Approved Webcam Tricks for Smooth Video on HP Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722997198845-code-vein-freezing-problems-heres-how-to-solve-them/"><u>Code Vein Freezing Problems? Here's How to Solve Them</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-guide-for-the-latest-scansnap-s1100-software-update/"><u>Effortless Installation Guide for the Latest ScanSnap S1100 Software Update</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-install-and-update-the-best-drivers-for-epson-wf-3720-printers-boost-printing-capabilities/"><u>Find, Install and Update The Best Drivers For Epson WF 3720 Printers - Boost Printing Capabilities</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978560981-get-the-latest-nvidia-geforce-rtx-1080-driver-update-on-windows-10-made-easy/"><u>Get the Latest NVIDIA Geforce RTX 1080 Driver Update on Windows 10 Made Easy!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-amd-radeon-graphics-driver-software-for-your-pc-free/"><u>Get the Newest AMD Radeon Graphics Driver Software for Your PC - Free!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-bios-and-firmware-for-gigabytes-z370p-msi-atx-motherboard-now/"><u>Get the Newest BIOS & Firmware for Gigabyte's Z370P MSI ATX Motherboard Now</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-engineering-video-excerpts-for-online-platforms/"><u>In 2024, Engineering Video Excerpts for Online Platforms</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-motorola-moto-g24-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Motorola Moto G24 Android SIM Unlock APK</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211620934-mastering-the-art-of-restoring-functionality-to-windows-keyboards-with-sticking-keys/"><u>Mastering the Art of Restoring Functionality to Windows Keyboards with Sticking Keys</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/neat-scanner-drivers-issues-in-windows-solved/"><u>Neat Scanner Drivers Issues in Windows [Solved]</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-definitive-guide-ios-screenshots-and-recording-2inas-2023-for-2024/"><u>The Definitive Guide IOS Screenshots & Recording (2Inas 2023) for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/tp-link-ub400-bluetooth-receiver-driver-download-and-update-guide/"><u>TP-Link UB400 Bluetooth Receiver Driver - Download and Update Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlocking-essential-expressions-for-daily-conversations-in-china/"><u>Unlocking Essential Expressions for Daily Conversations in China</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-hp-officejet-pro-8610-printer-drivers-supported-by-windows-10-8-7-xp-and-vista-systems/"><u>Update Your HP Officejet Pro 8610 Printer Drivers: Supported by Windows 10, 8, 7, XP and Vista Systems</u></a></li>
 </ul></div>
 

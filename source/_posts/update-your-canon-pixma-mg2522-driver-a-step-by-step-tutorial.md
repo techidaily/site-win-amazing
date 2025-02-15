@@ -1,7 +1,7 @@
 ---
 title: Update Your Canon PIXMA MG2522 Driver - A Step-by-Step Tutorial
-date: 2025-01-25T16:40:15.735Z
-updated: 2025-01-31T16:44:53.421Z
+date: 2025-02-12T18:29:41.338Z
+updated: 2025-02-14T18:00:19.658Z
 tags:
   - win11
   - win10
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/8ff514e7ae8e73f00c632257f00b6aefbc08dc01d
  Driver updates often feature some major bug fixes and performance boost, that’s why we recommend you to update your driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to download and update your HP Scanjet driver
@@ -40,6 +40,10 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
 1. **[Download the HP Scanjet driver manually](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Download and update the HP Scanjet driver automatically (Recommended)](https://www.drivereasy.com/knowledge/hp-scanjet-drivers-download-and-update-on-windows/#option2)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Download the HP Scanjet driver manually
 
@@ -50,16 +54,12 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-23-46-1-1200x727.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the row containing your model, click the**rightmost link** to enter the download page.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-23-46-1200x727.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) If you aren’t using Windows 10 64-bit,**choose your OS** first.
 
@@ -71,11 +71,11 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-06_12-32-40-1.jpg)
 
- When you complete the installation process, connect your HP Scanjet to the computer and see if it’s running.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ When you complete the installation process, connect your HP Scanjet to the computer and see if it’s running.
 
 ### Option 2: Download and update the HP Scanjet driver automatically (Recommended)
 
@@ -87,15 +87,15 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_17-40-32-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the**Pro version** of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
   
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_18-45-37-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -120,17 +120,21 @@ Here’re 2 ways you can download and update your HP Scanjet driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-amazing.techidaily.com/easy-guide-to-update-zebra-zp450-printer-drivers-with-step-by-step-details/"><u>Easy Guide to Update Zebra ZP450 Printer Drivers with Step-by-Step Details</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-steps-for-downloading-and-installing-aoc-driver-software-on-various-windows-versions/"><u>Easy Steps for Downloading and Installing AOC Driver Software on Various Windows Versions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ensure-seamless-functionality-logitech-g510-drivers-now-available-for-win7-8-and-10/"><u>Ensure Seamless Functionality: Logitech G510 Drivers Now Available for Win7, 8 & 10</u></a></li>
-<li><a href="https://facebook.techidaily.com/essential-tips-to-select-your-preferred-facebook-hub/"><u>Essential Tips to Select Your Preferred Facebook Hub</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/how-to-record-twitch-live-stream/"><u>How to Record Twitch Live Stream</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-14-plus-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 14 Plus and iPad Securely</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-a14-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/873670-9781448146802-the-holistic-approach-to-cancer/"><u>The Holistic Approach To Cancer | Free Book</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-tips-how-to-easily-acquire-the-right-driver-for-your-dell-mouse/"><u>Troubleshooting Tips: How To Easily Acquire the Right Driver For Your Dell Mouse</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ultimate-guide-to-getting-steelseries-controller-drivers-running-on-your-windows-machine/"><u>Ultimate Guide to Getting SteelSeries Controller Drivers Running on Your Windows Machine</u></a></li>
-<li><a href="https://program-issues.techidaily.com/winning-against-battlenet-troubles-expert-tips-and-solutions-to-get-you-online/"><u>Winning Against Battle.net Troubles: Expert Tips and Solutions to Get You Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-blend-your-belief-with-mobile-melodies/"><u>[New] Blend Your Belief with Mobile Melodies</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-dynamic-design-building-perspective-with-text/"><u>[New] Dynamic Design Building Perspective with Text</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-guide-to-choosing-video-fps-30fps-vs-60fps-for-2024/"><u>[New] Ultimate Guide to Choosing Video FPS 30Fps Vs. 60Fps for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978820677-brother-mfc-7860dw-find-and-apply-windows-compatible-printer-drivers-here/"><u>Brother MFC-7860DW: Find & Apply Windows Compatible Printer Drivers Here!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/catch-every-swish-and-dunk-of-mens-ncaa-basketball-radio-broadcasts-from-thrilling-march-madness-matchups-to-final-four-showdowns/"><u>Catch Every Swish and Dunk of Men's NCAA Basketball: Radio Broadcasts From Thrilling March Madness Matchups to Final Four Showdowns.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-pc-gaming-experience-install-logitech-g-pro-mouse-drivers-windows-support/"><u>Enhance Your PC Gaming Experience: Install Logitech G Pro Mouse Drivers (Windows Support)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-solving-unpredictable-hardware-power-cuts-in-pcs/"><u>Expert Tips for Solving Unpredictable Hardware Power Cuts in PCs</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fixing-asus-pce-ac56-network-adapter-problems-on-windows-10-8-and-7-solutions-uncovered/"><u>Fixing ASUS PCE-AC56 Network Adapter Problems on Windows 10, 8 & 7 - Solutions Uncovered</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-lenovo-thinkpad-x1-carbon-drivers-supports-win11win7-pcs/"><u>Get the Latest Lenovo ThinkPad X1 Carbon Drivers - Supports Win11/Win7 PCs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-hot-30-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Hot 30 5G using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-6-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock iPhone 6 Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-zooms-video-enhancements-filter-techniques/"><u>Mastering Zoom's Video Enhancements Filter Techniques</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-easy-download-of-keyboard-drivers-compatible-with-windows-7/"><u>Quick and Easy Download of Keyboard Drivers Compatible with Windows 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722974723265-quick-guide-updating-and-downloading-surface-book-2-driver-software/"><u>Quick Guide: Updating and Downloading Surface Book 2 Driver Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/soil-composition-preferences-including-ph-level-organic-matter-content-and-drainage-properties/"><u>Soil Composition Preferences Including pH Level, Organic Matter Content, and Drainage Properties.</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step by Step Tutorial to Get Canon PRO 100 Up and Running on Windows Systems
-date: 2025-01-26T00:39:50.056Z
-updated: 2025-01-31T22:13:11.005Z
+date: 2025-02-11T21:00:56.640Z
+updated: 2025-02-14T17:22:24.888Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## To update your fingerprint driver in Windows
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Update your fingerprint driver automatically (Recommended)
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-48.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
@@ -63,14 +63,14 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-49.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.  
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Update fingerprint driver manually
@@ -102,19 +102,19 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-achieving-financial-gain-with-youtube-shorts-essentials-opportunities-and-earning-prospects/"><u>[New] In 2024, Achieving Financial Gain with Youtube Shorts Essentials, Opportunities & Earning Prospects</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-spotlight-play-how-to-stand-out-with-youtube-gaming/"><u>[New] In 2024, Spotlight Play How to Stand Out with YouTube Gaming</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-best-practices-expert-picks-for-4k-dslr-mounts/"><u>[Updated] 2024 Approved Best Practices Expert Picks for 4K DSLR Mounts</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/brother-mfc-l2690dw-printer-driver-download-and-update/"><u>Brother MFC-L2690DW Printer Driver | Download & Update</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/defeating-lag-top-strategies-for-optimizing-fallout/"><u>Defeating Lag: Top Strategies for Optimizing Fallout</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-logitech-g602-mouse-drivers-for-windows-download-now/"><u>Free Logitech G602 Mouse Drivers for Windows - Download Now</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722964800973-get-your-sound-blaster-z-driver-compatible-with-windows-11-today/"><u>Get Your Sound Blaster Z Driver Compatible with Windows 11 Today!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-system-updated-with-free-killer-e2-5gbe-ethernet-controller-driver-downloads/"><u>Get Your System Updated with Free Killer E2 5GbE Ethernet Controller Driver Downloads</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-anonymizing-videos-tips-for-keeping-personal-data-hidden/"><u>In 2024, Anonymizing Videos Tips for Keeping Personal Data Hidden</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/maintaining-a-diverse-reference-population-is-key-to-accurate-predictions-in-genomic-selection/"><u>Maintaining a Diverse Reference Population Is Key to Accurate Predictions in Genomic Selection.</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/track-synthesis-crafting-the-perfect-youtube-list/"><u>Soundtrack Synthesis Crafting the Perfect YouTube List</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/tips-and-tricks-for-smooth-playthroughs-of-total-war-warhammer-iii-crashing-problem-solved/"><u>Tips and Tricks for Smooth Playthroughs of Total War: WARHAMMER III - Crashing Problem Solved</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/flv-wmv-movavi/"><u>무료 오피스 기회: FLV에서 WMV로의 원형 변환을 위해 Movavi를 사용하십시오!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-crafting-conversations-proven-techniques-for-telegram-engagement/"><u>[Updated] Crafting Conversations Proven Techniques for Telegram Engagement</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transforming-film-with-vr-experience/"><u>[Updated] Transforming Film with VR Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-velvet-vaults-2022-olympic-skaters/"><u>[Updated] Velvet Vaults 2022 Olympic Skaters</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-sound-recognition-and-instant-utilization/"><u>2024 Approved Free Sound Recognition and Instant Utilization</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-solution-for-asus-pce-ac56-driver-troubleshooting-on-win-10-8-and-7-systems/"><u>Comprehensive Solution for ASUS PCE-AC56 Driver Troubleshooting on Win 10, 8 & 7 Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/corsairs-liquid-cpu-cooler-model-h80i-v2-download-drivers-here/"><u>Corsair's Liquid CPU Cooler Model H80I-V2: Download Drivers Here</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/epson-xp-420-printer-software-free-installation-and-latest-updates/"><u>Epson XP-420 Printer Software: Free Installation and Latest Updates</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-drivers-for-your-acer-screen-now/"><u>Get the Newest Drivers for Your Acer Screen Now</u></a></li>
+<li><a href="https://win-trending.techidaily.com/guida-passo-passo-per-recuperare-dati-da-una-penna-usb-usando-il-prompt-dei-comandi-cmd/"><u>Guida Passo-Passo per Recuperare Dati Da Una Penna USB Usando Il Prompt Dei Comandi (CMD)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-shooting-spectacle-top-9-strategies-for-panoramic-videos/"><u>In 2024, Shooting Spectacle Top 9 Strategies for Panoramic Videos</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-latest-hid-standard-mouse-controller-software/"><u>Install Latest HID-Standard Mouse Controller Software</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/no-watermark-no-problem-top-video-merger-tools-for-2024/"><u>No Watermark, No Problem Top Video Merger Tools for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speak-simple-speak-soon-top-10-language-list/"><u>Speak Simple, Speak Soon: Top 10 Language List</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-free-sound-effects-for-final-cut-pro-editors-for-2024/"><u>Updated The Ultimate Guide to Free Sound Effects for Final Cut Pro Editors for 2024</u></a></li>
 </ul></div>
 

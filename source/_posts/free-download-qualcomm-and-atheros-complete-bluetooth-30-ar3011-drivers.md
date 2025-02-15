@@ -1,7 +1,7 @@
 ---
 title: "Free Download: [Qualcomm & Atheros] Complete Bluetooth 3.0 AR3011 Drivers"
-date: 2024-08-18T12:38:25.966Z
-updated: 2024-08-19T12:38:25.966Z
+date: 2025-02-07T17:13:46.215Z
+updated: 2025-02-14T20:25:29.521Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/5afe86849bf590d409853d04b8a99e11d10b3e991
 
 Bluetooth not working? Don’t know how to[reinstall the Bluetooth driver](https://tools.techidaily.com/drivereasy/download/) ? Your Qualcomm Atheros AR3011 Bluetooth 3.0 adapter needs the latest correct driver to function properly. In this post, we’ll show you how to get the newest driver manually or automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2 ways to get the AR3011 Bluetooth driver
 
 [Option 1: Manually](https://tools.techidaily.com/drivereasy/download/) – This requires a certain level of computer skills. You need to know where to locate your adapter in Windows, and how to check if Microsoft provides the exact driver.
@@ -27,48 +24,46 @@ Bluetooth not working? Don’t know how to[reinstall the Bluetooth driver](https
 [**Option 2: Automatically (Recommended)**](https://www.drivereasy.com/knowledge/download-qualcomm-atheros-ar3011-bluetooth-3-0-driver/#option2) – If you don’t have the time or computer skills, maybe you’d want to update drivers automatically. All it takes are a few clicks.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Update your Qualcomm Atheros AR3011 Bluetooth 3.0 driver manually
 
  If you’re familiar with PC hardware, you can try to update your Qualcomm Atheros AR3011 Bluetooth 3.0 driver manually. To do so, follow these steps:
 
 1. On your keyboard, press**Win** (the Windows logo key) and type**device** **manager** . From the search results, select**Device Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/device-manager-win-search-1.jpg)
 2. Click**Bluetooth** to expand the category. Right-click**Atheros AR3011 Bluetooth 3.0** and select**Update Driver Software…**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/ar3011-update-1.jpg)
 3. Click**Search automatically for drivers** . Then wait for the process to complete. If Windows tells you the best drivers are already installed, you might need to visit the manufacturer’s website to verify.  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/ar3011-update-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2: Update your Qualcomm Atheros AR3011 Bluetooth 3.0 driver automatically (Recommended)
 
  If you don’t have the time, patience or computer skills to update your Bluetooth driver manually, you can, instead, do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . Driver Easy will automatically recognize your system and find the correct drivers for your exact Bluetooth adapter, and your Windows version, and it will download and install them correctly:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/de-ar3011-update.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -85,8 +80,6 @@ Bluetooth not working? Don’t know how to[reinstall the Bluetooth driver](https
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +87,18 @@ Bluetooth not working? Don’t know how to[reinstall the Bluetooth driver](https
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-pioneering-maker-tools-for-your-next-ios-or-android-video/"><u>[New] 2024 Approved Pioneering Maker Tools For Your Next iOS or Android Video</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-strategic-instagram-video-marketing-secrets-to-captivating-audiences-for-2024/"><u>[New] Strategic Instagram Video Marketing Secrets to Captivating Audiences for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-designing-a-simple-youtube-subscriber-shortcut/"><u>[Updated] Designing a Simple YouTube Subscriber Shortcut</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-guide-acquiring-and-setting-up-surface-pro-n4-drivers-on-your-window-machine/"><u>Comprehensive Guide: Acquiring and Setting Up Surface Pro N°4 Drivers on Your Window Machine</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-creative-sound-blaster-recon3d-drivers/"><u>Download the Latest Creative Sound Blaster Recon3D Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-nvidia-geforce-rtx-3080-ti-drivers-on-windows-10-8-and-7/"><u>Download the Newest NVIDIA GeForce RTX 3080 Ti Drivers on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/frameworks-cutting-edge-how-switching-to-ubuntu-elevates-the-new-amd-ryzen-7-laptop-beyond-windows-11-capabilities/"><u>Framework's Cutting Edge: How Switching to Ubuntu Elevates the New AMD Ryzen 7 Laptop Beyond Windows 11 Capabilities</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722976428513-how-to-get-your-hands-on-the-latest-samsung-m2070-drivers-secure-and-swift-setup/"><u>How to Get Your Hands on the Latest Samsung M2070 Drivers – Secure and Swift Setup!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-elite-equipment-showcasing-gameplay-innovations/"><u>In 2024, Elite Equipment Showcasing Gameplay Innovations</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/logitech-mx-series-webcam-software-installation-guide/"><u>Logitech MX Series Webcam Software Installation Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-fixing-hps-beats-audio-drivers-in-windows-operating-systems/"><u>Troubleshooting and Fixing HP's Beats Audio Drivers in Windows Operating Systems</u></a></li>
+</ul></div>
 

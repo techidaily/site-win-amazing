@@ -1,7 +1,7 @@
 ---
 title: HP Officejet Pro 6968 Installable Software & Drivers for PCs
-date: 2025-01-25T23:05:09.239Z
-updated: 2025-01-31T23:40:27.323Z
+date: 2025-02-07T22:48:23.215Z
+updated: 2025-02-14T20:34:37.622Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ If you’re using Arduino products to create your own work but failed to connect
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you need Arduino Mega 2560 driver?
@@ -44,10 +44,6 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/download-driver-for-arduino-mega-2560-easily-quickly/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 1 –** **Download and install the driver manually**
 
  The screenshots below are from Windows 10, but the steps are also valid for other Windows system.
@@ -60,6 +56,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
 
@@ -70,7 +70,7 @@ OR
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update drivers**
@@ -87,14 +87,14 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/mega2560-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -118,24 +118,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-amazing.techidaily.com/download-amd-rx-6900-xt-driver-for-windows-111087/"><u>[Download] AMD RX 6900 XT Driver for Windows 11/10/8/7</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-digital-dome-streamlining-your-song-posts-on-youtube/"><u>[New] Digital Dome Streamlining Your Song Posts on YouTube</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-apex-alchemy-choosing-the-best-laptops-for-video-wizards/"><u>[Updated] 2024 Approved Apex Alchemy Choosing the Best Laptops for Video Wizards</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-ultimate-conversion-handbook-srt-to-various-formats/"><u>[Updated] 2024 Approved Ultimate Conversion Handbook SRT to Various Formats</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-straight-from-the-studio-simple-steps-to-sizzling-mac-vids-on-youtube/"><u>[Updated] Straight From the Studio Simple Steps to Sizzling Mac Vids on YouTube</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-setup-instructions-for-downloading-the-epson-wf-3640-driver-windows-version/"><u>Complete Setup Instructions for Downloading the Epson WF-3640 Driver (Windows Version)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-canon-printer-drivers-compatible-with-windows-systems/"><u>Download Canon Printer Drivers - Compatible with Windows Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fixing-the-notorious-graphics-driver-issues-expert-tips-and-tricks/"><u>Fixing the Notorious Graphics Driver Issues - Expert Tips and Tricks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/get-1k-followers-every-month-on-instagram-for-2024/"><u>Get 1K Followers Every Month on Instagram for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-find-and-update-your-windows-device-with-the-latest-epson-xp-430-driver-software-detailed-steps-included/"><u>How to Find and Update Your Windows Device with the Latest Epson XP-430 Driver Software (Detailed Steps Included)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-honor-magic-5-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Honor Magic 5 Pro Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-a24-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy A24 is off? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-leave-a-life360-group-on-vivo-s18e-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Vivo S18e Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/installing-the-logitech-brio-camera-drivers-on-your-pc-windows-1187-guide/"><u>Installing the Logitech Brio Camera Drivers on Your PC – Windows 11/8/7 Guide</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/introducing-the-new-era-for-gamers-maingear-unveils-improved-north-xl-tower-edition/"><u>Introducing the New Era for Gamers: Maingear Unveils Improved North XL Tower Edition</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/optimize-your-laptops-wi-fi-capabilities-how-to-obtain-and-use-intel-network-adapter-software-on-windows/"><u>Optimize Your Laptop's Wi-Fi Capabilities: How to Obtain and Use Intel Network Adapter Software on Windows</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-amd-gpu-missing-in-windows-11-setup/"><u>Resolved: AMD GPU Missing in Windows 11 Setup</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/solving-driver-errors-for-startech-hardware-on-windows-versions/"><u>Solving Driver Errors for StarTech Hardware on Windows Versions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-affordable-gaming-companion-an-in-depth-look-at-the-nintendo-switch-lite-edition/"><u>The Affordable Gaming Companion: An In-Depth Look at the Nintendo Switch Lite Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-ae-plug-ins-enhance-your-visual-storytelling/"><u>[New] Top AE Plug-Ins Enhance Your Visual Storytelling</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-insightful-discussion-on-youtube-keyword-mastery/"><u>[Updated] Insightful Discussion on YouTube Keyword Mastery</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-quality-quest-deciphering-the-superior-video-format/"><u>2024 Approved Quality Quest Deciphering the Superior Video Format</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-guide-restoring-your-acer-laptop-to-its-original-settings/"><u>Complete Guide: Restoring Your Acer Laptop to Its Original Settings</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-canon-ip110-printer-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download the Canon IP110 Printer Drivers: Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722979073050-download-the-newest-geforce-drivers-from-nvidia-boost-your-window-games-today/"><u>Download the Newest GeForce Drivers From Nvidia – Boost Your Window Games Today!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-repairing-your-itunes-sound-setup-errors-efficiently/"><u>Expert Tips for Repairing Your iTunes Sound Setup Errors Efficiently</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fix-implemented-for-microsofts-compatible-battery-management-drivers-under-acpi-specifications/"><u>Fix Implemented for Microsoft's Compatible Battery Management Drivers Under ACPI Specifications</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gigabyte-z370p-essential-software-pack-secure-your-d3-drivers-today/"><u>Gigabyte Z370P Essential Software Pack - Secure Your D3 Drivers Today</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-updates-for-your-canon-mx-series-how-to-get-and-install-mx492-drivers/"><u>Latest Updates for Your Canon MX Series: How to Get and Install MX492 Drivers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/premier-imagery-capture-insight-for-2024/"><u>Premier Imagery Capture Insight for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ricoh-mp-c4503-drivers-for-windows-10-download-and-setup-tutorials/"><u>Ricoh MP C4503 Drivers for Windows 10 - Download & Setup Tutorials</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012195492-say-goodbye-to-bugs-century-age-of-ashes-is-crash-free-on-pc-after-latest-update/"><u>Say Goodbye to Bugs – Century: Age of Ashes Is Crash-Free on PC After Latest Update!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722960991384-secure-enclaves/"><u>Secure Enclaves</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-fast-track-to-perfect-microsoft-ergonomic-keyboard-4000-driver-installation/"><u>The Fast Track to Perfect Microsoft Ergonomic Keyboard 4000 Driver Installation</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-save-time-save-stress-a-step-by-step-guide-to-saving-fcp-projects-for-2024/"><u>Updated Save Time, Save Stress A Step-by-Step Guide to Saving FCP Projects for 2024</u></a></li>
 </ul></div>
 

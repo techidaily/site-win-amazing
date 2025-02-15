@@ -1,7 +1,7 @@
 ---
 title: Seamless Driver Update for Your SATA AHCI Controller
-date: 2025-01-29T23:45:47.482Z
-updated: 2025-02-01T00:17:47.610Z
+date: 2025-02-12T21:12:48.249Z
+updated: 2025-02-15T00:37:08.429Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ You have a Corsair gaming mouse but it doesn’t work properly. It could be frus
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s the iCUE?
@@ -39,7 +39,7 @@ There are two ways to download iCUE.
 2. [Download iCUE from the product page](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Download and install iCUE through the homepage
@@ -47,6 +47,10 @@ There are two ways to download iCUE.
 1. Go to the[iCUE homepage](https://www.corsair.com/uk/en/icue) .
 2. Click**DOWNLOAD NOW** . Follow the on-screen instructions to finish the installation.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Download iCUE from the product page
 
@@ -56,18 +60,10 @@ There are two ways to download iCUE.
 2. Enter your mouse type in the**SEARCH** box and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/search.jpg)
 3. Scroll down and click**DOWNLOADS** . Then click the link to download iCUE.![](https://images.drivereasy.com/wp-content/uploads/2019/07/icue1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Double-click on the downloaded file and follow the on-screen instructions to install the software.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What to do if your mouse still has issues?
@@ -83,6 +79,10 @@ There are two ways to download iCUE.
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-84.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the devices to automatically download the correct version of their drivers, then you can manually install the drivers (you can do this with the FREE version).
 
@@ -113,19 +113,22 @@ There are two ways to download iCUE.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-perfect-your-audio-journey-iphoneipad-podcasting-secrets-unveiled-for-2024/"><u>[New] Perfect Your Audio Journey IPhone/iPad Podcasting Secrets Unveiled for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-celebrating-the-10-best-moba-games-on-android/"><u>[Updated] 2024 Approved Celebrating the #10 Best MOBA Games on Android</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-breakthrough-14-text-animation-samples/"><u>[Updated] Breakthrough 14 Text Animation Samples</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-hp-laserjet-1320-printer-drivers-for-windows-systems/"><u>Download & Update HP LaserJet 1320 Printer Drivers for Windows Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-microsoft-surface-pro-4-drivers-on-your-windows-pc/"><u>Download and Install Microsoft Surface Pro 4 Drivers on Your Windows PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-canon-printer-mf8200c-drivers-compatible-with-windows-7-81-and-10/"><u>Download Canon Printer MF8200C Drivers: Compatible with Windows 7, 8.1 & 10</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/maintaining-genetic-diversity-requires-balancing-the-introduction-of-new-germplasm-with-the-selection-for-desired-traits/"><u>Maintaining Genetic Diversity Requires Balancing the Introduction of New Germplasm with the Selection for Desired Traits.</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722963967601-quick-install-hp-stream-device-drivers-download-now/"><u>Quick-Install HP Stream Device Drivers - Download Now!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/rise-to-the-top-of-twitter-a-step-by-step-blueprint-for-attracting-more-followers/"><u>Rise to the Top of Twitter: A Step-by-Step Blueprint for Attracting More Followers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722978540611-step-by-step-tutorial-how-to-get-and-enhance-your-mbox-prise-drives-for-windows/"><u>Step-by-Step Tutorial: How to Get and Enhance Your MBox Prise Drives for Windows</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-true-cost-of-innovation-evaluating-the-samsung-un65nu8000fxzas-performance-and-worthiness/"><u>The True Cost of Innovation: Evaluating the Samsung UN65NU8000FXZA's Performance and Worthiness</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-enhance-your-file-explorer-experience-in-windows-11/"><u>Troubleshoot & Enhance Your File Explorer Experience in Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-21-edition-deep-dive-unraveling-vegas-pros-complexities/"><u>[Updated] '21 Edition Deep-Dive Unraveling Vegas Pro’s Complexities</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-expert-strategies-to-master-the-instagram-query-tag/"><u>[Updated] In 2024, Expert Strategies to Master the Instagram Query Tag</u></a></li>
+<li><a href="https://games-able.techidaily.com/450plus-high-speed-budget-friendly-screen/"><u>$450+ High-Speed, Budget-Friendly Screen</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-hp-deskjet-ink-advantage-2540-printer-drivers-step-by-step-guide/"><u>Download and Update HP Deskjet Ink Advantage 2540 Printer Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-install-the-right-controller-emulator-for-xbox-360-games/"><u>Find and Install the Right Controller Emulator for Xbox 360 Games</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/finding-and-installing-the-right-broadcom-bluetooth-drivers-for-your-windows-10-8-or-7-device/"><u>Finding and Installing the Right Broadcom Bluetooth Drivers for Your Windows 10, 8 or 7 Device</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-hp-laserjet-p3-cuisinep3015-printer-drivers-on-your-windows-pc-easily/"><u>Get the Newest HP LaserJet P3 cuisineP3015 Printer Drivers on Your Windows PC Easily</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-right-driver-for-your-insignia-usb-to-analog-video-converter-easy-installation-tips/"><u>Get the Right Driver for Your Insignia USB to Analog Video Converter – Easy Installation Tips</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-13-mini-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone 13 mini Activity | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-poco-x5-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Poco X5 FRP</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/optimize-msi-gs65-laptop-download-cutting-edge-drivers-for-windows-systems/"><u>Optimize MSI GS65 Laptop - Download Cutting-Edge Drivers for Windows Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-samsung-galaxy-f14-5g-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Samsung Galaxy F14 5G, is it possible?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolving-issues-how-to-fix-a-non-responsive-discord-application/"><u>Resolving Issues: How to Fix a Non-Responsive Discord Application</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-complete-process-for-reverting-bios-configuration-via-cmos-deletion/"><u>The Complete Process for Reverting BIOS Configuration via CMOS Deletion</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-fixing-fresh-download-and-update-for-mbox-2-drivers-in-windows-solved/"><u>Troubleshooting and Fixing: Fresh Download & Update for MBox 2 Drivers in Windows - Solved!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/why-the-tp-link-archer-c80-is-a-winner-for-speed-lovers-on-a-budget-under-100-bucks/"><u>Why the TP-Link Archer C80 Is a Winner for Speed Lovers on a Budget Under 100 Bucks</u></a></li>
+<li><a href="https://fox-place.techidaily.com/yl-software-insights-comprehensive-instructions-for-onboarding-users-into-your-yl-computing-system/"><u>YL Software Insights: Comprehensive Instructions for Onboarding Users Into Your YL Computing System</u></a></li>
 </ul></div>
 
