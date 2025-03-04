@@ -1,7 +1,7 @@
 ---
 title: Step by Step Tutorial to Get Canon PRO 100 Up and Running on Windows Systems
-date: 2025-02-11T21:00:56.640Z
-updated: 2025-02-14T17:22:24.888Z
+date: 2025-02-25T09:37:53.174Z
+updated: 2025-03-04T05:12:56.648Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## To update your fingerprint driver in Windows
 
 **[Option 1 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/fingerprint-driver-download-update-for-windows/#O1)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -35,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 **OR**
 
 [**Option 2 – Manually**](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1: Update your fingerprint driver automatically (Recommended)
 
@@ -54,24 +46,12 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-48.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-49.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also click**Update** to do it for free if you like, but it’s partly manual.  
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: Update fingerprint driver manually
 
@@ -102,19 +82,24 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-crafting-conversations-proven-techniques-for-telegram-engagement/"><u>[Updated] Crafting Conversations Proven Techniques for Telegram Engagement</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transforming-film-with-vr-experience/"><u>[Updated] Transforming Film with VR Experience</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-velvet-vaults-2022-olympic-skaters/"><u>[Updated] Velvet Vaults 2022 Olympic Skaters</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-sound-recognition-and-instant-utilization/"><u>2024 Approved Free Sound Recognition and Instant Utilization</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/comprehensive-solution-for-asus-pce-ac56-driver-troubleshooting-on-win-10-8-and-7-systems/"><u>Comprehensive Solution for ASUS PCE-AC56 Driver Troubleshooting on Win 10, 8 & 7 Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/corsairs-liquid-cpu-cooler-model-h80i-v2-download-drivers-here/"><u>Corsair's Liquid CPU Cooler Model H80I-V2: Download Drivers Here</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/epson-xp-420-printer-software-free-installation-and-latest-updates/"><u>Epson XP-420 Printer Software: Free Installation and Latest Updates</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-drivers-for-your-acer-screen-now/"><u>Get the Newest Drivers for Your Acer Screen Now</u></a></li>
-<li><a href="https://win-trending.techidaily.com/guida-passo-passo-per-recuperare-dati-da-una-penna-usb-usando-il-prompt-dei-comandi-cmd/"><u>Guida Passo-Passo per Recuperare Dati Da Una Penna USB Usando Il Prompt Dei Comandi (CMD)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-shooting-spectacle-top-9-strategies-for-panoramic-videos/"><u>In 2024, Shooting Spectacle Top 9 Strategies for Panoramic Videos</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-latest-hid-standard-mouse-controller-software/"><u>Install Latest HID-Standard Mouse Controller Software</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/no-watermark-no-problem-top-video-merger-tools-for-2024/"><u>No Watermark, No Problem Top Video Merger Tools for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/speak-simple-speak-soon-top-10-language-list/"><u>Speak Simple, Speak Soon: Top 10 Language List</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-free-sound-effects-for-final-cut-pro-editors-for-2024/"><u>Updated The Ultimate Guide to Free Sound Effects for Final Cut Pro Editors for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-youtube-tv-everything-you-need-to-know/"><u>[Updated] 2024 Approved YouTube TV - Everything You Need to Know</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boosting-gmail-security-a-comprehensive-guide-on-turning-on-two-factor-auth/"><u>Boosting Gmail Security: A Comprehensive Guide on Turning On Two-Factor Auth</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-personalized-screen-time-with-ai-support/"><u>Crafting Personalized Screen Time with AI Support</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-download-and-setup-upgraded-software-for-your-canon-pixma-mg3690-printer/"><u>Easy Download & Setup: Upgraded Software for Your Canon Pixma MG3690 Printer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-how-to-upgrade-your-hp-laptop-drivers-on-windows/"><u>Ensure Optimal Performance: How to Upgrade Your HP Laptop Drivers on Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ensure-top-performance-with-newly-released-drivers-for-nvidia-quadro-rtx-8000-on-windows-platforms-win7810/"><u>Ensure Top Performance with Newly Released Drivers for Nvidia Quadro RTX 8000 on Windows Platforms (Win7/8/10)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-knowledge-on-openais-ethos/"><u>Essential Knowledge on OpenAI's Ethos</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fast-track-to-setting-up-your-brother-hl-3170cdw-with-optimal-drivers/"><u>Fast Track to Setting Up Your Brother HL-3170CDW with Optimal Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-epson-wf-3620-driver-updates-for-windows-1087-users/"><u>Get the Newest Epson WF-3620 Driver Updates for Windows 10/8/7 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-system-ready-amd-rx-cuyuna-rubia4e-driver-download-for-various-windows-versions/"><u>Get Your System Ready: AMD RX Cuyuna-Rubia/4e - Driver Download for Various Windows Versions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-vivo-y78plus-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Vivo Y78+ Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-primary-footage-document-critique-with-asides/"><u>In 2024, Primary Footage Document Critique with Asides</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-gpasswd-a-comprehensive-guide-to-managing-user-passwords-in-linux/"><u>Mastering Gpasswd: A Comprehensive Guide to Managing User Passwords in Linux</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simplify-your-printing-quick-download-of-brother-hl-3170cdw-drivers/"><u>Simplify Your Printing: Quick Download of Brother HL-3170cdw Drivers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-mixing-sounds-in-imovie/"><u>The Art of Mixing Sounds in iMovie</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/the-ultimate-guide-for-updating-your-epson-wf-7620-printer-drivers-on-windows-1087/"><u>The Ultimate Guide for Updating Your Epson WF-7620 Printer Drivers on Windows 10/8/7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-tutorial-how-to-install-the-latest-ftdi-drivers-for-windows-users/"><u>Ultimate Tutorial: How to Install the Latest FTDI Drivers for Windows Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updated-hp-officejet-pro-8715-drivers-free-download-for-windows-11108/"><u>Updated HP OfficeJet Pro 8715 Drivers: Free Download for Windows [11/10/8]</u></a></li>
 </ul></div>
 

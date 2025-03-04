@@ -1,7 +1,7 @@
 ---
 title: HP Officejet Pro 6968 Installable Software & Drivers for PCs
-date: 2025-02-07T22:48:23.215Z
-updated: 2025-02-14T20:34:37.622Z
+date: 2025-02-25T07:31:57.950Z
+updated: 2025-03-04T05:07:12.912Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ If you’re using Arduino products to create your own work but failed to connect
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why you need Arduino Mega 2560 driver?
 
@@ -56,10 +52,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
 
@@ -68,10 +60,6 @@ OR
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update drivers**
 
@@ -86,16 +74,8 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/mega2560-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -118,22 +98,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-top-ae-plug-ins-enhance-your-visual-storytelling/"><u>[New] Top AE Plug-Ins Enhance Your Visual Storytelling</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-insightful-discussion-on-youtube-keyword-mastery/"><u>[Updated] Insightful Discussion on YouTube Keyword Mastery</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-quality-quest-deciphering-the-superior-video-format/"><u>2024 Approved Quality Quest Deciphering the Superior Video Format</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/complete-guide-restoring-your-acer-laptop-to-its-original-settings/"><u>Complete Guide: Restoring Your Acer Laptop to Its Original Settings</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-canon-ip110-printer-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download the Canon IP110 Printer Drivers: Compatible with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722979073050-download-the-newest-geforce-drivers-from-nvidia-boost-your-window-games-today/"><u>Download the Newest GeForce Drivers From Nvidia – Boost Your Window Games Today!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-repairing-your-itunes-sound-setup-errors-efficiently/"><u>Expert Tips for Repairing Your iTunes Sound Setup Errors Efficiently</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/fix-implemented-for-microsofts-compatible-battery-management-drivers-under-acpi-specifications/"><u>Fix Implemented for Microsoft's Compatible Battery Management Drivers Under ACPI Specifications</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/gigabyte-z370p-essential-software-pack-secure-your-d3-drivers-today/"><u>Gigabyte Z370P Essential Software Pack - Secure Your D3 Drivers Today</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-updates-for-your-canon-mx-series-how-to-get-and-install-mx492-drivers/"><u>Latest Updates for Your Canon MX Series: How to Get and Install MX492 Drivers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/premier-imagery-capture-insight-for-2024/"><u>Premier Imagery Capture Insight for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ricoh-mp-c4503-drivers-for-windows-10-download-and-setup-tutorials/"><u>Ricoh MP C4503 Drivers for Windows 10 - Download & Setup Tutorials</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012195492-say-goodbye-to-bugs-century-age-of-ashes-is-crash-free-on-pc-after-latest-update/"><u>Say Goodbye to Bugs – Century: Age of Ashes Is Crash-Free on PC After Latest Update!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722960991384-secure-enclaves/"><u>Secure Enclaves</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-fast-track-to-perfect-microsoft-ergonomic-keyboard-4000-driver-installation/"><u>The Fast Track to Perfect Microsoft Ergonomic Keyboard 4000 Driver Installation</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-save-time-save-stress-a-step-by-step-guide-to-saving-fcp-projects-for-2024/"><u>Updated Save Time, Save Stress A Step-by-Step Guide to Saving FCP Projects for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-master-your-clips-with-these-premium-free-audiosite-lists/"><u>[New] 2024 Approved Master Your Clips with These Premium, Free Audiosite Lists</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-insights-on-lg-bp350-user-perspectives-and-ratings/"><u>[New] Insights on LG BP350 - User Perspectives and Ratings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-making-every-penny-count-in-youtube-webinars/"><u>[Updated] Making Every Penny Count in Youtube Webinars</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-technique-for-anonymous-footage-via-image-smoothing/"><u>[Updated] Technique for Anonymous Footage via Image Smoothing</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/compatible-driver-download-for-brother-mfc-9130cw-all-in-one-printerscanner/"><u>Compatible Driver Download for Brother MFC-9130CW All-in-One Printer/Scanner</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/enhancing-focus-advanced-techniques-for-videoleap-zooming/"><u>Enhancing Focus Advanced Techniques for VideoLeap Zooming</u></a></li>
+<li><a href="https://facebook.techidaily.com/expertise-in-evading-high-level-social-frauds/"><u>Expertise in Evading High-Level Social Frauds</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-latest-hp-ethernet-card-software-updates-for-windows-systems/"><u>Get Your Latest HP Ethernet Card Software Updates for Windows Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-printer-driver-downloads-and-firmware-patches-for-microsoft-windows-users-1011/"><u>HP Printer Driver Downloads & Firmware Patches for Microsoft Windows Users (10/11)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-art-and-science-of-striking-youtube-live-images/"><u>In 2024, The Art and Science of Striking YouTube Live Images</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/revamping-lg-monitor-performance-correct-drivers-installation-for-windows-platforms/"><u>Revamping LG Monitor Performance: Correct Drivers Installation for Windows Platforms</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-rated-steering-wheel-software-downloads-by-logitech-ideal-for-windows-os-7-10-11/"><u>Top-Rated Steering Wheel Software Downloads by Logitech: Ideal for Windows OS (7, 10, 11)</u></a></li>
 </ul></div>
 

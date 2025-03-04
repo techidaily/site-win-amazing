@@ -1,7 +1,7 @@
 ---
 title: How to Install USB-C Drive Support on Your Windows 10 Device
-date: 2025-02-09T00:42:36.142Z
-updated: 2025-02-14T22:03:36.603Z
+date: 2025-03-02T22:23:28.140Z
+updated: 2025-03-04T07:21:59.295Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ OR
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 1 – Download and install the driver manually
 
  As a printer manufacturer, Canon provides printer drivers for their products on the website. To get the Canon PIXMA Pro 100 driver:
@@ -50,10 +46,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-109.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) On the product page, click the**Drivers & Downloads** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-110.png)
@@ -61,10 +53,6 @@ OR
  4) On the same page, under the**Drivers & Downloads** section, make sure the detected**Operating System** and**Language** are correct. Then click the**Drivers** tab, click**Select** \>**Download** to download the driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-111-1024x299.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) After downloading, double click the downloaded file to run and follow the on-screen instructions to install the driver.
 
@@ -82,17 +70,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-112.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-113.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Note: you can do it for free if you like, but it’s partly manual.
 
@@ -119,22 +99,18 @@ Note: you can do it for free if you like, but it’s partly manual.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-15-inspiring-youtube-guides-for-aspiring-singers-and-instrumentalists/"><u>[Updated] In 2024, 15 Inspiring YouTube Guides for Aspiring Singers and Instrumentalists</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-webcam-tricks-for-smooth-video-on-hp-devices/"><u>2024 Approved Webcam Tricks for Smooth Video on HP Devices</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722997198845-code-vein-freezing-problems-heres-how-to-solve-them/"><u>Code Vein Freezing Problems? Here's How to Solve Them</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-installation-guide-for-the-latest-scansnap-s1100-software-update/"><u>Effortless Installation Guide for the Latest ScanSnap S1100 Software Update</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/find-install-and-update-the-best-drivers-for-epson-wf-3720-printers-boost-printing-capabilities/"><u>Find, Install and Update The Best Drivers For Epson WF 3720 Printers - Boost Printing Capabilities</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722978560981-get-the-latest-nvidia-geforce-rtx-1080-driver-update-on-windows-10-made-easy/"><u>Get the Latest NVIDIA Geforce RTX 1080 Driver Update on Windows 10 Made Easy!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-amd-radeon-graphics-driver-software-for-your-pc-free/"><u>Get the Newest AMD Radeon Graphics Driver Software for Your PC - Free!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-bios-and-firmware-for-gigabytes-z370p-msi-atx-motherboard-now/"><u>Get the Newest BIOS & Firmware for Gigabyte's Z370P MSI ATX Motherboard Now</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-engineering-video-excerpts-for-online-platforms/"><u>In 2024, Engineering Video Excerpts for Online Platforms</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-motorola-moto-g24-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Motorola Moto G24 Android SIM Unlock APK</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211620934-mastering-the-art-of-restoring-functionality-to-windows-keyboards-with-sticking-keys/"><u>Mastering the Art of Restoring Functionality to Windows Keyboards with Sticking Keys</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/neat-scanner-drivers-issues-in-windows-solved/"><u>Neat Scanner Drivers Issues in Windows [Solved]</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-definitive-guide-ios-screenshots-and-recording-2inas-2023-for-2024/"><u>The Definitive Guide IOS Screenshots & Recording (2Inas 2023) for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/tp-link-ub400-bluetooth-receiver-driver-download-and-update-guide/"><u>TP-Link UB400 Bluetooth Receiver Driver - Download and Update Guide</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unlocking-essential-expressions-for-daily-conversations-in-china/"><u>Unlocking Essential Expressions for Daily Conversations in China</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-hp-officejet-pro-8610-printer-drivers-supported-by-windows-10-8-7-xp-and-vista-systems/"><u>Update Your HP Officejet Pro 8610 Printer Drivers: Supported by Windows 10, 8, 7, XP and Vista Systems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-enjoy-youtube-on-iphoneipad-with-the-leading-ios-fb-video-downloader/"><u>[Updated] Enjoy YouTube on iPhone/iPad with the Leading iOS FB Video Downloader</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-ultimate-guide-to-cloud-storage-pricing-comparisons/"><u>[Updated] The Ultimate Guide to Cloud Storage Pricing Comparisons</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-6-free-software-to-convert-youtube-to-mp3-for-iphone/"><u>2024 Approved 6 Free Software to Convert YouTube to MP3 for iPhone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-premium-free-fb-imagemotion-graphics-builder/"><u>2024 Approved Premium Free FB Image/Motion Graphics Builder</u></a></li>
+<li><a href="https://solve-info.techidaily.com/boost-site-engagement-with-cookiebot-technology-integration/"><u>Boost Site Engagement with Cookiebot Technology Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dont-delegate-your-health-to-programmed-predictions/"><u>Don't Delegate Your Health to Programmed Predictions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-focusrite-scarlett-2i2-windows-audio-interface-and-plug-ins/"><u>Free Download: Focusrite Scarlett 2I2 Windows Audio Interface & Plug-Ins</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-acer-touchpad-up-and-running-on-windows-10-free-driver-downloads/"><u>Get Your Acer Touchpad Up and Running on Windows 10 – [Free Driver Downloads]</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hdx-audiocard-suite-full-driver-download-available-now/"><u>HDX AudioCard Suite - Full Driver Download Available Now</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-realme-11x-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 14 Plus Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/microsoft-windows-11-to-7-device-issue-fixes-dealing-with-code-24-this-device-is-not-present/"><u>Microsoft Windows 11 to 7 Device Issue Fixes: Dealing with 'Code 24 - This Device Is Not Present'</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-system-with-the-latest-msi-b350-tomahawk-drivers-windows-107/"><u>Update Your System with the Latest MSI B350 Tomahawk Drivers (Windows 10/7)</u></a></li>
 </ul></div>
 

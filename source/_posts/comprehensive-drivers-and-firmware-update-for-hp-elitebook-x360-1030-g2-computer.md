@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Drivers and Firmware Update for HP EliteBook X360 1030-G2 Computer
-date: 2024-08-18T12:43:44.845Z
-updated: 2024-08-19T12:43:44.845Z
+date: 2025-03-02T23:43:52.097Z
+updated: 2025-03-03T22:17:11.272Z
 tags:
   - win11
   - win10
@@ -23,23 +23,14 @@ If you’re using Geforce GTX 1050 graphics card, and found your resolution is p
   
  2) Click**Drivers** then select**GeForce Drivers** from the drop-down menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58abe0ead6b51.jpg)
 
  3) In Manual Driver Search section, select the product series (**GeForce 10 Series** ), the Product name (**Geforce GTX 1050** ), and the operating system version. Then click **START SEARCH** .  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58abe13ac103e.jpg)
   
  4) You’ll see the driver list dislayed. Just download the version released lately. (You can identify it according to the**Release Date** .)
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58abe38e49e3d.jpg)
   
  5) Follow the on-screen instructions to download the driver.
@@ -58,18 +49,12 @@ If you’re using Geforce GTX 1050 graphics card, and found your resolution is p
 
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b179631653c3.jpg)
 
  3) Click the **Update**   button next to a flagged GTX 1050 driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/)   – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b17964fa325c.jpg)
 
  4) After updating the driver, check to see if the issue you have resolves.
@@ -86,8 +71,6 @@ If you’re using Geforce GTX 1050 graphics card, and found your resolution is p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,4 +78,21 @@ If you’re using Geforce GTX 1050 graphics card, and found your resolution is p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-from-zero-to-hero-on-instagram-fame/"><u>[New] In 2024, From Zero to Hero on Instagram Fame</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-inshot-showdown-expert-review-of-best-editing-software/"><u>[Updated] 2024 Approved InShot Showdown Expert Review of Best Editing Software</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1-comprehensive-guide-capturing-in-game-sounds-and-vocal-commentary-during-live-play/"><u>1. Comprehensive Guide: Capturing In-Game Sounds & Vocal Commentary During Live Play</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-realme-c67-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme C67 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/comprendi-il-piano-di-accesso-rettificato-strategia-per-la-sicurezza-online/"><u>Comprendi Il Piano Di Accesso Rettificato - Strategia per La Sicurezza Online</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-access-to-newly-released-realtek-audio-drivers-optimized-for-windows-11107-users/"><u>Easy Access to Newly-Released Realtek Audio Drivers - Optimized for Windows 11/10/7 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-of-updated-epson-wf-3620-windows-drivers-guides-for-windows-11-8-and-7-users/"><u>Easy Installation of Updated Epson WF- 3620 Windows Drivers: Guides for Windows 11, 8 & 7 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-update-process-for-epson-printers-on-windows-10-find-out-now/"><u>Easy Update Process for Epson Printers on Windows 10 - Find Out Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-logitech-g-pro-driving-force-ls-gamepad-compatible-with-windows-11-10-8-and-7/"><u>Free Download: Logitech G PRO Driving Force LS Gamepad Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guide-to-fixing-problems-with-lg-usb-drivers-in-modern-windows-versions/"><u>Guide to Fixing Problems with LG USB Drivers in Modern Windows Versions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-12-mini-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 12 mini and iPad Securely</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-through-fraudulent-clones-strategies-for-finding-authentic-chatgpt-in-the-ios-ecosystem/"><u>Navigating Through Fraudulent Clones: Strategies for Finding Authentic ChatGPT in the iOS Ecosystem</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-download-of-hp-laserjet-pro-m452dn-software-and-drivers-for-smooth-printing/"><u>Secure Download of HP LaserJet Pro M452dn Software & Drivers for Smooth Printing</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721101252947-update-your-graphics-drivers-outdated-drivers-can-cause-compatibility-issues/"><u>Update Your Graphics Drivers - Outdated Drivers Can Cause Compatibility Issues.</u></a></li>
+</ul></div>
 

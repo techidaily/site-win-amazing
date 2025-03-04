@@ -1,7 +1,7 @@
 ---
 title: How to Update HP Thunderbolt Docking Station G2 - Download Essential Drivers (120/230W)
-date: 2024-08-18T12:44:56.608Z
-updated: 2024-08-19T12:44:56.608Z
+date: 2025-02-26T03:14:45.418Z
+updated: 2025-03-03T18:18:59.409Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 
 ## Download New Updates for Your Lenovo Thunderbolt 3 Portable Docking Station
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-495.png)
 
  Are you trying to update your Lenovo Thunderbolt 3 Dock driver but not sure where to get the latest download? If yes, then you’ve come to the right place. In this post, you’ll have two ways to download and install the driver.
@@ -34,9 +31,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Option 1 – Automatically update the driver
 
  If you don’t have the time, patience or computer skills to update your Lenovo Thunderbolt 3 Dock driver manually,**you can do it automatically with** **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -46,14 +40,8 @@ OR
  You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Lenovo Thunderbolt 3 Dock driver for now, simply click the**Update**  button next to it.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-22_18-52-17.jpg)
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -62,18 +50,12 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Option 2 – Update the driver manually
 
  Lenovo keeps updating the Thunderbolt 3 Dock drivers. To get the one you need, you should visit the Lenovo website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10, 64 bit) and download the driver manually. Here’s how:
 
 1. Click **[here](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fpcsupport.lenovo.com%2Fus%2Fen%2Fproducts%2Faccessory%2Fdocks%2Fthunderbolt-3-graphic-dock%2Fdownloads%3FlinkTrack%3DCaps%253ABody%255FSearchProduct%26searchType%3D3%26keyWordSearch%3DLenovo%2520Thunderbolt%25203%2520Graphic%2520Dock)**  to go to the download page of Lenovo Thunderbolt 3 dock drivers.
 2. In the upper left corner, select the version of your Windows operating system.![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-22_18-28-26.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Expand the list of**Software and Utilities** and select**Thunderbolt 3 Graphics Dock Driver** from the results. To download this driver, simply click the down arrow button below**Download** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-22_18-32-54.jpg)
 4. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 5. **Reboot** your PC for the changes to take effect.
@@ -91,8 +73,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +80,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-easy-guide-to-see-youtube-liked-comments/"><u>[New] Easy Guide to See YouTube Liked Comments</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-guide-to-overcoming-blackout-in-obs-fullscreen/"><u>[Updated] In 2024, Guide to Overcoming Blackout in OBS Fullscreen</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-leading-gamescript-replacements-for-fbx-files/"><u>[Updated] Leading Gamescript Replacements for FBX Files</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-enhancing-your-iphones-screen-recording-skills/"><u>2024 Approved Enhancing Your Iphone's Screen Recording Skills</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-how-to-record-online-tv-shows/"><u>2024 Approved How to Record Online TV Shows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/canon-mp560-printer-seamless-driver-downloading-and-updating-process-explained/"><u>Canon MP560 Printer: Seamless Driver Downloading & Updating Process Explained</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722976317240-download-updated-lenovo-t450-drivers-swift-hassle-free-process-steps-inside/"><u>Download Updated Lenovo T450 Drivers - Swift, Hassle-Free Process Steps Inside</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/efficient-guide-downloading-and-updating-canon-mp560-printer-drivers/"><u>Efficient Guide: Downloading and Updating Canon MP560 Printer Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-speed-dial-to-intel-processor-software/"><u>Effortless Installation: Speed-Dial to Intel Processor Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-epson-workforce-ds-30-drivers-for-windows-operating-systems-windows-1187/"><u>Get the Latest Epson WorkForce DS 30 Drivers for Windows Operating Systems (Windows 11/8/7)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/lenovo-ideapad-t430-drivers-seamless-download-and-installation-guide-for-windows-1087-users/"><u>Lenovo IdeaPad T430 Drivers: Seamless Download & Installation Guide for Windows 10/8/7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-0x80amake-sure-to-use-relevant-keywords-like-windows-11-system-restore-error-and-error-0x80070091-in-each-title-as-it-helps-with-seo-rankings91/"><u>Overcoming the 0X80amake Sure to Use Relevant Keywords Like Windows 11, System Restore Error, and Error 0X80070091 in Each Title, as It Helps with SEO Rankings by Making the Content More Discoverable for Those Specific Terms.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-troubleshooting-arduino-uno-connection-issues-on-windows/"><u>Step-by-Step Guide: Troubleshooting Arduino Uno Connection Issues on Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-meizu-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Meizu Phones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-ai-powered-platforms-revolutionizing-presentation-creation/"><u>Top 7 AI-Powered Platforms Revolutionizing Presentation Creation</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unleashing-power-and-efficiency-the-all-new-202n-macbook-pro-with-the-m1-processor-reviewed/"><u>Unleashing Power and Efficiency: The All-New 202N MacBook Pro with the M1 Processor Reviewed</u></a></li>
+</ul></div>
 

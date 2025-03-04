@@ -1,7 +1,7 @@
 ---
 title: "Get Up & Running: Quick Download of HP Envy 5660 Driver Software!"
-date: 2025-02-14T00:38:03.412Z
-updated: 2025-02-15T00:28:28.788Z
+date: 2025-02-27T07:07:42.111Z
+updated: 2025-03-03T19:57:18.394Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/2b0be1d254da9a28eb7fb0462b3c66de235332cf8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2 options to update **HP ENVY 5660 drivers**
 
  Both methods below work in**Windows 10** ,**8.1**  and**7** . And as the method list suggests, you don’t have to try both. Just decide if you want to do it manually or automatically and take your pick:
@@ -41,21 +37,9 @@ If you’re not confident playing around with drivers manually, you can do it au
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb955c3ee3c.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e00c0171da.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: Update **HP ENVY 5660**  driver manually
 
@@ -65,10 +49,6 @@ If you’re not confident playing around with drivers manually, you can do it au
 2. Type**HP ENVY 5660** into the box and click**Submit** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1762cc8910c.png)
 
 3. Make sure the selected operating system is **the right version for your Windows OS** (Windows 10, 64-bit in my example) and click**Download** in**the first result** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b176382863d2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Double-click on the downloaded file and follow the onscreen instructions to finish the install.
 
@@ -95,20 +75,22 @@ If you’re not confident playing around with drivers manually, you can do it au
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-dissecting-the-ispring-screencap-magic/"><u>[New] 2024 Approved Dissecting the iSpring Screencap Magic</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-top-picks-hd-cameras-under-100-for-extreme-sports-for-2024/"><u>[New] Top Picks HD Cameras Under $100 for Extreme Sports for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-the-gateway-guide-entering-the-world-of-photo-video-with-pixiz/"><u>[Updated] The Gateway Guide Entering the World of Photo-Video with Pixiz</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-honor-x9a-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Honor X9a to iPhone | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782353-9781591433088-cosmic-womb/"><u>Cosmic Womb | Free Book</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-dell-latitude-e6420-device-drivers-instantly/"><u>Download Dell Latitude E6420 Device Drivers Instantly</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-installation-guide-epson-workforce-ds-30-printer-software-for-windows-systems-windows-10-8-and-cuu/"><u>Easy Installation Guide: Epson WorkForce DS-30 Printer Software for Windows Systems (Windows 10, 8, and Cuu)</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-step-by-step-tutorial-for-your-epson-xp-410-driver-setup-in-windows-environments/"><u>Easy Step-by-Step Tutorial for Your Epson XP-410 Driver Setup in Windows Environments</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hassle-free-setup-latest-epson-scanner-software-and-driver-collection/"><u>Hassle-Free Setup: Latest Epson Scanner Software & Driver Collection</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-fix-samsung-printer-connection-problems-on-windows-solutions-included/"><u>How to Fix Samsung Printer Connection Problems on Windows - Solutions Included</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-zte-blade-a73-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on ZTE Blade A73 5G</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-15-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 15 Passcode without a Computer</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/israel-is-widely-believed-to-possess-nuclear-weapons-but-has-not-declared-them-publicly-nor-joined-the-npt-as-a-nuclear-weapon-state/"><u>Israel Is Widely Believed to Possess Nuclear Weapons but Has Not Declared Them Publicly nor Joined the NPT as a Nuclear-Weapon State</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/os-6-metodos-mais-eficientes-de-backup-no-windows-compativeis-com-win11win10win8win7/"><u>Os 6 Métodos Mais Eficientes De Backup No Windows: Compatíveis Com Win11/Win10/Win8/Win7</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-tech-review-lg-65-inch-oled-tv-c9-series-a-game-changer-in-4k-viewing-experience/"><u>The Ultimate Tech Review: LG 65-Inch OLED TV (C9 Series) - A Game Changer in 4K Viewing Experience</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-gopro-hero-5-black-vs-nikon-keymission-170-which-one-is-better/"><u>[New] 2024 Approved GoPro Hero 5 Black vs Nikon Keymission 170 Which One Is Better?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-ideal-5-monitors-for-enhanced-ps5-experience/"><u>[New] Ideal 5 Monitors for Enhanced PS5 Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-in-depth-guide-to-streaming-and-recording-webcasts-professionally/"><u>[New] In 2024, In-Depth Guide to Streaming and Recording Webcasts Professionally</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-explore-8-mirrorless-cameras-that-make-great-video-content/"><u>[Updated] 2024 Approved Explore 8 Mirrorless Cameras That Make Great Video Content</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-poco-m6-pro-4g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Poco M6 Pro 4G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/direct-download-for-logitech-g203-mouse-firmware-supported-by-win7810-and-latest-windows-versions/"><u>Direct Download for Logitech G203 Mouse Firmware – Supported by Win7,8,10 & Latest Windows Versions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-hp-network-drivers-compatible-with-windows-11-7-and-8/"><u>Download the Latest HP Network Drivers Compatible with Windows 11, 7 & 8</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-of-epson-wf-2750-printer-drivers-quick-guide-for-windows-users/"><u>Easy Installation of Epson WF-2750 Printer Drivers: Quick Guide for Windows Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-logitech-m705-up-to-date-easy-driver-downloads-and-firmware-updates/"><u>Get Your Logitech M705 Up-to-Date: Easy Driver Downloads & Firmware Updates</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-apple-iphone-14-pro-max-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How To Leave a Life360 Group On Apple iPhone 14 Pro Max Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-infinix-smart-8-hd-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Infinix Smart 8 HD?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-securely-get-the-most-recent-epson-xp-440-printer-drivers-with-a-step-by-step-guide/"><u>How to Securely Get the Most Recent Epson XP-440 Printer Drivers with a Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-ideal-film-equipment-for-novice-cinematographers-35mm-to-pands/"><u>In 2024, Ideal Film Equipment for Novice Cinematographers (35Mm to P&S)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-nvidia-graphics-card-drivers-free-download-and-installation-guide/"><u>Latest Nvidia Graphics Card Drivers: Free Download & Installation Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/premier-network-enclosure-solutions-showcased/"><u>Premier Network Enclosure Solutions Showcased</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-your-dell-laptops-e64latitudehttpswwwdellcomen-aushopproductdetaillaptopslatitude-13-5000-laptop-laptop/"><u>Step-by-Step Guide: Updating Your Dell Laptop's E64^[Latitude](https://www.dell.com/en-au/shop/productdetail/laptops/latitude-13-5000/-laptop-laptop)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-guide-making-your-tl-wn722n-wifi-adapter-visible-to-windows/"><u>Troubleshooting Guide: Making Your TL-WN722N WiFi Adapter Visible to Windows</u></a></li>
 </ul></div>
 

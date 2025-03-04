@@ -1,7 +1,7 @@
 ---
 title: Installing Western Digital's SES USB Hardware Driver in Modern Windows Systems (From V2011)
-date: 2024-08-18T12:46:24.392Z
-updated: 2024-08-19T12:46:24.392Z
+date: 2025-02-25T10:22:28.433Z
+updated: 2025-03-04T04:44:41.628Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c
 
 If you’re using Arduino products to create your own work but failed to connect with your Windows computer, then you’ve come to the right place. It’s maybe caused by driver issues. This post is going to tell you how to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Why you need the driver?
 
  As we know, Arduino is an open-source electronics platform let users design and create their own work. But when you need to connect it with a Windows computer, you’ll need a correct and appropriate driver.
@@ -28,9 +25,6 @@ If you’re using Arduino products to create your own work but failed to connect
 
  That’s why most of the problems can be solved by installing/updating drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to download Arduino Nano driver?
 
 There are two ways you can update your Arduino Nano drivers.
@@ -49,29 +43,16 @@ OR
 2. Click **Windows Installer, for Windows XP and up** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/ar.jpg)
 3. Click**Just Download** . The driver .exe installation file would then be downloaded automatically.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/just.jpg)
 4. On your keyboard, hold down the **Windows logo key** \+ **Pause** . Then click **Device Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/device.jpg)
 5. Find and **right-click** your **Arduino Uno software** . Probably it’s listed under the **Other devices** section due to the problem. Then select **Update driver** .  
  Select **Browse my computer for driver software** .  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9725918e348.png)
 6. Click the **Browse…** icon. Another window appears: go to the folder with the Arduino nano driver that you just downloaded. Select the drivers folder, then **OK** \> **Next** .
 
  If you don’t have the time, patience or computer skills to update your Arduino Uno driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Move onto **Option 2** then.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### **Option 2 – Automatically update drivers**
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -99,8 +80,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +87,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-10-best-mobile-edits-youtube-shorts-clips-on-iosandroid/"><u>[New] 2024 Approved 10 Best Mobile Edits YouTube Shorts Clips on iOS/Android</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unveiling-igtv-insights-key-measures-for-effective-content/"><u>[New] In 2024, Unveiling IGTV Insights Key Measures for Effective Content</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-nokia-g42-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Nokia G42 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722957610773-canon-mx492-drivers-download-and-update-in-windows-mx-series-printer-drivers/"><u>Canon MX492 Drivers Download & Update in Windows – MX Series Printer Drivers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-asus-pce-ac68-controller-drivers-now-no-hesitation-required/"><u>Download ASUS PCE-AC68 Controller Drivers Now – No Hesitation Required</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-6s-plus-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 6s Plus Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/fusing-images-seamlessly-discover-these-5-simple-techniques/"><u>Fusing Images Seamlessly: Discover These 5 Simple Techniques</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-best-printing-experience-with-updated-hp-officejet-3830-drivers-on-windows/"><u>Get the Best Printing Experience with Updated HP OfficeJet 3830 Drivers on Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-hp-thunderbolt-dock-g2-software-for-120w-and-230w-chargers/"><u>Get the Latest HP Thunderbolt Dock G2 Software for 120W and 230W Chargers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-840-g3-drivers-download-and-install/"><u>HP 840 G3 Drivers Download and Install</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-unlimited-choice-in-free-personalized-outro-sounds/"><u>In 2024, Unlimited Choice in Free, Personalized Outro Sounds</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-installation-guide-realtek-alc892a-audio-drivers-for-windows-11/"><u>Quick Installation Guide: RealTek ALC892A Audio Drivers for Windows 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/role-of-coast-guards-in-monitoring-vmsais-discuss-how-coast-guard-authorities-use-this-information-to-monitor-maritime-traffic-ensure-compliance-with-intern201/"><u>Role of Coast Guards in Monitoring VMS/AIS: Discuss How Coast Guard Authorities Use This Information to Monitor Maritime Traffic, Ensure Compliance with International Regulations, Detect Anomalies, and Respond Effectively to Emergencies or Threats</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-update-process-for-corsair-gaming-headset-drivers-in-windows-environment/"><u>Seamless Update Process for Corsair Gaming Headset Drivers in Windows Environment</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/shatter-the-scribbles-pure-videos-from-tiktok/"><u>Shatter the Scribbles Pure Videos From TikTok</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722976855446-steelseries-engine-download-upgrade-your-pc-gaming-on-windows-10-today/"><u>SteelSeries Engine Download: Upgrade Your PC Gaming on Windows 10 Today</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-best-of-breed-top-screen-capture-software-reviews/"><u>The Best of Breed Top Screen Capture Software Reviews</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722883666021-what-to-do-when-your-macbook-air-freezes-up-solutions-inside/"><u>What to Do When Your MacBook Air Freezes Up - Solutions Inside!</u></a></li>
+</ul></div>
 

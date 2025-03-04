@@ -1,7 +1,7 @@
 ---
 title: Installation Tutorial for WD SES External Hard Drives (Versions From 2011)
-date: 2025-02-08T21:38:32.229Z
-updated: 2025-02-15T01:16:33.453Z
+date: 2025-03-03T11:12:23.075Z
+updated: 2025-03-03T22:27:50.109Z
 tags:
   - win11
   - win10
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-24.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Click **Printer Driver**  under **Drivers**  dialog.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-22.jpg)
@@ -67,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
 
  7) When it’s done, double-click the downloaded **.exe**  file and follow the on-screen instructions to install the driver on your computer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Way 2: Update Brother printer drivers via Device Manager
   
  1) Press the **Windows logo**  key ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b42dbb955df7.png) \+ **R**  key at the same time to open the Run box.  
@@ -81,27 +73,15 @@ thumbnail: https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d2696
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/win-10-dev.jpg)
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Find and expand **Printers**  or **Printer queues**  dialog. Then right-click on your Brother Printer Device to choose   **Update Driver Software…**
   
 **![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-13.jpg)**
   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click **Search automatically for updated driver software** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-8.jpg)
   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Now Windows will detect the update automatically for you. Just follow the on-screen instructions.
 
@@ -145,14 +125,16 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-step-by-step-manual-kickstart-your-bite-sized-gadget-reviews-channel-for-2024/"><u>[New] Step-by-Step Manual Kickstart Your Bite-Sized Gadget Reviews Channel for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-jujutsu-kaisen-characters-in-the-world-of-tiktok-creatives/"><u>[Updated] 2024 Approved Jujutsu Kaisen Characters in the World of TikTok Creatives</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-set-up-your-hp-laserjet-pro-m402n-printer-on-a-windows-machine/"><u>Download and Set Up Your HP LaserJet Pro M402n Printer on a Windows Machine</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/elevate-your-marketing-roi-using-the-advanced-capabilities-of-cookiebot/"><u>Elevate Your Marketing ROI Using the Advanced Capabilities of Cookiebot</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-epson-workforce-ds-30-printer-driver-for-windows-10-8-and-7/"><u>Free Epson WorkForce DS 30 Printer Driver for Windows 10, 8 & 7</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/hddhdd/"><u>HDD移行ガイド：ノートパソコン用外付けHDDへのデータ複製手順</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/learn-how-to-control-video-speed-on-snapchat-effectively/"><u>Learn How to Control Video Speed on Snapchat Effectively</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-swift-and-simple-update-of-gtx/"><u>Step-by-Step Guide: Swift and Simple Update of GTX</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-scansnap-drivers-quickly-and-effortlessly-on-windows/"><u>Update Your ScanSnap Drivers Quickly & Effortlessly on Windows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-complete-hp-laptop-screen-recording-manual/"><u>[Updated] 2024 Approved The Complete HP Laptop Screen Recording Manual</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-essential-forgotten-free-text-from-mac-speech-devices/"><u>[Updated] Essential, Forgotten Free Text From Mac Speech Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-clear-winner-in-screen-recording-software/"><u>[Updated] In 2024, The Clear Winner in Screen Recording Software</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/explore-lenovos-budget-friendly-tab-m10-hd-2020-ultimate-guide-to-media-streaming-and-browsing-experience/"><u>Explore Lenovo's Budget-Friendly Tab M10 HD (2020) - Ultimate Guide to Media Streaming & Browsing Experience</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-usb-c-drivers-compatible-with-windows-11-free-download/"><u>Get Your USB-C Drivers Compatible with Windows 11 - Free Download</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-officejet-pro-8715-printer-drivers-free-downloads-for-windows-11-10-and-8/"><u>HP Officejet Pro 8715 Printer Drivers: Free Downloads for Windows 11, 10 & 8</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-repair-hp-monitor-drivers-on-pcs-running-windows-10-8-or-7/"><u>Step-by-Step Guide to Repair HP Monitor Drivers on PCs Running Windows 10, 8 or 7</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2201804-9780007518876-the-four-noble-truths/"><u>The Four Noble Truths | Free Book</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-tecno-phantom-v-flip-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Tecno Phantom V Flip without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-to-the-newest-intel-xe-graphics-drivers-made-for-windows-11-users/"><u>Upgrade to the Newest Intel Xe Graphics Drivers Made For Windows 11 Users</u></a></li>
 </ul></div>
 

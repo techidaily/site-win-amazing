@@ -1,7 +1,7 @@
 ---
 title: "Driver Setup for Lenovo Legion 5 Pro Laptop: Guide for Model N5, ACCH6"
-date: 2025-02-07T16:27:52.346Z
-updated: 2025-02-14T22:13:56.939Z
+date: 2025-03-01T09:14:16.151Z
+updated: 2025-03-03T18:25:41.253Z
 tags:
   - win11
   - win10
@@ -36,27 +36,15 @@ There are two ways you can update your driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 1 – Update the driver manually
 
 **Intel** keeps updating the NVMe drivers. To get them, you need to go to the **[Intel Support](https://downloadcenter.intel.com/product/35125/Memory-and-Storage)**  website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 10, 64 bit) and download the driver manually.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-162.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you’ve downloaded the correct driver for your system, double-click on the downloaded file (usually with the EXE extension) and follow the on-screen instructions to install the driver.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Option 2 – Automatically update the Intel NVMe driver
 
@@ -69,14 +57,6 @@ There are two ways you can update your driver:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update yourIntel NVMe driver for now, simply click the**Update**  button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-163.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -110,22 +90,22 @@ There are two ways you can update your driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-essential-watch-top-8-internet-gems/"><u>[New] Essential Watch Top 8 Internet Gems</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-smooth-sailing-on-instagram-bypass-video-issues-for-2024/"><u>[New] Smooth Sailing on Instagram - Bypass Video Issues for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-a-comprehensive-look-at-uploading-images-to-youtube/"><u>[Updated] In 2024, A Comprehensive Look at Uploading Images to YouTube</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo A2 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/change-location-on-yik-yak-for-your-vivo-v30-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo V30 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-your-asus-touchpad-drivers-fast-a-step-by-step-tutorial-for-windows-nvme10/"><u>Download Your ASUS Touchpad Drivers Fast: A Step-by-Step Tutorial for Windows Nvme10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-compatible-drivers-for-intel-network-adapter-on-windows-11-10-and-7/"><u>Free Download: Compatible Drivers for Intel Network Adapter on Windows 11, 10 & 7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-hp-routers-latest-drivers-now-windows-11-7-and-8-supported/"><u>Get Your HP Router's Latest Drivers Now: Windows 11, 7, and 8 Supported</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-google-pixel-8-pro-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Google Pixel 8 Pro? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-envy-laptop-series-5660-seamless-driver-installation-instructions/"><u>HP Envy Laptop Series 5660 - Seamless Driver Installation Instructions</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-14ipad-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 14/iPad Without Computer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/july-2024s-most-unbeatable-apple-watch-promotions-insider-tips-and-tricks/"><u>July 2024'S Most Unbeatable Apple Watch Promotions | Insider Tips and Tricks</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/premier-sound-the-ultimate-wired-earbuds-list/"><u>Premier Sound: The Ultimate Wired Earbuds List</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-lg-monitor-drivers-in-windows-11-7-and-81/"><u>Step-by-Step Guide: Updating LG Monitor Drivers in Windows 11, 7, and 8.1</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/toshiba-bluetooth-adapter-driver-free-download/"><u>Toshiba Bluetooth Adapter Driver – Free Download</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/updated-drivers-for-your-epson-wf-3620-download-and-install-on-windows-10-8-or-7/"><u>Updated Drivers for Your Epson WF-3620 - Download & Install on Windows 10, 8 or 7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/upgrade-with-ease-essential-zebra-gk420d-printed-circuit-board-drivers-download-here/"><u>Upgrade with Ease: Essential Zebra GK420D Printed Circuit Board Drivers – Download Here!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-high-end-hardware-unveiled-by-gaming-influencers-for-2024/"><u>[New] High-End Hardware Unveiled by Gaming Influencers for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-find-the-perfect-blend-of-joy-and-sorrow-in-these-meme-feeds-for-2024/"><u>[Updated] Find the Perfect Blend of Joy and Sorrow in These Meme Feeds for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-how-to-make-your-solitary-voice-resonate-for-2024/"><u>[Updated] How To Make Your Solitary Voice Resonate for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-prime-sites-where-your-presents-stand-out-in-a-sea-of-boxes/"><u>2024 Approved Prime Sites Where Your Presents Stand Out in a Sea of Boxes</u></a></li>
+<li><a href="https://facebook.techidaily.com/correcting-errors-in-receiving-facebooks-two-factor-authentication-code/"><u>Correcting Errors in Receiving Facebook's Two-Factor Authentication Code</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-lenovo-legion-5-pro-drivers-for-optimal-gaming-performance/"><u>Download & Install Lenovo Legion 5 Pro Drivers for Optimal Gaming Performance</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhancing-compatibility-download-the-latest-mono-laser-printer-drivers-for-dells-2330-series/"><u>Enhancing Compatibility: Download the Latest Mono Laser Printer Drivers for Dell's 2330 Series</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/epson-perfection-v600-printer-drivers-free-download/"><u>Epson Perfection V600 Printer Drivers - Free Download</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-most-recent-driver-update-for-your-brother-hl-2240-on-windows-devices/"><u>Get the Most Recent Driver Update for Your Brother HL-2240 on Windows Devices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722969489810-get-your-free-qualcomm-atheros-ar938x-drivers-now-simple-installation/"><u>Get Your Free Qualcomm Atheros AR938X Drivers Now - Simple Installation!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-hands-on-the-logitech-driving-force-gt-wheel-available-for-windows-7-10-and-11/"><u>Get Your Hands on the Logitech Driving Force GT Wheel - Available for Windows 7, 10 and 11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/improve-performance-free-update-of-nvidias-gtx-980-ti-graphics-card-drivers/"><u>Improve Performance: Free Update of Nvidia's GTX 980 Ti Graphics Card Drivers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/quick-guide-turn-off-driver-signature-protection-in-windows-11-without-hassle/"><u>Quick Guide: Turn Off Driver Signature Protection in Windows 11 Without Hassle!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-synaptics-driver-management-on-windows-free-downloads-and-instructions-inside/"><u>Seamless Synaptics Driver Management on Windows - Free Downloads & Instructions Inside!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Nokia G22 | Dr.fone</u></a></li>
 </ul></div>
 

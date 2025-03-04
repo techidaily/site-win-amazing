@@ -1,7 +1,7 @@
 ---
 title: "Update Your Printer Now: Step-by-Step Instructions to Get CanoScan LiDE 220 Drivers & Firmware"
-date: 2024-08-18T12:45:25.215Z
-updated: 2024-08-19T12:45:25.215Z
+date: 2025-03-01T23:59:30.975Z
+updated: 2025-03-04T06:36:06.163Z
 tags:
   - win11
   - win10
@@ -31,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Option 1 – Update your driver via Device Manager**
 
  Try to update your Validity fingerprint sensor driver from within Device Manager:
@@ -44,13 +41,7 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
 2. After the Start screen shows up, click the**magnifier** icon located in the upper right corner.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-05-41.png)
 3. Type**device** into the search box. Then select**Device Manager** from a list of search results.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1098.png)
 4. Here comes**Device Manager** . Click the**▷** symbol to the left of**Biometric Devices** to expand its drop-down list.![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1073.png)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Right-click on**Validity Sensors (WBF)** to open its context menu. Then select**Update Driver Software…** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-11-03.png)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click**Search automatically for updated driver software** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-30_18-18-21.png)
 7. Wait till the download and installation process finishes.
 8. Click **Close** when it’s all done.
@@ -66,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Option 3 – Update your driver automatically (Recommended)**
 
  If you don’t have the time, patience or computer skills to update your**Validity fingerprint sensor driver** manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -78,13 +66,7 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
  You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-38-22-2.png)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update your Validity fingerprint sensor driver for now, simply click the**Update** button next to it.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-29_18-36-48-1.png)
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -106,8 +88,6 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +95,24 @@ thumbnail: https://thmb.techidaily.com/43e39de2530caaef8af78f1650abc11434992b40c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhance-your-videos-effective-titles-and-keywords-on-youtube/"><u>[New] 2024 Approved Enhance Your Videos Effective Titles and Keywords on YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-premier-media-mover-mp4-to-fb/"><u>[New] 2024 Approved Premier Media Mover MP4-to-FB</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-rebranding-identity-on-google-meet-laptops-and-phones/"><u>[New] 2024 Approved Rebranding Identity on Google Meet - Laptops & Phones</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-navigate-the-maze-of-mp4-cutters-for-mac-creators-for-2024/"><u>[Updated] Navigate the Maze of MP4 Cutters for Mac Creators for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/capture-and-record-every-sound-on-your-pc-with-x-recorder/"><u>Capture & Record Every Sound on Your PC with X-Recorder</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722974286329-effortless-connection-with-targus-docking-hub-download-your-compatible-drivers-now/"><u>Effortless Connection with Targus Docking Hub - Download Your Compatible Drivers Now!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/flight-to-imagery-a-review-of-dji-sparks-miniature-drone-innovation-for-2024/"><u>Flight to Imagery A Review of DJI Spark's Miniature Drone Innovation for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-msi-pc-speakers-and-headphones-drivers-downloads-for-windows-users/"><u>Free MSI PC Speakers & Headphones Drivers Downloads for Windows Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-dell-g15-graphics-card-software-on-pc-step-by-step-guide/"><u>Get the Latest Dell G15 Graphics Card Software on PC - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722969930528-how-to-get-the-latest-csr-bluetooth-chip-drivers-instantly/"><u>How to Get the Latest CSR Bluetooth Chip Drivers Instantly</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-successfully-get-and-operate-hp-laserjet-pro-m402n-drivers-for-windows-computers/"><u>How to Successfully Get & Operate HP LaserJet Pro M402n Drivers for Windows Computers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-hp-officejet-pro-8600-software-on-your-pc-windows-driver-download-guide/"><u>Install HP Officejet Pro 8600 Software on Your PC: Windows Driver Download Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-intel-raid-controller-driver-installation-guide-compatible-with-windows-11-10-8-and-7-systems/"><u>Latest Intel RAID Controller Driver Installation Guide - Compatible with Windows 11, 10, 8, and 7 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ingenious-phanteks-revolt-psu-say-goodbye-to-excessive-cable-clutter/"><u>The Ingenious Phanteks Revolt PSU - Say Goodbye to Excessive Cable Clutter!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-vivo-t2-pro-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-your-zebra-zp450-a-step-by-step-driver-update-and-download-manual/"><u>Troubleshooting Your Zebra ZP450: A Step-by-Step Driver Update and Download Manual</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-solutions-for-non-deliverable-texts-in-imessage/"><u>Troubleshooting: Solutions for Non-Deliverable Texts in iMessage</u></a></li>
+</ul></div>
 
